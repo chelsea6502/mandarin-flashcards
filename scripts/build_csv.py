@@ -38,7 +38,27 @@ def merge_entries(new_entries: list, old_entries: list) -> dict:
 
 
 def to_rows(merged: dict) -> list:
-    raise NotImplementedError
+    """Expand merged entries into one row dict per definition."""
+    rows = []
+    for simplified, item in merged.items():
+        entry = item["entry"]
+        source = item["source"]
+        pos = ", ".join(entry.get("pos", []))
+        for form in entry.get("forms", []):
+            pinyin = form.get("transcriptions", {}).get("pinyin", "")
+            traditional = form.get("traditional", "")
+            classifier = ", ".join(form.get("classifiers", []))
+            for meaning in form.get("meanings", []):
+                rows.append({
+                    "simplified": simplified,
+                    "pinyin": pinyin,
+                    "traditional": traditional,
+                    "pos": pos,
+                    "classifier": classifier,
+                    "definition": meaning,
+                    "source": source,
+                })
+    return rows
 
 
 def write_csv(rows: list, output_path) -> None:

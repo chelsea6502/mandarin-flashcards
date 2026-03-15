@@ -51,6 +51,63 @@ def test_merge_entries_prefers_new_data():
     assert result["爱"]["source"] == "old-HSK5, new-HSK3"
 
 
+def test_to_rows_one_row_per_meaning():
+    merged = merge_entries([ENTRY_A], [])
+    rows = to_rows(merged)
+    assert len(rows) == 2  # ENTRY_A has 2 meanings
+
+
+def test_to_rows_columns():
+    merged = merge_entries([ENTRY_A], [])
+    row = to_rows(merged)[0]
+    assert row["simplified"] == "爱"
+    assert row["pinyin"] == "ài"
+    assert row["traditional"] == "愛"
+    assert row["pos"] == "verb"
+    assert row["classifier"] == ""
+    assert row["definition"] == "to love"
+    assert row["source"] == "new-HSK3"
+
+
+def test_to_rows_classifier_joined():
+    entry = {
+        "simplified": "书",
+        "pos": ["noun"],
+        "forms": [{"traditional": "書", "transcriptions": {"pinyin": "shū"},
+                   "meanings": ["book"], "classifiers": ["本", "册"]}]
+    }
+    merged = merge_entries([entry], [])
+    row = to_rows(merged)[0]
+    assert row["classifier"] == "本, 册"
+
+
+def test_to_rows_multiple_forms():
+    entry = {
+        "simplified": "好",
+        "pos": ["adjective"],
+        "forms": [
+            {"traditional": "好", "transcriptions": {"pinyin": "hǎo"}, "meanings": ["good"]},
+            {"traditional": "好", "transcriptions": {"pinyin": "hào"}, "meanings": ["to be fond of"]},
+        ]
+    }
+    merged = merge_entries([entry], [])
+    rows = to_rows(merged)
+    assert len(rows) == 2
+    assert rows[0]["pinyin"] == "hǎo"
+    assert rows[1]["pinyin"] == "hào"
+
+
+def test_to_rows_pos_joined():
+    entry = {
+        "simplified": "爱",
+        "pos": ["verb", "noun"],
+        "forms": [{"traditional": "愛", "transcriptions": {"pinyin": "ài"}, "meanings": ["love"]}]
+    }
+    merged = merge_entries([entry], [])
+    row = to_rows(merged)[0]
+    assert row["pos"] == "verb, noun"
+
+
 def test_merge_entries_both_present():
     result = merge_entries([ENTRY_A], [ENTRY_A_OLD, ENTRY_B])
     assert len(result) == 2
