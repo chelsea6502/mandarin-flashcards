@@ -7,8 +7,8 @@ import sys
 import urllib.request
 from pathlib import Path
 
-OLD_HSK5_URL = "https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/refs/heads/main/wordlists/exclusive/old/5.json"
-NEW_HSK3_URL = "https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/refs/heads/main/wordlists/exclusive/new/3.json"
+OLD_HSK5_URL = "https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/refs/heads/main/wordlists/inclusive/old/5.json"
+NEW_HSK3_URL = "https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/refs/heads/main/wordlists/inclusive/new/3.json"
 
 REPO_ROOT = Path(__file__).parent.parent
 OUTPUT_PATH = REPO_ROOT / "data" / "words.csv"
