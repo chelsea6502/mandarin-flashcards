@@ -73,7 +73,7 @@ def write_xlsx(rows: list, path) -> None:
     ws = wb.active
     ws.append(COLUMNS)
     for row in rows:
-        ws.append([row.get(col) or None for col in COLUMNS])
+        ws.append([None if row.get(col, "") == "" else row.get(col) for col in COLUMNS])
     wb.save(path)
 
 
