@@ -33,6 +33,10 @@ python3 -m pytest tests/test_build_csv.py::test_name -v
 - Sources: old HSK5 + new HSK3 from `drkameleon/complete-hsk-vocabulary` on GitHub.
   Words in both lists use new HSK3 definitions; `source` column tracks provenance.
 
+## Generation
+
+Always generate content in-session (using your own knowledge and capabilities). Never call the Claude API or any external AI API to generate content. Prefer parallel batches when generating (e.g. use dispatching-parallel-agents or parallel tool calls to process multiple items simultaneously).
+
 ## Sentence Generation
 
 When generating example sentences for flashcard rows:

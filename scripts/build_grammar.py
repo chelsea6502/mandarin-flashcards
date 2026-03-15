@@ -1,79 +1,53 @@
+import json
 import sys
 from pathlib import Path
-import urllib.request
-import urllib.error
+
 import openpyxl
 
 
 COLUMNS = [
-    "id", "name", "hsk_level", "description",
+    "hsk_level", "grammar_type", "category_type", "grammar_detail", "content",
+    "description",
     "sentence_1", "translation_1",
     "sentence_2", "translation_2",
     "sentence_3", "translation_3",
 ]
 
-SOURCES = [
-    ("L1",   "https://raw.githubusercontent.com/krmanik/HSK-3.0/main/New%20HSK%20(2021)/HSK%20Grammar/HSK%201.txt"),
-    ("L2",   "https://raw.githubusercontent.com/krmanik/HSK-3.0/main/New%20HSK%20(2021)/HSK%20Grammar/HSK%202.txt"),
-    ("L3",   "https://raw.githubusercontent.com/krmanik/HSK-3.0/main/New%20HSK%20(2021)/HSK%20Grammar/HSK%203.txt"),
-    ("L4",   "https://raw.githubusercontent.com/krmanik/HSK-3.0/main/New%20HSK%20(2021)/HSK%20Grammar/HSK%204.txt"),
-    ("L5",   "https://raw.githubusercontent.com/krmanik/HSK-3.0/main/New%20HSK%20(2021)/HSK%20Grammar/HSK%205.txt"),
-    ("L6",   "https://raw.githubusercontent.com/krmanik/HSK-3.0/main/New%20HSK%20(2021)/HSK%20Grammar/HSK%206.txt"),
-    ("L7-9", "https://raw.githubusercontent.com/krmanik/HSK-3.0/main/New%20HSK%20(2021)/HSK%20Grammar/HSK%207-9.txt"),
-]
+REPO_ROOT = Path(__file__).parent.parent
+SOURCE_PATH = REPO_ROOT / "data" / "grammar_source.json"
+OUTPUT_PATH = REPO_ROOT / "data" / "grammar.xlsx"
+
+LEVEL_MAP = {
+    "HSK1": "L1",
+    "HSK2": "L2",
+    "HSK3": "L3",
+    "HSK4": "L4",
+    "HSK5": "L5",
+    "HSK6": "L6",
+    "HSK7-9": "L7-9",
+}
 
 
-def parse_grammar_points(text: str, level: str) -> list:
+def parse_grammar_points(records: list) -> list:
     rows = []
-    lines = [line.strip() for line in text.splitlines()]
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        if "【" in line:
-            # Skip malformed lines that don't have matching closing bracket
-            if "】" not in line:
-                i += 1
-                continue
-            id_start = line.index("【") + 1
-            id_end = line.index("】")
-            gp_id = line[id_start:id_end]
-            gp_name = line[id_end + 1:].strip()
-            # Collect candidate lines until next grammar point line
-            candidates = []
-            i += 1
-            while i < len(lines) and "【" not in lines[i]:
-                if lines[i]:  # skip blank lines
-                    candidates.append(lines[i])
-                i += 1
-            # Filter to sentences ending with Chinese punctuation
-            sentences = [c for c in candidates if c and c[-1] in ("。", "？", "！")][:3]
-            # Pad to 3
-            while len(sentences) < 3:
-                sentences.append("")
-            rows.append({
-                "id": gp_id,
-                "name": gp_name,
-                "hsk_level": level,
-                "description": "",
-                "sentence_1": sentences[0],
-                "translation_1": "",
-                "sentence_2": sentences[1],
-                "translation_2": "",
-                "sentence_3": sentences[2],
-                "translation_3": "",
-            })
-        else:
-            i += 1
+    for r in records:
+        sentences = [s.strip() for s in r.get("cases", "").split("\r\n") if s.strip()]
+        sentences = (sentences + ["", "", ""])[:3]
+        rows.append({
+            "hsk_level": LEVEL_MAP.get(r["examLevelId"], r["examLevelId"]),
+            "grammar_type": r.get("grammarType", ""),
+            "category_type": r.get("categoryType", ""),
+            "grammar_detail": r.get("grammarDetail", ""),
+            "content": r.get("content", ""),
+            "description": "",
+            "sentence_1": sentences[0],
+            "translation_1": "",
+            "sentence_2": sentences[1],
+            "translation_2": "",
+            "sentence_3": sentences[2],
+            "translation_3": "",
+        })
     return rows
-
-
-def fetch_file(url: str) -> str:
-    try:
-        with urllib.request.urlopen(url) as resp:
-            return resp.read().decode("utf-8")
-    except (urllib.error.HTTPError, urllib.error.URLError) as e:
-        print(f"Error fetching {url}: {e}", file=sys.stderr)
-        sys.exit(1)
 
 
 def write_xlsx(rows: list, path) -> None:
@@ -83,18 +57,18 @@ def write_xlsx(rows: list, path) -> None:
     ws = wb.active
     ws.append(COLUMNS)
     for row in rows:
-        ws.append([None if row.get(col, "") == "" else row.get(col) for col in COLUMNS])
+        ws.append([row.get(col) or None for col in COLUMNS])
     wb.save(path)
 
 
 def main():
-    rows = []
-    for level, url in SOURCES:
-        text = fetch_file(url)
-        rows.extend(parse_grammar_points(text, level))
-    out = Path(__file__).parent.parent / "data" / "grammar.xlsx"
-    write_xlsx(rows, out)
-    print(f"Wrote {len(rows)} grammar points to {out}")
+    if not SOURCE_PATH.exists():
+        print(f"Error: {SOURCE_PATH} not found. Run scripts/fetch_grammar.py first.", file=sys.stderr)
+        sys.exit(1)
+    records = json.loads(SOURCE_PATH.read_text(encoding="utf-8"))
+    rows = parse_grammar_points(records)
+    write_xlsx(rows, OUTPUT_PATH)
+    print(f"Wrote {len(rows)} grammar points to {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":

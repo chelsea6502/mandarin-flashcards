@@ -29,6 +29,7 @@ Each file is UTF-8 encoded and contains numbered grammar point entries intersper
 | `id` | Grammar point tag, e.g. `一01` (extracted from `【一01】`) |
 | `name` | Descriptor text after `】`, e.g. `方位名词：上、下、里、外…` |
 | `hsk_level` | Derived from filename, e.g. `L1`, `L7-9` |
+| `description` | English description of the grammar point — empty, to be filled in later |
 | `sentence_1` | First example sentence from the grammar point block |
 | `translation_1` | Empty — to be filled in later |
 | `sentence_2` | Second example sentence |
@@ -69,5 +70,5 @@ The first three qualifying sentences populate `sentence_1`, `sentence_2`, `sente
 2. For each file: fetch and decode as UTF-8, split into lines, strip each line
 3. Parse lines sequentially: on a grammar point line, extract `id` and `name`, then collect subsequent non-blank lines as candidate sentences (stopping at the next grammar point or section header)
 4. From candidate lines, filter to those ending with `。`, `？`, or `！`; take the first three
-5. Emit one row per grammar point: `id`, `name`, `hsk_level`, `sentence_1`, `translation_1`, `sentence_2`, `translation_2`, `sentence_3`, `translation_3`
+5. Emit one row per grammar point: `id`, `name`, `hsk_level`, `description`, `sentence_1`, `translation_1`, `sentence_2`, `translation_2`, `sentence_3`, `translation_3`
 6. Write header row then all data rows to `data/grammar.xlsx`
