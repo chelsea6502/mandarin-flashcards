@@ -1,5 +1,12 @@
 data/*.apkg
 data/~$*
+data/*_input.json
+data/*_output.json
+data/*_output_*.json
+data/def_sentences_batch_*.json
+data/all_l*.json
+data/needs_sentences.json
+data/sentences_batch_*.json
 .DS_Store
 __pycache__/
 *.pyc
