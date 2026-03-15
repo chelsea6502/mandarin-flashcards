@@ -12,6 +12,9 @@ BASE = "https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/ref
 OLD_HSK_URLS = {i: f"{BASE}/old/{i}.json" for i in range(1, 6)}
 NEW_HSK_URLS = {i: f"{BASE}/new/{i}.json" for i in range(1, 4)}
 
+HSKHSK_BASE = "https://raw.githubusercontent.com/glxxyz/hskhsk.com/main/data/lists"
+HSKHSK_URLS = {i: f"{HSKHSK_BASE}/HSK%20Official%20With%20Definitions%202012%20L{i}.txt" for i in range(1, 6)}
+
 REPO_ROOT = Path(__file__).parent.parent
 OUTPUT_PATH = REPO_ROOT / "data" / "words.xlsx"
 
@@ -59,10 +62,34 @@ def expand_pos(tags: list) -> str:
     return ", ".join(POS_MAP.get(tag, tag) for tag in tags)
 
 
+def fetch_text(url: str) -> str:
+    """Fetch a URL and return the response as text (BOM-safe)."""
+    with urllib.request.urlopen(url) as response:
+        return response.read().decode("utf-8-sig")
+
+
 def fetch_json(url: str) -> list:
     """Fetch a URL and return the parsed JSON array."""
     with urllib.request.urlopen(url) as response:
         return json.loads(response.read().decode("utf-8"))
+
+
+def fetch_hskhsk_definitions(level_urls: dict) -> dict:
+    """Fetch official Hanban definitions from hskhsk.com TSV files.
+
+    Returns dict: simplified -> [definition, ...] (split on ';').
+    TSV columns: simplified, traditional, pinyin-numeric, pinyin-tones, definition
+    """
+    defs = {}
+    for level, url in sorted(level_urls.items()):
+        for line in fetch_text(url).splitlines():
+            parts = line.strip().split("\t")
+            if len(parts) < 5:
+                continue
+            simplified = parts[0]
+            if simplified not in defs:
+                defs[simplified] = [d.strip() for d in parts[4].split(";") if d.strip()]
+    return defs
 
 
 def load_level_entries(level_urls: dict) -> dict:
@@ -92,18 +119,24 @@ def merge_entries(new_by_word: dict, old_by_word: dict) -> dict:
     return merged
 
 
-def to_rows(merged: dict) -> list:
-    """Expand merged entries into one row dict per definition."""
+def to_rows(merged: dict, hskhsk_defs: dict = None) -> list:
+    """Expand merged entries into one row dict per definition.
+
+    If hskhsk_defs is provided, words present in it use official Hanban
+    definitions instead of drkameleon definitions.
+    """
     rows = []
     for simplified, item in merged.items():
         entry = item["entry"]
         source = item["source"]
         pos = expand_pos(entry.get("pos", []))
-        for form in entry.get("forms", []):
-            pinyin = form.get("transcriptions", {}).get("pinyin", "")
-            traditional = form.get("traditional", "")
-            classifier = ", ".join(form.get("classifiers", []))
-            for meaning in form.get("meanings", []):
+        first_form = entry.get("forms", [{}])[0]
+        pinyin = first_form.get("transcriptions", {}).get("pinyin", "")
+        traditional = first_form.get("traditional", "")
+        classifier = ", ".join(first_form.get("classifiers", []))
+
+        if hskhsk_defs and simplified in hskhsk_defs:
+            for meaning in hskhsk_defs[simplified]:
                 rows.append({
                     "simplified": simplified,
                     "pinyin": pinyin,
@@ -113,6 +146,21 @@ def to_rows(merged: dict) -> list:
                     "definition": meaning,
                     "source": source,
                 })
+        else:
+            for form in entry.get("forms", []):
+                pinyin = form.get("transcriptions", {}).get("pinyin", "")
+                traditional = form.get("traditional", "")
+                classifier = ", ".join(form.get("classifiers", []))
+                for meaning in form.get("meanings", []):
+                    rows.append({
+                        "simplified": simplified,
+                        "pinyin": pinyin,
+                        "traditional": traditional,
+                        "pos": pos,
+                        "classifier": classifier,
+                        "definition": meaning,
+                        "source": source,
+                    })
     return rows
 
 
@@ -159,12 +207,14 @@ def write_xlsx(rows: list, output_path) -> None:
 
 
 def main() -> None:
+    print("Fetching official Hanban definitions (hskhsk.com L1-5)...", flush=True)
+    hskhsk_defs = fetch_hskhsk_definitions(HSKHSK_URLS)
     print("Fetching old HSK L1-5...", flush=True)
     old_by_word = load_level_entries(OLD_HSK_URLS)
     print("Fetching new HSK L1-3...", flush=True)
     new_by_word = load_level_entries(NEW_HSK_URLS)
     merged = merge_entries(new_by_word, old_by_word)
-    rows = to_rows(merged)
+    rows = to_rows(merged, hskhsk_defs)
     write_xlsx(rows, OUTPUT_PATH)
     print(f"Wrote {len(rows)} rows ({len(merged)} words) to {OUTPUT_PATH}")
 

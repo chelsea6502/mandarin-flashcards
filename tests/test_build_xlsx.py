@@ -4,7 +4,7 @@ import openpyxl
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from scripts.build_xlsx import fetch_json, merge_entries, load_level_entries, to_rows, write_xlsx
+from scripts.build_xlsx import fetch_json, merge_entries, load_level_entries, to_rows, write_xlsx, fetch_hskhsk_definitions
 
 
 ENTRY_A = {
@@ -107,6 +107,30 @@ def test_to_rows_pos_joined():
     merged = merge_entries({"爱": (entry, 1)}, {})
     row = to_rows(merged)[0]
     assert row["pos"] == "verb, noun"  # not abbreviated tags, passed through as-is
+
+
+def test_to_rows_uses_hskhsk_definitions():
+    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
+    hskhsk_defs = {"爱": ["love; affection", "to love"]}
+    rows = to_rows(merged, hskhsk_defs)
+    assert len(rows) == 2
+    assert rows[0]["definition"] == "love; affection"
+    assert rows[1]["definition"] == "to love"
+
+
+def test_to_rows_falls_back_without_hskhsk():
+    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
+    rows = to_rows(merged)
+    assert rows[0]["definition"] == "to love"
+
+
+def test_to_rows_hskhsk_overrides_new_hsk():
+    """Words in both old and new HSK use official definitions when available."""
+    merged = merge_entries({"爱": (ENTRY_A, 1)}, {"爱": (ENTRY_A_OLD, 3)})
+    hskhsk_defs = {"爱": ["official definition"]}
+    rows = to_rows(merged, hskhsk_defs)
+    assert len(rows) == 1
+    assert rows[0]["definition"] == "official definition"
 
 
 def test_merge_entries_both_present():
