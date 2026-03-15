@@ -29,6 +29,10 @@ def parse_grammar_points(text: str, level: str) -> list:
     while i < len(lines):
         line = lines[i]
         if "【" in line:
+            # Skip malformed lines that don't have matching closing bracket
+            if "】" not in line:
+                i += 1
+                continue
             id_start = line.index("【") + 1
             id_end = line.index("】")
             gp_id = line[id_start:id_end]
@@ -63,7 +67,13 @@ def parse_grammar_points(text: str, level: str) -> list:
 
 
 def fetch_file(url: str) -> str:
-    raise NotImplementedError
+    import sys
+    try:
+        with urllib.request.urlopen(url) as resp:
+            return resp.read().decode("utf-8")
+    except (urllib.error.HTTPError, urllib.error.URLError) as e:
+        print(f"Error fetching {url}: {e}", file=sys.stderr)
+        sys.exit(1)
 
 
 def write_xlsx(rows: list, path) -> None:
@@ -78,7 +88,14 @@ def write_xlsx(rows: list, path) -> None:
 
 
 def main():
-    raise NotImplementedError
+    import sys
+    rows = []
+    for level, url in SOURCES:
+        text = fetch_file(url)
+        rows.extend(parse_grammar_points(text, level))
+    out = Path(__file__).parent.parent / "data" / "grammar.xlsx"
+    write_xlsx(rows, out)
+    print(f"Wrote {len(rows)} grammar points to {out}")
 
 
 if __name__ == "__main__":
