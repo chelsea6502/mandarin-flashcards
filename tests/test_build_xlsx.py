@@ -4,7 +4,7 @@ import openpyxl
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from scripts.build_xlsx import fetch_json, merge_entries, to_rows, write_xlsx
+from scripts.build_xlsx import fetch_json, merge_entries, load_level_entries, to_rows, write_xlsx
 
 
 ENTRY_A = {
@@ -33,33 +33,33 @@ def test_fetch_json_returns_list():
 
 
 def test_merge_entries_new_only():
-    result = merge_entries([ENTRY_A], [])
+    result = merge_entries({"爱": (ENTRY_A, 1)}, {})
     assert "爱" in result
-    assert result["爱"]["source"] == "new-HSK3"
+    assert result["爱"]["source"] == "new-HSK L1"
     assert result["爱"]["entry"] == ENTRY_A
 
 
 def test_merge_entries_old_only():
-    result = merge_entries([], [ENTRY_B])
+    result = merge_entries({}, {"本": (ENTRY_B, 2)})
     assert "本" in result
-    assert result["本"]["source"] == "old-HSK5"
+    assert result["本"]["source"] == "old-HSK L2"
     assert result["本"]["entry"] == ENTRY_B
 
 
 def test_merge_entries_prefers_new_data():
-    result = merge_entries([ENTRY_A], [ENTRY_A_OLD])
+    result = merge_entries({"爱": (ENTRY_A, 1)}, {"爱": (ENTRY_A_OLD, 3)})
     assert result["爱"]["entry"] == ENTRY_A
-    assert result["爱"]["source"] == "old-HSK5, new-HSK3"
+    assert result["爱"]["source"] == "old-HSK L3, new-HSK L1"
 
 
 def test_to_rows_one_row_per_meaning():
-    merged = merge_entries([ENTRY_A], [])
+    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
     rows = to_rows(merged)
     assert len(rows) == 2  # ENTRY_A has 2 meanings
 
 
 def test_to_rows_columns():
-    merged = merge_entries([ENTRY_A], [])
+    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
     row = to_rows(merged)[0]
     assert row["simplified"] == "爱"
     assert row["pinyin"] == "ài"
@@ -67,7 +67,7 @@ def test_to_rows_columns():
     assert row["pos"] == "verb"  # ENTRY_A has pos=["verb"] — not an abbreviated tag
     assert row["classifier"] == ""
     assert row["definition"] == "to love"
-    assert row["source"] == "new-HSK3"
+    assert row["source"] == "new-HSK L1"
 
 
 def test_to_rows_classifier_joined():
@@ -77,7 +77,7 @@ def test_to_rows_classifier_joined():
         "forms": [{"traditional": "書", "transcriptions": {"pinyin": "shū"},
                    "meanings": ["book"], "classifiers": ["本", "册"]}]
     }
-    merged = merge_entries([entry], [])
+    merged = merge_entries({"书": (entry, 1)}, {})
     row = to_rows(merged)[0]
     assert row["classifier"] == "本, 册"
 
@@ -91,7 +91,7 @@ def test_to_rows_multiple_forms():
             {"traditional": "好", "transcriptions": {"pinyin": "hào"}, "meanings": ["to be fond of"]},
         ]
     }
-    merged = merge_entries([entry], [])
+    merged = merge_entries({"好": (entry, 1)}, {})
     rows = to_rows(merged)
     assert len(rows) == 2
     assert rows[0]["pinyin"] == "hǎo"
@@ -104,16 +104,16 @@ def test_to_rows_pos_joined():
         "pos": ["verb", "noun"],
         "forms": [{"traditional": "愛", "transcriptions": {"pinyin": "ài"}, "meanings": ["love"]}]
     }
-    merged = merge_entries([entry], [])
+    merged = merge_entries({"爱": (entry, 1)}, {})
     row = to_rows(merged)[0]
     assert row["pos"] == "verb, noun"  # not abbreviated tags, passed through as-is
 
 
 def test_merge_entries_both_present():
-    result = merge_entries([ENTRY_A], [ENTRY_A_OLD, ENTRY_B])
+    result = merge_entries({"爱": (ENTRY_A, 1)}, {"爱": (ENTRY_A_OLD, 4), "本": (ENTRY_B, 2)})
     assert len(result) == 2
-    assert result["爱"]["source"] == "old-HSK5, new-HSK3"
-    assert result["本"]["source"] == "old-HSK5"
+    assert result["爱"]["source"] == "old-HSK L4, new-HSK L1"
+    assert result["本"]["source"] == "old-HSK L2"
 
 
 ROW = {"simplified": "爱", "pinyin": "ài", "traditional": "愛",

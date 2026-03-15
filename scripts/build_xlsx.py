@@ -8,8 +8,9 @@ from pathlib import Path
 
 import openpyxl
 
-OLD_HSK5_URL = "https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/refs/heads/main/wordlists/inclusive/old/5.json"
-NEW_HSK3_URL = "https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/refs/heads/main/wordlists/inclusive/new/3.json"
+BASE = "https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/refs/heads/main/wordlists/exclusive"
+OLD_HSK_URLS = {i: f"{BASE}/old/{i}.json" for i in range(1, 6)}
+NEW_HSK_URLS = {i: f"{BASE}/new/{i}.json" for i in range(1, 4)}
 
 REPO_ROOT = Path(__file__).parent.parent
 OUTPUT_PATH = REPO_ROOT / "data" / "words.xlsx"
@@ -64,20 +65,30 @@ def fetch_json(url: str) -> list:
         return json.loads(response.read().decode("utf-8"))
 
 
-def merge_entries(new_entries: list, old_entries: list) -> dict:
-    """Merge two entry lists into a dict keyed by simplified.
+def load_level_entries(level_urls: dict) -> dict:
+    """Fetch exclusive level files and return dict: simplified -> (entry, level)."""
+    result = {}
+    for level, url in sorted(level_urls.items()):
+        for entry in fetch_json(url):
+            word = entry["simplified"]
+            if word not in result:
+                result[word] = (entry, level)
+    return result
 
-    Prefers new_entries data. Words in both get source 'old-HSK5, new-HSK3'.
+
+def merge_entries(new_by_word: dict, old_by_word: dict) -> dict:
+    """Merge level-annotated dicts, preferring new HSK data.
+
+    Returns dict: simplified -> {"entry": ..., "source": "old-HSK L3, new-HSK L1"}
     """
     merged = {}
-    for entry in new_entries:
-        merged[entry["simplified"]] = {"entry": entry, "source": "new-HSK3"}
-    for entry in old_entries:
-        key = entry["simplified"]
-        if key in merged:
-            merged[key]["source"] = "old-HSK5, new-HSK3"
+    for word, (entry, level) in new_by_word.items():
+        merged[word] = {"entry": entry, "source": f"new-HSK L{level}"}
+    for word, (entry, level) in old_by_word.items():
+        if word in merged:
+            merged[word]["source"] = f"old-HSK L{level}, " + merged[word]["source"]
         else:
-            merged[key] = {"entry": entry, "source": "old-HSK5"}
+            merged[word] = {"entry": entry, "source": f"old-HSK L{level}"}
     return merged
 
 
@@ -148,11 +159,11 @@ def write_xlsx(rows: list, output_path) -> None:
 
 
 def main() -> None:
-    print("Fetching old HSK5...", flush=True)
-    old_entries = fetch_json(OLD_HSK5_URL)
-    print("Fetching new HSK3...", flush=True)
-    new_entries = fetch_json(NEW_HSK3_URL)
-    merged = merge_entries(new_entries, old_entries)
+    print("Fetching old HSK L1-5...", flush=True)
+    old_by_word = load_level_entries(OLD_HSK_URLS)
+    print("Fetching new HSK L1-3...", flush=True)
+    new_by_word = load_level_entries(NEW_HSK_URLS)
+    merged = merge_entries(new_by_word, old_by_word)
     rows = to_rows(merged)
     write_xlsx(rows, OUTPUT_PATH)
     print(f"Wrote {len(rows)} rows ({len(merged)} words) to {OUTPUT_PATH}")
