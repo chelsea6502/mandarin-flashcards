@@ -61,5 +61,14 @@ def to_rows(merged: dict) -> list:
     return rows
 
 
+FIELDNAMES = ["simplified", "pinyin", "traditional", "pos", "classifier", "definition", "source"]
+
+
 def write_csv(rows: list, output_path) -> None:
-    raise NotImplementedError
+    """Write rows to a CSV file."""
+    output_path = Path(output_path)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(output_path, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        writer.writeheader()
+        writer.writerows(rows)

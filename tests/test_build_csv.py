@@ -113,3 +113,40 @@ def test_merge_entries_both_present():
     assert len(result) == 2
     assert result["爱"]["source"] == "old-HSK5, new-HSK3"
     assert result["本"]["source"] == "old-HSK5"
+
+
+import csv as csv_module
+
+ROW = {"simplified": "爱", "pinyin": "ài", "traditional": "愛",
+       "pos": "verb", "classifier": "", "definition": "to love", "source": "new-HSK3"}
+
+
+def test_write_csv_creates_file(tmp_path):
+    out = tmp_path / "out.csv"
+    write_csv([ROW], out)
+    assert out.exists()
+
+
+def test_write_csv_header(tmp_path):
+    out = tmp_path / "out.csv"
+    write_csv([], out)
+    with open(out, encoding="utf-8", newline="") as f:
+        reader = csv_module.DictReader(f)
+        assert reader.fieldnames == ["simplified", "pinyin", "traditional", "pos", "classifier", "definition", "source"]
+
+
+def test_write_csv_data_row(tmp_path):
+    out = tmp_path / "out.csv"
+    write_csv([ROW], out)
+    with open(out, encoding="utf-8", newline="") as f:
+        rows = list(csv_module.DictReader(f))
+    assert len(rows) == 1
+    assert rows[0]["simplified"] == "爱"
+    assert rows[0]["classifier"] == ""
+    assert rows[0]["definition"] == "to love"
+
+
+def test_write_csv_creates_parent_dir(tmp_path):
+    out = tmp_path / "subdir" / "out.csv"
+    write_csv([], out)
+    assert out.exists()
