@@ -42,13 +42,13 @@ Rows appear in file order: L1 first, then L2 through L6, then L7-9. Within each 
 
 ## Parsing Rules
 
-**Grammar point lines** are identified by the pattern `【…】` anywhere in the line.
-- `id`: the text between `【` and `】`
-- `name`: all text after `】` on the same line, stripped
+**Grammar point lines** are identified by containing `【` anywhere in the line.
+- `id`: the text between the first `【` and the first `】`
+- `name`: all text after the first `】` on the same line, stripped
 
-**Section header lines** are lines that do NOT contain `【` and match the pattern of lettered/numbered section headings (e.g. `A.1 一级语法点`, `A.1.1.1 名词`). These are skipped and not emitted as rows.
+**Sentence collection:** After a grammar point line is identified, all subsequent non-blank lines are collected as candidates until the next line that contains `【` (i.e. the next grammar point line). Section headers, bare phrase lists, and any other non-sentence text are handled uniformly: they are collected as candidates but then filtered out in the next step. No special detection of section headers is required.
 
-**Example sentences** are the non-blank lines that follow a grammar point line, up until the next grammar point line or section header line. From those lines, only lines ending with Chinese sentence-final punctuation (`。`, `？`, `！`) are treated as sentences. Other lines (e.g. bare phrase lists like `桌子上 树下`) are skipped.
+**Sentence filtering:** From the candidate lines, only lines whose last non-whitespace character is `。`, `？`, or `！` are treated as sentences.
 
 The first three qualifying sentences populate `sentence_1`, `sentence_2`, `sentence_3`. If fewer than three sentences exist in the block, the remaining sentence columns are empty.
 
