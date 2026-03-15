@@ -1,3 +1,4 @@
+import sys
 from pathlib import Path
 import urllib.request
 import urllib.error
@@ -67,7 +68,6 @@ def parse_grammar_points(text: str, level: str) -> list:
 
 
 def fetch_file(url: str) -> str:
-    import sys
     try:
         with urllib.request.urlopen(url) as resp:
             return resp.read().decode("utf-8")
@@ -88,7 +88,6 @@ def write_xlsx(rows: list, path) -> None:
 
 
 def main():
-    import sys
     rows = []
     for level, url in SOURCES:
         text = fetch_file(url)
