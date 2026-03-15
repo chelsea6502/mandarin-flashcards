@@ -4,7 +4,7 @@ import openpyxl
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from scripts.build_xlsx import fetch_json, merge_entries, load_level_entries, to_rows, write_xlsx, fetch_hskhsk_definitions, fetch_anki_definitions
+from scripts.build_xlsx import load_words, load_hsk_levels, to_rows, write_xlsx, fetch_anki_definitions, split_meaning
 
 
 ENTRY_A = {
@@ -17,57 +17,53 @@ ENTRY_B = {
     "pos": ["noun"],
     "forms": [{"traditional": "本", "transcriptions": {"pinyin": "běn"}, "meanings": ["root", "origin"]}]
 }
-ENTRY_A_OLD = {
-    "simplified": "爱",
-    "pos": ["verb", "noun"],
-    "forms": [{"traditional": "愛", "transcriptions": {"pinyin": "ài"}, "meanings": ["old definition"]}]
-}
 
-
-def test_fetch_json_returns_list():
-    url = "https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/refs/heads/main/wordlists/inclusive/old/5.json"
-    result = fetch_json(url)
+def test_load_words_returns_list(tmp_path):
+    data = [{"simplified": "爱", "pos": ["verb"], "forms": []}]
+    f = tmp_path / "test.json"
+    f.write_text(__import__("json").dumps(data), encoding="utf-8")
+    result = load_words(f)
     assert isinstance(result, list)
-    assert len(result) > 0
-    assert "simplified" in result[0]
+    assert result[0]["simplified"] == "爱"
 
-
-def test_merge_entries_new_only():
-    result = merge_entries({"爱": (ENTRY_A, 1)}, {})
-    assert "爱" in result
-    assert result["爱"]["source"] == "new-HSK L1"
-    assert result["爱"]["entry"] == ENTRY_A
-
-
-def test_merge_entries_old_only():
-    result = merge_entries({}, {"本": (ENTRY_B, 2)})
-    assert "本" in result
-    assert result["本"]["source"] == "old-HSK L2"
-    assert result["本"]["entry"] == ENTRY_B
-
-
-def test_merge_entries_prefers_new_data():
-    result = merge_entries({"爱": (ENTRY_A, 1)}, {"爱": (ENTRY_A_OLD, 3)})
-    assert result["爱"]["entry"] == ENTRY_A
-    assert result["爱"]["source"] == "old-HSK L3, new-HSK L1"
 
 
 def test_to_rows_one_row_per_meaning():
-    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
-    rows = to_rows(merged)
+    rows = to_rows([ENTRY_A])
     assert len(rows) == 2  # ENTRY_A has 2 meanings
 
 
 def test_to_rows_columns():
-    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
-    row = to_rows(merged)[0]
+    row = to_rows([ENTRY_A])[0]
     assert row["simplified"] == "爱"
     assert row["pinyin"] == "ài"
     assert row["traditional"] == "愛"
     assert row["pos"] == "verb"  # ENTRY_A has pos=["verb"] — not an abbreviated tag
     assert row["classifier"] == ""
     assert row["definition"] == "to love"
-    assert row["source"] == "new-HSK L1"
+    assert row["new_hsk"] == ""
+
+
+def test_load_hsk_levels(tmp_path):
+    # Write all required level files; only 1 and 2 have content
+    (tmp_path / "hsk_level1.txt").write_text("爱\n八\n", encoding="utf-8")
+    (tmp_path / "hsk_level2.txt").write_text("本\n", encoding="utf-8")
+    for level in [3, 4, 5, 6, "7-9"]:
+        (tmp_path / f"hsk_level{level}.txt").write_text("", encoding="utf-8")
+    levels = load_hsk_levels(tmp_path)
+    assert levels["爱"] == "L1"
+    assert levels["八"] == "L1"
+    assert levels["本"] == "L2"
+
+
+def test_to_rows_uses_levels():
+    row = to_rows([ENTRY_A], levels={"爱": "L1"})[0]
+    assert row["new_hsk"] == "L1"
+
+
+def test_to_rows_missing_level_is_empty():
+    row = to_rows([ENTRY_A], levels={})[0]
+    assert row["new_hsk"] == ""
 
 
 def test_to_rows_classifier_joined():
@@ -77,8 +73,7 @@ def test_to_rows_classifier_joined():
         "forms": [{"traditional": "書", "transcriptions": {"pinyin": "shū"},
                    "meanings": ["book"], "classifiers": ["本", "册"]}]
     }
-    merged = merge_entries({"书": (entry, 1)}, {})
-    row = to_rows(merged)[0]
+    row = to_rows([entry])[0]
     assert row["classifier"] == "本, 册"
 
 
@@ -91,8 +86,7 @@ def test_to_rows_multiple_forms():
             {"traditional": "好", "transcriptions": {"pinyin": "hào"}, "meanings": ["to be fond of"]},
         ]
     }
-    merged = merge_entries({"好": (entry, 1)}, {})
-    rows = to_rows(merged)
+    rows = to_rows([entry])
     assert len(rows) == 2
     assert rows[0]["pinyin"] == "hǎo"
     assert rows[1]["pinyin"] == "hào"
@@ -104,47 +98,30 @@ def test_to_rows_pos_joined():
         "pos": ["verb", "noun"],
         "forms": [{"traditional": "愛", "transcriptions": {"pinyin": "ài"}, "meanings": ["love"]}]
     }
-    merged = merge_entries({"爱": (entry, 1)}, {})
-    row = to_rows(merged)[0]
+    row = to_rows([entry])[0]
     assert row["pos"] == "verb, noun"  # not abbreviated tags, passed through as-is
 
 
-def test_to_rows_uses_hskhsk_definitions():
-    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
-    hskhsk_defs = {"爱": ["love; affection", "to love"]}
-    rows = to_rows(merged, hskhsk_defs)
-    assert len(rows) == 2
-    assert rows[0]["definition"] == "love; affection"
-    assert rows[1]["definition"] == "to love"
-
-
-def test_to_rows_falls_back_without_hskhsk():
-    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
-    rows = to_rows(merged)
-    assert rows[0]["definition"] == "to love"
-
-
-def test_to_rows_hskhsk_overrides_new_hsk():
-    """Words in both old and new HSK use official definitions when available."""
-    merged = merge_entries({"爱": (ENTRY_A, 1)}, {"爱": (ENTRY_A_OLD, 3)})
-    hskhsk_defs = {"爱": ["official definition"]}
-    rows = to_rows(merged, hskhsk_defs)
-    assert len(rows) == 1
-    assert rows[0]["definition"] == "official definition"
-
-
 def test_to_rows_anki_fallback():
-    """Words not in hskhsk_defs use anki_defs if available."""
-    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
-    rows = to_rows(merged, hskhsk_defs={}, anki_defs={"爱": ["anki definition"]})
+    """Words use anki_defs when available."""
+    rows = to_rows([ENTRY_A], anki_defs={"爱": ["anki definition"]})
     assert len(rows) == 1
     assert rows[0]["definition"] == "anki definition"
 
 
-def test_to_rows_hskhsk_takes_priority_over_anki():
-    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
-    rows = to_rows(merged, hskhsk_defs={"爱": ["official"]}, anki_defs={"爱": ["anki"]})
-    assert rows[0]["definition"] == "official"
+def test_split_meaning_on_semicolon():
+    assert split_meaning("to love; to like") == ["to love", "to like"]
+    assert split_meaning("no semicolon") == ["no semicolon"]
+    assert split_meaning("a; b; c") == ["a", "b", "c"]
+    assert split_meaning("trailing;") == ["trailing"]
+
+
+def test_to_rows_splits_definitions_on_semicolon():
+    """Anki definitions containing semicolons produce one row per part."""
+    rows = to_rows([ENTRY_A], anki_defs={"爱": ["to love; to like"]})
+    assert len(rows) == 2
+    assert rows[0]["definition"] == "to love"
+    assert rows[1]["definition"] == "to like"
 
 
 def test_fetch_anki_definitions_parses_correctly(tmp_path):
@@ -176,15 +153,15 @@ def test_fetch_anki_definitions_parses_correctly(tmp_path):
     assert result["爱"] == ["to love", "to like"]
 
 
-def test_merge_entries_both_present():
-    result = merge_entries({"爱": (ENTRY_A, 1)}, {"爱": (ENTRY_A_OLD, 4), "本": (ENTRY_B, 2)})
-    assert len(result) == 2
-    assert result["爱"]["source"] == "old-HSK L4, new-HSK L1"
-    assert result["本"]["source"] == "old-HSK L2"
 
-
-ROW = {"simplified": "爱", "pinyin": "ài", "traditional": "愛",
-       "pos": "verb", "classifier": "", "definition": "to love", "source": "new-HSK3"}
+ROW = {
+    "simplified": "爱", "pinyin": "ài", "traditional": "愛",
+    "pos": "verb", "classifier": "", "definition": "to love",
+    "new_hsk": "L3",
+    "sentence_1": "", "translation_1": "",
+    "sentence_2": "", "translation_2": "",
+    "sentence_3": "", "translation_3": "",
+}
 
 
 def test_write_xlsx_creates_file(tmp_path):
@@ -198,8 +175,12 @@ def test_write_xlsx_header(tmp_path):
     write_xlsx([], out)
     wb = openpyxl.load_workbook(out)
     ws = wb.active
-    assert [ws.cell(1, c).value for c in range(1, 8)] == [
-        "simplified", "pinyin", "traditional", "pos", "classifier", "definition", "source"
+    assert [ws.cell(1, c).value for c in range(1, 14)] == [
+        "simplified", "pinyin", "traditional", "pos", "classifier", "definition",
+        "new_hsk",
+        "sentence_1", "translation_1",
+        "sentence_2", "translation_2",
+        "sentence_3", "translation_3",
     ]
 
 
@@ -220,11 +201,14 @@ def test_write_xlsx_creates_parent_dir(tmp_path):
 
 
 def test_write_xlsx_merges_same_word_rows(tmp_path):
+    base = {"simplified": "爱", "pinyin": "ài", "traditional": "愛", "pos": "verb",
+            "classifier": "", "new_hsk": "L3",
+            "sentence_1": "", "translation_1": "",
+            "sentence_2": "", "translation_2": "",
+            "sentence_3": "", "translation_3": ""}
     rows = [
-        {"simplified": "爱", "pinyin": "ài", "traditional": "愛", "pos": "verb",
-         "classifier": "", "definition": "to love", "source": "new-HSK3"},
-        {"simplified": "爱", "pinyin": "ài", "traditional": "愛", "pos": "verb",
-         "classifier": "", "definition": "to like", "source": "new-HSK3"},
+        {**base, "definition": "to love"},
+        {**base, "definition": "to like"},
     ]
     out = tmp_path / "out.xlsx"
     write_xlsx(rows, out)

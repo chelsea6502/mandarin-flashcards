@@ -33,6 +33,14 @@ python3 -m pytest tests/test_build_csv.py::test_name -v
 - Sources: old HSK5 + new HSK3 from `drkameleon/complete-hsk-vocabulary` on GitHub.
   Words in both lists use new HSK3 definitions; `source` column tracks provenance.
 
+## Sentence Generation
+
+When generating example sentences for flashcard rows:
+- Use vocabulary at or below the HSK level of the word being illustrated (e.g. for an L1 word, use only L1 vocabulary; for an L2 word, L1–L2 vocabulary is fine)
+- If the row has a classifier, try to use it naturally in at least one of the three sentences
+- Write sentences that clearly illustrate the specific definition of that row, not the word's other meanings
+- Prefer short sentences
+
 ## Architecture
 
 - `scripts/build_csv.py` — four pure functions (`fetch_json`, `merge_entries`, `to_rows`, `write_csv`) plus `main()`
