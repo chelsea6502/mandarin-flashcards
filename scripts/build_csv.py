@@ -72,3 +72,18 @@ def write_csv(rows: list, output_path) -> None:
         writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
         writer.writeheader()
         writer.writerows(rows)
+
+
+def main() -> None:
+    print("Fetching old HSK5...", flush=True)
+    old_entries = fetch_json(OLD_HSK5_URL)
+    print("Fetching new HSK3...", flush=True)
+    new_entries = fetch_json(NEW_HSK3_URL)
+    merged = merge_entries(new_entries, old_entries)
+    rows = to_rows(merged)
+    write_csv(rows, OUTPUT_PATH)
+    print(f"Wrote {len(rows)} rows ({len(merged)} words) to {OUTPUT_PATH}")
+
+
+if __name__ == "__main__":
+    main()
