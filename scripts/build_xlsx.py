@@ -96,7 +96,8 @@ def fetch_hskhsk_definitions(level_urls: dict) -> dict:
                 continue
             simplified = parts[0]
             if simplified not in defs:
-                defs[simplified] = [d.strip() for d in parts[4].split(";") if d.strip()]
+                raw = parts[4].replace("|", ";")
+                defs[simplified] = [d.strip() for d in raw.split(";") if d.strip()]
     return defs
 
 
