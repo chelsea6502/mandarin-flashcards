@@ -4,7 +4,7 @@ import openpyxl
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from scripts.build_xlsx import fetch_json, merge_entries, load_level_entries, to_rows, write_xlsx, fetch_hskhsk_definitions
+from scripts.build_xlsx import fetch_json, merge_entries, load_level_entries, to_rows, write_xlsx, fetch_hskhsk_definitions, fetch_anki_definitions
 
 
 ENTRY_A = {
@@ -131,6 +131,49 @@ def test_to_rows_hskhsk_overrides_new_hsk():
     rows = to_rows(merged, hskhsk_defs)
     assert len(rows) == 1
     assert rows[0]["definition"] == "official definition"
+
+
+def test_to_rows_anki_fallback():
+    """Words not in hskhsk_defs use anki_defs if available."""
+    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
+    rows = to_rows(merged, hskhsk_defs={}, anki_defs={"爱": ["anki definition"]})
+    assert len(rows) == 1
+    assert rows[0]["definition"] == "anki definition"
+
+
+def test_to_rows_hskhsk_takes_priority_over_anki():
+    merged = merge_entries({"爱": (ENTRY_A, 1)}, {})
+    rows = to_rows(merged, hskhsk_defs={"爱": ["official"]}, anki_defs={"爱": ["anki"]})
+    assert rows[0]["definition"] == "official"
+
+
+def test_fetch_anki_definitions_parses_correctly(tmp_path):
+    """Build a minimal .apkg and verify parsing."""
+    import zipfile, sqlite3, json as json_mod
+
+    db_path = tmp_path / "collection.anki2"
+    conn = sqlite3.connect(db_path)
+    conn.execute("CREATE TABLE notes (flds TEXT)")
+    conn.execute("CREATE TABLE col (models TEXT)")
+    flds = "\x1f".join([
+        "爱",                  # word
+        "",                    # interferences
+        "<table><tbody><tr><th>{{c1::ài}}</th></tr>"
+        "<tr><td>㊀ {{c1::to love}}<br>㊁ {{c1::to like}}</td></tr></tbody></table>",
+        "", "", "", ""
+    ])
+    conn.execute("INSERT INTO notes VALUES (?)", (flds,))
+    conn.execute("INSERT INTO col VALUES (?)", (json_mod.dumps({}),))
+    conn.commit()
+    conn.close()
+
+    apkg_path = tmp_path / "test.apkg"
+    with zipfile.ZipFile(apkg_path, "w") as z:
+        z.write(db_path, "collection.anki2")
+
+    result = fetch_anki_definitions(apkg_path)
+    assert "爱" in result
+    assert result["爱"] == ["to love", "to like"]
 
 
 def test_merge_entries_both_present():
