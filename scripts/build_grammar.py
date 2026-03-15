@@ -67,7 +67,14 @@ def fetch_file(url: str) -> str:
 
 
 def write_xlsx(rows: list, path) -> None:
-    raise NotImplementedError
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    ws.append(COLUMNS)
+    for row in rows:
+        ws.append([row.get(col) or None for col in COLUMNS])
+    wb.save(path)
 
 
 def main():

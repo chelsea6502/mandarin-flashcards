@@ -77,3 +77,66 @@ def test_parse_translations_are_empty():
         assert row["translation_1"] == ""
         assert row["translation_2"] == ""
         assert row["translation_3"] == ""
+
+
+GRAMMAR_ROW = {
+    "id": "一01",
+    "name": "方位名词：上、下、里",
+    "hsk_level": "L1",
+    "description": "",
+    "sentence_1": "书在桌子上。",
+    "translation_1": "",
+    "sentence_2": "手机在书包里。",
+    "translation_2": "",
+    "sentence_3": "",
+    "translation_3": "",
+}
+
+
+def test_write_xlsx_creates_file(tmp_path):
+    out = tmp_path / "grammar.xlsx"
+    write_xlsx([GRAMMAR_ROW], out)
+    assert out.exists()
+
+
+def test_write_xlsx_header(tmp_path):
+    out = tmp_path / "grammar.xlsx"
+    write_xlsx([], out)
+    wb = openpyxl.load_workbook(out)
+    ws = wb.active
+    headers = [ws.cell(1, c).value for c in range(1, 11)]
+    assert headers == [
+        "id", "name", "hsk_level", "description",
+        "sentence_1", "translation_1",
+        "sentence_2", "translation_2",
+        "sentence_3", "translation_3",
+    ]
+
+
+def test_write_xlsx_data_row(tmp_path):
+    out = tmp_path / "grammar.xlsx"
+    write_xlsx([GRAMMAR_ROW], out)
+    wb = openpyxl.load_workbook(out)
+    ws = wb.active
+    assert ws.cell(2, 1).value == "一01"
+    assert ws.cell(2, 2).value == "方位名词：上、下、里"
+    assert ws.cell(2, 3).value == "L1"
+    assert ws.cell(2, 4).value in ("", None)
+    assert ws.cell(2, 5).value == "书在桌子上。"
+    assert ws.cell(2, 6).value in ("", None)
+
+
+def test_write_xlsx_creates_parent_dir(tmp_path):
+    out = tmp_path / "subdir" / "grammar.xlsx"
+    write_xlsx([], out)
+    assert out.exists()
+
+
+def test_write_xlsx_empty_string_written_as_none_or_empty(tmp_path):
+    """Empty string fields should be None or empty string in xlsx — not the string 'None'."""
+    out = tmp_path / "grammar.xlsx"
+    write_xlsx([GRAMMAR_ROW], out)
+    wb = openpyxl.load_workbook(out)
+    ws = wb.active
+    val = ws.cell(2, 4).value  # description
+    assert val in ("", None)
