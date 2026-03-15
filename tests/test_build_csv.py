@@ -6,9 +6,53 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.build_csv import fetch_json, merge_entries, to_rows, write_csv
 
 
+ENTRY_A = {
+    "simplified": "爱",
+    "pos": ["verb"],
+    "forms": [{"traditional": "愛", "transcriptions": {"pinyin": "ài"}, "meanings": ["to love", "to like"]}]
+}
+ENTRY_B = {
+    "simplified": "本",
+    "pos": ["noun"],
+    "forms": [{"traditional": "本", "transcriptions": {"pinyin": "běn"}, "meanings": ["root", "origin"]}]
+}
+ENTRY_A_OLD = {
+    "simplified": "爱",
+    "pos": ["verb", "noun"],
+    "forms": [{"traditional": "愛", "transcriptions": {"pinyin": "ài"}, "meanings": ["old definition"]}]
+}
+
+
 def test_fetch_json_returns_list():
     url = "https://raw.githubusercontent.com/drkameleon/complete-hsk-vocabulary/refs/heads/main/wordlists/exclusive/old/5.json"
     result = fetch_json(url)
     assert isinstance(result, list)
     assert len(result) > 0
     assert "simplified" in result[0]
+
+
+def test_merge_entries_new_only():
+    result = merge_entries([ENTRY_A], [])
+    assert "爱" in result
+    assert result["爱"]["source"] == "new-HSK3"
+    assert result["爱"]["entry"] == ENTRY_A
+
+
+def test_merge_entries_old_only():
+    result = merge_entries([], [ENTRY_B])
+    assert "本" in result
+    assert result["本"]["source"] == "old-HSK5"
+    assert result["本"]["entry"] == ENTRY_B
+
+
+def test_merge_entries_prefers_new_data():
+    result = merge_entries([ENTRY_A], [ENTRY_A_OLD])
+    assert result["爱"]["entry"] == ENTRY_A
+    assert result["爱"]["source"] == "old-HSK5, new-HSK3"
+
+
+def test_merge_entries_both_present():
+    result = merge_entries([ENTRY_A], [ENTRY_A_OLD, ENTRY_B])
+    assert len(result) == 2
+    assert result["爱"]["source"] == "old-HSK5, new-HSK3"
+    assert result["本"]["source"] == "old-HSK5"

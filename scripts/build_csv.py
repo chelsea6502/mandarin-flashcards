@@ -21,7 +21,20 @@ def fetch_json(url: str) -> list:
 
 
 def merge_entries(new_entries: list, old_entries: list) -> dict:
-    raise NotImplementedError
+    """Merge two entry lists into a dict keyed by simplified.
+
+    Prefers new_entries data. Words in both get source 'old-HSK5, new-HSK3'.
+    """
+    merged = {}
+    for entry in new_entries:
+        merged[entry["simplified"]] = {"entry": entry, "source": "new-HSK3"}
+    for entry in old_entries:
+        key = entry["simplified"]
+        if key in merged:
+            merged[key]["source"] = "old-HSK5, new-HSK3"
+        else:
+            merged[key] = {"entry": entry, "source": "old-HSK5"}
+    return merged
 
 
 def to_rows(merged: dict) -> list:
