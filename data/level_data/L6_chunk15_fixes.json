@@ -1,0 +1,10 @@
+[
+  {"row": 7460, "field": "sentence_3", "old": "工程延期完成了。", "new": "演唱会被迫延期举行。", "reason": "Wrong definition illustrated. '工程延期完成了' describes a project finishing late (a result), not the act of postponing. The definition is 'to postpone' — an active decision to push something to a later date."},
+  {"row": 7460, "field": "translation_3", "old": "The project was completed behind schedule.", "new": "The concert was forced to be postponed.", "reason": "Translation updated to match new sentence."},
+  {"row": 7463, "field": "sentence_2", "old": "双方的合作将继续延续。", "new": "双方的合作延续了多年。", "reason": "Unnatural/incorrect Chinese. '继续延续' is redundant — 继续 and 延续 both mean 'to continue', making the phrase an awkward pleonasm."},
+  {"row": 7463, "field": "translation_2", "old": "The cooperation between the two parties will continue.", "new": "The cooperation between the two parties continued for many years.", "reason": "Translation updated to match new sentence."},
+  {"row": 7520, "field": "sentence_2", "old": "她一身生活，自由自在。", "new": "她一身在外，什么事都靠自己。", "reason": "Unnatural Chinese. '一身生活' is not a natural collocation; in this sense (single person away from home), 一身 collocates with 在外, not directly with 生活."},
+  {"row": 7520, "field": "translation_2", "old": "Living as a single person, she is free and carefree.", "new": "Being away from home on her own, she relies on herself for everything.", "reason": "Translation updated to match new sentence."},
+  {"row": 7591, "field": "sentence_2", "old": "她的用心让大家感到温暖。", "new": "他帮助她的用心，大家心里都清楚。", "reason": "Wrong definition illustrated. The definition is 'motive', but '她的用心让大家感到温暖' illustrates 'thoughtfulness/care' instead. The new sentence clearly shows an underlying motive that others are aware of."},
+  {"row": 7591, "field": "translation_2", "old": "Her motive made everyone feel warm.", "new": "Everyone understood his motive for helping her.", "reason": "Translation updated to match new sentence."}
+]

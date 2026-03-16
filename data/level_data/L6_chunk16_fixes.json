@@ -1,0 +1,19 @@
+[
+  {"row": 7606, "field": "translation_1", "old": "There are still openings for the concert; tickets are welcome.", "new": "There are still openings for the concert; feel free to buy tickets.", "reason": "欢迎购票 means 'you are welcome to buy tickets', not 'tickets are welcome' — awkward English phrasing."},
+  {"row": 7650, "field": "sentence_2", "old": "这场火灾造成了很大的灾。", "new": "这场大火造成了很大的灾。", "reason": "The original embeds 灾 inside 火灾 in the same clause, creating a circular and unnatural sentence. Replacing 火灾 with 大火 removes the redundancy."},
+  {"row": 7650, "field": "translation_2", "old": "This fire caused a great disaster.", "new": "This great fire caused terrible disaster.", "reason": "Translation updated to match the corrected Chinese sentence."},
+  {"row": 7668, "field": "sentence_2", "old": "工厂用机器造型产品。", "new": "他用蜡为孩子造型了一只小船。", "reason": "Sentence 1 and sentence 2 were near-duplicates — both describe industrial molding with tools/machines. Replaced with a distinct context to avoid duplication."},
+  {"row": 7668, "field": "translation_2", "old": "The factory uses machines to mold products.", "new": "He molded a small boat out of wax for a child.", "reason": "Translation updated to match the new sentence."},
+  {"row": 7694, "field": "sentence_1", "old": "杂音障碍了他的思考。", "new": "噪音对他的思考造成了障碍。", "reason": "障碍 used as a standalone transitive verb is unnatural in Chinese; it is primarily a noun meaning 'obstacle/barrier'. Restructured to use it naturally as a noun."},
+  {"row": 7694, "field": "translation_1", "old": "The noise hindered his thinking.", "new": "The noise created an obstacle to his thinking.", "reason": "Translation updated to match the restructured Chinese sentence."},
+  {"row": 7694, "field": "sentence_2", "old": "语言不通障碍了交流。", "new": "语言不通对交流造成了障碍。", "reason": "Same issue: 障碍 used as a standalone transitive verb is unnatural. Restructured to use it as a noun."},
+  {"row": 7694, "field": "translation_2", "old": "The language barrier hindered communication.", "new": "The language difference created an obstacle to communication.", "reason": "Translation updated to match the restructured Chinese sentence."},
+  {"row": 7694, "field": "sentence_3", "old": "信号不好障碍了通话。", "new": "信号不好对通话造成了障碍。", "reason": "Same issue: 障碍 used as a standalone transitive verb is unnatural. Restructured to use it as a noun."},
+  {"row": 7694, "field": "translation_3", "old": "Poor signal hindered the call.", "new": "Poor signal created an obstacle to the call.", "reason": "Translation updated to match the restructured Chinese sentence."},
+  {"row": 7710, "field": "sentence_1", "old": "他把杯里的水折进了碗里。", "new": "他把杯里的水倒进了碗里。", "reason": "折 (shé) does not mean 'to pour out' in standard Mandarin. The correct word is 倒 (dào). All three sentences for this definition use the wrong headword."},
+  {"row": 7710, "field": "translation_1", "old": "He poured out the water from the cup into the bowl.", "new": "He poured the water from the cup into the bowl.", "reason": "Minor phrasing fix alongside the corrected Chinese."},
+  {"row": 7710, "field": "sentence_2", "old": "把锅里的汤折出来。", "new": "把锅里的汤倒出来。", "reason": "折 is not the correct word for pouring; 倒 is the standard verb."},
+  {"row": 7710, "field": "sentence_3", "old": "她把瓶子里的水折干净了。", "new": "她把瓶子里的水倒干净了。", "reason": "折 is not the correct word for pouring; 倒 is the standard verb."},
+  {"row": 7747, "field": "sentence_3", "old": "我哥哥的儿子是我的侄子。", "new": "我有一个可爱的侄子，他才三岁。", "reason": "The original sentence is a dictionary definition, not a natural contextual use. Replaced with a natural sentence that also incorporates the classifier 个, which none of the three original sentences used."},
+  {"row": 7747, "field": "translation_3", "old": "My older brother's son is my nephew.", "new": "I have a cute nephew; he is only three years old.", "reason": "Translation updated to match the new sentence."}
+]
