@@ -1,0 +1,13 @@
+[
+  {"row": 4205, "field": "translation_1", "old": "Her emotions and moods are difficult to control.", "new": "Her moods and emotions are difficult to control.", "reason": "情绪 = mood, 情感 = emotion; the order in the translation was reversed relative to the Chinese."},
+  {"row": 4220, "field": "sentence_1", "old": "校长有管理学校的权。", "new": "校长有管理学校的权力。", "reason": "权 as a standalone noun meaning 'authority' is a bound morpheme; natural Chinese requires 权力 here."},
+  {"row": 4220, "field": "sentence_2", "old": "他没有做这个决定的权。", "new": "他没有做这个决定的权力。", "reason": "权 alone is a bound morpheme; 权力 is the natural standalone noun for 'authority'."},
+  {"row": 4221, "field": "sentence_1", "old": "每个人都有说话的权。", "new": "每个人都有说话的权利。", "reason": "权 as a bound morpheme cannot stand alone for 'right'; the natural word is 权利."},
+  {"row": 4245, "field": "translation_3", "old": "Athletes need to take in sufficient calorific value.", "new": "Athletes need to take in sufficient calories.", "reason": "'Calorific value' is technical jargon; natural English in this everyday nutrition context is 'calories'."},
+  {"row": 4247, "field": "sentence_3", "old": "两人热烈地拥抱，久久不分开。", "new": "他们热烈地鼓掌欢送离别的朋友。", "reason": "Sentences 1 and 3 both depict 热烈地拥抱 (embracing warmly), making them near-duplicates within the row."},
+  {"row": 4247, "field": "translation_3", "old": "The two of them embraced warmly and held on for a long time.", "new": "They warmly applauded to send off a departing friend.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 4319, "field": "traditional", "old": "虵", "new": "蛇", "reason": "虵 is an archaic/variant glyph. The standard traditional form of 蛇 is 蛇, which is identical to the simplified form (the character was not simplified)."},
+  {"row": 4325, "field": "translation_1", "old": "They planned a new project.", "new": "They designed a new plan.", "reason": "设计 means 'to design/devise', and 计划 means 'plan', not 'project'. The translation mistranslates both words."},
+  {"row": 4344, "field": "sentence_3", "old": "这项决定产生了深远的影响。", "new": "他的思想对后代产生了深远的影响。", "reason": "Cross-row near-duplicate: row 4343 sentence_1 is '这个决定有深远的影响' and this sentence is almost identical in scenario (a decision having far-reaching influence)."},
+  {"row": 4344, "field": "translation_3", "old": "This decision produced long-lasting effects.", "new": "His ideas had a far-reaching and lasting influence on future generations.", "reason": "Updated to match corrected sentence_3."}
+]

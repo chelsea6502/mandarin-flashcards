@@ -1,0 +1,12 @@
+[
+  {"row": 4964, "field": "traditional", "old": "愿", "new": "願", "reason": "The traditional form of simplified 愿 is 願, not 愿."},
+  {"row": 4965, "field": "traditional", "old": "愿", "new": "願", "reason": "The traditional form of simplified 愿 is 願, not 愿."},
+  {"row": 4966, "field": "traditional", "old": "愿", "new": "願", "reason": "The traditional form of simplified 愿 is 願, not 愿."},
+  {"row": 4987, "field": "translation_1", "old": "Early stage computers were very large.", "new": "Early computers were very large.", "reason": "'Early stage computers' is unnatural English; 早期的电脑 = 'early computers'."},
+  {"row": 4990, "field": "translation_2", "old": "I have already heard this news for a long time.", "new": "I heard about this long ago.", "reason": "Unnatural phrasing; 早已听说了 means 'heard about it long ago', not 'have heard for a long time'."},
+  {"row": 4990, "field": "translation_3", "old": "She has already left this city long ago.", "new": "She left this city long ago.", "reason": "'Has already... long ago' is redundant; 早已离开 = 'left long ago'."},
+  {"row": 5028, "field": "definition", "old": "to exceed (a target or expectation)", "new": "to rise; to increase (beyond a level)", "reason": "涨 (zhǎng) means 'to rise/increase', not specifically 'to exceed'. The sentences illustrate rising beyond a target, which is the core 'rise' meaning."},
+  {"row": 5029, "field": "pinyin", "old": "zhǎng", "new": "zhàng", "reason": "涨 meaning 'to distend' (bloated stomach) is pronounced zhàng (4th tone), not zhǎng (3rd tone)."},
+  {"row": 5031, "field": "pinyin", "old": "zhǎng", "new": "zhàng", "reason": "涨 meaning 'to swell' (of an injured body part) is pronounced zhàng (4th tone), not zhǎng (3rd tone)."},
+  {"row": 5059, "field": "pos", "old": "verb, proper noun (person)", "new": "conjunction, preposition", "reason": "正如 is a conjunction/preposition meaning 'just as'; 'proper noun (person)' is a clear data error."}
+]

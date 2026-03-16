@@ -1,0 +1,13 @@
+[
+  {"row": 2910, "field": "translation_1", "old": "We should love and protect the public environment.", "new": "We should take care of the public environment.", "reason": "爱护 means to cherish and look after, not literally 'love and protect' — that phrasing is an unnatural calque in English."},
+  {"row": 2910, "field": "translation_2", "old": "Please love and protect the animals here.", "new": "Please take care of the animals here.", "reason": "爱护 should be rendered as 'take care of', not 'love and protect'."},
+  {"row": 2910, "field": "translation_3", "old": "Our parents taught us to love and protect our books.", "new": "Our parents taught us to take care of our books.", "reason": "爱护 should be rendered as 'take care of', not 'love and protect'."},
+  {"row": 2911, "field": "sentence_2", "old": "这个地区很安全，大家都感到安。", "new": "他出门在外，父母感到不安。", "reason": "感到安 with standalone 安 as a predicate is unnatural; 安 in the sense of 'safe/at ease' only functions standalone in fixed phrases like 不安. Replacing with a natural use of 安 (不安)."},
+  {"row": 2911, "field": "translation_2", "old": "This area is very safe; everyone feels secure.", "new": "While he was away from home, his parents felt uneasy.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 2922, "field": "translation_3", "old": "He made good use of the time.", "new": "He seized the moment.", "reason": "把握住了时间 means 'seized/grasped the time'; 'made good use of the time' is a loose paraphrase that obscures the meaning of 把握."},
+  {"row": 2931, "field": "sentence_3", "old": "这顿饭包含早餐和晚餐。", "new": "这个套餐包含早餐和晚餐。", "reason": "这顿饭 (this meal) cannot logically include both breakfast and dinner simultaneously. Changed to 套餐 (set meal/package) which can naturally include multiple meals."},
+  {"row": 2931, "field": "translation_3", "old": "This meal includes breakfast and dinner.", "new": "This meal package includes breakfast and dinner.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 2950, "field": "sentence_2", "old": "我们要保环境。", "new": "我们要保护好环境。", "reason": "保 alone as a free verb meaning 'protect' is unnatural; 保 in this sense is a bound morpheme that functions only in compounds like 保护, 保安, etc."},
+  {"row": 2950, "field": "translation_2", "old": "We must protect the environment.", "new": "We must protect the environment well.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 3008, "field": "definition", "old": "cake", "new": "flat round cake; flatbread", "reason": "饼 refers to flat round baked or pan-cooked food items (月饼, 烧饼, etc.), not the layered sponge cake that English 'cake' implies (蛋糕). The definition should reflect the flat, round nature of 饼."}
+]

@@ -1,0 +1,15 @@
+[
+  {"row": 4810, "field": "sentence_3", "old": "妈妈今天做了烤鸭子。", "new": "妈妈今天做了烤鸭。", "reason": "烤鸭子 is unnatural; the standard collocation for roast duck is 烤鸭, not 烤鸭子."},
+  {"row": 4811, "field": "sentence_2", "old": "我们每天要刷牙齿。", "new": "我们每天要刷牙。", "reason": "刷牙齿 is unnatural Chinese; the standard expression for brushing teeth is 刷牙, not 刷牙齿."},
+  {"row": 4820, "field": "translation_2", "old": "After watching the movie, his tears came out.", "new": "After watching the movie, he was moved to tears.", "reason": "'His tears came out' is unnatural English; 'moved to tears' is idiomatic."},
+  {"row": 4828, "field": "sentence_3", "old": "她轻轻地摇了摇手。", "new": "她轻轻地摇了摇铃。", "reason": "摇手 is not a natural collocation; one waves (挥手) a hand rather than 摇手. 摇铃 (shake a bell) is a natural use of 摇."},
+  {"row": 4828, "field": "translation_3", "old": "She gently shook her hand.", "new": "She gently rang the bell.", "reason": "Translation updated to match the corrected sentence."},
+  {"row": 4837, "field": "translation_1", "old": "His work ability is very strong.", "new": "His professional competence is very strong.", "reason": "'Work ability' is an unnatural calque of 业务能力, which means professional or business competence."},
+  {"row": 4837, "field": "translation_2", "old": "She works hard to improve her work level.", "new": "She works hard to improve her professional skills.", "reason": "'Work level' is an unnatural calque; 业务水平 means level of professional skills."},
+  {"row": 4838, "field": "translation_2", "old": "In her spare time she likes to paint as an amateur.", "new": "In her spare time she likes to paint.", "reason": "'As an amateur' is redundant given the row's definition and produces an awkward sentence."},
+  {"row": 4845, "field": "translation_2", "old": "Once you need help, I will come.", "new": "If ever you need help, I will come.", "reason": "This sentence illustrates the 'if ever' sense of 一旦; the translation should reflect that conditional meaning rather than the temporal 'once'."},
+  {"row": 4850, "field": "translation_1", "old": "The medical treatment conditions here are very good.", "new": "The medical care conditions here are very good.", "reason": "医疗条件 means healthcare/medical care conditions; 'medical treatment conditions' is awkward English."},
+  {"row": 4859, "field": "definition", "old": "to regret", "new": "regretful; to feel regret", "reason": "遗憾 is listed as 'adjective, adjective-noun'; defining it as a bare verb infinitive 'to regret' conflicts with the POS. The sentences use it as a predicate adjective meaning 'regretful'."},
+  {"row": 4900, "field": "translation_2", "old": "She firmly refused his request.", "new": "She hardened her heart and refused his request.", "reason": "The sentence 她硬着心肠拒绝了他的请求 contains the idiom 硬着心肠 (to harden one's heart); the translation omits this meaning entirely."},
+  {"row": 4918, "field": "translation_3", "old": "Her language ability is her advantage.", "new": "Her language ability is her superiority.", "reason": "This row's definition is 'superiority'; translating 优势 as 'advantage' here contradicts the definition being illustrated."}
+]

@@ -1,0 +1,20 @@
+[
+  {"row": 3195, "field": "definition", "old": "to encourage", "new": "to prompt", "reason": "促使 means to cause/prompt/urge someone to do something — stronger and more directive than 'encourage'; 'to prompt' is more accurate"},
+  {"row": 3200, "field": "translation_3", "old": "You can deposit luggage here.", "new": "You can store your luggage here.", "reason": "'deposit' is unnatural English for luggage; 存放 in this context means to store/leave for safekeeping"},
+  {"row": 3207, "field": "translation_1", "old": "She got dressed up very beautifully.", "new": "She dressed up beautifully.", "reason": "'got dressed up very beautifully' is awkward; 'dressed up beautifully' is more natural English"},
+  {"row": 3226, "field": "translation_1", "old": "A large quantity of tourists came to this city.", "new": "A large number of tourists came to this city.", "reason": "'a large quantity of' is for uncountable items; for people, 'a large number of' is the correct English collocation"},
+  {"row": 3226, "field": "translation_3", "old": "A large quantity of students signed up for the competition.", "new": "A large number of students signed up for the competition.", "reason": "'quantity' is unnatural for people; 'number' is correct"},
+  {"row": 3228, "field": "translation_3", "old": "Company development is the top matter of great importance.", "new": "Company development is the top priority.", "reason": "'top matter of great importance' is a clunky calque; 头等大事 is naturally rendered as 'top priority' in English"},
+  {"row": 3239, "field": "translation_1", "old": "He substituted for me to attend the meeting.", "new": "He attended the meeting in my place.", "reason": "'substituted for me to attend' is unnatural English; 'attended in my place' is idiomatic"},
+  {"row": 3260, "field": "translation_1", "old": "He considered me as his friend.", "new": "He regarded me as his friend.", "reason": "'considered as' is non-standard; 当成 means to regard/treat as, so 'regarded as' is correct"},
+  {"row": 3260, "field": "translation_2", "old": "Don't consider a joke as real.", "new": "Don't treat a joke as real.", "reason": "'consider ... as' is unnatural for 当成; 'treat as' is the natural English equivalent"},
+  {"row": 3260, "field": "translation_3", "old": "She considered work as her entire life.", "new": "She treated work as her entire life.", "reason": "Same 'consider as' issue; 'treated as' better reflects 当成"},
+  {"row": 3266, "field": "translation_1", "old": "He considers me as a friend.", "new": "He treats me as a friend.", "reason": "'considers me as' is unnatural English; 当作 means to treat/regard as"},
+  {"row": 3266, "field": "translation_2", "old": "Please don't consider me as an outsider.", "new": "Please don't treat me as an outsider.", "reason": "Same pattern; 'treat as' is the correct English collocation for 当作"},
+  {"row": 3266, "field": "translation_3", "old": "She considers this place as her own home.", "new": "She treats this place as her own home.", "reason": "Same issue — 'considers as' is non-standard"},
+  {"row": 3285, "field": "REMOVE", "old": "", "new": "", "reason": "Row 3285 is a complete duplicate of row 3284 — same headword 登录, same definition 'to log in', same pos"},
+  {"row": 3324, "field": "sentence_3", "old": "他在地上做了一个洞。", "new": "他在地上挖了一个洞。", "reason": "做了一个洞 is unnatural collocation; 挖 (to dig) is the correct verb for making a hole in the ground"},
+  {"row": 3324, "field": "translation_3", "old": "He made a hole in the ground.", "new": "He dug a hole in the ground.", "reason": "Matches correction to sentence_3; 'dug' is the natural English verb here"},
+  {"row": 3330, "field": "sentence_2", "old": "她独自一个人住。", "new": "她独自住在城里。", "reason": "独自一个人 is redundant — 独自 already means alone; rewrite removes the redundancy"},
+  {"row": 3330, "field": "translation_2", "old": "She lives alone by herself.", "new": "She lives in the city on her own.", "reason": "Matches corrected sentence_2; removes 'alone by herself' redundancy"}
+]
