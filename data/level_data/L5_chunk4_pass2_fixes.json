@@ -1,0 +1,8 @@
+[
+  {"row": 3355, "field": "translation_2", "old": "He issued an important speech at the meeting.", "new": "He delivered an important speech at the meeting.", "reason": "You deliver or give a speech, not 'issue' one; 'issued a speech' is unnatural English."},
+  {"row": 3383, "field": "translation_1", "old": "He quickly came to his senses and reacted.", "new": "He quickly snapped back to his senses.", "reason": "他很快反应过来了 means he quickly came around/reacted; 'came to his senses and reacted' is redundant."},
+  {"row": 3398, "field": "sentence_1", "old": "你要防小偷。", "new": "多运动能防病。", "reason": "Row 3397 (防 'guard against') already uses 要防小偷 as sentence_1; using a nearly identical sentence for this row (防 'to prevent') is a near-duplicate across rows of the same character."},
+  {"row": 3398, "field": "translation_1", "old": "You need to guard against thieves.", "new": "Exercising more can prevent illness.", "reason": "Updated to match corrected sentence_1; also the old translation reflects 'guard against' (row 3397's definition) rather than 'prevent'."},
+  {"row": 3435, "field": "translation_2", "old": "She paid a great deal of time and energy.", "new": "She devoted a great deal of time and energy.", "reason": "In English you 'devote' or 'expend' time and energy, not 'pay' it; 'paid time' is unnatural."},
+  {"row": 3472, "field": "translation_3", "old": "We did up a plan.", "new": "We put together a plan.", "reason": "'Did up a plan' is unnatural English; 'put together a plan' is the natural phrasing."}
+]

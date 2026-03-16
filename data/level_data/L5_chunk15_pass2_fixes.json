@@ -1,0 +1,16 @@
+[
+  {"row": 4790, "field": "translation_1", "old": "Exercise is useful to the body.", "new": "Exercise is beneficial to the body.", "reason": "有益 means 'beneficial', not merely 'useful'; 有用 is 'useful'."},
+  {"row": 4790, "field": "translation_2", "old": "Reading is useful to expanding knowledge.", "new": "Reading is beneficial to expanding knowledge.", "reason": "有益 means 'beneficial', not 'useful'."},
+  {"row": 4790, "field": "translation_3", "old": "This activity is useful to children's growth.", "new": "This activity is beneficial to children's growth.", "reason": "有益 means 'beneficial', not 'useful'."},
+  {"row": 4800, "field": "translation_1", "old": "Early stage computers were very large.", "new": "Early computers were very large.", "reason": "'Early stage computers' is unnatural; 'early computers' is the standard phrasing."},
+  {"row": 4805, "field": "translation_1", "old": "The exhibition laid bare his artistic talent.", "new": "The exhibition displayed his artistic talent.", "reason": "展示 means 'to display/show'; 'laid bare' implies exposing something hidden, which is a mistranslation."},
+  {"row": 4805, "field": "translation_2", "old": "The museum laid bare many cultural relics.", "new": "The museum displayed many cultural relics.", "reason": "展示 means 'to display', not 'to lay bare'."},
+  {"row": 4805, "field": "translation_3", "old": "This report laid bare the real situation of the company.", "new": "This report revealed the real situation of the company.", "reason": "展示 means 'to display/reveal'; 'laid bare' is a mistranslation. 'Revealed' fits this context better."},
+  {"row": 4809, "field": "sentence_3", "old": "物价一直在涨。", "new": "水位在慢慢地涨。", "reason": "Sentence_1 already says 物价涨了 (prices have risen); sentence_3 物价一直在涨 is a near-duplicate scenario. Replaced with a different subject."},
+  {"row": 4809, "field": "translation_3", "old": "Prices have been rising all along.", "new": "The water level is slowly rising.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 4815, "field": "sentence_2", "old": "观众们热烈鼓掌表示感谢。", "new": "观众们热烈的掌声让演员们很感动。", "reason": "Sentence_2 uses 鼓掌 (to clap) rather than the headword 掌声 (applause). Rewritten to use the headword."},
+  {"row": 4815, "field": "translation_2", "old": "The audience applauded warmly to show appreciation.", "new": "The audience's warm applause moved the performers.", "reason": "Updated to match corrected sentence_2."},
+  {"row": 4819, "field": "translation_3", "old": "After years of study, she has already had a good grasp of English.", "new": "After years of study, she already has a good grasp of English.", "reason": "'Has already had' is incorrect English; 'already has' is correct."},
+  {"row": 4826, "field": "translation_3", "old": "He is a very sincere and honest and genuine person.", "new": "He is a very sincere and genuine person.", "reason": "'Sincere and honest and genuine' is redundant; 'sincere and genuine' is sufficient."},
+  {"row": 4831, "field": "translation_1", "old": "Just like I said, this plan is feasible.", "new": "Just as I said, this plan is feasible.", "reason": "正如 means 'just as'; 'just like' is a colloquial comparison, while 'just as' is the accurate formal equivalent."}
+]

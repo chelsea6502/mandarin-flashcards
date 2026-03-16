@@ -1,0 +1,9 @@
+[
+  {"row": 2917, "field": "traditional", "old": "晻", "new": "暗", "reason": "The traditional form of 暗 is 暗 (same in both scripts). 晻 is a completely different and rare character."},
+  {"row": 2918, "field": "traditional", "old": "晻", "new": "暗", "reason": "Same error as row 2917: traditional form of 暗 is 暗, not 晻."},
+  {"row": 2975, "field": "translation_3", "old": "This shop sells only local products from this locality.", "new": "This shop sells only local products.", "reason": "Redundancy: 'local products from this locality' says the same thing twice."},
+  {"row": 2981, "field": "sentence_3", "old": "这种东西的本质是硬的。", "new": "人的本质难以改变。", "reason": "本质 refers to innate character or essence, not physical properties like hardness. Using it to describe physical hardness is a wrong collocation."},
+  {"row": 2981, "field": "translation_3", "old": "The nature of this thing is hard.", "new": "A person's nature is hard to change.", "reason": "Translation of the corrected sentence."},
+  {"row": 2988, "field": "sentence_1", "old": "失败是成功的必然结果吗？", "new": "成功是努力的必然结果吗？", "reason": "The original sentence claims failure is the inevitable result of success, which is logically backwards and nonsensical. The corrected sentence asks whether success is the inevitable result of effort."},
+  {"row": 2988, "field": "translation_1", "old": "Is failure an inevitable result of success?", "new": "Is success an inevitable result of effort?", "reason": "Translation of the corrected sentence."}
+]

@@ -1,0 +1,18 @@
+[
+  {"row": 3151, "field": "definition", "old": "to accomplish", "new": "to reach; to achieve", "reason": "达成 means 'to reach/achieve (an agreement/goal)'; 'to accomplish' is a mistranslation that fits 完成 better."},
+  {"row": 3151, "field": "translation_1", "old": "They finally accomplished an agreement after a long discussion.", "new": "They finally reached an agreement after a long discussion.", "reason": "Updated to match corrected definition."},
+  {"row": 3151, "field": "translation_2", "old": "We accomplished our goal ahead of schedule.", "new": "We achieved our goal ahead of schedule.", "reason": "Updated to match corrected definition."},
+  {"row": 3151, "field": "translation_3", "old": "They accomplished an agreement to cooperate.", "new": "They reached a cooperation agreement.", "reason": "Updated to match corrected definition."},
+  {"row": 3159, "field": "sentence_1", "old": "大多数人喜欢看电影。", "new": "大多人喜欢看电影。", "reason": "Headword is 大多, not 大多数; sentence must use the headword directly."},
+  {"row": 3159, "field": "sentence_2", "old": "大多数学生都完成了作业。", "new": "大多学生都完成了作业。", "reason": "Headword is 大多, not 大多数."},
+  {"row": 3159, "field": "sentence_3", "old": "大多数人都有手机。", "new": "大多人都有手机。", "reason": "Headword is 大多, not 大多数."},
+  {"row": 3200, "field": "definition", "old": "to register; to log in", "new": "to log in", "reason": "登录 means 'to log in' (to a system/website); 'to register' is 注册, not 登录."},
+  {"row": 3200, "field": "sentence_1", "old": "请先登录账号。", "new": "请先登录你的账号。", "reason": "Minor natural improvement; also ensures translation matches."},
+  {"row": 3200, "field": "translation_1", "old": "Please register your account first.", "new": "Please log in to your account first.", "reason": "登录 means log in, not register."},
+  {"row": 3200, "field": "translation_2", "old": "You need to register before you can use this function.", "new": "You need to log in before you can use this function.", "reason": "登录 means log in, not register."},
+  {"row": 3200, "field": "translation_3", "old": "I forgot my password and can't register.", "new": "I forgot my password and can't log in.", "reason": "登录 means log in, not register."},
+  {"row": 3207, "field": "translation_2", "old": "The ground is the surface on Earth.", "new": "The ground is the surface of the earth.", "reason": "'On Earth's surface' is awkward; 'surface of the earth' is natural."},
+  {"row": 3219, "field": "translation_1", "old": "Her singing made everyone feel touched.", "new": "Her singing moved everyone.", "reason": "'Made everyone feel touched' is awkward English; 'moved everyone' is natural."},
+  {"row": 3228, "field": "sentence_2", "old": "她独自一个人住在山里。", "new": "她独自住在山里。", "reason": "独自 already means 'alone by oneself'; 一个人 is redundant."},
+  {"row": 3228, "field": "translation_2", "old": "She lives alone by herself in the mountains.", "new": "She lives alone in the mountains.", "reason": "Updated to match corrected sentence_2; 'alone by herself' is redundant."}
+]

@@ -1,0 +1,14 @@
+[
+  {"row": 3934, "field": "sentence_1", "old": "这两个电脑之间有连接。", "new": "请把这两台电脑连接起来。", "reason": "Definition is the verb 'to connect'; sentence_1 uses the noun form (有连接). Rewritten to use 连接 as a verb."},
+  {"row": 3934, "field": "translation_1", "old": "There is a connection between these two computers.", "new": "Please connect these two computers.", "reason": "Updated to match corrected sentence_1."},
+  {"row": 3934, "field": "sentence_2", "old": "这个连接很稳定。", "new": "这条路连接了两座城市。", "reason": "Definition is the verb 'to connect'; sentence_2 uses 连接 as a noun (this connection). Rewritten to use 连接 as a verb."},
+  {"row": 3934, "field": "translation_2", "old": "This connection is very stable.", "new": "This road connects two cities.", "reason": "Updated to match corrected sentence_2."},
+  {"row": 3934, "field": "sentence_3", "old": "网络连接断了。", "new": "这座桥连接了河两岸。", "reason": "Definition is the verb 'to connect'; sentence_3 uses 连接 as a noun again. Rewritten to use 连接 as a verb."},
+  {"row": 3934, "field": "translation_3", "old": "The internet connection dropped.", "new": "This bridge connects the two banks of the river.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 3940, "field": "definition", "old": "to make (somebody do something); to cause; (used to express feelings", "new": "to make (somebody do something); to cause; (used to express feelings)", "reason": "Missing closing parenthesis at end of definition."},
+  {"row": 3974, "field": "translation_2", "old": "It's leaking rain here.", "new": "Rain is leaking in here.", "reason": "'It's leaking rain' is unnatural English; 'rain is leaking in' is the correct phrasing."},
+  {"row": 3980, "field": "definition", "old": "record", "new": "to record", "reason": "录 is a verb meaning 'to record'; the definition should include 'to'."},
+  {"row": 4055, "field": "traditional", "old": "閙", "new": "鬧", "reason": "Incorrect traditional character for 闹; correct traditional form is 鬧."},
+  {"row": 4056, "field": "traditional", "old": "閙", "new": "鬧", "reason": "Incorrect traditional character for 闹; correct traditional form is 鬧."},
+  {"row": 4057, "field": "traditional", "old": "閙", "new": "鬧", "reason": "Incorrect traditional character for 闹; correct traditional form is 鬧."}
+]

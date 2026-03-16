@@ -1,0 +1,10 @@
+[
+  {"row": 4100, "field": "translation_1", "old": "The interior situation is not good.", "new": "The internal situation is not good.", "reason": "'Interior situation' is unnatural English; 'internal situation' is the correct phrasing for 内部情况."},
+  {"row": 4119, "field": "translation_1", "old": "Your accompaniment means a lot to me.", "new": "Your company means a lot to me.", "reason": "陪伴 means 'company/companionship', not 'accompaniment' (which implies music); 'company' is the natural English equivalent."},
+  {"row": 4119, "field": "translation_2", "old": "Thank you for your accompaniment all these years.", "new": "Thank you for your company all these years.", "reason": "陪伴 means 'company', not 'accompaniment'."},
+  {"row": 4123, "field": "translation_1", "old": "These colors join together well.", "new": "These colors match well.", "reason": "配 here means 'to match/go well together'; 'join together' is a mistranslation."},
+  {"row": 4123, "field": "translation_2", "old": "This shirt joins together well with this pair of pants.", "new": "This shirt matches well with these pants.", "reason": "配 means 'to match'; 'joins together' is awkward and mistranslated."},
+  {"row": 4143, "field": "sentence_3", "old": "凭他的努力，一定能成功。", "new": "凭一张照片，警察认出了他。", "reason": "Sentence_1 already uses 凭他的能力一定能成功 (very similar pattern: 凭 + 他的X + 一定能成功). Sentence_3 is a near-duplicate scenario. Replaced with a different usage of 凭."},
+  {"row": 4143, "field": "translation_3", "old": "Based on his efforts, he will certainly succeed.", "new": "Based on a photo, the police recognized him.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 4150, "field": "translation_2", "old": "He asked the celebrity to sign his name.", "new": "He asked the celebrity to sign an autograph.", "reason": "'Sign his name' is ambiguous (whose name?); '签名' in this context means to get an autograph — 'sign an autograph' is idiomatic."}
+]

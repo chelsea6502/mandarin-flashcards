@@ -1,0 +1,11 @@
+[
+  {"row": 4544, "field": "translation_2", "old": "When we speak of this matter, everyone is unhappy.", "new": "When this matter was brought up, everyone was unhappy.", "reason": "提起 means 'to bring up/mention'; 'when we speak of' implies ongoing discussion rather than the act of raising a topic."},
+  {"row": 4551, "field": "translation_1", "old": "He was challenged to a contest by his opponent.", "new": "He was challenged by his opponent.", "reason": "'Challenged to a contest' is redundant — 挑战 already implies a challenge/contest; 'challenged' alone is sufficient."},
+  {"row": 4564, "field": "translation_1", "old": "This song has a beautiful lilt.", "new": "This song has a beautiful tune.", "reason": "调 means 'tune/melody'; 'lilt' is a specific rhythmic quality, not the general word for melody."},
+  {"row": 4564, "field": "translation_2", "old": "The lilt of this folk song is very distinctive.", "new": "The tune of this folk song is very distinctive.", "reason": "调 means 'tune/melody', not 'lilt'."},
+  {"row": 4564, "field": "translation_3", "old": "I like songs with a lively lilt.", "new": "I like songs with a lively tune.", "reason": "调 means 'tune/melody', not 'lilt'."},
+  {"row": 4573, "field": "translation_1", "old": "This road is gone through to traffic.", "new": "This road is open to traffic.", "reason": "'Gone through to traffic' is unnatural English; 'open to traffic' is the correct phrasing for 通行."},
+  {"row": 4573, "field": "translation_2", "old": "Due to construction, this road is not gone through.", "new": "Due to construction, this road is not passable.", "reason": "'Not gone through' is unnatural; 'not passable' correctly renders 不通行."},
+  {"row": 4573, "field": "translation_3", "old": "The new bridge allows vehicles to go through.", "new": "The new bridge allows vehicles to pass through.", "reason": "'Go through' is less precise; 'pass through' is the natural English for 通行."},
+  {"row": 4582, "field": "translation_2", "old": "According to statistics data, the population has increased.", "new": "According to statistical data, the population has increased.", "reason": "'Statistics data' is not standard English; 'statistical data' is the correct collocation."}
+]

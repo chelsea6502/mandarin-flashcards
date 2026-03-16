@@ -1,0 +1,9 @@
+[
+  {"row": 4879, "field": "translation_1", "old": "The coach coached the athletes to guide them to victory.", "new": "The coach guided the athletes to victory.", "reason": "'Coach coached...to guide' is redundant and awkward; 指导 means 'to guide/coach', simplified to natural English."},
+  {"row": 4889, "field": "translation_3", "old": "The influence of this event extended at the borders of the country.", "new": "The influence of this event extended to the borders of the country.", "reason": "'Extended at the borders' is unnatural; 'extended to the borders' is correct."},
+  {"row": 4896, "field": "sentence_3", "old": "这件事至关重要，我们必须认真对待。", "new": "健康至关重要，不能忽视。", "reason": "Sentence_1 already says 这次会议至关重要,我们必须认真对待 — sentence_3 is a near-duplicate of sentence_1 in both structure and content."},
+  {"row": 4896, "field": "translation_3", "old": "This matter is of the utmost importance, we must take it seriously.", "new": "Health is of the utmost importance and cannot be ignored.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 5127, "field": "sentence_1", "old": "她主持了整个婚礼。", "new": "他主持了这次重要会议。", "reason": "Row 5127 is for 主持 in the sense of 'to host/chair (a meeting/event)'; 婚礼 (wedding) is typically 主婚 not 主持; using 会议 more clearly illustrates this sense."},
+  {"row": 5127, "field": "translation_1", "old": "She hosted the entire wedding.", "new": "He chaired this important meeting.", "reason": "Updated to match corrected sentence_1."},
+  {"row": 5155, "field": "translation_2", "old": "These elements are made up into a new compound.", "new": "These elements combine to create a new compound.", "reason": "'Made up into' is awkward English; 'combine to create' is natural."}
+]

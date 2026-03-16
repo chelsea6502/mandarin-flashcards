@@ -1,0 +1,9 @@
+[
+  {"row": 3051, "field": "translation_1", "old": "Great-grandfather is grandfather's father — separated by two generations.", "new": "Great-grandfather is grandfather's father.", "reason": "The phrase 'separated by two generations' is not in the Chinese sentence; it restates the definition redundantly."},
+  {"row": 3051, "field": "translation_3", "old": "A great-grandchild is the child of one's grandchild — separated by two generations.", "new": "A great-grandchild is the child of one's grandchild.", "reason": "The phrase 'separated by two generations' is not in the Chinese sentence; it restates the definition redundantly."},
+  {"row": 3078, "field": "translation_2", "old": "He is a super star.", "new": "He is a superstar.", "reason": "Awkward English — 'superstar' is a single word in standard English."},
+  {"row": 3116, "field": "translation_1", "old": "Children mature in love and become more confident.", "new": "Children grow up with love and become more confident.", "reason": "The definition is 'to grow up'; all three translations say 'mature' instead, contradicting the stated definition."},
+  {"row": 3116, "field": "translation_2", "old": "She matured through hardship and became very strong.", "new": "She grew up through hardship and became very strong.", "reason": "The definition is 'to grow up'; translation uses 'matured' instead."},
+  {"row": 3116, "field": "translation_3", "old": "Young people need time to mature.", "new": "Young people need time to grow up.", "reason": "The definition is 'to grow up'; translation uses 'mature' instead."},
+  {"row": 3171, "field": "translation_2", "old": "The athlete transmitted the baton.", "new": "The athlete passed the baton.", "reason": "Wrong collocation — 'transmit' is not used for passing a relay baton in English; 'pass' is the correct verb."}
+]
