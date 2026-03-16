@@ -1,0 +1,12 @@
+[
+  {"row": 3960, "field": "translation_2", "old": "This is a very good progress.", "new": "This is excellent progress.", "reason": "'A very good progress' is unnatural English; 'progress' is uncountable."},
+  {"row": 3976, "field": "sentence_2", "old": "请保持静，不要说话。", "new": "请保持安静，不要说话。", "reason": "保持静 is unnatural; standard collocation is 保持安静."},
+  {"row": 4000, "field": "sentence_1", "old": "两城之间的距很远。", "new": "两城之间的距离很远。", "reason": "距 is a preposition/verb, not a standalone noun for 'distance'; correct noun is 距离."},
+  {"row": 4000, "field": "sentence_2", "old": "从这里到车站距大约五公里。", "new": "从这里到车站距离大约五公里。", "reason": "Same issue: 距 alone cannot serve as the noun 'distance'."},
+  {"row": 4000, "field": "sentence_3", "old": "他们之间的距越来越大。", "new": "他们之间的距离越来越大。", "reason": "Same issue: the noun for 'distance' is 距离, not bare 距."},
+  {"row": 4038, "field": "sentence_3", "old": "直升机进行了空中帮助。", "new": "直升机进行了空中救援。", "reason": "空中帮助 is an unnatural collocation; 空中救援 is the natural expression."},
+  {"row": 4038, "field": "translation_3", "old": "The helicopter carried out aerial assistance.", "new": "The helicopter carried out an aerial rescue.", "reason": "Updated to match corrected Chinese sentence."},
+  {"row": 4057, "field": "translation_3", "old": "Labor Day is a holiday celebrating workers' physical labor.", "new": "Labor Day is a holiday that celebrates workers.", "reason": "Chinese 庆祝工人的节日 means 'a holiday celebrating workers'; 'physical labor' is not mentioned."},
+  {"row": 4093, "field": "sentence_1", "old": "这对大家都有一个好处。", "new": "这个决定对大家都有利益。", "reason": "Original uses 好处 instead of 利益, failing to illustrate the target word."},
+  {"row": 4093, "field": "translation_1", "old": "This is a benefit for everyone.", "new": "This decision benefits everyone.", "reason": "Updated to match corrected Chinese sentence using 利益."}
+]

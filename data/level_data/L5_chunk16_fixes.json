@@ -1,0 +1,16 @@
+[
+  {"row": 5310, "field": "sentence_3", "old": "这台机器一直处于正常工作状态。", "new": "她的心情状态影响了大家。", "reason": "Sentences 1 and 3 are too similar — both describe a machine being in a 'working state'."},
+  {"row": 5310, "field": "translation_3", "old": "This machine has been in a normal working state the whole time.", "new": "Her emotional state affected everyone.", "reason": "Translation updated to match the corrected sentence_3."},
+  {"row": 5313, "field": "pinyin", "old": "duī", "new": "zhuī", "reason": "追 is pronounced zhuī, not duī."},
+  {"row": 5333, "field": "sentence_1", "old": "请告诉我这次考试的总数。", "new": "请告诉我这次考试的总分数。", "reason": "总数 (total count) is unnatural with 考试; 总分数 (total score) is more natural."},
+  {"row": 5333, "field": "translation_1", "old": "Please tell me the total of this exam.", "new": "Please tell me the total score of this exam.", "reason": "Translation updated to match the corrected sentence_1."},
+  {"row": 5333, "field": "sentence_2", "old": "参加活动的人数总数是五十人。", "new": "参加活动的总数是五十人。", "reason": "人数总数 is redundant (人数 already means 'number of people')."},
+  {"row": 5333, "field": "translation_2", "old": "The total number of participants in the activity is fifty.", "new": "The total number of people at the activity is fifty.", "reason": "Updated to match the simplified Chinese."},
+  {"row": 5340, "field": "sentence_1", "old": "他属于一个古老的族。", "new": "他属于一个古老的部族。", "reason": "族 as standalone noun is unnatural; 部族 (tribe/clan) is the natural standalone form."},
+  {"row": 5340, "field": "translation_1", "old": "He belongs to an ancient clan.", "new": "He belongs to an ancient tribe.", "reason": "Translation updated to match 部族."},
+  {"row": 5340, "field": "sentence_2", "old": "这个族世代生活在山里。", "new": "这个部族世代生活在山里。", "reason": "族 alone as a standalone noun is unnatural; 部族 is the correct standalone form."},
+  {"row": 5340, "field": "translation_2", "old": "This clan has lived in the mountains for generations.", "new": "This tribe has lived in the mountains for generations.", "reason": "Translation updated to match 部族."},
+  {"row": 5340, "field": "sentence_3", "old": "族里的长者受到大家的尊敬。", "new": "部族里的长者受到大家的尊敬。", "reason": "族 alone is unnatural as standalone noun; 部族 is idiomatic."},
+  {"row": 5340, "field": "translation_3", "old": "The elders of the clan are respected by everyone.", "new": "The elders of the tribe are respected by everyone.", "reason": "Translation updated to match 部族."},
+  {"row": 5348, "field": "translation_3", "old": "The initial plan changed a lot at first.", "new": "The initial plan later changed a lot.", "reason": "后来 means 'later,' not 'at first'; the translation incorrectly rendered 后来 as 'at first'."}
+]

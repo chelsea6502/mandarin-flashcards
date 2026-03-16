@@ -1,0 +1,114 @@
+[
+  {
+    "row": 3208,
+    "field": "translation_1",
+    "old": "What is the difference between these two things?",
+    "new": "What is the difference between these two words?",
+    "reason": "Sentence says 这两个词 (two words), not two things."
+  },
+  {
+    "row": 3214,
+    "field": "sentence_2",
+    "old": "工厂每天产很多汽车。",
+    "new": "这个地区产很多苹果。",
+    "reason": "工厂每天产很多汽车 is stilted; 产 as a standalone verb sounds natural in agricultural/regional contexts."
+  },
+  {
+    "row": 3214,
+    "field": "translation_2",
+    "old": "The factory produces many cars every day.",
+    "new": "This region produces a lot of apples.",
+    "reason": "Translation updated to match new sentence_2."
+  },
+  {
+    "row": 3233,
+    "field": "sentence_3",
+    "old": "每个朝都有自己的文化。",
+    "new": "每个朝代都有自己的文化。",
+    "reason": "每个朝 is unnatural; the standalone noun for dynasty is 朝代."
+  },
+  {
+    "row": 3260,
+    "field": "sentence_1",
+    "old": "他的成功来自努力学习。",
+    "new": "他的成就让全家人都很骄傲。",
+    "reason": "Original sentence uses 成功 (a different word), not 成就 at all."
+  },
+  {
+    "row": 3260,
+    "field": "translation_1",
+    "old": "His success comes from studying hard.",
+    "new": "His success made the whole family very proud.",
+    "reason": "Translation updated to match corrected sentence_1."
+  },
+  {
+    "row": 3311,
+    "field": "sentence_1",
+    "old": "初，他对这个城市不熟悉。",
+    "new": "年初，他来到这个城市工作。",
+    "reason": "初 as a bare standalone word starting a sentence is unnatural; must appear in compounds like 年初, 月初."
+  },
+  {
+    "row": 3311,
+    "field": "translation_1",
+    "old": "In the beginning, he was unfamiliar with this city.",
+    "new": "At the beginning of the year, he came to this city to work.",
+    "reason": "Translation updated to match corrected sentence_1."
+  },
+  {
+    "row": 3311,
+    "field": "sentence_2",
+    "old": "学习的初，要打好基础。",
+    "new": "学期初，老师让大家做自我介绍。",
+    "reason": "学习的初 is unnatural; 初 combines with time-period nouns, not verbal nouns."
+  },
+  {
+    "row": 3311,
+    "field": "translation_2",
+    "old": "At the beginning of learning, you must build a solid foundation.",
+    "new": "At the beginning of the semester, the teacher asked everyone to introduce themselves.",
+    "reason": "Translation updated to match corrected sentence_2."
+  },
+  {
+    "row": 3316,
+    "field": "sentence_1",
+    "old": "他处了这件事，很快解决了。",
+    "new": "他处置了这件事，很快解决了。",
+    "reason": "处 as a standalone verb is not idiomatic; 处置 is the natural compound."
+  },
+  {
+    "row": 3316,
+    "field": "translation_1",
+    "old": "He handled this matter and resolved it quickly.",
+    "new": "He dealt with this matter and resolved it quickly.",
+    "reason": "Translation updated to match corrected sentence_1."
+  },
+  {
+    "row": 3316,
+    "field": "sentence_2",
+    "old": "这个问题需要认真处。",
+    "new": "这个问题需要认真地处置。",
+    "reason": "需要认真处 is grammatically incomplete as a sentence-final bare 处."
+  },
+  {
+    "row": 3316,
+    "field": "translation_2",
+    "old": "This problem needs to be handled carefully.",
+    "new": "This problem needs to be dealt with carefully.",
+    "reason": "Translation updated to match corrected sentence_2."
+  },
+  {
+    "row": 3316,
+    "field": "sentence_3",
+    "old": "经理亲自处了这件事情。",
+    "new": "经理亲自处置了这件事情。",
+    "reason": "经理亲自处了 is unnatural; 处 cannot stand alone as a perfective verb."
+  },
+  {
+    "row": 3316,
+    "field": "translation_3",
+    "old": "The manager personally handled this matter.",
+    "new": "The manager personally dealt with this matter.",
+    "reason": "Translation updated to match corrected sentence_3."
+  }
+]

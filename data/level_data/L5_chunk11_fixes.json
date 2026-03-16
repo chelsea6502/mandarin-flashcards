@@ -1,0 +1,15 @@
+[
+  {"row": 4572, "field": "sentence_3", "old": "他们视为兄弟一样。", "new": "他们把对方视为兄弟。", "reason": "Original is grammatically incomplete — 视为 requires 把...视为 pattern; '一样' is redundant after 视为."},
+  {"row": 4588, "field": "sentence_3", "old": "我的手指很长。", "new": "他切菜时切到了手指。", "reason": "Sentence_1 already says 'her fingers are long'; sentence_3 is a near-duplicate."},
+  {"row": 4588, "field": "translation_3", "old": "My fingers are very long.", "new": "He cut his finger while chopping vegetables.", "reason": "Matches the new sentence_3."},
+  {"row": 4599, "field": "sentence_3", "old": "请输入你的名字。", "new": "这个国家输入了大量石油。", "reason": "Definition is 'to import'; original illustrates 'to input/enter' (a different definition)."},
+  {"row": 4599, "field": "translation_3", "old": "Please enter your name.", "new": "This country imports a large amount of oil.", "reason": "Matches the corrected sentence_3."},
+  {"row": 4621, "field": "sentence_3", "old": "他把房间整理得很顺。", "new": "这次活动进行得很顺，没有出什么问题。", "reason": "'整理得很顺' is unnatural for 'without disorder'; 顺 describes processes going smoothly, not room tidying."},
+  {"row": 4621, "field": "translation_3", "old": "He organized the room without disorder.", "new": "The event went without disorder — nothing went wrong.", "reason": "Matches the corrected sentence_3."},
+  {"row": 4659, "field": "translation_2", "old": "There are three flights of steps at the building entrance.", "new": "There are three steps at the building entrance.", "reason": "三层台阶 describes three tiers/steps, not three full 'flights of steps.'"},
+  {"row": 4672, "field": "sentence_1", "old": "这种音乐有很独特的、特有的风格。", "new": "这种音乐有特有的风格。", "reason": "Using both 独特 and 特有 together is redundant; 特有 is the target word."},
+  {"row": 4672, "field": "translation_1", "old": "This music has a very unique, distinctive style.", "new": "This music has a distinctive style.", "reason": "Matches the simplified sentence_1."},
+  {"row": 4691, "field": "sentence_3", "old": "这种材料可以替旧材料。", "new": "这种材料可以替换旧材料。", "reason": "'替旧材料' is grammatically incomplete; 替换 is needed for 'to replace'."},
+  {"row": 4697, "field": "sentence_2", "old": "他们把坑填上了泥土。", "new": "她把枕头里填满了棉花。", "reason": "'把坑填上了泥土' illustrates 'to fill (a hole)' — that is row 4696's definition, not row 4697 ('to stuff')."},
+  {"row": 4697, "field": "translation_2", "old": "They stuffed the pit with soil.", "new": "She stuffed the pillow full of cotton.", "reason": "Matches the corrected sentence_2."}
+]

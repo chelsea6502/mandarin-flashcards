@@ -1,0 +1,22 @@
+[
+  {"row": 4708, "field": "sentence_1", "old": "他调整了空调的温度。", "new": "他调了一下音乐的音量。", "reason": "Original uses 调整 (a different word), not the target word 调."},
+  {"row": 4708, "field": "translation_1", "old": "He adjusted the air conditioner's temperature.", "new": "He adjusted the volume of the music.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4720, "field": "translation_1", "old": "She usually gets up at seven — that's her regular time.", "new": "She usually gets up at seven.", "reason": "Added clause not in the Chinese; 她通常七点起床 is a plain sentence."},
+  {"row": 4724, "field": "sentence_1", "old": "这两件事不同，也不同。", "new": "这两件事完全相同。", "reason": "Original is grammatically broken/nonsensical (repeats 不同 twice with no coherent meaning)."},
+  {"row": 4724, "field": "translation_1", "old": "These two things are not identical either.", "new": "These two things are completely identical.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4726, "field": "translation_1", "old": "They attend the identical school.", "new": "They attend the same school.", "reason": "同一 means 'the same (one)'; 'identical school' is unnatural English."},
+  {"row": 4726, "field": "translation_2", "old": "We live in the identical residential area.", "new": "We live in the same residential area.", "reason": "同一 means 'the same (one)'; 'identical residential area' is unnatural."},
+  {"row": 4726, "field": "translation_3", "old": "These two photos were taken on the identical day.", "new": "These two photos were taken on the same day.", "reason": "同一 = 'the same (one)'; 'identical day' is unnatural English."},
+  {"row": 4743, "field": "sentence_1", "old": "一团人站在门口。", "new": "他们是一个旅游团。", "reason": "一团人 as a classifier for people is non-standard Chinese."},
+  {"row": 4743, "field": "translation_1", "old": "A group of people stood at the entrance.", "new": "They are a tour group.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4743, "field": "sentence_2", "old": "他们是一个旅游团。", "new": "我们团今天去参观博物馆。", "reason": "Since sentence_1 now uses 旅游团, sentence_2 updated to avoid duplication."},
+  {"row": 4743, "field": "translation_2", "old": "They are a tour group.", "new": "Our group is visiting the museum today.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4747, "field": "sentence_3", "old": "他的努力推动了项目。", "new": "这次会议推动了合作。", "reason": "Sentences 2 and 3 are near-duplicates (both '他的努力推动了…'); replaced with distinct subject and context."},
+  {"row": 4747, "field": "translation_3", "old": "His efforts promoted the project.", "new": "This meeting promoted cooperation.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4775, "field": "sentence_2", "old": "这个危害很大。", "new": "空气污染危害人的健康。", "reason": "Original uses 危害 as a noun; definition is the verb 'to jeopardize'. Replaced with verbal usage."},
+  {"row": 4775, "field": "translation_2", "old": "This is a major jeopardy.", "new": "Air pollution jeopardizes people's health.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4817, "field": "sentence_3", "old": "这个舞台很大，可以坐很多人。", "new": "这个舞台很大，可以演大型节目。", "reason": "A stage is where performers perform, not where audiences sit; 'can seat many people' conflates stage with auditorium."},
+  {"row": 4817, "field": "translation_3", "old": "This stage is very large and can seat many people.", "new": "This stage is very large and can accommodate large-scale performances.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4847, "field": "sentence_3", "old": "这台机器采用先进技术。", "new": "这个国家的医疗水平非常先进。", "reason": "Sentences 1 and 3 both use 先进技术; near-duplicates. Replaced with different domain (medicine)."},
+  {"row": 4847, "field": "translation_3", "old": "This machine uses advanced technology.", "new": "The medical level of this country is very advanced.", "reason": "Translation updated to match corrected sentence."}
+]
