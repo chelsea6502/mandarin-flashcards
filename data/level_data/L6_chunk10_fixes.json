@@ -1,0 +1,9 @@
+[
+  {"row": 6708, "field": "translation_1", "old": "The company released its annual year report.", "new": "The company released its annual report.", "reason": "'Annual year report' is redundant; 'annual report' is correct."},
+  {"row": 6714, "field": "sentence_3", "old": "空气中有一股浓厚的烟味。", "new": "山谷里的浓厚烟雾久久不散。", "reason": "浓厚 does not collocate naturally with 烟味 (smell); 浓厚 describes dense fog/smoke/atmosphere."},
+  {"row": 6714, "field": "translation_3", "old": "There is a dense smell of smoke in the air.", "new": "The dense smoke in the valley lingered for a long time.", "reason": "Matches corrected sentence."},
+  {"row": 6800, "field": "sentence_2", "old": "比赛期间，其间他受伤了一次。", "new": "他参加了一年的项目，其间学到了很多。", "reason": "期间 and 其间 both mean 'during that time' — redundant in same clause. Rewritten."},
+  {"row": 6800, "field": "translation_2", "old": "During the competition, he was injured once during that time.", "new": "He participated in a project for a year; during that time he learned a great deal.", "reason": "Matches corrected sentence."},
+  {"row": 6826, "field": "sentence_2", "old": "年轻人对未来充满前景。", "new": "这个新行业的前景让很多年轻人感到兴奋。", "reason": "充满前景 is semantically incorrect — 前景 is what a situation has, not what a person is filled with."},
+  {"row": 6826, "field": "translation_2", "old": "Young people are full of prospects for the future.", "new": "The prospects of this new industry excite many young people.", "reason": "Matches corrected sentence."}
+]

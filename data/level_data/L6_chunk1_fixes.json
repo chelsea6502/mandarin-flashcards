@@ -1,0 +1,13 @@
+[
+  {"row": 5421, "field": "translation_1", "old": "The relative density of water is the standard for measuring specific gravity.", "new": "The relative density of water is the standard for measuring relative density.", "reason": "Translation inconsistently uses 'specific gravity' when the definition is 'relative density.'"},
+  {"row": 5425, "field": "sentence_3", "old": "他用手闭住了耳朵。", "new": "他用手捂住了鼻子，防止气味进来。", "reason": "闭 meaning 'to stop up' is not natural for ears (捂/堵 are correct); replaced with a more natural context."},
+  {"row": 5425, "field": "translation_3", "old": "He stopped up his ears with his hands.", "new": "He covered his nose with his hands to keep out the smell.", "reason": "Matches corrected sentence."},
+  {"row": 5436, "field": "translation_3", "old": "This route is the most quick.", "new": "This route is the quickest.", "reason": "'The most quick' is non-standard English; 'the quickest' is correct."},
+  {"row": 5468, "field": "translation_1", "old": "He frequently glanced out the window.", "new": "He glanced out the window from time to time.", "reason": "不时 means 'from time to time / now and then', not 'frequently.'"},
+  {"row": 5468, "field": "translation_2", "old": "She frequently broke into laughter.", "new": "She broke into laughter from time to time.", "reason": "不时 means 'from time to time', not 'frequently.'"},
+  {"row": 5468, "field": "translation_3", "old": "The teacher frequently walked around checking students' work.", "new": "The teacher walked around from time to time to check students' work.", "reason": "不时 means 'from time to time', not 'frequently.'"},
+  {"row": 5481, "field": "sentence_3", "old": "他一步一步地按步骤操作。", "new": "安装前请仔细阅读步骤说明。", "reason": "一步一步地 and 按步骤 are both 'step by step' — redundant. Replaced with distinct, natural sentence."},
+  {"row": 5481, "field": "translation_3", "old": "He operated step by step following the steps.", "new": "Before installing, please read the step-by-step instructions carefully.", "reason": "Matches corrected sentence."},
+  {"row": 5499, "field": "sentence_3", "old": "她去园子里采集花朵。", "new": "她去园子里采集了一些草药。", "reason": "采集 meaning 'harvest' is unnatural for flowers (采摘 is standard); 草药 is a natural object for 采集."},
+  {"row": 5499, "field": "translation_3", "old": "She went to the garden to harvest flowers.", "new": "She went to the garden to harvest some medicinal herbs.", "reason": "Matches corrected sentence."}
+]
