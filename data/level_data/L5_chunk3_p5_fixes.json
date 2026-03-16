@@ -1,0 +1,17 @@
+[
+  {"row": 3194, "field": "translation_1", "old": "The teacher's words encouraged her to study hard.", "new": "The teacher's words prompted her to study hard.", "reason": "Definition is 'to prompt', not 'to encourage'. 鼓励 means encourage; 促使 means prompt/cause someone to act."},
+  {"row": 3194, "field": "translation_2", "old": "Parents encourage children to study.", "new": "Parents prompt children to study.", "reason": "Same issue — definition is 'to prompt', translation should reflect that."},
+  {"row": 3194, "field": "translation_3", "old": "His success encouraged me to try as well.", "new": "His success prompted me to try as well.", "reason": "Same issue — definition is 'to prompt', translation should reflect that."},
+  {"row": 3258, "field": "translation_1", "old": "This bowl of soup has too low a concentration of flavor.", "new": "This bowl of soup is too bland.", "reason": "Awkward calque; 'too bland' is natural English for 味道太淡."},
+  {"row": 3258, "field": "translation_2", "old": "The color is too low in intensity to see clearly.", "new": "The color is too faint to see clearly.", "reason": "Awkward calque; 'too faint' is natural English for 颜色太淡."},
+  {"row": 3258, "field": "translation_3", "old": "He drinks tea low in concentration; he doesn't like strong tea.", "new": "He drinks weak tea; he doesn't like strong tea.", "reason": "Awkward calque; 'weak tea' is natural English for 淡茶."},
+  {"row": 3276, "field": "translation_1", "old": "What he said has rationale.", "new": "What he said makes sense.", "reason": "Unnatural English; '有道理' naturally translates as 'makes sense' or 'is reasonable'."},
+  {"row": 3276, "field": "translation_2", "old": "The rationale of this theory is very clear.", "new": "The reasoning behind this theory is very clear.", "reason": "Unnatural English; 'the rationale of' is awkward phrasing."},
+  {"row": 3276, "field": "translation_3", "old": "He gave me an explanation with clear rationale.", "new": "He gave me a well-reasoned explanation.", "reason": "Awkward calque; 'explanation with clear rationale' is unnatural."},
+  {"row": 3289, "field": "sentence_2", "old": "面对困难他不会低头。", "new": "他低头向对手认输了。", "reason": "Near-duplicate of row 3288 sentence_2 '谁也不想先低头' — both are about not giving in to difficulty/an opponent."},
+  {"row": 3289, "field": "translation_2", "old": "He will not yield in the face of difficulty.", "new": "He bowed his head and conceded to his opponent.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 3289, "field": "sentence_3", "old": "她从不向压力低头。", "new": "孩子被骂了，委屈地低头了。", "reason": "Near-duplicate of row 3288 sentence_3 '她不会轻易低头' — both describe not yielding to pressure. New sentence provides a distinct scenario."},
+  {"row": 3289, "field": "translation_3", "old": "She never yields to pressure.", "new": "The child was scolded and yielded dejectedly.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 3292, "field": "definition", "old": "Earth's surface", "new": "ground; Earth's surface", "reason": "Sentences use 地面 to mean 'the ground' (plane on the ground, take off from the ground), not specifically 'Earth's surface'. The definition should acknowledge both meanings."},
+  {"row": 3315, "field": "translation_3", "old": "Their story was so touching that everyone was moved to tears.", "new": "Their story was so touching that listeners were moved to tears.", "reason": "'听了都落泪' means 'those who heard it all shed tears'; 'listeners' better captures 听了 than 'everyone'."}
+]

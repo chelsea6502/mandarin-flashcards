@@ -1,0 +1,18 @@
+[
+  {"row": 3054, "field": "translation_1", "old": "He stuck the flag in at the top of the mountain.", "new": "He stuck the flag into the mountain.", "reason": "山上 means 'on the mountain', not 'at the top of the mountain'; 山顶 would be needed for that reading."},
+  {"row": 3069, "field": "sentence_2", "old": "这是人人都知道的常识。", "new": "这些卫生知识是基本的常识。", "reason": "Near-duplicate of sentence_1: both simply assert 'this is common knowledge'. Replaced with a distinct scenario."},
+  {"row": 3069, "field": "translation_2", "old": "This is common knowledge.", "new": "These hygiene facts are basic common knowledge.", "reason": "Translation updated to match corrected sentence_2."},
+  {"row": 3070, "field": "sentence_1", "old": "这是一门常识，每个人都知道。", "new": "安全用电是基本的常识。", "reason": "一门常识 is unnatural Chinese; 常识 is not counted with 门 in isolation like this."},
+  {"row": 3070, "field": "translation_1", "old": "This is a matter of common sense; everyone knows it.", "new": "Safe use of electricity is basic common sense.", "reason": "Translation updated to match corrected sentence_1."},
+  {"row": 3071, "field": "sentence_1", "old": "这是一门常识，不难学。", "new": "常识竞赛考了很多有趣的题目。", "reason": "一门常识 is unnatural; 常识 as a standalone noun does not take 一门 as a classifier in this construction."},
+  {"row": 3071, "field": "translation_1", "old": "This is general knowledge; it's not hard to learn.", "new": "The general knowledge competition featured many interesting questions.", "reason": "Translation updated to match corrected sentence_1."},
+  {"row": 3101, "field": "sentence_1", "old": "这份报告包含几个重要成分。", "new": "这种合金的成分很复杂。", "reason": "成分 is not natural for parts of a report (use 部分/要素 for that); 成分 fits material or chemical composition."},
+  {"row": 3101, "field": "translation_1", "old": "This report contains several important components.", "new": "The composition of this alloy is very complex.", "reason": "Translation updated to match corrected sentence_1."},
+  {"row": 3124, "field": "translation_1", "old": "His Chinese has reached a very high degree.", "new": "His Chinese has reached a very high level.", "reason": "Definition is 'level'; translation should use 'level' consistently, not 'degree'."},
+  {"row": 3147, "field": "traditional", "old": "丑", "new": "醜", "reason": "The traditional form of 丑 (ugly) is 醜. In traditional Chinese, 丑 alone only represents the Earthly Branch (second), not the 'ugly' meaning."},
+  {"row": 3170, "field": "sentence_2", "old": "运动员传递了接力棒。", "new": "她把书包传递给了后排的同学。", "reason": "传递接力棒 is unnatural; the normal expression is 传接力棒 or 交接力棒. Replaced with a natural use of 传递."},
+  {"row": 3170, "field": "translation_2", "old": "The athlete passed the baton.", "new": "She passed the schoolbag to a student in the back row.", "reason": "Translation updated to match corrected sentence_2."},
+  {"row": 3179, "field": "traditional", "old": "詞匯", "new": "詞彙", "reason": "Correct traditional form is 詞彙 (with 彙, not 匯); these are different characters with different meanings."},
+  {"row": 3182, "field": "sentence_3", "old": "此前他从未参加过这类比赛。", "new": "此前，这里从未建过高楼。", "reason": "Sentences 1 and 3 are near-duplicates: both use 此前 + 他 + 从未/从来没有 + past action. Different subject and scenario needed."},
+  {"row": 3182, "field": "translation_3", "old": "Previously he had never participated in this kind of competition.", "new": "Previously, no tall buildings had ever been built here.", "reason": "Translation updated to match corrected sentence_3."}
+]

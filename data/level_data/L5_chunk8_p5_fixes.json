@@ -1,0 +1,16 @@
+[
+  {"row": 3914, "field": "definition", "old": "teardrop", "new": "tears", "reason": "泪水 is a mass noun meaning 'tears', not the countable 'teardrop'"},
+  {"row": 3914, "field": "translation_1", "old": "After watching the movie, her eyes were full of teardrops.", "new": "After watching the movie, her eyes were full of tears.", "reason": "泪水 means tears (mass noun), not individual teardrops"},
+  {"row": 3914, "field": "translation_2", "old": "He held back his teardrops and did not cry.", "new": "He held back his tears and did not cry.", "reason": "泪水 means tears, not teardrops"},
+  {"row": 3914, "field": "translation_3", "old": "The teardrops flowed down her face.", "new": "The tears flowed down her face.", "reason": "泪水 means tears, not teardrops"},
+  {"row": 3928, "field": "sentence_3", "old": "她的力气很大，能举起很重的东西。", "new": "他用尽了全力，终于爬到了山顶。", "reason": "Headword 力 does not appear in original sentence_3; 力气 is a different word. New sentence uses 力 directly."},
+  {"row": 3928, "field": "translation_3", "old": "She has great strength and can lift very heavy things.", "new": "He used all his strength and finally climbed to the mountaintop.", "reason": "Updated to match corrected sentence_3"},
+  {"row": 3951, "field": "sentence_1", "old": "这列列车要去北京。", "new": "这趟列车要去北京。", "reason": "Classifier 列 immediately before 列车 produces awkward 列列 reduplication; 趟 is the natural classifier for train journeys"},
+  {"row": 3977, "field": "definition", "old": "record", "new": "to record", "reason": "POS is 'verb, morpheme, verbal noun' and all sentences use 录 as a verb; definition should use verbal form"},
+  {"row": 3979, "field": "translation_2", "old": "He was enrolled by Peking University.", "new": "He was admitted to Peking University.", "reason": "录取 means to be admitted to an institution; 'enrolled by' is unnatural — correct preposition is 'admitted to'"},
+  {"row": 3993, "field": "REMOVE", "reason": "True duplicate of row 3992: same word 忙碌, identical definition 'busy', identical POS — no distinct meaning is added"},
+  {"row": 4002, "field": "pos", "old": "noun", "new": "adjective, noun", "reason": "美味 functions as both adjective ('delicious') and noun ('delicacy'); all three sentences use it predicatively as an adjective, so adjective must appear in POS"},
+  {"row": 4008, "field": "sentence_2", "old": "这个谜题迷住了所有人。", "new": "这部电影迷住了所有人。", "reason": "谜题 contains character 谜 (riddle), not headword 迷; new sentence uses headword 迷 directly in 迷住"},
+  {"row": 4008, "field": "translation_2", "old": "This puzzle bewildered everyone.", "new": "This film captivated everyone.", "reason": "Updated to match corrected sentence_2"},
+  {"row": 4042, "field": "REMOVE", "reason": "木头 'fool' (row 4042) is semantically and contextually identical to 木头 'blockhead' (row 4041); all three sentences convey the same scenario with no meaningful distinction"}
+]

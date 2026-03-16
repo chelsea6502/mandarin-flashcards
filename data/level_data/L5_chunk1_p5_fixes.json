@@ -1,0 +1,14 @@
+[
+  {"row": 2917, "field": "translation_1", "old": "It got dark, and the room is very dark.", "new": "It got dark outside, and the room became very dim.", "reason": "Awkward repetition of 'dark' in one short sentence; revised to eliminate the clash."},
+  {"row": 2928, "field": "sentence_2", "old": "工人把产品包裹好再发货。", "new": "她把书包裹好，放进包里。", "reason": "Sentences 1 and 2 are near-duplicates — both describe workers packaging products. New sentence uses a different subject and context."},
+  {"row": 2928, "field": "translation_2", "old": "Workers package the products before shipping.", "new": "She wrapped up the book and put it in her bag.", "reason": "Translation updated to match new sentence_2."},
+  {"row": 2929, "field": "sentence_3", "old": "他用纸包裹好礼物后送给她。", "new": "妈妈用布把易碎品包裹好了。", "reason": "Sentences 1 and 3 are near-duplicates — both describe wrapping a gift in paper. New sentence uses a different context (fragile items in cloth)."},
+  {"row": 2929, "field": "translation_3", "old": "He wrapped the gift in paper before giving it to her.", "new": "Mom wrapped the fragile items in cloth.", "reason": "Translation updated to match new sentence_3."},
+  {"row": 2966, "field": "sentence_2", "old": "请写一份报告交给我。", "new": "他每周向上级报告工作进展。", "reason": "Definition is the verb 'to report,' but the old sentence_2 uses 报告 as a noun (written report). New sentence illustrates the verb use."},
+  {"row": 2966, "field": "translation_2", "old": "Please write a report and give it to me.", "new": "He reports his work progress to his supervisor every week.", "reason": "Translation updated to match new sentence_2."},
+  {"row": 2984, "field": "sentence_2", "old": "请按照正确的比例放。", "new": "请按照正确的比例放入材料。", "reason": "Original sentence is incomplete — 放 has no stated object, making it unnatural Chinese."},
+  {"row": 2984, "field": "translation_2", "old": "Please put it in the correct ratio.", "new": "Please add the ingredients in the correct ratio.", "reason": "Translation updated to match corrected sentence_2."},
+  {"row": 3008, "field": "translation_1", "old": "Mom made a cake for us to eat.", "new": "Mom made a flatbread for us to eat.", "reason": "饼 refers to flat round bread or pastry, not 'cake.' Translating as 'cake' is misleading given the definition 'flat round cake; flatbread.'"},
+  {"row": 3008, "field": "translation_2", "old": "This cake is both sweet and soft.", "new": "This flatbread is both sweet and soft.", "reason": "Consistent mistranslation of 饼 as 'cake'; should be 'flatbread' to match the definition."},
+  {"row": 3008, "field": "translation_3", "old": "She bought two cakes as a snack.", "new": "She bought two flatbreads as a snack.", "reason": "Consistent mistranslation of 饼 as 'cake'; should be 'flatbread' to match the definition."}
+]

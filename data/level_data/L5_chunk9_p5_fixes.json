@@ -1,0 +1,15 @@
+[
+  {"row": 4066, "field": "translation_1", "old": "Every year on New Year's Eve we eat the Chinese New Year's Eve family dinner.", "new": "Every year on New Year's Eve, we eat the reunion dinner.", "reason": "Redundant repetition of 'New Year's Eve' is awkward; 'reunion dinner' is the standard English rendering of 年夜饭"},
+  {"row": 4070, "field": "sentence_3", "old": "这条牛仔裤很合适你。", "new": "这条牛仔裤很适合你。", "reason": "合适 does not take a personal object in natural Chinese; 适合 + person is the correct collocation"},
+  {"row": 4070, "field": "translation_3", "old": "This pair of jeans suits you well.", "new": "This pair of jeans suits you very well.", "reason": "Translation adjusted to match corrected sentence (very)"},
+  {"row": 4083, "field": "sentence_3", "old": "他们是不同的政治派。", "new": "他们属于不同的政治派别。", "reason": "政治派 is not a natural standalone compound; 政治派别 is the standard term; 属于 is the natural verb here"},
+  {"row": 4083, "field": "translation_3", "old": "They belong to different political schools of thought.", "new": "They belong to different political factions.", "reason": "Updated to match corrected sentence; 派别 is more naturally rendered as 'factions'"},
+  {"row": 4096, "field": "sentence_3", "old": "春天是很多动物配的季节。", "new": "春天是很多动物交配的季节。", "reason": "配 alone for 'mate' is too terse and unnatural; 交配 is the standard word for animal mating"},
+  {"row": 4096, "field": "translation_3", "old": "Spring is the season when many animals mate.", "new": "Spring is the mating season for many animals.", "reason": "Smoother English phrasing to match corrected sentence"},
+  {"row": 4127, "field": "sentence_3", "old": "两队比完，最终平了。", "new": "他平了全国纪录，让大家震惊。", "reason": "Definition is 'to match (a record)'; old sentence illustrates a draw/tie, not matching a record — definition-sentence mismatch"},
+  {"row": 4127, "field": "translation_3", "old": "After the match ended, it was a draw.", "new": "He matched the national record, astonishing everyone.", "reason": "Translation updated to match corrected sentence"},
+  {"row": 4170, "field": "sentence_3", "old": "工作欠经验，需要多学习。", "new": "他工作时欠经验，还需要多学习。", "reason": "Original sentence lacks a subject, making it grammatically awkward; adding 他 and 时 makes it natural"},
+  {"row": 4170, "field": "translation_3", "old": "The work lacks experience; more learning is needed.", "new": "He lacks experience at work and still needs to learn more.", "reason": "Translation updated to match corrected sentence"},
+  {"row": 4195, "field": "translation_1", "old": "He is abroad and misses his close relatives and friends very much.", "new": "He is abroad and misses his close relatives very much.", "reason": "亲人 means close family relatives only, not friends; 'and friends' is an unsupported addition"},
+  {"row": 4195, "field": "translation_3", "old": "All her close relatives and friends came to the wedding.", "new": "All her close relatives came to the wedding.", "reason": "亲人 means close family relatives only, not friends; 'and friends' is an unsupported addition"}
+]
