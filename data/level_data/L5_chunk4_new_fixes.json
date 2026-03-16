@@ -1,0 +1,19 @@
+[
+  {"row": 3337, "field": "sentence_3", "old": "我想去南方度假。", "new": "他们在山里度过了一个周末。", "reason": "near-duplicate of sentence_1 (both use 度假); needs distinct context"},
+  {"row": 3337, "field": "translation_3", "old": "I want to go to the south for a holiday.", "new": "They spent a weekend in the mountains.", "reason": "match corrected sentence"},
+  {"row": 3356, "field": "sentence_3", "old": "她发表了一份正式通知。", "new": "她发表了一篇文章。", "reason": "发表 does not collocate with 通知; 发布通知 is correct"},
+  {"row": 3356, "field": "translation_3", "old": "She issued a formal notice.", "new": "She published an article.", "reason": "match corrected sentence"},
+  {"row": 3371, "field": "sentence_3", "old": "他因为乱停车被罚了一大笔罚款。", "new": "他因为乱停车被开了一大笔罚款。", "reason": "被罚了一大笔罚款 is redundant (罚 + 罚款)"},
+  {"row": 3371, "field": "translation_3", "old": "He was fined a large penalty for illegal parking.", "new": "He was issued a large fine for illegal parking.", "reason": "match corrected sentence"},
+  {"row": 3380, "field": "sentence_2", "old": "他们决定反了。", "new": "百姓受不了压迫，纷纷起来反。", "reason": "near-duplicate of sentence_1; should show different context"},
+  {"row": 3380, "field": "translation_2", "old": "They decided to revolt.", "new": "The common people could not bear the oppression and rose up to revolt.", "reason": "match corrected sentence"},
+  {"row": 3399, "field": "sentence_1", "old": "我们要防止失火。", "new": "你要防小偷。", "reason": "sentence uses 防止 (a different word) not headword 防"},
+  {"row": 3399, "field": "translation_1", "old": "We need to prevent fires.", "new": "You need to guard against thieves.", "reason": "match corrected sentence"},
+  {"row": 3427, "field": "definition", "old": "to deny", "new": "to negate", "reason": "否定 means to negate/repudiate; 'to deny' duplicates 否认 (row 3428)"},
+  {"row": 3440, "field": "sentence_3", "old": "他有一副好声音。", "new": "他有一副好嗓子。", "reason": "一副好声音 is unnatural; standard expression is 一副好嗓子"},
+  {"row": 3440, "field": "translation_3", "old": "He has a fine set of vocal qualities.", "new": "He has a fine voice.", "reason": "match corrected sentence; 'a fine set of vocal qualities' is awkward"},
+  {"row": 3463, "field": "sentence_2", "old": "她有高大的理想。", "new": "这座大楼高大雄伟。", "reason": "高大 does not collocate with 理想; it describes physical or moral stature"},
+  {"row": 3463, "field": "translation_2", "old": "She has lofty ideals.", "new": "This building is tall and majestic.", "reason": "match corrected sentence"},
+  {"row": 3463, "field": "sentence_3", "old": "我们要有高大的目标。", "new": "他是一位高大的英雄。", "reason": "高大 does not collocate with 目标 (goals)"},
+  {"row": 3463, "field": "translation_3", "old": "We should have lofty goals.", "new": "He is a towering hero.", "reason": "match corrected sentence"}
+]

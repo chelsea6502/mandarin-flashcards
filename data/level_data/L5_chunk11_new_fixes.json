@@ -1,0 +1,14 @@
+[
+  {"row": 4344, "field": "translation_1", "old": "He penetrated deeply into the study of this problem.", "new": "He conducted an in-depth study of this problem.", "reason": "awkward/non-native English; 深入研究 means 'in-depth study'"},
+  {"row": 4344, "field": "translation_2", "old": "The journalist penetrated deeply into the countryside to interview residents.", "new": "The journalist went deep into the countryside to interview residents.", "reason": "'penetrated deeply into the countryside' is unnatural English"},
+  {"row": 4344, "field": "translation_3", "old": "We need to penetrate deeply into understanding this matter.", "new": "We need to gain a deep understanding of this matter.", "reason": "'penetrate deeply into understanding' is unnatural English"},
+  {"row": 4370, "field": "translation_1", "old": "He suffered from unrequited love and could not accept for a long time that the other person did not like him.", "new": "He was jilted and could not accept for a long time that the other person did not like him.", "reason": "失恋 means to be romantically disappointed/jilted (a relationship ended or was rejected), not specifically unrequited love"},
+  {"row": 4370, "field": "translation_2", "old": "She suffered from unrequited love — the person she liked did not like her at all.", "new": "She was jilted — the person she liked did not like her at all.", "reason": "失恋 = heartbreak from a romantic letdown/breakup, not unrequited love"},
+  {"row": 4370, "field": "translation_3", "old": "Friends accompanied him through the period of suffering from unrequited love.", "new": "Friends accompanied him through the heartbreak.", "reason": "失恋 refers to romantic disappointment/being jilted, not unrequited love"},
+  {"row": 4443, "field": "translation_1", "old": "He works in his office until very late.", "new": "He works in his study until very late.", "reason": "书房 is a home study/reading room, not an office (办公室)"},
+  {"row": 4443, "field": "translation_2", "old": "This office is used by him alone.", "new": "This study is used by him alone.", "reason": "书房 is a home study room, not an office"},
+  {"row": 4443, "field": "translation_3", "old": "The office door is closed.", "new": "The study door is closed.", "reason": "书房 is a home study room, not an office"},
+  {"row": 4448, "field": "sentence_1", "old": "中国向很多国家输入商品。", "new": "中国从很多国家输入商品。", "reason": "输入 means to bring in/import; 向...输入 implies sending out (export direction); should be 从...输入"},
+  {"row": 4448, "field": "translation_1", "old": "China imports goods to many countries.", "new": "China imports goods from many countries.", "reason": "match corrected sentence; imports come from sources, not go to destinations"},
+  {"row": 4463, "field": "definition", "old": "bilateral", "new": "both parties", "reason": "双方 is a noun meaning 'both sides/parties'; 'bilateral' is an adjective and wrong POS/meaning"}
+]

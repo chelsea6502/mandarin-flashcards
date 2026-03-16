@@ -1,0 +1,22 @@
+[
+  {"row": 5064, "field": "definition", "old": "just like", "new": "just as", "reason": "正如 is a conjunction meaning 'just as' (introducing a comparison or known fact); 'just like' is slightly off — 正如 is more formal and means 'exactly as'"},
+  {"row": 5074, "field": "sentence_1", "old": "我们都支持你的决定。", "new": "他用一根棍子支起了帐篷。", "reason": "sentence used 支持 (a different word), not 支 meaning 'to prop up/support (physically)'; headword must appear in the sentence"},
+  {"row": 5074, "field": "translation_1", "old": "We all support your decision.", "new": "He propped up the tent with a stick.", "reason": "matches corrected sentence"},
+  {"row": 5074, "field": "sentence_2", "old": "她一直支持他的工作。", "new": "她用手支着头坐着。", "reason": "sentence used 支持 (a different word); headword 支 must appear"},
+  {"row": 5074, "field": "translation_2", "old": "She has always supported his work.", "new": "She sat with her head propped up in her hands.", "reason": "matches corrected sentence"},
+  {"row": 5074, "field": "sentence_3", "old": "朋友们都支持我。", "new": "他用木头支起了倒下的树。", "reason": "sentence used 支持 (a different word); headword 支 must appear"},
+  {"row": 5074, "field": "translation_3", "old": "My friends all support me.", "new": "He propped up the fallen tree with a piece of wood.", "reason": "matches corrected sentence"},
+  {"row": 5085, "field": "definition", "old": "most", "new": "utmost; used in compounds such as 至少 (at least) and 至多 (at most)", "reason": "至 as a morpheme means 'utmost/extreme', not simply 'most'; the sentences illustrate its compound uses"},
+  {"row": 5088, "field": "sentence_2", "old": "他的工作至关重要。", "new": "我们至今没有找到更好的办法。", "reason": "sentences 1 and 2 both illustrate 至关重要 — duplicate; sentence 2 should illustrate a different use of 至"},
+  {"row": 5088, "field": "translation_2", "old": "His work is of the utmost importance.", "new": "We have not found a better solution to this day.", "reason": "matches corrected sentence"},
+  {"row": 5129, "field": "definition", "old": "to stand for", "new": "to uphold (justice)", "reason": "主持 does not mean 'to stand for' as an ideology/value; its relevant meaning is 主持公道 'to uphold fairness/justice'"},
+  {"row": 5129, "field": "sentence_1", "old": "他主持自由与公平的理想。", "new": "他主持公道，大家都服他。", "reason": "original sentence is unnatural — 主持 cannot take abstract ideals like 自由 as object; 主持公道 is the natural fixed expression"},
+  {"row": 5129, "field": "translation_1", "old": "He stands for the ideals of freedom and fairness.", "new": "He upholds fairness, and everyone respects him for it.", "reason": "matches corrected sentence"},
+  {"row": 5129, "field": "sentence_2", "old": "这个组织主持友好合作。", "new": "法官主持公道，判决公平。", "reason": "original sentence is unnatural — 主持 cannot take 友好合作 as object in this sense"},
+  {"row": 5129, "field": "translation_2", "old": "This organization stands for friendly cooperation.", "new": "The judge upheld justice and made a fair ruling.", "reason": "matches corrected sentence"},
+  {"row": 5129, "field": "sentence_3", "old": "她一直主持保护环境。", "new": "我们希望有人出来主持公道。", "reason": "original sentence is unnatural — 主持 cannot take 保护环境 as object"},
+  {"row": 5129, "field": "translation_3", "old": "She has always stood for protecting the environment.", "new": "We hope someone will come forward to uphold justice.", "reason": "matches corrected sentence"},
+  {"row": 5182, "field": "translation_3", "old": "Please write out each letter of the alphabet in this word.", "new": "Please write out each letter in this word.", "reason": "'of the alphabet' is redundant in context — 字母 means letters; the phrase should not repeat 'of the alphabet' when 'each letter in this word' is clear"},
+  {"row": 5187, "field": "sentence_1", "old": "请告诉我这次考试的总分数。", "new": "这次活动的总数超过了我们的预期。", "reason": "总分数 is an odd compound (should be 总分); more critically, the headword 总数 does not appear in the sentence"},
+  {"row": 5187, "field": "translation_1", "old": "Please tell me the total score of this exam.", "new": "The total for this event exceeded our expectations.", "reason": "matches corrected sentence"}
+]
