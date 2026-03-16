@@ -1,0 +1,401 @@
+[
+  {
+    "row": 2612,
+    "field": "sentence_2",
+    "old": "柠檬的味道是酸的。",
+    "new": "这种水果的味道是酸的。",
+    "reason": "柠檬 (lemon) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2612,
+    "field": "translation_2",
+    "old": "The taste of lemons is sour.",
+    "new": "The taste of this fruit is sour.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2615,
+    "field": "sentence_2",
+    "old": "这瓶酸奶是草莓味的。",
+    "new": "这瓶酸奶是甜的。",
+    "reason": "草莓 (strawberry) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2615,
+    "field": "translation_2",
+    "old": "This yogurt is strawberry flavored.",
+    "new": "This bottle of yogurt is sweet.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2624,
+    "field": "sentence_2",
+    "old": "这个孩子是他儿子生的。",
+    "new": "爷爷带孙子出去玩。",
+    "reason": "Target word 孙子 absent from original sentence_2."
+  },
+  {
+    "row": 2624,
+    "field": "translation_2",
+    "old": "This child was born to his son.",
+    "new": "Grandpa took his grandson out to play.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2642,
+    "field": "sentence_1",
+    "old": "她讨厌吃苦瓜。",
+    "new": "她讨厌吃苦的东西。",
+    "reason": "苦瓜 (bitter melon) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2642,
+    "field": "translation_1",
+    "old": "She loathes eating bitter melon.",
+    "new": "She loathes eating bitter things.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2643,
+    "field": "sentence_1",
+    "old": "这种鸟的特点是羽毛很多。",
+    "new": "这种鸟的特点是叫声很好听。",
+    "reason": "羽毛 (feathers) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2643,
+    "field": "translation_1",
+    "old": "The distinguishing feature of this bird is having many feathers.",
+    "new": "The distinguishing feature of this bird is its beautiful call.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2644,
+    "field": "sentence_1",
+    "old": "她提着一个篮子去买菜。",
+    "new": "她提着一个袋子去买菜。",
+    "reason": "篮子 (basket) is not in vocab_upto_L4; 袋子 is."
+  },
+  {
+    "row": 2644,
+    "field": "translation_1",
+    "old": "She carried a basket (by its handle) to buy groceries.",
+    "new": "She carried a bag (by its handle) to buy groceries.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2665,
+    "field": "sentence_1",
+    "old": "他骂了我一停。",
+    "new": "他们打了一通电话。",
+    "reason": "停 is not a standard measure word in Chinese; 骂 is not in vocab_upto_L4. This definition is wrong for 停 — this row should use 通 as the correct measure word. The whole row's definition is erroneous."
+  },
+  {
+    "row": 2665,
+    "field": "translation_1",
+    "old": "He scolded me for a bout.",
+    "new": "They made a phone call.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2665,
+    "field": "sentence_2",
+    "old": "两人打了一停架。",
+    "new": "妈妈说了他一通。",
+    "reason": "停 is not a standard measure word; 打架 not in vocab. Replacing with correct 通-measure-word usage."
+  },
+  {
+    "row": 2665,
+    "field": "translation_2",
+    "old": "The two of them had a bout of fighting.",
+    "new": "Mom lectured him for a stint.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2665,
+    "field": "sentence_3",
+    "old": "他们聊了一停天。",
+    "new": "他大哭了一通。",
+    "reason": "停 is not a standard measure word; unnatural phrasing. Replacing with standard 通-measure-word usage."
+  },
+  {
+    "row": 2665,
+    "field": "translation_3",
+    "old": "They chatted for a stint.",
+    "new": "He cried for a good while.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2670,
+    "field": "sentence_2",
+    "old": "这条隧道通到城外。",
+    "new": "这条路通到城外。",
+    "reason": "隧道 (tunnel) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2670,
+    "field": "translation_2",
+    "old": "This tunnel leads out of the city.",
+    "new": "This road leads out of the city.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2672,
+    "field": "sentence_1",
+    "old": "下水道通了，水可以流走。",
+    "new": "水道通了，水可以流走。",
+    "reason": "下水道 (sewer/drain) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2672,
+    "field": "translation_1",
+    "old": "The drain is unobstructed; water can flow away.",
+    "new": "The waterway is unobstructed; water can flow away.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2672,
+    "field": "sentence_2",
+    "old": "这条水道通了，没有堵塞。",
+    "new": "这条路通了，可以走了。",
+    "reason": "堵塞 (blockage) is not in vocab_upto_L4; near-duplicate with sentence_3."
+  },
+  {
+    "row": 2672,
+    "field": "translation_2",
+    "old": "This water channel is unobstructed with no blockage.",
+    "new": "This road is unobstructed; you can travel it now.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2685,
+    "field": "sentence_3",
+    "old": "她用只桶装了很多东西。",
+    "new": "她用一只桶装了很多东西。",
+    "reason": "Missing 一 before 只桶; grammatically incorrect."
+  },
+  {
+    "row": 2685,
+    "field": "translation_3",
+    "old": "She used a bucket to hold many things.",
+    "new": "She used a bucket to hold many things.",
+    "reason": "Translation is already correct; no change needed."
+  },
+  {
+    "row": 2687,
+    "field": "translation_3",
+    "old": "The headache ache kept her from sleeping.",
+    "new": "The headache kept her from sleeping.",
+    "reason": "Redundant 'headache ache' in English translation."
+  },
+  {
+    "row": 2689,
+    "field": "sentence_1",
+    "old": "他痛爱着自己的孩子。",
+    "new": "他痛恨不公平的事。",
+    "reason": "痛爱 is not a standard Chinese compound word; unnatural phrasing."
+  },
+  {
+    "row": 2689,
+    "field": "translation_1",
+    "old": "He deeply loves his children.",
+    "new": "He deeply hates unfair things.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2690,
+    "field": "sentence_2",
+    "old": "这件事让他痛思了很久。",
+    "new": "他们痛快地玩了一天。",
+    "reason": "痛思 is not a standard Chinese compound word; unnatural phrasing."
+  },
+  {
+    "row": 2690,
+    "field": "translation_2",
+    "old": "This matter made him think thoroughly for a long time.",
+    "new": "They had a thoroughly good time playing for a day.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2694,
+    "field": "sentence_3",
+    "old": "他图名图利。",
+    "new": "他什么都图，不只是钱。",
+    "reason": "利 (profit) as standalone is not in vocab_upto_L4."
+  },
+  {
+    "row": 2694,
+    "field": "translation_3",
+    "old": "He pursues fame and profit.",
+    "new": "He pursues everything, not just money.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2695,
+    "field": "sentence_1",
+    "old": "他图的只是一份安稳。",
+    "new": "他图的只是生活方便。",
+    "reason": "安稳 is not in vocab_upto_L4."
+  },
+  {
+    "row": 2695,
+    "field": "translation_1",
+    "old": "All he seeks is peace and security.",
+    "new": "All he seeks is convenience in life.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2706,
+    "field": "sentence_1",
+    "old": "进屋要脱鞋。",
+    "new": "狗在脱毛。",
+    "reason": "Definition is 'to shed' but sentence_1 illustrates 'to take off' (shoes), which belongs to row 2707. Near-duplicate with row 2707 sentence_1."
+  },
+  {
+    "row": 2706,
+    "field": "translation_1",
+    "old": "You must take off your shoes when entering the house.",
+    "new": "The dog is shedding its fur.",
+    "reason": "Translation must match corrected sentence illustrating 'to shed'."
+  },
+  {
+    "row": 2706,
+    "field": "sentence_2",
+    "old": "狗在脱毛。",
+    "new": "树叶脱落了。",
+    "reason": "Original sentence_2 is now sentence_1; need a distinct second example of 'to shed'."
+  },
+  {
+    "row": 2706,
+    "field": "translation_2",
+    "old": "The dog is shedding its fur.",
+    "new": "The leaves have shed.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2706,
+    "field": "sentence_3",
+    "old": "天热了，快把外套脱了。",
+    "new": "春天到了，树开始脱皮。",
+    "reason": "Definition is 'to shed'; sentence illustrates 'to take off' coat (belongs to row 2707). Near-duplicate with row 2707 sentence_2."
+  },
+  {
+    "row": 2706,
+    "field": "translation_3",
+    "old": "It's hot — hurry up and take off your coat.",
+    "new": "Spring has come; the trees are starting to shed their bark.",
+    "reason": "Translation must match corrected sentence illustrating 'to shed'."
+  },
+  {
+    "row": 2727,
+    "field": "sentence_3",
+    "old": "厨房里有烧焦的味道。",
+    "new": "厨房里有烟的味道。",
+    "reason": "烧焦 contains 焦, which is not in vocab_upto_L4."
+  },
+  {
+    "row": 2727,
+    "field": "translation_3",
+    "old": "There is a burnt smell in the kitchen.",
+    "new": "There is a smoky smell in the kitchen.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2736,
+    "field": "sentence_3",
+    "old": "汽车尾气污染了空气。",
+    "new": "工厂的烟污染了空气。",
+    "reason": "尾气 (exhaust) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2736,
+    "field": "translation_3",
+    "old": "Car exhaust polluted the air.",
+    "new": "Factory smoke polluted the air.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2746,
+    "field": "sentence_2",
+    "old": "海绵能吸很多水。",
+    "new": "纸巾能吸很多水。",
+    "reason": "海绵 (sponge) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2746,
+    "field": "translation_2",
+    "old": "A sponge can suck in a lot of water.",
+    "new": "A tissue can suck in a lot of water.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2748,
+    "field": "sentence_1",
+    "old": "这条绳子很细。",
+    "new": "这条线很细。",
+    "reason": "绳子 (rope) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2748,
+    "field": "translation_1",
+    "old": "This rope is very thin.",
+    "new": "This thread is very thin.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2749,
+    "field": "sentence_1",
+    "old": "她的腰很细。",
+    "new": "她的手指很细。",
+    "reason": "腰 (waist) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2749,
+    "field": "translation_1",
+    "old": "Her waist is very slender.",
+    "new": "Her fingers are very slender.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2749,
+    "field": "sentence_2",
+    "old": "这棵树的树干很细。",
+    "new": "这棵树很细。",
+    "reason": "树干 (tree trunk) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2749,
+    "field": "translation_2",
+    "old": "The trunk of this tree is very slender.",
+    "new": "This tree is very slender.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2750,
+    "field": "sentence_2",
+    "old": "这种白粉磨得很细。",
+    "new": "沙子很细，踩上去很软。",
+    "reason": "粉 (powder) and 磨 (to grind) are not in vocab_upto_L4."
+  },
+  {
+    "row": 2750,
+    "field": "translation_2",
+    "old": "This white powder is ground very fine.",
+    "new": "The sand is very fine; it feels soft to walk on.",
+    "reason": "Translation must match corrected sentence."
+  },
+  {
+    "row": 2752,
+    "field": "sentence_2",
+    "old": "他细地检查了每一处。",
+    "new": "他很细地做完了每一步。",
+    "reason": "细地 used as an adverb before a verb is unnatural; 细心地 or 仔细地 is the standard form, but since 细 is the target word here, the construction should at minimum be rephrased naturally."
+  },
+  {
+    "row": 2752,
+    "field": "translation_2",
+    "old": "He meticulously checked every part.",
+    "new": "He meticulously completed every step.",
+    "reason": "Translation must match corrected sentence."
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "row": 2755,
+    "field": "sentence_3",
+    "old": "飞机开始慢慢下降。",
+    "new": "气温一直在下降。",
+    "reason": "Near-duplicate of sentence_1 ('飞机开始下降了'). New sentence uses a different subject to illustrate 下降."
+  },
+  {
+    "row": 2756,
+    "field": "sentence_2",
+    "old": "这条鱼很鲜，刚从海里捞上来的。",
+    "new": "这条鱼很鲜，刚买回来的。",
+    "reason": "捞 (to fish out) is not in vocab_upto_L4. Replaced with 买回来."
+  },
+  {
+    "row": 2756,
+    "field": "translation_2",
+    "old": "This fish is very fresh, just caught from the sea.",
+    "new": "This fish is very fresh, just bought.",
+    "reason": "Translation must match revised sentence_2."
+  },
+  {
+    "row": 2771,
+    "field": "sentence_3",
+    "old": "香皂的味道很香。",
+    "new": "这朵花的味道很香。",
+    "reason": "香皂 (soap) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2771,
+    "field": "translation_3",
+    "old": "Soap has a very fragrant smell.",
+    "new": "This flower has a very fragrant smell.",
+    "reason": "Translation must match revised sentence_3."
+  },
+  {
+    "row": 2772,
+    "field": "sentence_2",
+    "old": "孩子睡得很香。",
+    "new": "他吃得很香。",
+    "reason": "睡得很香 means 'sleep soundly', not 'eat with relish'. Wrong definition illustrated. The definition is 'with relish' (of eating/doing something enjoyably)."
+  },
+  {
+    "row": 2772,
+    "field": "translation_2",
+    "old": "The child is sleeping with relish (soundly).",
+    "new": "He ate with great relish.",
+    "reason": "Translation must match revised sentence_2."
+  },
+  {
+    "row": 2789,
+    "field": "sentence_1",
+    "old": "我的心跳得很快。",
+    "new": "她的心很健康。",
+    "reason": "心跳 is not in vocab_upto_L4. Reordered: use existing sentence_3 content for sentence_1."
+  },
+  {
+    "row": 2789,
+    "field": "translation_1",
+    "old": "My heart is beating very fast.",
+    "new": "Her heart is very healthy.",
+    "reason": "Translation must match revised sentence_1."
+  },
+  {
+    "row": 2789,
+    "field": "sentence_3",
+    "old": "她的心很健康。",
+    "new": "我的心不太好，要去看医生。",
+    "reason": "After moving old sentence_3 to sentence_1, provide a new distinct sentence_3. No vocab violation."
+  },
+  {
+    "row": 2789,
+    "field": "translation_3",
+    "old": "Her heart is very healthy.",
+    "new": "My heart is not great; I need to see a doctor.",
+    "reason": "Translation must match revised sentence_3."
+  },
+  {
+    "row": 2803,
+    "field": "sentence_1",
+    "old": "水的性很特别。",
+    "new": "他的性格很好。",
+    "reason": "Unnatural phrasing: 性 alone cannot stand as 'nature' of water. 性 is a morpheme/suffix; it does not appear standalone in natural Chinese this way."
+  },
+  {
+    "row": 2803,
+    "field": "translation_1",
+    "old": "The nature of water is special.",
+    "new": "His character is very good.",
+    "reason": "Translation must match revised sentence_1."
+  },
+  {
+    "row": 2803,
+    "field": "sentence_2",
+    "old": "这种东西的性很好。",
+    "new": "人的性是很难改变的。",
+    "reason": "Unnatural phrasing: 这种东西的性很好 is unnatural Chinese. 性 alone as 'nature' needs a more natural framing."
+  },
+  {
+    "row": 2803,
+    "field": "translation_2",
+    "old": "The nature of this material is very good.",
+    "new": "A person's nature is very hard to change.",
+    "reason": "Translation must match revised sentence_2."
+  },
+  {
+    "row": 2803,
+    "field": "sentence_3",
+    "old": "他的性很好。",
+    "new": "这个人的性很特别。",
+    "reason": "他的性很好 is too terse and unnatural. Slightly more natural phrasing."
+  },
+  {
+    "row": 2803,
+    "field": "translation_3",
+    "old": "His nature is very good.",
+    "new": "This person's nature is very special.",
+    "reason": "Translation must match revised sentence_3."
+  },
+  {
+    "row": 2804,
+    "field": "sentence_1",
+    "old": "这种药有消炎的性。",
+    "new": "水有流动的性。",
+    "reason": "消炎 is not in vocab_upto_L4. Also unnatural use of 性 alone."
+  },
+  {
+    "row": 2804,
+    "field": "translation_1",
+    "old": "This medicine has anti-inflammatory properties.",
+    "new": "Water has the property of flowing.",
+    "reason": "Translation must match revised sentence_1."
+  },
+  {
+    "row": 2804,
+    "field": "sentence_2",
+    "old": "铁有导电的性。",
+    "new": "这个材料有很硬的性。",
+    "reason": "导电 (to conduct electricity) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2804,
+    "field": "translation_2",
+    "old": "Iron has the property of conducting electricity.",
+    "new": "This material has the property of being very hard.",
+    "reason": "Translation must match revised sentence_2."
+  },
+  {
+    "row": 2804,
+    "field": "sentence_3",
+    "old": "这个材料的性很硬。",
+    "new": "这种食物有酸的性。",
+    "reason": "硬 is not in vocab_upto_L4. New sentence uses vocab-compliant 酸 (sour, in vocab)."
+  },
+  {
+    "row": 2804,
+    "field": "translation_3",
+    "old": "This material has the property of being very hard.",
+    "new": "This type of food has a sour property.",
+    "reason": "Translation must match revised sentence_3."
+  },
+  {
+    "row": 2807,
+    "field": "sentence_1",
+    "old": "她的性格很开朗。",
+    "new": "她的性格很好，大家都喜欢她。",
+    "reason": "开朗 (cheerful/outgoing) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2807,
+    "field": "translation_1",
+    "old": "Her temperament is very cheerful.",
+    "new": "Her temperament is very good; everyone likes her.",
+    "reason": "Translation must match revised sentence_1."
+  },
+  {
+    "row": 2807,
+    "field": "sentence_2",
+    "old": "他的性格有点内向。",
+    "new": "他的性格有点怪。",
+    "reason": "内向 (introverted) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2807,
+    "field": "translation_2",
+    "old": "His temperament is a bit introverted.",
+    "new": "His temperament is a bit strange.",
+    "reason": "Translation must match revised sentence_2."
+  },
+  {
+    "row": 2812,
+    "field": "sentence_1",
+    "old": "他在修指甲。",
+    "new": "他在修树枝。",
+    "reason": "指甲 (fingernails) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2812,
+    "field": "translation_1",
+    "old": "He is trimming his nails.",
+    "new": "He is trimming tree branches.",
+    "reason": "Translation must match revised sentence_1."
+  },
+  {
+    "row": 2826,
+    "field": "sentence_3",
+    "old": "科学家对这种病进行了研究。",
+    "new": "医生对这种病进行了研究。",
+    "reason": "科学家 (scientist) is not in vocab_upto_L4. Replaced with 医生 which is in vocab."
+  },
+  {
+    "row": 2826,
+    "field": "translation_3",
+    "old": "Scientists conducted research on this disease.",
+    "new": "Doctors conducted research on this disease.",
+    "reason": "Translation must match revised sentence_3."
+  },
+  {
+    "row": 2832,
+    "field": "sentence_3",
+    "old": "今晚他们要演一场音乐会。",
+    "new": "今晚他们要演一个节目。",
+    "reason": "音乐会 (concert) is not in vocab_upto_L4. Replaced with 节目 which is in vocab."
+  },
+  {
+    "row": 2832,
+    "field": "translation_3",
+    "old": "They will perform a concert tonight.",
+    "new": "They will perform a program tonight.",
+    "reason": "Translation must match revised sentence_3."
+  },
+  {
+    "row": 2833,
+    "field": "sentence_1",
+    "old": "这部电影正在影院演。",
+    "new": "这部电影正在电影院演。",
+    "reason": "影院 alone is not in vocab_upto_L4; 电影院 is."
+  },
+  {
+    "row": 2833,
+    "field": "translation_1",
+    "old": "This film is currently being shown at the cinema.",
+    "new": "This film is currently being shown at the cinema.",
+    "reason": "Translation unchanged (meaning identical); sentence corrected to use in-vocab word."
+  },
+  {
+    "row": 2834,
+    "field": "sentence_1",
+    "old": "她在音乐会上演唱了三首歌。",
+    "new": "她在晚会上演唱了三首歌。",
+    "reason": "音乐会 (concert) is not in vocab_upto_L4. Replaced with 晚会 which is in vocab."
+  },
+  {
+    "row": 2834,
+    "field": "translation_1",
+    "old": "She sang three songs for the audience at the concert.",
+    "new": "She sang three songs for the audience at the evening party.",
+    "reason": "Translation must match revised sentence_1."
+  },
+  {
+    "row": 2839,
+    "field": "sentence_2",
+    "old": "孩子们在阳光下玩耍。",
+    "new": "孩子们在阳光下跑步。",
+    "reason": "玩耍 (to play/frolic) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2839,
+    "field": "translation_2",
+    "old": "The children are playing in the sunshine.",
+    "new": "The children are running in the sunshine.",
+    "reason": "Translation must match revised sentence_2."
+  },
+  {
+    "row": 2856,
+    "field": "sentence_1",
+    "old": "你有什么好主意？",
+    "new": "你有什么好意见？",
+    "reason": "Target word 意见 is absent from sentence_1. Uses 主意 instead, which is a different word."
+  },
+  {
+    "row": 2856,
+    "field": "translation_1",
+    "old": "Do you have any good ideas?",
+    "new": "Do you have any good ideas?",
+    "reason": "Translation unchanged (meaning the same); sentence corrected to include target word 意见."
+  },
+  {
+    "row": 2865,
+    "field": "sentence_3",
+    "old": "她赢得了比赛。",
+    "new": "她赢得了老师的信任。",
+    "reason": "Definition for this row is 'to gain', but sentence_3 illustrates winning a competition (same as 赢 definition). Near-duplicate of row 2864 sentence_3 as well. New sentence illustrates 'to gain' (trust/respect)."
+  },
+  {
+    "row": 2865,
+    "field": "translation_3",
+    "old": "She won the competition.",
+    "new": "She gained the teacher's trust.",
+    "reason": "Translation must match revised sentence_3."
+  },
+  {
+    "row": 2869,
+    "field": "sentence_2",
+    "old": "她勇敢地说出了心里话。",
+    "new": "她勇敢地说出了自己的想法。",
+    "reason": "心里话 (words from the heart) is not in vocab_upto_L4 as a compound."
+  },
+  {
+    "row": 2869,
+    "field": "translation_2",
+    "old": "She bravely spoke her true feelings.",
+    "new": "She bravely spoke her own thoughts.",
+    "reason": "Translation must match revised sentence_2."
+  },
+  {
+    "row": 2879,
+    "field": "sentence_3",
+    "old": "这件事由我来做。",
+    "new": "这个问题由他来回答。",
+    "reason": "Near-duplicate of sentence_1 '这件事由他来做' — same structure, only pronoun differs."
+  },
+  {
+    "row": 2879,
+    "field": "translation_3",
+    "old": "This matter will be done by me.",
+    "new": "This question will be answered by him.",
+    "reason": "Translation must match revised sentence_3."
+  },
+  {
+    "row": 2883,
+    "field": "sentence_2",
+    "old": "油腻的食物不健康。",
+    "new": "这个菜很油，不好吃。",
+    "reason": "油腻 is not in vocab_upto_L4."
+  },
+  {
+    "row": 2883,
+    "field": "translation_2",
+    "old": "Greasy food is unhealthy.",
+    "new": "This dish is very greasy and not tasty.",
+    "reason": "Translation must match revised sentence_2."
+  },
+  {
+    "row": 2883,
+    "field": "sentence_3",
+    "old": "炸鸡很油。",
+    "new": "这个肉很油，我不想吃。",
+    "reason": "炸鸡 (fried chicken) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2883,
+    "field": "translation_3",
+    "old": "Fried chicken is very greasy.",
+    "new": "This meat is very greasy; I don't want to eat it.",
+    "reason": "Translation must match revised sentence_3."
+  },
+  {
+    "row": 2901,
+    "field": "sentence_2",
+    "old": "他原谅了她的失礼。",
+    "new": "他原谅了她的错误。",
+    "reason": "失礼 (rudeness) is not in vocab_upto_L4."
+  },
+  {
+    "row": 2901,
+    "field": "translation_2",
+    "old": "He excused her rudeness.",
+    "new": "He excused her mistake.",
+    "reason": "Translation must match revised sentence_2."
+  }
+]

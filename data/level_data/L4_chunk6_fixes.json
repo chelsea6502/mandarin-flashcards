@@ -1,0 +1,282 @@
+[
+  {
+    "row": 2310,
+    "field": "sentence_2",
+    "old": "妈妈给我织了一件毛衣。",
+    "new": "妈妈给我买了一件毛衣。",
+    "reason": "织 (to knit) is not in vocab_upto_L4; replaced with 买"
+  },
+  {
+    "row": 2310,
+    "field": "translation_2",
+    "old": "Mom knitted a sweater for me.",
+    "new": "Mom bought a sweater for me.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2311,
+    "field": "sentence_1",
+    "old": "她买了一个红色的帽子。",
+    "new": "她买了一顶红色的帽子。",
+    "reason": "Classifier mismatch: 帽子 uses classifier 顶, not 个"
+  },
+  {
+    "row": 2325,
+    "field": "sentence_2",
+    "old": "今天入场免费。",
+    "new": "这里上网免费。",
+    "reason": "Near-duplicate of sentence_1 (both say entry is free today with only 进场/入场 differing); replaced to avoid duplication"
+  },
+  {
+    "row": 2325,
+    "field": "translation_2",
+    "old": "Entry is free of charge today.",
+    "new": "Internet access here is free of charge.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2326,
+    "field": "sentence_2",
+    "old": "我们要面对这个问题。",
+    "new": "她面对困难没有哭。",
+    "reason": "This sentence is identical to row 2327 sentence_1; cross-row duplicate; replaced"
+  },
+  {
+    "row": 2326,
+    "field": "translation_2",
+    "old": "We need to face this problem.",
+    "new": "She faced difficulties without crying.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2333,
+    "field": "sentence_1",
+    "old": "把药研成末。",
+    "new": "饼干变成了末。",
+    "reason": "研 (to grind) as a standalone verb is not in vocab_upto_L4 (only 研究 is); replaced with in-vocab phrasing"
+  },
+  {
+    "row": 2333,
+    "field": "translation_1",
+    "old": "Grind the medicine into powder.",
+    "new": "The crackers turned into powder.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2333,
+    "field": "sentence_3",
+    "old": "他把饼干碾成了末。",
+    "new": "他把糖弄成了末。",
+    "reason": "碾 (to crush/mill) is not in vocab_upto_L4; replaced with 弄 which is in vocab"
+  },
+  {
+    "row": 2333,
+    "field": "translation_3",
+    "old": "He crushed the biscuits into powder.",
+    "new": "He turned the sugar into powder.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2337,
+    "field": "sentence_1",
+    "old": "他瞄准了目标。",
+    "new": "他找到了目标。",
+    "reason": "瞄准 (to take aim) is not in vocab_upto_L4; replaced with 找到"
+  },
+  {
+    "row": 2337,
+    "field": "translation_1",
+    "old": "He aimed at the target.",
+    "new": "He found the target.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2337,
+    "field": "sentence_2",
+    "old": "他的目标是学好中文。",
+    "new": "他们设定了一个目标。",
+    "reason": "Wrong definition illustrated: 'learn Chinese well' illustrates 'goal/objective', not a physical/concrete 'target'; replaced; note sentence_3 already uses 设定 — swap instead"
+  },
+  {
+    "row": 2337,
+    "field": "sentence_2",
+    "old": "他的目标是学好中文。",
+    "new": "弓箭射中了目标。",
+    "reason": "Wrong definition illustrated: sentence illustrates 'goal', not physical 'target'; replaced with a sentence showing a concrete target"
+  },
+  {
+    "row": 2337,
+    "field": "translation_2",
+    "old": "His goal is to learn Chinese well.",
+    "new": "The arrow hit the target.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2371,
+    "field": "sentence_1",
+    "old": "大家一起拍手叫好。",
+    "new": "大家一起拍手。",
+    "reason": "叫好 (to cheer/applaud) is not in vocab_upto_L4; removed the extraneous phrase"
+  },
+  {
+    "row": 2371,
+    "field": "translation_1",
+    "old": "Everyone clapped together in applause.",
+    "new": "Everyone clapped together.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2375,
+    "field": "sentence_2",
+    "old": "这条管子用来排水。",
+    "new": "他们把水排出去了。",
+    "reason": "管子 (pipe/tube) is not in vocab_upto_L4; replaced with a simpler in-vocab sentence"
+  },
+  {
+    "row": 2375,
+    "field": "translation_2",
+    "old": "This pipe is used to discharge water.",
+    "new": "They discharged the water.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2375,
+    "field": "sentence_3",
+    "old": "他们正在排出废气。",
+    "new": "不能把脏水排到河里。",
+    "reason": "废气 (exhaust/waste gas) is not in vocab_upto_L4; replaced with in-vocab sentence"
+  },
+  {
+    "row": 2375,
+    "field": "translation_3",
+    "old": "They are discharging waste gas.",
+    "new": "You cannot discharge dirty water into the river.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2379,
+    "field": "sentence_1",
+    "old": "他打麻将摸了一块牌。",
+    "new": "他拿了一块牌。",
+    "reason": "麻将 (mahjong) and 摸 (to touch/draw) are not in vocab_upto_L4; replaced"
+  },
+  {
+    "row": 2379,
+    "field": "translation_1",
+    "old": "He drew a mah-jongg tile while playing.",
+    "new": "He took a mah-jongg tile.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2394,
+    "field": "sentence_3",
+    "old": "风吹来几片花瓣。",
+    "new": "风吹来几片叶子。",
+    "reason": "花瓣 (flower petal) is not in vocab_upto_L4; 叶子 is in vocab"
+  },
+  {
+    "row": 2394,
+    "field": "translation_3",
+    "old": "The wind blew over a few flakes of petals.",
+    "new": "The wind blew over a few flakes of leaves.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2414,
+    "field": "sentence_3",
+    "old": "大家都同意，我也其中。",
+    "new": "他们五人中，我也在其中。",
+    "reason": "Unnatural phrasing: 我也其中 is non-idiomatic; correct form is 在其中"
+  },
+  {
+    "row": 2414,
+    "field": "translation_3",
+    "old": "Everyone agreed, and I was included.",
+    "new": "Among the five of them, I was also included.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2416,
+    "field": "sentence_3",
+    "old": "他生气了。",
+    "new": "气从瓶子里出来了。",
+    "reason": "Wrong definition illustrated: 他生气了 shows 生气 (to get angry), not 气 as 'gas'"
+  },
+  {
+    "row": 2416,
+    "field": "translation_3",
+    "old": "He got angry.",
+    "new": "Gas came out of the bottle.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2418,
+    "field": "sentence_3",
+    "old": "热带气候很热。",
+    "new": "南方的气候比较热。",
+    "reason": "热带 (tropical) is not in vocab_upto_L4; replaced with 南方 which is in vocab"
+  },
+  {
+    "row": 2418,
+    "field": "translation_3",
+    "old": "A tropical climate is very hot.",
+    "new": "The climate in the south is relatively hot.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2428,
+    "field": "sentence_3",
+    "old": "她的意志很强。",
+    "new": "她的能力很强。",
+    "reason": "意志 (willpower/will) is not in vocab_upto_L4; replaced with 能力 which is in vocab"
+  },
+  {
+    "row": 2428,
+    "field": "translation_3",
+    "old": "Her willpower is very strong.",
+    "new": "Her ability is very strong.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2430,
+    "field": "sentence_1",
+    "old": "他用锤子敲钉子。",
+    "new": "他敲了桌子一下。",
+    "reason": "锤子 (hammer) and 钉子 (nail) are not in vocab_upto_L4; replaced with in-vocab objects"
+  },
+  {
+    "row": 2430,
+    "field": "translation_1",
+    "old": "He used a hammer to strike the nail.",
+    "new": "He struck the table once.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2432,
+    "field": "sentence_2",
+    "old": "他被那个小贩敲了。",
+    "new": "他被那个人敲了。",
+    "reason": "小贩 (street vendor) is not in vocab_upto_L4; replaced with 人"
+  },
+  {
+    "row": 2432,
+    "field": "translation_2",
+    "old": "He was overcharged by that vendor.",
+    "new": "He was overcharged by that person.",
+    "reason": "Translation updated to match new sentence"
+  },
+  {
+    "row": 2441,
+    "field": "sentence_1",
+    "old": "她会拉小提琴。",
+    "new": "她会拉这种琴。",
+    "reason": "小提琴 (violin) is not in vocab_upto_L4; replaced with 这种琴"
+  },
+  {
+    "row": 2441,
+    "field": "translation_1",
+    "old": "She can play the violin (a stringed instrument).",
+    "new": "She can play this kind of stringed instrument.",
+    "reason": "Translation updated to match new sentence"
+  }
+]

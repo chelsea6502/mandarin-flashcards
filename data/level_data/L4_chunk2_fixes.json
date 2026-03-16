@@ -1,0 +1,793 @@
+[
+  {
+    "row": 1698,
+    "field": "sentence_2",
+    "old": "你为什么这样做？",
+    "new": "此事我不清楚。",
+    "reason": "Target word 此 absent; old sentence uses 这样 and does not illustrate the pronoun 此 meaning 'this'."
+  },
+  {
+    "row": 1698,
+    "field": "translation_2",
+    "old": "Why did you do this?",
+    "new": "I am not clear about this matter.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1698,
+    "field": "sentence_3",
+    "old": "现在不说，什么时候才说？",
+    "new": "此人是我朋友。",
+    "reason": "Target word 此 absent; old sentence does not use 此 at all."
+  },
+  {
+    "row": 1698,
+    "field": "translation_3",
+    "old": "If not now to speak, then when?",
+    "new": "This person is my friend.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1707,
+    "field": "sentence_3",
+    "old": "他的手很粗。",
+    "new": "这棵树的树干很粗。",
+    "reason": "Describing hands as 粗 illustrates 'rough' (row 1708) more naturally than 'thick in diameter'; using tree trunk keeps the diameter sense clear."
+  },
+  {
+    "row": 1707,
+    "field": "translation_3",
+    "old": "His hands are very thick.",
+    "new": "This tree's trunk is very thick.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1708,
+    "field": "sentence_2",
+    "old": "这条路很粗，不好走。",
+    "new": "这块石头摸起来很粗。",
+    "reason": "Roads are not described as 粗 (rough/coarse) in natural Chinese; rocks are a natural referent for rough texture. 石头 not in vocab — use 墙."
+  },
+  {
+    "row": 1708,
+    "field": "sentence_2",
+    "old": "这条路很粗，不好走。",
+    "new": "这面墙摸起来很粗。",
+    "reason": "Roads are not described as 粗 (rough/coarse) in natural Chinese; walls are a natural referent for rough surface texture. Also avoids 石头 which is not in vocab."
+  },
+  {
+    "row": 1708,
+    "field": "translation_2",
+    "old": "This road is very rough and hard to walk on.",
+    "new": "This wall feels very rough to the touch.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1708,
+    "field": "sentence_3",
+    "old": "他的手又粗又硬。",
+    "new": "老人的手又粗又干。",
+    "reason": "硬 (hard/rigid) is not in vocab_upto_L4; replaced with 干 which is in vocab and similarly contrasts with soft skin."
+  },
+  {
+    "row": 1708,
+    "field": "translation_3",
+    "old": "His hands are rough and hard.",
+    "new": "The old person's hands are rough and dry.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1711,
+    "field": "sentence_1",
+    "old": "我把钱放在银行里。",
+    "new": "我把钱存在银行里。",
+    "reason": "Target word 存 absent; old sentence uses 放 instead of 存."
+  },
+  {
+    "row": 1711,
+    "field": "translation_1",
+    "old": "I stored my money in the bank.",
+    "new": "I stored my money in the bank.",
+    "reason": "Translation is already correct for the new sentence."
+  },
+  {
+    "row": 1711,
+    "field": "sentence_2",
+    "old": "他把东西放在那里。",
+    "new": "他把文件存在电脑里。",
+    "reason": "Target word 存 absent; old sentence uses 放. New sentence uses 存 correctly in a file-saving context."
+  },
+  {
+    "row": 1711,
+    "field": "translation_2",
+    "old": "He stored his things there.",
+    "new": "He stored the file on the computer.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1713,
+    "field": "sentence_1",
+    "old": "他做了一个错误。",
+    "new": "他写了一个错误。",
+    "reason": "做了一个错误 is unnatural Chinese; one writes errors (e.g. 写错了) or finds them, not 做了一个错误. Revised to 他写了一个错误 (he wrote an error — as in put a wrong character) which is natural."
+  },
+  {
+    "row": 1713,
+    "field": "translation_1",
+    "old": "He made an error.",
+    "new": "He wrote an error.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1719,
+    "field": "sentence_2",
+    "old": "他打败了所有对面的人。",
+    "new": "他打败了所有对手。",
+    "reason": "对面的人 is unnatural for 'opponents'; 对手 is the standard word and is in vocab."
+  },
+  {
+    "row": 1719,
+    "field": "translation_2",
+    "old": "He defeated all his opponents.",
+    "new": "He defeated all his opponents.",
+    "reason": "Translation remains the same and is correct."
+  },
+  {
+    "row": 1724,
+    "field": "sentence_1",
+    "old": "这封信需要打印才有效。",
+    "new": "请帮我打印这份文件。",
+    "reason": "Definition 'to seal' is incorrect for 打印 (which means 'to print'); all sentences illustrate the wrong meaning. Replacing with sentences that illustrate printing."
+  },
+  {
+    "row": 1724,
+    "field": "translation_1",
+    "old": "This letter needs to be sealed to be valid.",
+    "new": "Please help me print this document.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1724,
+    "field": "sentence_2",
+    "old": "把信打印好再寄出去。",
+    "new": "他用打印机打印了一张图片。",
+    "reason": "Old sentence illustrates 'to seal', which is not a meaning of 打印; replaced with correct printing usage."
+  },
+  {
+    "row": 1724,
+    "field": "translation_2",
+    "old": "Seal the letter before mailing it.",
+    "new": "He used the printer to print a picture.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1724,
+    "field": "sentence_3",
+    "old": "他把那个东西打印好了。",
+    "new": "你打印好了吗？",
+    "reason": "Old sentence illustrates sealing; replaced with natural print-completion question."
+  },
+  {
+    "row": 1724,
+    "field": "translation_3",
+    "old": "He sealed it properly.",
+    "new": "Have you finished printing?",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1725,
+    "field": "sentence_1",
+    "old": "请在这里打印你的名字。",
+    "new": "这台打印机可以打印彩色图片。",
+    "reason": "Definition 'to stamp' is not a meaning of 打印; all sentences illustrate wrong meaning. Replacing with printing usage."
+  },
+  {
+    "row": 1725,
+    "field": "translation_1",
+    "old": "Please stamp your name here.",
+    "new": "This printer can print color pictures.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1725,
+    "field": "sentence_2",
+    "old": "文件上打印了公司的印。",
+    "new": "我需要打印一份表格。",
+    "reason": "Old sentence uses 印 (stamp/seal) which is not in vocab, and illustrates the wrong meaning."
+  },
+  {
+    "row": 1725,
+    "field": "translation_2",
+    "old": "The company's stamp was stamped on the document.",
+    "new": "I need to print a form.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1725,
+    "field": "sentence_3",
+    "old": "他把证明打印好了。",
+    "new": "学校打印了一张通知。",
+    "reason": "Old sentence illustrates stamping not printing; replaced with natural printing sentence."
+  },
+  {
+    "row": 1725,
+    "field": "translation_3",
+    "old": "He stamped the certificate.",
+    "new": "The school printed a notice.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1726,
+    "field": "sentence_2",
+    "old": "打印机没有墨水了。",
+    "new": "打印机坏了，不能用。",
+    "reason": "墨水 (ink) is not in vocab_upto_L4."
+  },
+  {
+    "row": 1726,
+    "field": "translation_2",
+    "old": "The printer is out of ink.",
+    "new": "The printer is broken and cannot be used.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1734,
+    "field": "sentence_1",
+    "old": "他是一名大夫。",
+    "new": "以前的大夫负责管理地方。",
+    "reason": "Definition is 'senior official in imperial China' but old sentence illustrates 'doctor' meaning. Must illustrate the imperial official sense."
+  },
+  {
+    "row": 1734,
+    "field": "translation_1",
+    "old": "He is a doctor.",
+    "new": "Senior officials in the past were responsible for governing local areas.",
+    "reason": "Translation must match new sentence illustrating the imperial official definition."
+  },
+  {
+    "row": 1734,
+    "field": "sentence_2",
+    "old": "大夫在医院工作。",
+    "new": "他在历史书上看到了大夫这个词。",
+    "reason": "Old sentence illustrates 'doctor' meaning, not the imperial official sense."
+  },
+  {
+    "row": 1734,
+    "field": "translation_2",
+    "old": "The doctor works in the hospital.",
+    "new": "He saw the term 'senior official' in a history book.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1752,
+    "field": "sentence_2",
+    "old": "他每天练习弹吉他。",
+    "new": "他每天练习弹琴。",
+    "reason": "吉他 (guitar) is not in vocab_upto_L4; 琴 is in vocab."
+  },
+  {
+    "row": 1752,
+    "field": "translation_2",
+    "old": "He practices playing guitar every day.",
+    "new": "He practices playing a stringed instrument every day.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1752,
+    "field": "sentence_3",
+    "old": "你会弹钢琴还是吉他？",
+    "new": "你会弹钢琴还是琴？",
+    "reason": "吉他 (guitar) is not in vocab_upto_L4; replaced with 琴."
+  },
+  {
+    "row": 1752,
+    "field": "translation_3",
+    "old": "Can you play piano or guitar?",
+    "new": "Can you play piano or another stringed instrument?",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1753,
+    "field": "sentence_3",
+    "old": "他用手弹走了一只小虫。",
+    "new": "他用手弹走了一粒米。",
+    "reason": "小虫 (little bug) is not in vocab_upto_L4; replaced with 米 (grain of rice) which is in vocab."
+  },
+  {
+    "row": 1753,
+    "field": "translation_3",
+    "old": "He flicked a little bug away with his hand.",
+    "new": "He flicked a grain of rice away with his hand.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1754,
+    "field": "sentence_2",
+    "old": "她当翻译已经五年了。",
+    "new": "她当老师已经五年了。",
+    "reason": "翻译 is not definitively in vocab at this level as a standalone occupation word at L4; 老师 is clearly in vocab and illustrates 'serve as' equally well."
+  },
+  {
+    "row": 1754,
+    "field": "translation_2",
+    "old": "She has served as a translator for five years.",
+    "new": "She has served as a teacher for five years.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1755,
+    "field": "sentence_2",
+    "old": "她当服务员打工。",
+    "new": "她当收银员打工。",
+    "reason": "服务员 (waiter/waitress) is not in vocab_upto_L4; 售票员 is in vocab but contextually 收银员 is more fitting — however 售票员 is in vocab. Use 售票员."
+  },
+  {
+    "row": 1755,
+    "field": "sentence_2",
+    "old": "她当服务员打工。",
+    "new": "她当售票员打工。",
+    "reason": "服务员 (waiter/waitress) is not in vocab_upto_L4; 售票员 is in vocab."
+  },
+  {
+    "row": 1755,
+    "field": "translation_2",
+    "old": "She works as a waitress.",
+    "new": "She works as a ticket seller.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1756,
+    "field": "sentence_3",
+    "old": "不要当着孩子的面大声说话。",
+    "new": "不要当着孩子的面说这话。",
+    "reason": "大声 is not in vocab_upto_L4 as a compound; removed it while keeping the sentence natural."
+  },
+  {
+    "row": 1756,
+    "field": "translation_3",
+    "old": "Don't speak loudly in the presence of the children.",
+    "new": "Don't say this in the presence of the children.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1757,
+    "field": "sentence_1",
+    "old": "当那个时候，我还很小。",
+    "new": "当那一年，他才二十岁。",
+    "reason": "当那个时候 is redundant/unnatural phrasing; 当 as a preposition meaning 'at (a time)' should directly precede the time word. Use 当...年 construction."
+  },
+  {
+    "row": 1757,
+    "field": "translation_1",
+    "old": "At that time, I was still very young.",
+    "new": "At that very year, he was only twenty years old.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1757,
+    "field": "sentence_2",
+    "old": "当这个时候，大家都很开心。",
+    "new": "当春节，大家都很开心。",
+    "reason": "当这个时候 is unnatural; natural usage is 当+specific time like 当春节 (at Spring Festival time)."
+  },
+  {
+    "row": 1757,
+    "field": "translation_2",
+    "old": "At this time, everyone is very happy.",
+    "new": "At Spring Festival, everyone is very happy.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1760,
+    "field": "sentence_1",
+    "old": "事情就在那天解决了。",
+    "new": "当天的事情就解决了。",
+    "reason": "Target word 当 absent in old sentence; new sentence uses 当天 to illustrate 'that very same (day)'."
+  },
+  {
+    "row": 1760,
+    "field": "translation_1",
+    "old": "The matter was resolved that very same day.",
+    "new": "The matter was resolved that very same day.",
+    "reason": "Translation is already correct for new sentence."
+  },
+  {
+    "row": 1760,
+    "field": "sentence_2",
+    "old": "那一年，他才二十岁。",
+    "new": "当年他才二十岁。",
+    "reason": "Target word 当 absent in old sentence; 当年 illustrates 'that very same year'."
+  },
+  {
+    "row": 1760,
+    "field": "translation_2",
+    "old": "That very same year, he was only twenty years old.",
+    "new": "That very same year, he was only twenty years old.",
+    "reason": "Translation is already correct for new sentence."
+  },
+  {
+    "row": 1760,
+    "field": "sentence_3",
+    "old": "他回到了那时的村子。",
+    "new": "他回到了当年的村子。",
+    "reason": "Target word 当 absent; 当年的村子 (the village from that same time) illustrates the definition."
+  },
+  {
+    "row": 1760,
+    "field": "translation_3",
+    "old": "He returned to the village from back then.",
+    "new": "He returned to the village from that same year.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1763,
+    "field": "sentence_2",
+    "old": "这把刀很锋利。",
+    "new": "这把刀很好用。",
+    "reason": "锋利 (sharp) is not in vocab_upto_L4."
+  },
+  {
+    "row": 1763,
+    "field": "translation_2",
+    "old": "This knife is very sharp.",
+    "new": "This knife is very easy to use.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1769,
+    "field": "sentence_2",
+    "old": "他把花瓶碰倒了。",
+    "new": "他把杯子碰倒了。",
+    "reason": "花瓶 (vase) is not in vocab_upto_L4; 杯子 is in vocab."
+  },
+  {
+    "row": 1769,
+    "field": "translation_2",
+    "old": "He toppled the vase.",
+    "new": "He toppled the cup.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1772,
+    "field": "sentence_2",
+    "old": "有人专门倒商品赚差价。",
+    "new": "有人专门倒商品赚钱。",
+    "reason": "差价 (price difference) is not in vocab_upto_L4; simplified to 赚钱."
+  },
+  {
+    "row": 1772,
+    "field": "translation_2",
+    "old": "Some people specialize in reselling goods for a profit.",
+    "new": "Some people specialize in reselling goods to make money.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1786,
+    "field": "sentence_2",
+    "old": "低温会影响植物长大。",
+    "new": "低温会影响植物生长。",
+    "reason": "长大 as a compound (to grow up) is not in vocab_upto_L4; 生长 is also not present but 生 and 长 individually are. Better to rephrase: '低温会影响植物生长' — however 生长 is also not in vocab. Use a simpler construction: 低温对植物不好."
+  },
+  {
+    "row": 1786,
+    "field": "sentence_2",
+    "old": "低温会影响植物长大。",
+    "new": "低温对植物不好。",
+    "reason": "长大 is not in vocab_upto_L4 as a listed compound; simplified to avoid it."
+  },
+  {
+    "row": 1786,
+    "field": "translation_2",
+    "old": "Low temperatures affect plants growing.",
+    "new": "Low temperatures are bad for plants.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1788,
+    "field": "sentence_2",
+    "old": "杯底有裂缝。",
+    "new": "杯底有一条线。",
+    "reason": "裂缝 (crack) is not in vocab_upto_L4."
+  },
+  {
+    "row": 1788,
+    "field": "translation_2",
+    "old": "There is a crack at the base of the cup.",
+    "new": "There is a line at the base of the cup.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1789,
+    "field": "sentence_3",
+    "old": "河底很滑，要小心。",
+    "new": "河底很深，要小心。",
+    "reason": "滑 (slippery) is not in vocab_upto_L4; replaced with 深 (deep) which is in vocab."
+  },
+  {
+    "row": 1789,
+    "field": "translation_3",
+    "old": "The bottom of the river is very slippery — be careful.",
+    "new": "The bottom of the river is very deep — be careful.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1797,
+    "field": "sentence_1",
+    "old": "他每天骑那辆电车上班。",
+    "new": "他每天骑电动车上班。",
+    "reason": "Target word 电动车 absent; old sentence uses 电车 (tram) instead."
+  },
+  {
+    "row": 1797,
+    "field": "translation_1",
+    "old": "He rides that electric vehicle to work every day.",
+    "new": "He rides his electric vehicle to work every day.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1797,
+    "field": "sentence_2",
+    "old": "这辆电车充一次电能跑五十公里。",
+    "new": "这辆电动车能跑五十公里。",
+    "reason": "Target word 电动车 absent; old sentence uses 电车. Also 充 (to charge) is not in vocab."
+  },
+  {
+    "row": 1797,
+    "field": "translation_2",
+    "old": "This electric vehicle can travel fifty kilometers on one charge.",
+    "new": "This electric vehicle can travel fifty kilometers.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1797,
+    "field": "sentence_3",
+    "old": "很多人买了电车出行。",
+    "new": "很多人买了电动车出行。",
+    "reason": "Target word 电动车 absent; old sentence uses 电车."
+  },
+  {
+    "row": 1797,
+    "field": "translation_3",
+    "old": "Many people have bought electric vehicles to get around.",
+    "new": "Many people have bought electric vehicles to get around.",
+    "reason": "Translation already correct; only the Chinese sentence changed."
+  },
+  {
+    "row": 1799,
+    "field": "sentence_2",
+    "old": "苹果从树上掉下来。",
+    "new": "他从椅子上掉下来了。",
+    "reason": "Near-duplicate of sentence_1 (both describe fruit/leaves falling from a tree)."
+  },
+  {
+    "row": 1799,
+    "field": "translation_2",
+    "old": "The apple fell from the tree.",
+    "new": "He fell off the chair.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1804,
+    "field": "sentence_2",
+    "old": "他用订书机把那些文件订好了。",
+    "new": "他把那些文件订好了。",
+    "reason": "订书机 (stapler) is not in vocab_upto_L4; removed the instrument reference."
+  },
+  {
+    "row": 1804,
+    "field": "translation_2",
+    "old": "He stapled those documents together with a stapler.",
+    "new": "He stapled those documents together.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1808,
+    "field": "sentence_1",
+    "old": "这个国家的东部是平原。",
+    "new": "这个国家的东部有很多城市。",
+    "reason": "平原 (plain/flatland) is not in vocab_upto_L4."
+  },
+  {
+    "row": 1808,
+    "field": "translation_1",
+    "old": "The eastern part of this country is a plain.",
+    "new": "The eastern part of this country has many cities.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1810,
+    "field": "sentence_3",
+    "old": "他做了一个好看的动作。",
+    "new": "她学会了一个新动作。",
+    "reason": "Near-duplicate of sentence_1 (both describe a beautiful/good-looking movement)."
+  },
+  {
+    "row": 1810,
+    "field": "translation_3",
+    "old": "He made a beautiful movement.",
+    "new": "She learned a new movement.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1811,
+    "field": "sentence_3",
+    "old": "他的每个动作都很快。",
+    "new": "他的一个动作让大家很惊讶。",
+    "reason": "Near-duplicate of sentence_1 (both describe very quick actions). 惊讶 not in vocab; use simpler phrasing."
+  },
+  {
+    "row": 1811,
+    "field": "sentence_3",
+    "old": "他的每个动作都很快。",
+    "new": "大家都看到了他的动作。",
+    "reason": "Near-duplicate of sentence_1 (both describe every action being very quick); replaced with distinct sentence."
+  },
+  {
+    "row": 1811,
+    "field": "translation_3",
+    "old": "His every action is very quick.",
+    "new": "Everyone saw his action.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1813,
+    "field": "sentence_2",
+    "old": "因为堵车，我迟到了。",
+    "new": "早上堵车很严重。",
+    "reason": "Near-duplicate of sentence_1 (both describe being late due to traffic jam)."
+  },
+  {
+    "row": 1813,
+    "field": "translation_2",
+    "old": "I was late because of a traffic jam.",
+    "new": "The traffic jam in the morning was very bad.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1814,
+    "field": "sentence_2",
+    "old": "孕妇的肚子越来越大。",
+    "new": "吃了太多，肚子很大。",
+    "reason": "孕妇 (pregnant woman) is not in vocab_upto_L4."
+  },
+  {
+    "row": 1814,
+    "field": "translation_2",
+    "old": "A pregnant woman's belly gets bigger and bigger.",
+    "new": "Having eaten too much, the belly is very large.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1815,
+    "field": "sentence_2",
+    "old": "他摔倒后肚子很疼。",
+    "new": "他受伤后肚子很疼。",
+    "reason": "摔倒 contains 摔 which is not in vocab_upto_L4; replaced with 受伤 which is in vocab."
+  },
+  {
+    "row": 1815,
+    "field": "translation_2",
+    "old": "After he fell down, his abdomen hurt a lot.",
+    "new": "After he was injured, his abdomen hurt a lot.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1818,
+    "field": "sentence_2",
+    "old": "他是队里的骨干。",
+    "new": "他是队里的队长。",
+    "reason": "骨干 (backbone/key member) is not in vocab_upto_L4."
+  },
+  {
+    "row": 1818,
+    "field": "translation_2",
+    "old": "He is the backbone of the squadron.",
+    "new": "He is the captain of the squadron.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1828,
+    "field": "sentence_2",
+    "old": "读文章时要在标点处顿一顿。",
+    "new": "说到这里，他顿了一下再说。",
+    "reason": "标点 (punctuation) is not in vocab_upto_L4."
+  },
+  {
+    "row": 1828,
+    "field": "translation_2",
+    "old": "When reading an article, you should pause at punctuation marks.",
+    "new": "At this point, he paused for a moment before continuing.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1835,
+    "field": "sentence_1",
+    "old": "他学而不用，很可惜。",
+    "new": "他听而不答，让人不明白。",
+    "reason": "牺牲 (to sacrifice) is not in vocab_upto_L4; however sentence_1 is actually fine — 牺牲 is only in sentence_1 of row 1837. Row 1835 sentence_1 does not contain 牺牲. Keeping original."
+  },
+  {
+    "row": 1837,
+    "field": "sentence_1",
+    "old": "他为爱而牺牲了一切。",
+    "new": "他为工作而努力了很多年。",
+    "reason": "牺牲 (to sacrifice) is not in vocab_upto_L4."
+  },
+  {
+    "row": 1837,
+    "field": "translation_1",
+    "old": "He sacrificed everything for love.",
+    "new": "He worked hard for his job for many years.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1839,
+    "field": "sentence_3",
+    "old": "学校发出了通知书。",
+    "new": "学校发出了通知。",
+    "reason": "通知书 (notification letter) is not in vocab_upto_L4; 通知 alone is in vocab."
+  },
+  {
+    "row": 1839,
+    "field": "translation_3",
+    "old": "The school sent out a notification letter.",
+    "new": "The school sent out a notice.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1840,
+    "field": "sentence_2",
+    "old": "卫星发送信号到地球。",
+    "new": "电脑可以发送信号。",
+    "reason": "卫星 (satellite) is not in vocab_upto_L4."
+  },
+  {
+    "row": 1840,
+    "field": "translation_2",
+    "old": "The satellite transmits signals to the Earth.",
+    "new": "A computer can transmit signals.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1842,
+    "field": "sentence_1",
+    "old": "他想出了一个好法。",
+    "new": "这个方法很好用。",
+    "reason": "法 as a standalone noun meaning 'method' (without compound like 办法/方法) is unnatural in modern Chinese; sentences are awkward. The definition 'method' for standalone 法 is marginal — replacing all three sentences with natural ones."
+  },
+  {
+    "row": 1842,
+    "field": "translation_1",
+    "old": "He came up with a good method.",
+    "new": "This method works very well.",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1842,
+    "field": "sentence_2",
+    "old": "你有没有更好的法？",
+    "new": "你有没有好的办法？",
+    "reason": "法 as standalone is unnatural; 办法 is in vocab and natural."
+  },
+  {
+    "row": 1842,
+    "field": "translation_2",
+    "old": "Do you have a better method?",
+    "new": "Do you have a good method?",
+    "reason": "Translation must match new sentence."
+  },
+  {
+    "row": 1842,
+    "field": "sentence_3",
+    "old": "这个法很有效。",
+    "new": "这个做法很有效。",
+    "reason": "这个法 is unnatural; 做法 (method/approach) is in vocab and natural."
+  },
+  {
+    "row": 1842,
+    "field": "translation_3",
+    "old": "This method is very effective.",
+    "new": "This method is very effective.",
+    "reason": "Translation remains the same and is correct."
+  }
+]
