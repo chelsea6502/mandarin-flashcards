@@ -1,0 +1,15 @@
+[
+  {"row": 4346, "field": "sentence_2", "old": "她因为表现好被升职了。", "new": "她因为表现好被升为组长了。", "reason": "Uses compound 升职 instead of root headword 升; rewrite to use 升 directly."},
+  {"row": 4346, "field": "translation_2", "old": "She was promoted to a higher job because of her good performance.", "new": "She was promoted to team leader because of her good performance.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4376, "field": "sentence_1", "old": "那一刻，他非常开心。", "new": "那个时刻，他非常开心。", "reason": "Headword 时刻 does not appear in the sentence (那一刻 omits 时); rewrite so 时刻 appears."},
+  {"row": 4397, "field": "sentence_1", "old": "请用正确的句子形式。", "new": "中文有陈述式和疑问式。", "reason": "Sentence illustrates the compound 形式 rather than the headword suffix 式; replace with a sentence where 式 is the operative element."},
+  {"row": 4397, "field": "translation_1", "old": "Please use the correct sentence form.", "new": "Chinese has declarative form and interrogative form.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4397, "field": "sentence_2", "old": "这个问题有两种方式。", "new": "这是西式的装修风格。", "reason": "Sentence illustrates the compound 方式 rather than the suffix 式; replace with a sentence using 式 as a productive suffix."},
+  {"row": 4397, "field": "translation_2", "old": "This problem has two approaches.", "new": "This is a Western-style decoration.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4397, "field": "sentence_3", "old": "填写表格的格式很重要。", "new": "新式手机越来越薄。", "reason": "Sentence illustrates the compound 格式 rather than the suffix 式; replace with a sentence using 式 as a suffix meaning 'form/style'."},
+  {"row": 4397, "field": "translation_3", "old": "The form for filling out the table is very important.", "new": "New-style phones are getting thinner and thinner.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4480, "field": "sentence_2", "old": "你可以在网上搜索答案。", "new": "警察搜索了整栋楼。", "reason": "Near-duplicate of sentence_1 (both describe searching for an answer online); replace with a different scenario."},
+  {"row": 4480, "field": "translation_2", "old": "You can search for the answer online.", "new": "The police searched the entire building.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4485, "field": "sentence_1", "old": "你随时可以来找我。", "new": "天气随时可能变化。", "reason": "Cross-row near-duplicate with row 4484 sentence_1 (你随时可以来问我); replace with a different scenario."},
+  {"row": 4485, "field": "translation_1", "old": "You can come find me whenever you like.", "new": "The weather can change at any time.", "reason": "Translation updated to match corrected sentence."}
+]

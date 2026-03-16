@@ -1,0 +1,14 @@
+[
+  {"row": 4209, "field": "sentence_1", "old": "他想尽了一切办法，才智终于穷尽。", "new": "他的力气已经穷，无法继续前进了。", "reason": "Uses compound 穷尽 instead of the headword 穷 as a standalone word (rule 7)."},
+  {"row": 4209, "field": "translation_1", "old": "He tried every possible method, and his ingenuity was finally exhausted.", "new": "His strength was exhausted and he could no longer continue.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4209, "field": "sentence_2", "old": "这条路已经走穷，只好另辟蹊径。", "new": "这条路已经走穷，只好换一条路走。", "reason": "另辟蹊径 uses 蹊径, which is above HSK5 vocabulary."},
+  {"row": 4209, "field": "translation_2", "old": "This path has been exhausted; we have no choice but to find a new way.", "new": "This path has been exhausted; we have no choice but to take a different route.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4209, "field": "sentence_3", "old": "村里的水源快要穷尽，大家必须节省。", "new": "村里的粮食快要穷，大家必须节省。", "reason": "Uses compound 穷尽 instead of the headword 穷."},
+  {"row": 4209, "field": "translation_3", "old": "The village's water source is nearly exhausted; everyone must conserve.", "new": "The village's grain is nearly exhausted; everyone must conserve.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4220, "field": "translation_1", "old": "We are going all out to support your decision.", "new": "We support your decision with all our strength.", "reason": "'Going all out to support' is an awkward calque of 全力支持; the phrase simply means 'fully/wholeheartedly support.'"},
+  {"row": 4246, "field": "sentence_3", "old": "公园里有一个人工湖。", "new": "他戴的手表是人工制作的，不是机器生产的。", "reason": "Near-duplicate of sentence_1, which also describes an artificial lake; the scenario should differ."},
+  {"row": 4246, "field": "translation_3", "old": "There is an artificial lake in the park.", "new": "The watch he is wearing is artificially made, not machine-produced.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4326, "field": "sentence_3", "old": "我们在公园里设置了几个椅子。", "new": "工厂在门口设置了一个安全检查站。", "reason": "设置 is unnatural for chairs (one places/arranges chairs, not installs them); also 个 is the wrong measure word for 椅子 (correct: 把)."},
+  {"row": 4326, "field": "translation_3", "old": "We set up several chairs in the park.", "new": "The factory set up a security checkpoint at the entrance.", "reason": "Translation updated to match corrected sentence."},
+  {"row": 4329, "field": "translation_1", "old": "He extended his hand into his pocket.", "new": "He reached his hand into his pocket.", "reason": "'Extended his hand into his pocket' is unnatural English; 'reached' is the idiomatic word here."}
+]

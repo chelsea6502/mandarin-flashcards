@@ -1,0 +1,20 @@
+[
+  {"row": 5072, "field": "REMOVE", "reason": "True duplicate of row 5071: same simplified 职工 with synonymous definitions 'employees' and 'staff'"},
+  {"row": 5078, "field": "sentence_2", "old": "请等到他回来。", "new": "展览时间自本月一日至三十日。", "reason": "Headword 至 does not appear in the sentence (criterion 3)"},
+  {"row": 5078, "field": "translation_2", "old": "Please wait until he comes back.", "new": "The exhibition runs from the first to the thirtieth of this month.", "reason": "Updating translation to match revised sentence"},
+  {"row": 5089, "field": "sentence_2", "old": "他犯了罪，受到了法律的治罪。", "new": "法官依法治了那个罪犯。", "reason": "治罪 is a compound; the headword 治 as 'to punish' should be demonstrated with standalone usage (criterion 7)"},
+  {"row": 5089, "field": "translation_2", "old": "He committed a crime and was punished under the law.", "new": "The judge punished the criminal according to the law.", "reason": "Updating translation to match revised sentence"},
+  {"row": 5092, "field": "REMOVE", "reason": "True duplicate of row 5091: same simplified 治疗 and same definition 'to treat'"},
+  {"row": 5103, "field": "sentence_3", "old": "他们在城市中心建了一个新公园。", "new": "这个项目以教育为中心，影响很大。", "reason": "Near-duplicate of sentence_1: both use the 城市中心 scenario (criterion 8)"},
+  {"row": 5103, "field": "translation_3", "old": "They built a new park in the city center.", "new": "This project is centered on education and has great influence.", "reason": "Updating translation to match revised sentence"},
+  {"row": 5110, "field": "pos", "old": "numeral", "new": "adjective", "reason": "众多 is an adjective meaning 'numerous/many', not a numeral"},
+  {"row": 5122, "field": "REMOVE", "reason": "True duplicate of row 5120: same simplified 主持 and effectively same definition 'to uphold (justice)'; all sentences in both rows use identical 主持公道/公正/正义 scenarios"},
+  {"row": 5184, "field": "sentence_1", "old": "他属于一个古老的部族。", "new": "他们是同族，关系很亲近。", "reason": "All three sentences use compound 部族 rather than showing headword 族 more directly; 族 meaning 'clan' should appear in sentences illustrating that meaning (criterion 7)"},
+  {"row": 5184, "field": "translation_1", "old": "He belongs to an ancient tribe.", "new": "They are of the same clan and are very close.", "reason": "Updating translation to match revised sentence"},
+  {"row": 5184, "field": "sentence_2", "old": "这个部族世代生活在山里。", "new": "汉族是中国人口最多的民族。", "reason": "Replacing 部族 compound with sentence using 族 more directly"},
+  {"row": 5184, "field": "translation_2", "old": "This tribe has lived in the mountains for generations.", "new": "The Han ethnic group is the largest ethnic group in China.", "reason": "Updating translation to match revised sentence"},
+  {"row": 5184, "field": "sentence_3", "old": "部族里的长者受到大家的尊敬。", "new": "两族之间有很长的通婚历史。", "reason": "Replacing third 部族 sentence with one using 族 standalone"},
+  {"row": 5184, "field": "translation_3", "old": "The elders of the tribe are respected by everyone.", "new": "The two clans have a long history of intermarriage.", "reason": "Updating translation to match revised sentence"},
+  {"row": 5187, "field": "sentence_2", "old": "这道菜由几种食材组合在一起。", "new": "他把几个零件组合成了一台机器。", "reason": "Near-duplicate of sentence_1: both use '由…组合在一起' structure in the same scenario (criterion 8)"},
+  {"row": 5187, "field": "translation_2", "old": "This dish is made up of several ingredients.", "new": "He combined several parts to assemble a machine.", "reason": "Updating translation to match revised sentence"}
+]

@@ -1,0 +1,12 @@
+[
+  {"row": 4788, "field": "translation_3", "old": "The court announced its decision.", "new": "The court declared its decision.", "reason": "Definition being illustrated is 'to declare'; translation uses 'announced' instead of 'declared'"},
+  {"row": 4807, "field": "sentence_2", "old": "我们每天要刷牙齿。", "new": "我们每天要刷牙。", "reason": "Unnatural collocation: the standard Chinese expression is 刷牙, not 刷牙齿"},
+  {"row": 4863, "field": "sentence_3", "old": "全球有七十亿人。", "new": "全球有八十亿人。", "reason": "Factual error: world population reached 8 billion in 2022; 七十亿 (7 billion) is outdated"},
+  {"row": 4863, "field": "translation_3", "old": "There are 7 billion people in the world.", "new": "There are 8 billion people in the world.", "reason": "Update translation to match corrected sentence"},
+  {"row": 4887, "field": "sentence_1", "old": "他去车站迎接朋友。", "new": "老师热情地迎接新来的学生。", "reason": "Cross-row near-duplicate of row 4885 sentence_1 '她去机场迎朋友': both depict going to a transport hub to meet someone"},
+  {"row": 4887, "field": "translation_1", "old": "He went to the station to meet his friend.", "new": "The teacher warmly welcomed the new students.", "reason": "Update translation to match corrected sentence"},
+  {"row": 4896, "field": "sentence_3", "old": "他用硬的态度面对批评。", "new": "这家公司对供应商的要求很硬。", "reason": "Near-duplicate of sentence_1 '他的态度非常硬，不肯让步': both show a firm/unyielding attitude in a personal confrontation"},
+  {"row": 4896, "field": "translation_3", "old": "He faced criticism with a firm attitude.", "new": "This company is very firm in its demands on suppliers.", "reason": "Update translation to match corrected sentence"},
+  {"row": 4905, "field": "sentence_1", "old": "这个应用的用户越来越多。", "new": "电信公司的用户数量大幅增加了。", "reason": "Cross-row near-duplicate of row 4904 sentence_1 '这个网站的用户越来越多': same sentence structure and topic"},
+  {"row": 4905, "field": "translation_1", "old": "This app has more and more subscribers.", "new": "The number of telecom company subscribers grew significantly.", "reason": "Update translation to match corrected sentence"}
+]
