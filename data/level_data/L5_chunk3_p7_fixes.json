@@ -1,0 +1,20 @@
+[
+  {"row": 3199, "field": "sentence_3", "old": "他把现金存放在银行保险柜里。", "new": "请把这些资料存放在档案室里。", "reason": "Intra-row near-duplicate of sentence_2 (both describe depositing valuables in a bank safe); replaced with a different scenario."},
+  {"row": 3199, "field": "translation_3", "old": "He deposited his cash in the bank safe.", "new": "Please store these materials in the archive room.", "reason": "Paired translation fix for sentence_3."},
+  {"row": 3205, "field": "sentence_2", "old": "他们终于达成了协议。", "new": "两国达成了合作意向。", "reason": "Intra-row near-duplicate of sentence_1 (both are 'X 达成了协议'); replaced with a different scenario."},
+  {"row": 3205, "field": "translation_2", "old": "They finally reached an agreement.", "new": "The two countries reached an agreement on cooperation.", "reason": "Paired translation fix for sentence_2."},
+  {"row": 3209, "field": "sentence_1", "old": "绳子被打断了。", "new": "他的腿被打断了。", "reason": "打断绳子 is unnatural Chinese; 打断 collocates with bones/limbs or interrupting speech, not ropes."},
+  {"row": 3209, "field": "translation_1", "old": "The rope was broken.", "new": "His leg was broken.", "reason": "Paired translation fix for sentence_1."},
+  {"row": 3209, "field": "sentence_2", "old": "他打断了那根木棍。", "new": "他打断了她的话。", "reason": "打断木棍 is unnatural; 打断 more naturally collocates with interrupting speech or breaking bones, and avoids near-duplicate with sentence_3 (breaking physical objects)."},
+  {"row": 3209, "field": "translation_2", "old": "He broke that wooden stick.", "new": "He interrupted her mid-sentence.", "reason": "Paired translation fix for sentence_2."},
+  {"row": 3230, "field": "sentence_3", "old": "他在家里当大爷，什么都不管。", "new": "她抱怨丈夫像大爷，家务都不做。", "reason": "Intra-row near-duplicate of sentence_1 (both describe a man at home acting like an arrogant idler doing nothing); replaced with different subject and context."},
+  {"row": 3230, "field": "translation_3", "old": "He acts as an arrogant idler at home, not caring about anything.", "new": "She complained that her husband acts like an arrogant idler and does none of the housework.", "reason": "Paired translation fix for sentence_3."},
+  {"row": 3233, "field": "sentence_1", "old": "这个房间大于那个。", "new": "这栋楼的建筑面积大于那栋。", "reason": "大于 is used for abstract/numerical comparisons; a plain room size comparison is expressed with 比…大, not 大于, making the original unnatural."},
+  {"row": 3233, "field": "translation_1", "old": "This room is bigger than that one.", "new": "The floor area of this building is larger than that one.", "reason": "Paired translation fix for sentence_1."},
+  {"row": 3249, "field": "sentence_3", "old": "孩子一个人单独在家。", "new": "孩子单独在家，父母不放心。", "reason": "一个人 and 单独 are redundant; removing 一个人 and adding context makes the sentence more natural."},
+  {"row": 3249, "field": "translation_3", "old": "The child is home alone.", "new": "The child is home alone, and the parents are worried.", "reason": "Paired translation fix for sentence_3."},
+  {"row": 3289, "field": "sentence_3", "old": "孩子被骂了，委屈地低头了。", "new": "他终于低头，承认了自己的错误。", "reason": "Original sentence depicts the physical act of bowing one's head in distress rather than yielding/conceding; translation/definition mismatch."},
+  {"row": 3289, "field": "translation_3", "old": "The child was scolded and yielded dejectedly.", "new": "He finally yielded and admitted his mistake.", "reason": "Paired translation fix for sentence_3."},
+  {"row": 3301, "field": "sentence_3", "old": "周末我们常去吃点心。", "new": "这家茶楼的点心种类很多。", "reason": "Intra-row near-duplicate of sentence_1 (both describe going to eat dimsum); replaced with a different scenario."},
+  {"row": 3301, "field": "translation_3", "old": "On weekends we often go to eat dimsum.", "new": "This teahouse has many varieties of dimsum.", "reason": "Paired translation fix for sentence_3."}
+]

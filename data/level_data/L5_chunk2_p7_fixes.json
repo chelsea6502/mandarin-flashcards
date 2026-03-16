@@ -1,0 +1,13 @@
+[
+  {"row": 3051, "field": "sentence_2", "old": "他的曾祖母活到了一百岁。", "new": "她是我的曾祖母，今年九十八岁了。", "reason": "Intra-row near-duplicate of sentence_1: both describe a great-grandparent living to very old age."},
+  {"row": 3051, "field": "translation_2", "old": "His great-grandmother lived to one hundred years old.", "new": "She is my great-grandmother; she is ninety-eight years old this year.", "reason": "Paired translation fix for sentence_2 replacement."},
+  {"row": 3119, "field": "sentence_1", "old": "他承受了很大的压力。", "new": "这根柱子承受了整栋楼的重量。", "reason": "Cross-row near-duplicate with row 3120 sentence_3 ('他承受了巨大的工作压力'); replacement uses a physical bearing sense distinct from row 3120's emotional/burden focus."},
+  {"row": 3119, "field": "translation_1", "old": "He bore a great deal of pressure.", "new": "This pillar bears the weight of the entire building.", "reason": "Paired translation fix for sentence_1 replacement."},
+  {"row": 3136, "field": "translation_3", "old": "She was abundantly prepared.", "new": "She was fully prepared.", "reason": "Awkward English: 'abundantly prepared' is unidiomatic; 'fully prepared' is the natural expression."},
+  {"row": 3151, "field": "sentence_3", "old": "她出色地完成了那次演讲。", "new": "他在这次比赛中表现出色，拿了第一名。", "reason": "Intra-row near-duplicate of sentence_2: both use the structure '出色地完成了[task]' with the same subject 她."},
+  {"row": 3151, "field": "translation_3", "old": "She delivered that speech in an outstanding manner.", "new": "He performed outstandingly in the competition and took first place.", "reason": "Paired translation fix for sentence_3 replacement."},
+  {"row": 3156, "field": "sentence_3", "old": "这个想法出自他自己。", "new": "这首诗出自唐代诗人之手。", "reason": "Unnatural Chinese: 出自他自己 is awkward; 出自 takes an external source (text, author, place), not a reflexive expression."},
+  {"row": 3156, "field": "translation_3", "old": "This idea comes from himself.", "new": "This poem comes from the hand of a Tang dynasty poet.", "reason": "Paired translation fix for sentence_3 replacement."},
+  {"row": 3170, "field": "sentence_2", "old": "她把书包传递给了后排的同学。", "new": "志愿者把救灾物资传递到每个村子。", "reason": "Unnatural collocation: 传递书包 is not idiomatic; 传递 is used for relaying information, supplies in a chain, or formal contexts."},
+  {"row": 3170, "field": "translation_2", "old": "She passed the schoolbag to a student in the back row.", "new": "Volunteers relayed disaster relief supplies to every village.", "reason": "Paired translation fix for sentence_2 replacement."}
+]

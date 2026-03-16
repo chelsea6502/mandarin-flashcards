@@ -1,0 +1,23 @@
+[
+  {"row": 5056, "field": "sentence_2", "old": "他用力挣脱了绳子。", "new": "小鱼不停地挣，从网里逃了出去。", "reason": "挣脱 is a compound; sentence should illustrate headword 挣 standalone meaning 'to break free'"},
+  {"row": 5056, "field": "translation_2", "old": "He struggled hard to break free from the rope.", "new": "The little fish kept struggling and escaped from the net.", "reason": "Paired translation fix"},
+  {"row": 5067, "field": "sentence_2", "old": "医生给他开了止咳药。", "new": "这场大雨终于止了。", "reason": "止咳 is a compound; sentence illustrates a medicine name rather than headword 止 meaning 'to stop' in isolation"},
+  {"row": 5067, "field": "translation_2", "old": "The doctor prescribed cough medicine for him.", "new": "The heavy rain has finally stopped.", "reason": "Paired translation fix"},
+  {"row": 5100, "field": "sentence_2", "old": "这两种鱼的种类不同。", "new": "这个市场有很多种类的蔬菜。", "reason": "Unnatural phrasing: 种 (measure word used in prior clause) followed by 种类 is redundant and awkward"},
+  {"row": 5100, "field": "translation_2", "old": "These two fish are of different kinds.", "new": "This market has many kinds of vegetables.", "reason": "Paired translation fix"},
+  {"row": 5104, "field": "definition", "old": "important", "new": "major; significant", "reason": "重大 denotes major/significant weight (stronger than ordinary 重要); 'important' alone is imprecise"},
+  {"row": 5113, "field": "sentence_3", "old": "我们希望有人出来主持公道。", "new": "谁来主持这件事，大家才能放心。", "reason": "Intra-row near-duplicate: all three sentences depict the same 主持公道 scenario; sentence 3 replaced with a different context for 主持"},
+  {"row": 5113, "field": "translation_3", "old": "We hope someone will come forward to uphold justice.", "new": "Everyone will only feel reassured if someone takes charge of this matter.", "reason": "Paired translation fix"},
+  {"row": 5117, "field": "sentence_3", "old": "判断问题不应该太主观。", "new": "她主观地认为他不会来，结果他来了。", "reason": "Intra-row near-duplicate: sentence 3 repeats the same 'don't be too subjective' advice as sentence 1"},
+  {"row": 5117, "field": "translation_3", "old": "Judging issues should not be too subjective.", "new": "She subjectively assumed he wouldn't come, but he did.", "reason": "Paired translation fix"},
+  {"row": 5134, "field": "sentence_3", "old": "坐在车上要抓紧扶手。", "new": "妈妈抓紧孩子的手，过了马路。", "reason": "Intra-row near-duplicate: sentences 2 and 3 both depict grasping a handrail (扶手)"},
+  {"row": 5134, "field": "translation_3", "old": "When riding a vehicle, hold on to the handrail firmly.", "new": "Mom grasped the child's hand firmly and crossed the road.", "reason": "Paired translation fix"},
+  {"row": 5137, "field": "sentence_1", "old": "她是这方面的专家。", "new": "这家医院有很多专家。", "reason": "Cross-row near-duplicate: row 5136 sentence_1 is '他是这方面的专家' — identical structure, only gender differs"},
+  {"row": 5137, "field": "translation_1", "old": "She is a specialist in this area.", "new": "This hospital has many specialists.", "reason": "Paired translation fix"},
+  {"row": 5176, "field": "sentence_2", "old": "汉族是中国人口最多的民族。", "new": "这个族世代住在山里，有自己的语言。", "reason": "汉族 and 民族 are compounds illustrating 'ethnic group', not 'clan' (the row's definition); translation/definition mismatch"},
+  {"row": 5176, "field": "translation_2", "old": "The Han ethnic group is the largest ethnic group in China.", "new": "This clan has lived in the mountains for generations and has its own language.", "reason": "Paired translation fix"},
+  {"row": 5183, "field": "sentence_3", "old": "最初的计划后来改变了很多。", "new": "他最初不相信，后来亲眼看到才信了。", "reason": "Cross-row near-duplicate with row 5184 sentence_2 '最初的设计和现在不一样' — same structure (最初的 [noun] was different/changed)"},
+  {"row": 5183, "field": "translation_3", "old": "The initial plan later changed a lot.", "new": "He didn't believe it at first; only after seeing it with his own eyes did he believe it.", "reason": "Paired translation fix"},
+  {"row": 5186, "field": "sentence_2", "old": "她喝了一杯就醉了。", "new": "他醉得说话都说不清楚了。", "reason": "Intra-row near-duplicate: sentences 1 and 2 both follow the pattern of someone drinking and getting drunk"},
+  {"row": 5186, "field": "translation_2", "old": "She had one glass and got drunk.", "new": "He was so drunk he couldn't speak clearly.", "reason": "Paired translation fix"}
+]

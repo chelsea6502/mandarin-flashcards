@@ -1,0 +1,17 @@
+[
+  {"row": 4779, "field": "sentence_2", "old": "你需要休息一下。", "new": "此事需慎重。", "reason": "Sentence uses compound 需要 instead of headword 需 standalone. Replacement uses 需 alone in formal literary context."},
+  {"row": 4779, "field": "translation_2", "old": "You need to rest for a while.", "new": "This matter requires careful thought.", "reason": "Paired with sentence fix."},
+  {"row": 4802, "field": "sentence_2", "old": "我们每天要刷牙。", "new": "她的牙齿很健康，每天认真刷牙。", "reason": "Headword 牙齿 is absent from the sentence; 刷牙 is a different compound."},
+  {"row": 4802, "field": "translation_2", "old": "We need to brush our teeth every day.", "new": "Her teeth are very healthy; she brushes them carefully every day.", "reason": "Paired with sentence fix."},
+  {"row": 4828, "field": "translation_1", "old": "His professional competence is very strong.", "new": "His professional work ability is very strong.", "reason": "Definition is 'work'; 业务能力 = professional work ability, not 'competence' which implies a broader meaning."},
+  {"row": 4828, "field": "translation_2", "old": "She works hard to improve her professional skills.", "new": "She works hard to improve her professional work level.", "reason": "Definition is 'work'; 业务水平 = professional work level."},
+  {"row": 4829, "field": "sentence_2", "old": "她业余时间喜欢画画。", "new": "她是一位业余画家。", "reason": "Definition is 'amateur' (adj); sentence uses 业余 in the 'spare time' sense rather than 'amateur', creating a definition mismatch."},
+  {"row": 4829, "field": "translation_2", "old": "In her spare time she likes to paint.", "new": "She is an amateur painter.", "reason": "Paired with sentence fix to match the 'amateur' definition."},
+  {"row": 4835, "field": "sentence_3", "old": "一旦出现问题，要马上告诉我。", "new": "一旦失去机会，就很难找回来。", "reason": "Cross-row near-duplicate with row 4836 sentence_1 '一旦有问题，就来找我'; both are 'once a problem arises, come to me' scenarios."},
+  {"row": 4835, "field": "translation_3", "old": "Once a problem occurs, tell me immediately.", "new": "Once an opportunity is lost, it is very hard to get back.", "reason": "Paired with sentence fix."},
+  {"row": 4863, "field": "sentence_1", "old": "路上发生了一个意外。", "new": "他在路上遇到了一个意外，手受伤了。", "reason": "Cross-row near-duplicate with row 4864 sentence_1 '出门的路上出现了一个意外'; both describe an accident on the road with nearly identical structure."},
+  {"row": 4863, "field": "translation_1", "old": "An accident occurred on the road.", "new": "He encountered an accident on the road and injured his hand.", "reason": "Paired with sentence fix."},
+  {"row": 4882, "field": "translation_1", "old": "The teacher warmly welcomed the new students.", "new": "The teacher warmly met the new students.", "reason": "Definition is 'to meet'; translation says 'welcomed' which fits the 'to greet' definition of the adjacent row rather than 'to meet'."},
+  {"row": 4900, "field": "sentence_2", "old": "电话公司的用户数量增加了。", "new": "她取消了手机的用户套餐。", "reason": "Intra-row near-duplicate of sentence_1 (both describe telecom company subscriber numbers increasing)."},
+  {"row": 4900, "field": "translation_2", "old": "The number of telephone company subscribers increased.", "new": "She cancelled her mobile phone subscriber plan.", "reason": "Paired with sentence fix."}
+]

@@ -1,0 +1,15 @@
+[
+  {"row": 4490, "field": "classifier", "old": "个", "new": null, "reason": "所 is itself the classifier being taught in this row; having 个 in the classifier field is incorrect."},
+  {"row": 4504, "field": "definition", "old": "ensemble", "new": "suit; set (of clothing)", "reason": "ensemble is an unusual and misleading English gloss for 套 in the clothing context; suit or set is the standard translation."},
+  {"row": 4537, "field": "sentence_1", "old": "他故意挑拨两人之间的感情。", "new": "他故意说坏话，想挑两人互相争吵。", "reason": "Sentence uses compound 挑拨 rather than standalone headword 挑."},
+  {"row": 4537, "field": "translation_1", "old": "He deliberately stirred up discord between the two people.", "new": "He deliberately said bad things, trying to incite the two people to argue.", "reason": "Paired translation fix for sentence_1."},
+  {"row": 4537, "field": "sentence_2", "old": "别想挑事。", "new": "他想挑对方，制造矛盾。", "reason": "Sentence uses compound 挑事 rather than standalone headword 挑."},
+  {"row": 4537, "field": "translation_2", "old": "Don't try to stir up trouble.", "new": "He wanted to incite the other side and stir up conflict.", "reason": "Paired translation fix for sentence_2."},
+  {"row": 4557, "field": "sentence_1", "old": "她通常七点起床。", "new": "这是通常的安排。", "reason": "Sentence illustrates 通常 as an adverb (usually), but the definition is the adjective sense 'regular'; sentence should illustrate the adjective/modifier use."},
+  {"row": 4557, "field": "translation_1", "old": "She usually gets up at seven.", "new": "This is the regular arrangement.", "reason": "Paired translation fix for sentence_1."},
+  {"row": 4561, "field": "sentence_2", "old": "他与我同年出生。", "new": "两人的意见完全相同。", "reason": "同年 is a compound; the sentence does not show 同 standalone meaning 'identical'."},
+  {"row": 4561, "field": "translation_2", "old": "He was born in the same year as me.", "new": "The two people's opinions are completely identical.", "reason": "Paired translation fix for sentence_2."},
+  {"row": 4581, "field": "sentence_2", "old": "他加入了学校的合唱团。", "new": "他加入了一个文艺团。", "reason": "合唱团 is a compound using 团 as a suffix; the sentence should use 团 in a more independent context."},
+  {"row": 4581, "field": "translation_2", "old": "He joined the school choir.", "new": "He joined a performing arts troupe.", "reason": "Paired translation fix for sentence_2."},
+  {"row": 4621, "field": "definition", "old": "shawl", "new": "large wrap-style scarf", "reason": "围巾 means scarf, not shawl (披肩); sentence_2 itself notes 围巾可以当披肩用, implying they are distinct items."}
+]

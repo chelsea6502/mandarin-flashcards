@@ -1,0 +1,15 @@
+[
+  {"row": 3764, "field": "sentence_3", "old": "脚步声越来越近了。", "new": "他放慢了脚步，小心地走着。", "reason": "Sentence uses compound 脚步声 rather than the headword 脚步; replaced with a sentence that uses the headword directly."},
+  {"row": 3764, "field": "translation_3", "old": "The footsteps were getting closer and closer.", "new": "He slowed his footsteps and walked carefully.", "reason": "Paired translation fix for sentence_3 replacement."},
+  {"row": 3774, "field": "REMOVE", "reason": "True duplicate of row 3773: both rows define 接收 as 'to take over' with nearly identical sentences (government/police/manager taking over facilities). Row 3773 is the more specific definition; row 3774 adds no new sense."},
+  {"row": 3777, "field": "sentence_2", "old": "这棵橘子树每年都会结果。", "new": "这棵树每年都会结很多果子。", "reason": "结果 is easily misread as the compound word meaning 'result'; rephrased to make 结 unambiguously mean 'to bear fruit'."},
+  {"row": 3777, "field": "translation_2", "old": "This orange tree bears fruit every year.", "new": "This tree bears a lot of fruit every year.", "reason": "Paired translation fix for sentence_2 replacement."},
+  {"row": 3780, "field": "sentence_1", "old": "他结了一个结。", "new": "他把绳子的两端结在一起。", "reason": "Tautological: '他结了一个结' uses the headword as both verb and noun with no illustrative context; replaced with a more informative usage."},
+  {"row": 3780, "field": "translation_1", "old": "He tied a knot.", "new": "He tied the two ends of the rope together.", "reason": "Paired translation fix for sentence_1 replacement."},
+  {"row": 3784, "field": "translation_3", "old": "This combination was very successful.", "new": "This union was very successful.", "reason": "Definition for this row is 'to unite'; 'combination' corresponds to the other 结合 row (row 3783). Translation should reflect the 'unite' sense."},
+  {"row": 3799, "field": "sentence_2", "old": "经过练习，她有了很大的进步。", "new": "她的写作有了明显的进步。", "reason": "Cross-row near-duplicate with row 3800 sentence_1 '他最近有了很大进步'; both use '有了很大进步' in parallel structure."},
+  {"row": 3799, "field": "translation_2", "old": "After practice, she made great improvement.", "new": "Her writing has shown noticeable improvement.", "reason": "Paired translation fix for sentence_2 replacement."},
+  {"row": 3828, "field": "sentence_1", "old": "那座山非常巨大。", "new": "这棵树非常巨大，要好几个人才能抱住。", "reason": "Intra-row near-duplicate: sentences 1 and 3 both describe something physical as 'huge' with almost identical structure; replaced sentence_1 with a different subject."},
+  {"row": 3828, "field": "translation_1", "old": "That mountain is extremely huge.", "new": "This tree is enormous; it takes several people to wrap their arms around it.", "reason": "Paired translation fix for sentence_1 replacement."},
+  {"row": 3862, "field": "pos", "old": "verb", "new": "verb, adjective", "reason": "In the 'near' sense, 靠近 functions as a stative predicate adjective (我家靠近地铁站), not just a verb. POS should reflect both uses."}
+]

@@ -1,0 +1,15 @@
+[
+  {"row": 4629, "field": "sentence_1", "old": "这位老人在历史上很伟大。", "new": "这位领导人的成就是伟大的。", "reason": "Unnatural Chinese: 在历史上很伟大 is awkward phrasing; restructured to natural usage."},
+  {"row": 4629, "field": "translation_1", "old": "This elder was a magnificent figure in history.", "new": "This leader's achievements are magnificent.", "reason": "Paired translation fix for sentence_1 change."},
+  {"row": 4661, "field": "translation_1", "old": "Water is a common substance.", "new": "Water is a common material.", "reason": "Translation uses 'substance' but the row definition is 'material'; should match."},
+  {"row": 4707, "field": "translation_1", "old": "This job is appropriate for his ability.", "new": "This job is commensurate with his ability.", "reason": "Translation uses 'appropriate for' but definition is 'to be commensurate with'; mistranslates the meaning."},
+  {"row": 4707, "field": "translation_2", "old": "The salary is appropriate for the workload.", "new": "The salary is commensurate with the workload.", "reason": "Translation uses 'appropriate for' but definition is 'to be commensurate with'."},
+  {"row": 4707, "field": "translation_3", "old": "Rewards should be appropriate for contributions.", "new": "Rewards should be commensurate with contributions.", "reason": "Translation uses 'appropriate for' but definition is 'to be commensurate with'."},
+  {"row": 4740, "field": "sentence_1", "old": "三小于五。", "new": "这个班的人数小于那个班。", "reason": "Tautological sentence: stating 3 < 5 is a trivial arithmetic fact that does not illustrate the word's usage in context."},
+  {"row": 4740, "field": "translation_1", "old": "Three is less than five.", "new": "The number of students in this class is less than in that class.", "reason": "Paired translation fix for sentence_1 change."},
+  {"row": 4747, "field": "sentence_2", "old": "他的写作能力很强。", "new": "他每天写作，从不停止。", "reason": "Headword appears only in compound 写作能力 (writing ability), not used as the verb 'to write' that the definition illustrates."},
+  {"row": 4747, "field": "translation_2", "old": "His writing ability is very strong.", "new": "He writes every day without stopping.", "reason": "Paired translation fix for sentence_2 change."},
+  {"row": 4747, "field": "sentence_3", "old": "她的写作风格很独特。", "new": "她喜欢写作，尤其是散文。", "reason": "Headword appears only in compound 写作风格 (writing style), not used as the verb 'to write' that the definition illustrates."},
+  {"row": 4747, "field": "translation_3", "old": "Her writing style is very unique.", "new": "She likes to write, especially prose.", "reason": "Paired translation fix for sentence_3 change."},
+  {"row": 4750, "field": "translation_2", "old": "We appreciated a concert.", "new": "We enjoyed a concert.", "reason": "Awkward English: in English one 'enjoys' or 'attends' a concert, not 'appreciates' one; the Chinese 欣赏了一场音乐会 means 'enjoyed a concert'."}
+]
