@@ -45,7 +45,23 @@ When generating example sentences for flashcard rows:
 - Write sentences that clearly illustrate the specific definition of that row, not the word's other meanings
 - Prefer short sentences
 
+## Agent Audit Workflow
+
+Dispatched agents (subagents) cannot read or write files in `/tmp` — permissions are denied. When auditing flashcard rows with agents:
+
+1. **Before dispatching agents**, run the export script to write level data into the project directory:
+   ```bash
+   python3 scripts/export_level_data.py          # all levels
+   python3 scripts/export_level_data.py 2 3      # specific levels
+   ```
+   This writes `data/level_data/L{n}.json` and `data/level_data/vocab_upto_L{n}.json`.
+
+2. **Embed data in agent prompts** — agents can use the Read tool on project files, but for large datasets it is more reliable to read the JSON files in the main session and paste the content directly into agent prompts as plain text.
+
+3. **Agents return fixes as JSON inline** in their response text (not by writing files). Extract the JSON from the response and apply fixes in the main session.
+
 ## Architecture
 
 - `scripts/build_csv.py` — four pure functions (`fetch_json`, `merge_entries`, `to_rows`, `write_csv`) plus `main()`
+- `scripts/export_level_data.py` — exports rows by HSK level to `data/level_data/` for agent audit workflows
 - `tests/test_build_csv.py` — unit tests using in-memory fixtures (no network calls except `test_fetch_json_returns_list`)
