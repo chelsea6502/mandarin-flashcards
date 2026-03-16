@@ -1,0 +1,18 @@
+[
+  {"row": 4789, "field": "sentence_3", "old": "修建这座楼需很多材料。", "new": "完成这项工程需大量材料。", "reason": "Original sentence uses 需 as a bare verb which is ungrammatical standalone; revised sentence uses 需 naturally."},
+  {"row": 4789, "field": "translation_3", "old": "Constructing this building requires a lot of materials.", "new": "Completing this project requires a large amount of materials.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 4792, "field": "translation_3", "old": "The court announced this decision.", "new": "The court declared this decision.", "reason": "Definition is 'to declare'; translation should use 'declared' not 'announced' to match the targeted definition."},
+  {"row": 4818, "field": "sentence_2", "old": "他的眼睛很大。", "new": "他有一双大眼。", "reason": "Headword is 眼 but sentence uses 眼睛 (a different compound word); sentence must contain the headword 眼."},
+  {"row": 4818, "field": "translation_2", "old": "His eyes are very big.", "new": "He has a pair of big eyes.", "reason": "Updated to match corrected sentence_2."},
+  {"row": 4827, "field": "translation_3", "old": "He bent his waist and picked up the object.", "new": "He bent down at the waist and picked up the object.", "reason": "Awkward English; 'bent his waist' is unnatural — 'bent down at the waist' is idiomatic."},
+  {"row": 4863, "field": "traditional", "old": "㕥", "new": "以", "reason": "㕥 is an archaic variant, not the standard traditional form; the traditional character for 以 is 以 (same as simplified)."},
+  {"row": 4864, "field": "traditional", "old": "㕥", "new": "以", "reason": "㕥 is an archaic variant, not the standard traditional form; the traditional character for 以 is 以 (same as simplified)."},
+  {"row": 4870, "field": "translation_2", "old": "This is a volunteer work service event.", "new": "This is a volunteer service event.", "reason": "Redundant phrasing: 'volunteer work service' should be 'volunteer service'."},
+  {"row": 4893, "field": "translation_1", "old": "This store starts doing business at eight every day.", "new": "This store opens for business at eight every day.", "reason": "'Opens for business' is the natural English idiom; 'starts doing business' is awkward."},
+  {"row": 4900, "field": "sentence_3", "old": "他硬不肯承认自己的错误。", "new": "他用硬的态度面对批评。", "reason": "Original sentence_3 uses 硬 as an adverb meaning 'stubbornly' (the 'forcibly' sense in row 4901), not as 'firm'; illustrate firmness of attitude."},
+  {"row": 4900, "field": "translation_3", "old": "He stubbornly refused to admit his mistake.", "new": "He faced criticism with a firm attitude.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 4908, "field": "translation_2", "old": "The company works hard to improve consumer satisfaction.", "new": "The company works hard to improve user satisfaction.", "reason": "用户 means 'user', not 'consumer' (消费者); translation should say 'user'."},
+  {"row": 4908, "field": "translation_3", "old": "Consumer opinions are very important to us.", "new": "User opinions are very important to us.", "reason": "用户 means 'user', not 'consumer'."},
+  {"row": 4918, "field": "translation_3", "old": "Her language ability is her greatest advantage.", "new": "Her language ability is her advantage.", "reason": "Chinese sentence 她的语言能力是她的优势 does not include 最大 ('greatest'); translation adds a superlative not in the source."},
+  {"row": 4854, "field": "translation_3", "old": "She relied on hard work to move toward success.", "new": "She relied on hard work to achieve success.", "reason": "'Move toward success' is awkward for 走向了成功; 'achieve success' is more natural English."}
+]

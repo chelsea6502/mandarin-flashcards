@@ -1,0 +1,20 @@
+[
+  {"row": 4638, "field": "translation_1", "old": "This elder was magnificent in history.", "new": "This elder was a magnificent figure in history.", "reason": "Unnatural English; 'was magnificent' needs a noun complement."},
+  {"row": 4638, "field": "translation_2", "old": "He possesses great strength.", "new": "He possesses magnificent strength.", "reason": "Translation uses 'great' instead of 'magnificent', which is the definition being illustrated in this row."},
+  {"row": 4643, "field": "sentence_3", "old": "我吃了太多冷食，胃开始疼了。", "new": "饭后我的胃常常不舒服。", "reason": "Near-duplicate of sentence_1 — both describe eating cold food and the stomach hurting."},
+  {"row": 4643, "field": "translation_3", "old": "I ate too much cold food and my stomach started to hurt.", "new": "My stomach often feels uncomfortable after meals.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 4644, "field": "sentence_3", "old": "今天天气温暖，适合出门。", "new": "他送来的礼物让她感到温暖。", "reason": "Near-duplicate of sentence_1 — both illustrate warm weather; sentence_3 should use a different context."},
+  {"row": 4644, "field": "translation_3", "old": "The weather is warm today, suitable for going out.", "new": "The gift he brought made her feel warm inside.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 4647, "field": "translation_2", "old": "I received a questionnaire survey.", "new": "I received a survey.", "reason": "'Questionnaire survey' is redundant; 问卷调查 means 'survey'."},
+  {"row": 4679, "field": "traditional", "old": "戯", "new": "戲", "reason": "Incorrect traditional form; the standard traditional character for 戏 is 戲, not 戯."},
+  {"row": 4680, "field": "traditional", "old": "戯", "new": "戲", "reason": "Incorrect traditional form; the standard traditional character for 戏 is 戲, not 戯."},
+  {"row": 4683, "field": "traditional", "old": "係", "new": "系", "reason": "For 系 meaning 'department (of a university)', the traditional form is 系 (unchanged); 係 is a separate character meaning 'to be related to'."},
+  {"row": 4684, "field": "traditional", "old": "係", "new": "繫", "reason": "For 系 meaning 'to fasten/tie', the correct traditional form is 繫, not 係."},
+  {"row": 4710, "field": "definition", "old": "country or countryside", "new": "countryside", "reason": "乡 means 'countryside/rural area', not 'country' (nation); 'country or countryside' is imprecise and the 'country' reading is incorrect."},
+  {"row": 4725, "field": "traditional", "old": "想象", "new": "想像", "reason": "The traditional form of 想象 is 想像; 想象 is the simplified/mainland variant."},
+  {"row": 4747, "field": "sentence_3", "old": "他买了一台小型打印机。", "new": "村里开了一家小型诊所。", "reason": "Sentence_1 and sentence_3 both illustrate 小型 modifying a device (camera and printer) — near-duplicate scenario."},
+  {"row": 4747, "field": "translation_3", "old": "He bought a small-sized printer.", "new": "A small-sized clinic opened in the village.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 4757, "field": "sentence_1", "old": "他在大学学习心理。", "new": "工作压力影响了他的心理健康。", "reason": "'学习心理' is unnatural Chinese; one says 学习心理学 for the academic discipline; rewritten to use 心理 naturally."},
+  {"row": 4757, "field": "translation_1", "old": "He studies psychology at university.", "new": "Work stress affected his psychological health.", "reason": "Updated to match corrected sentence_1."},
+  {"row": 4773, "field": "definition", "old": "form; format; style", "new": "format", "reason": "Row 4772 already covers 'form'; this row should carry a single distinct definition; 'format' matches the sentences used."}
+]

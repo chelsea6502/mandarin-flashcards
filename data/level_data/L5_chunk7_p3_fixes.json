@@ -1,0 +1,22 @@
+[
+  {"row": 3775, "field": "sentence_3", "old": "请到前台接待处。", "new": "他接待了所有来宾。", "reason": "接待处 is a compound noun (reception desk); the headword 接待 as a standalone verb does not appear. Sentence must illustrate the verb 'to admit/receive a guest.'"},
+  {"row": 3775, "field": "translation_3", "old": "Please go to the front reception desk.", "new": "He received all the guests.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 3779, "field": "definition", "old": "to seize", "new": "to take over (by authority)", "reason": "接收 does not mean 'to seize' (that is 没收); it means to take over/assume control of something officially, which all three example sentences actually illustrate."},
+  {"row": 3783, "field": "sentence_3", "old": "那棵树今年结果了。", "new": "树上结了很多果实。", "reason": "Near-duplicate scenario with sentence_2 (both about a tree bearing fruit). Different context needed."},
+  {"row": 3783, "field": "translation_3", "old": "That tree bore fruit this year.", "new": "The tree has borne a lot of fruit.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 3795, "field": "translation_1", "old": "The guitar string is pulled too taut.", "new": "The instrument string is pulled too taut.", "reason": "琴弦 means instrument string generally, not specifically a guitar string."},
+  {"row": 3799, "field": "translation_2", "old": "They work close together.", "new": "They work closely together.", "reason": "Unnatural English; 'closely' is the correct adverb form."},
+  {"row": 3801, "field": "definition", "old": "ASAP", "new": "as soon as possible", "reason": "ASAP is an abbreviation, not natural English for a flashcard definition."},
+  {"row": 3801, "field": "translation_1", "old": "Please reply to me ASAP.", "new": "Please reply to me as soon as possible.", "reason": "Match updated definition."},
+  {"row": 3801, "field": "translation_2", "old": "We need to solve this problem ASAP.", "new": "We need to solve this problem as soon as possible.", "reason": "Match updated definition."},
+  {"row": 3801, "field": "translation_3", "old": "Send me the report ASAP.", "new": "Send me the report as soon as possible.", "reason": "Match updated definition."},
+  {"row": 3825, "field": "traditional", "old": "捄", "new": "救", "reason": "The traditional character for 救 is 救 (same in simplified and traditional). 捄 is incorrect."},
+  {"row": 3826, "field": "traditional", "old": "捄", "new": "救", "reason": "The traditional character for 救 is 救 (same in simplified and traditional). 捄 is incorrect."},
+  {"row": 3842, "field": "traditional", "old": "㨿", "new": "據", "reason": "The standard traditional form of 据 (preposition 'according to') is 據, not the archaic variant 㨿."},
+  {"row": 3852, "field": "sentence_2", "old": "公司正在开发新产品。", "new": "这片土地正在被开发。", "reason": "Sentence_2 illustrates 'develop products' which does not match the definition 'to open up (for development)'. Should illustrate opening up land/resources."},
+  {"row": 3852, "field": "translation_2", "old": "The company is developing new products.", "new": "This land is currently being opened up for development.", "reason": "Updated to match corrected sentence_2."},
+  {"row": 3857, "field": "sentence_3", "old": "杯子里的开水很热。", "new": "泡茶要用开水。", "reason": "Near-duplicate with sentence_1: both simply state that boiling water is hot. Sentence_3 needs a different use context."},
+  {"row": 3857, "field": "translation_3", "old": "The boiling water in the cup is very hot.", "new": "Brewing tea requires boiling water.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 3866, "field": "sentence_1", "old": "学校靠近公园，环境很好。", "new": "学校靠公园，环境很好。", "reason": "Sentence uses 靠近 (a separate compound verb) rather than the headword 靠. Should use 靠 alone to illustrate 'to be near to.'"},
+  {"row": 3877, "field": "translation_1", "old": "They relied on cooperation to overcome many difficulties.", "new": "They relied on cooperation to conquer many difficulties.", "reason": "Translation uses 'overcome' but the definition for this row is 'to conquer'; should be consistent."}
+]

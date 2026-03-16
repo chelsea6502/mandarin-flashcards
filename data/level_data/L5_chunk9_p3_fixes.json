@@ -1,0 +1,21 @@
+[
+  {"row": 4058, "field": "traditional", "old": "閙", "new": "鬧", "reason": "Incorrect traditional form; 闹 (nào) corresponds to traditional 鬧, not 閙."},
+  {"row": 4060, "field": "translation_3", "old": "He understands the interior situation of this organization.", "new": "He understands the internal workings of this organization.", "reason": "'Interior situation' is unnatural English; 'internal workings' is more idiomatic."},
+  {"row": 4092, "field": "translation_3", "old": "The accompaniment of friends made him feel warm.", "new": "The company of friends made him feel warm.", "reason": "'Accompaniment' is unnatural here; 'company' is the standard English word for this sense of 陪伴."},
+  {"row": 4097, "field": "translation_1", "old": "These two colors join together and look beautiful.", "new": "These two colors go together and look beautiful.", "reason": "'Join together' mistranslates 配 in this 'match' context; 'go together' is idiomatic."},
+  {"row": 4097, "field": "translation_2", "old": "This top and those trousers join together well.", "new": "This top and those trousers go together well.", "reason": "'Join together' is unnatural for 配 meaning 'match/go well with'."},
+  {"row": 4103, "field": "traditional", "old": "掽", "new": "碰", "reason": "掽 is non-standard; the traditional form of 碰 (pèng) is 碰 (unchanged in traditional Chinese)."},
+  {"row": 4104, "field": "traditional", "old": "掽", "new": "碰", "reason": "Same as row 4103."},
+  {"row": 4105, "field": "traditional", "old": "掽", "new": "碰", "reason": "Same as row 4103."},
+  {"row": 4129, "field": "sentence_2", "old": "他的跳远成绩平了世界纪录。", "new": "这支球队平了上届冠军的得分纪录。", "reason": "Near-duplicate of sentence_1 — both show a person's performance tying a record; different scenario needed."},
+  {"row": 4129, "field": "translation_2", "old": "His long jump result matched the world record.", "new": "This team matched the scoring record of the previous champion.", "reason": "Updated to match corrected sentence_2."},
+  {"row": 4140, "field": "traditional", "old": "凴", "new": "憑", "reason": "Standard traditional form of simplified 凭 is 憑, not 凴."},
+  {"row": 4140, "field": "sentence_3", "old": "凭你怎么解释，我都不接受。", "new": "凭他多努力，她都不原谅他。", "reason": "Near-duplicate of sentence_1 — both feature 凭…怎么 + speech act with rejection; different subject and context needed."},
+  {"row": 4140, "field": "translation_3", "old": "No matter how you explain it, I won't accept it.", "new": "No matter how hard he tried, she would not forgive him.", "reason": "Updated to match corrected sentence_3."},
+  {"row": 4141, "field": "traditional", "old": "凴", "new": "憑", "reason": "Standard traditional form of 凭 is 憑."},
+  {"row": 4161, "field": "translation_2", "old": "He had his favorite celebrity sign his name for him.", "new": "He had his favorite celebrity sign an autograph for him.", "reason": "'Sign his name for him' is ambiguous; 明星签名 means getting a celebrity's autograph."},
+  {"row": 4189, "field": "sentence_1", "old": "这个计划切合实际，可以执行。", "new": "他的解决方案切合问题的实际情况。", "reason": "Near-duplicate of row 4188 sentence_1 — both use 切合实际 in nearly identical contexts; different framing needed."},
+  {"row": 4189, "field": "translation_1", "old": "This plan fits the actual situation and can be implemented.", "new": "His solution jibes with the actual circumstances of the problem.", "reason": "Updated to match corrected sentence_1."},
+  {"row": 4194, "field": "sentence_3", "old": "他说话亲切，大家都喜欢他。", "new": "服务员对每位顾客都很亲切。", "reason": "Near-duplicate of sentence_2 — both describe a person speaking/behaving amiably; needs a different context."},
+  {"row": 4194, "field": "translation_3", "old": "He speaks in an amiable way and everyone likes him.", "new": "The server was very amiable to every customer.", "reason": "Updated to match corrected sentence_3."}
+]

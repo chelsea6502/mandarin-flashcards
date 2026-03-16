@@ -1,0 +1,10 @@
+[
+  {"row": 4352, "field": "sentence_2", "old": "两人的矛盾升级了，变成了大问题。", "new": "战场上的局势正在升级，双方伤亡增加。", "reason": "Near-duplicate of sentence_1: both depict a conflict between two parties escalating; needs a clearly distinct scenario."},
+  {"row": 4352, "field": "translation_2", "old": "The conflict between the two people escalated and became a big problem.", "new": "The situation on the battlefield was escalating, with casualties rising on both sides.", "reason": "Updated to match corrected sentence_2."},
+  {"row": 4374, "field": "traditional", "old": "溼", "new": "濕", "reason": "濕 is the standard traditional form of 湿; 溼 is a non-standard variant."},
+  {"row": 4374, "field": "translation_1", "old": "The ground is very moist after rain.", "new": "The ground is very wet after rain.", "reason": "湿 means wet/damp; 'moist' understates the meaning and is inconsistent with translation_3 which correctly uses 'wet'."},
+  {"row": 4374, "field": "translation_2", "old": "His clothes were made moist by sweat.", "new": "His clothes were soaked with sweat.", "reason": "'Made moist' is unnatural English; 'soaked' correctly captures 湿."},
+  {"row": 4381, "field": "translation_1", "old": "He studied very hard during his student period of time.", "new": "He studied very hard during his student years.", "reason": "'Student period of time' is awkward phrasing; 'student years' is natural English."},
+  {"row": 4400, "field": "sentence_3", "old": "市民对新公园的建设很支持。", "new": "市民可以免费使用图书馆。", "reason": "Near-duplicate of sentence_2: both reference city residents and the new park; needs a distinct scenario."},
+  {"row": 4400, "field": "translation_3", "old": "City residents are very supportive of the construction of the new park.", "new": "City residents can use the library for free.", "reason": "Updated to match corrected sentence_3."}
+]

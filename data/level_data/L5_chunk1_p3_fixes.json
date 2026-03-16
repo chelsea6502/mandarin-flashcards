@@ -1,0 +1,19 @@
+[
+  {"row": 2911, "field": "sentence_1", "old": "大家希望你一路平安。", "new": "孩子回家后，父母才感到安心。", "reason": "平安 is a separate word; the headword 安 does not appear in the sentence. Sentence should use 安 in a natural compound illustrating this meaning."},
+  {"row": 2911, "field": "translation_1", "old": "Everyone hopes you have a safe journey.", "new": "Only after the child got home did the parents feel at ease.", "reason": "Paired with sentence fix."},
+  {"row": 2911, "field": "sentence_2", "old": "他安然无恙地回来了。", "new": "这个地区很安全，大家都感到安。", "reason": "安然无恙 is an idiom that does not isolate 安 as 'safe'; 安 does not appear as the operative character."},
+  {"row": 2911, "field": "translation_2", "old": "He came back safe and sound.", "new": "This area is very safe; everyone feels secure.", "reason": "Paired with sentence fix."},
+  {"row": 2912, "field": "sentence_2", "old": "有警卫在，大家感到很安。", "new": "有警卫在，大家感到很安全。", "reason": "安 cannot stand alone as a predicate adjective in natural Chinese; 安全 is the natural form."},
+  {"row": 2912, "field": "translation_2", "old": "With a guard present, everyone feels secure.", "new": "With a guard present, everyone feels safe.", "reason": "Paired with sentence fix."},
+  {"row": 2912, "field": "sentence_3", "old": "这里很安，适合居住。", "new": "这里很安全，适合居住。", "reason": "安 cannot stand alone as predicate adjective in natural Chinese; 安全 is required."},
+  {"row": 2912, "field": "translation_3", "old": "It is very secure here — a good place to live.", "new": "It is very safe here — a good place to live.", "reason": "Paired with sentence fix."},
+  {"row": 2935, "field": "sentence_3", "old": "咖啡加了太多水，味道薄。", "new": "这道菜做得太淡，味道很薄。", "reason": "Near-duplicate of sentence_2 which also describes a beverage diluted with too much water making the flavor weak."},
+  {"row": 2935, "field": "translation_3", "old": "Too much water was added to the coffee, making the flavor weak.", "new": "This dish was made too bland; the flavor is very weak.", "reason": "Paired with sentence fix."},
+  {"row": 2942, "field": "traditional", "old": "寳", "new": "寶", "reason": "寳 is an incorrect/variant form; the correct traditional character for 宝 is 寶."},
+  {"row": 2943, "field": "traditional", "old": "寳", "new": "寶", "reason": "寳 is an incorrect/variant form; the correct traditional character for 宝 is 寶."},
+  {"row": 2965, "field": "sentence_3", "old": "这篇报道很重要。", "new": "记者报道了这场会议的内容。", "reason": "This sentence uses 报道 as a noun, not as a verb; does not illustrate the verb definition 'to report.'"},
+  {"row": 2965, "field": "translation_3", "old": "This report is very important.", "new": "The reporter reported on the contents of the conference.", "reason": "Paired with sentence fix."},
+  {"row": 3016, "field": "translation_1", "old": "He supplemented with an important example.", "new": "He added an important example.", "reason": "'Supplemented with' is awkward English; 'added' is more natural."},
+  {"row": 3016, "field": "translation_2", "old": "Please supplement your answer.", "new": "Please add more to your answer.", "reason": "'Supplement your answer' is unnatural English."},
+  {"row": 3016, "field": "translation_3", "old": "The teacher supplemented a few knowledge points.", "new": "The teacher added a few more knowledge points.", "reason": "'Supplemented a few knowledge points' is unnatural English."}
+]
