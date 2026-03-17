@@ -46,27 +46,49 @@ def apply_fixes(fixes: list) -> tuple[int, int]:
 
     for fix in fixes:
         simplified = fix["simplified"]
-        definition = fix["definition"]
+        definition = fix.get("definition")
         field = fix["field"]
         old_val = fix.get("old")
         new_val = fix.get("new")
 
         matched_row = None
+        # Collect all rows matching simplified
+        candidates = []
         for row in ws.iter_rows(min_row=2):
             s_val = row[simplified_col - 1].value
-            d_val = row[definition_col - 1].value
-            if s_val == simplified and d_val == definition:
-                matched_row = row
-                break
+            if s_val == simplified:
+                candidates.append(row)
 
+        if definition:
+            # If definition provided, match on both
+            for row in candidates:
+                d_val = row[definition_col - 1].value
+                if d_val == definition:
+                    matched_row = row
+                    break
+        elif len(candidates) == 1:
+            matched_row = candidates[0]
+        elif field != "REMOVE_ROW" and field in col_index and old_val is not None:
+            # Disambiguate by checking current field value matches old
+            target_col = col_index[field]
+            for row in candidates:
+                if row[target_col - 1].value == old_val:
+                    matched_row = row
+                    break
+        elif field == "REMOVE_ROW":
+            # For removals without definition, take first candidate
+            if candidates:
+                matched_row = candidates[0]
+
+        label = f"{simplified!r} / {definition!r}" if definition else f"{simplified!r}"
         if matched_row is None:
-            not_found.append(f"  NOT FOUND: {simplified!r} / {definition!r}")
+            not_found.append(f"  NOT FOUND: {label}")
             continue
 
         if field == "REMOVE_ROW":
             rows_to_delete.append(matched_row[0].row)
             removals += 1
-            print(f"  REMOVE: {simplified!r} / {definition!r}")
+            print(f"  REMOVE: {label}")
             continue
 
         if field not in col_index:
