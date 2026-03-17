@@ -66,6 +66,14 @@ def apply_fixes(fixes: list) -> tuple[int, int]:
                 if d_val == definition:
                     matched_row = row
                     break
+            # Fallback: if definition match failed (e.g. a prior fix changed
+            # the definition), try matching by old_val on the target field
+            if matched_row is None and field in col_index and old_val is not None:
+                target_col = col_index[field]
+                for row in candidates:
+                    if row[target_col - 1].value == old_val:
+                        matched_row = row
+                        break
         elif len(candidates) == 1:
             matched_row = candidates[0]
         elif field != "REMOVE_ROW" and field in col_index and old_val is not None:
