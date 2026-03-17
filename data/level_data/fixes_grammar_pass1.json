@@ -1,0 +1,436 @@
+[
+  {
+    "content": "介宾短语",
+    "hsk_level": "L1",
+    "field": "sentence_2",
+    "old": "他在家学习汉语。",
+    "new": "他给妈妈打电话了。"
+  },
+  {
+    "content": "介宾短语",
+    "hsk_level": "L1",
+    "field": "translation_2",
+    "old": "He studies Chinese at home.",
+    "new": "He called his mom."
+  },
+  {
+    "content": "名词、代词或名词性短语作主语",
+    "hsk_level": "L1",
+    "field": "sentence_1",
+    "old": "电影很好看。",
+    "new": "电视很好看。"
+  },
+  {
+    "content": "得、地",
+    "hsk_level": "L2",
+    "field": "sentence_3",
+    "old": "她高兴地唱歌。",
+    "new": "她慢慢地走进教室。"
+  },
+  {
+    "content": "得、地",
+    "hsk_level": "L2",
+    "field": "translation_3",
+    "old": "She sings happily.",
+    "new": "She walked slowly into the classroom."
+  },
+  {
+    "content": "动词+错/懂/好/会/完",
+    "hsk_level": "L2",
+    "field": "sentence_2",
+    "old": "学了一年，我学会唱这首歌了。",
+    "new": "老师说的话，我听懂了。"
+  },
+  {
+    "content": "动词+错/懂/好/会/完",
+    "hsk_level": "L2",
+    "field": "translation_2",
+    "old": "After studying for a year, I learned to sing this song.",
+    "new": "I understood what the teacher said."
+  },
+  {
+    "content": "简单趋向补语的趋向意义用法：动词+上/下/进/出/过/回",
+    "hsk_level": "L2",
+    "field": "sentence_1",
+    "old": "他跑出了房间，去找妈妈。",
+    "new": "他跑上楼去找妈妈。"
+  },
+  {
+    "content": "简单趋向补语的趋向意义用法：动词+上/下/进/出/过/回",
+    "hsk_level": "L2",
+    "field": "translation_1",
+    "old": "He ran out of the room to find his mom.",
+    "new": "He ran upstairs to find his mom."
+  },
+  {
+    "content": "简单趋向补语的趋向意义用法：动词+上/下/进/出/过/回",
+    "hsk_level": "L2",
+    "field": "sentence_3",
+    "old": "他跑出了教室，没有回来。",
+    "new": "她走过去，把书给了他。"
+  },
+  {
+    "content": "简单趋向补语的趋向意义用法：动词+上/下/进/出/过/回",
+    "hsk_level": "L2",
+    "field": "translation_3",
+    "old": "He ran out of the classroom and didn't come back.",
+    "new": "She walked over and gave him the book."
+  },
+  {
+    "content": "AA、A一A、A了A、ABAB",
+    "hsk_level": "L2",
+    "field": "sentence_2",
+    "old": "你看一看这件衣服，喜欢吗？",
+    "new": "你们休息休息吧，走了这么长时间了。"
+  },
+  {
+    "content": "AA、A一A、A了A、ABAB",
+    "hsk_level": "L2",
+    "field": "translation_2",
+    "old": "Have a look at this piece of clothing — do you like it?",
+    "new": "Rest for a bit — you've been walking for so long."
+  },
+  {
+    "content": "帮忙、游泳、跳舞、跑步",
+    "hsk_level": "L2",
+    "field": "sentence_3",
+    "old": "他喜欢跑步，每天早上跑半个小时步。",
+    "new": "她昨天跳了一个晚上舞，很累。"
+  },
+  {
+    "content": "帮忙、游泳、跳舞、跑步",
+    "hsk_level": "L2",
+    "field": "translation_3",
+    "old": "He likes running and runs for half an hour every morning.",
+    "new": "She danced the whole evening yesterday and is very tired."
+  },
+  {
+    "content": "那么、那样、这么、这样、每",
+    "hsk_level": "L2",
+    "field": "sentence_1",
+    "old": "你这样做是对的。",
+    "new": "今天这么热，我不想出去。"
+  },
+  {
+    "content": "那么、那样、这么、这样、每",
+    "hsk_level": "L2",
+    "field": "translation_1",
+    "old": "Doing it this way is correct.",
+    "new": "It's so hot today — I don't want to go out."
+  },
+  {
+    "content": "还2、已经、有时（候）、快、快要、正",
+    "hsk_level": "L2",
+    "field": "sentence_2",
+    "old": "我正在吃饭，饭已经好了，你来吧。",
+    "new": "饭已经好了，你快来吧。"
+  },
+  {
+    "content": "还2、已经、有时（候）、快、快要、正",
+    "hsk_level": "L2",
+    "field": "translation_2",
+    "old": "I'm eating; the food is already ready — come on over.",
+    "new": "The food is already ready — hurry and come over."
+  },
+  {
+    "content": "非常、很、太、真、有（一）点儿",
+    "hsk_level": "L1",
+    "field": "sentence_1",
+    "old": "这个电影很好，也非常好看，你看看吧。",
+    "new": "这个苹果很好，也非常好吃，你吃吃吧。"
+  },
+  {
+    "content": "非常、很、太、真、有（一）点儿",
+    "hsk_level": "L1",
+    "field": "translation_1",
+    "old": "This movie is very good and also really great to watch — watch it.",
+    "new": "This apple is very good and also really delicious — have a taste."
+  },
+  {
+    "content": "还1、也",
+    "hsk_level": "L1",
+    "field": "sentence_3",
+    "old": "你会说中文，他也会，还会说英语。",
+    "new": "你会说中文，他也会，还会写汉字。"
+  },
+  {
+    "content": "还1、也",
+    "hsk_level": "L1",
+    "field": "translation_3",
+    "old": "You can speak Chinese; he can too, and he can also speak English.",
+    "new": "You can speak Chinese; he can too, and he can also write Chinese characters."
+  },
+  {
+    "content": "不但……，而且……",
+    "hsk_level": "L3",
+    "field": "sentence_1",
+    "old": "不但我学中文，我弟弟也学中文。",
+    "new": "不但我学中文，而且我弟弟也学中文。"
+  },
+  {
+    "content": "不但……，而且……",
+    "hsk_level": "L3",
+    "field": "translation_1",
+    "old": "Not only do I study Chinese, my younger brother does too.",
+    "new": "Not only do I study Chinese, but my younger brother does too."
+  },
+  {
+    "content": "只有、只要、不但、而且、如果、可1、可是、然后",
+    "hsk_level": "L3",
+    "field": "sentence_3",
+    "old": "如果你有时间，我们吃完饭然后一起去公园吧。",
+    "new": "你只有多练习，才能说好汉语。"
+  },
+  {
+    "content": "只有、只要、不但、而且、如果、可1、可是、然后",
+    "hsk_level": "L3",
+    "field": "translation_3",
+    "old": "If you have time, let's go to the park together after dinner.",
+    "new": "Only by practicing more can you speak Chinese well."
+  },
+  {
+    "content": "动补短语2",
+    "hsk_level": "L3",
+    "field": "sentence_3",
+    "old": "他跑得太快了，我跟不上。",
+    "new": "这道菜好吃极了，我又吃了一碗。"
+  },
+  {
+    "content": "动补短语2",
+    "hsk_level": "L3",
+    "field": "translation_3",
+    "old": "He runs too fast — I can't keep up.",
+    "new": "This dish is extremely delicious — I had another bowl."
+  },
+  {
+    "content": "主谓短语作主语",
+    "hsk_level": "L3",
+    "field": "sentence_3",
+    "old": "他工作很努力，这让大家都很高兴。",
+    "new": "他每天努力工作让大家很高兴。"
+  },
+  {
+    "content": "主谓短语作主语",
+    "hsk_level": "L3",
+    "field": "translation_3",
+    "old": "He works very hard — this makes everyone very happy.",
+    "new": "His working hard every day makes everyone very happy."
+  },
+  {
+    "content": "动词+到/住/走/上",
+    "hsk_level": "L3",
+    "field": "sentence_3",
+    "old": "他把书放上了桌子。",
+    "new": "他的钱包被人拿走了。"
+  },
+  {
+    "content": "动词+到/住/走/上",
+    "hsk_level": "L3",
+    "field": "translation_3",
+    "old": "He put the book on the table.",
+    "new": "His wallet was taken away by someone."
+  },
+  {
+    "content": "趋向补语的引申用法：表示动作行为的开始：动词+上/起来",
+    "hsk_level": "L3",
+    "field": "translation_2",
+    "old": "When they heard he was back, everyone started to cheer up.",
+    "new": "When they heard he was back, everyone started to get happy."
+  },
+  {
+    "content": "需要、该、应该、愿意、得",
+    "hsk_level": "L3",
+    "field": "sentence_3",
+    "old": "你需要多休息，明天还得上班呢。",
+    "new": "他愿意帮忙，你不必担心。"
+  },
+  {
+    "content": "需要、该、应该、愿意、得",
+    "hsk_level": "L3",
+    "field": "translation_3",
+    "old": "You need to rest more — you still have to go to work tomorrow.",
+    "new": "He is willing to help — you don't need to worry."
+  },
+  {
+    "content": "动宾式离合词：放假、见面、结婚、洗澡",
+    "hsk_level": "L3",
+    "field": "sentence_1",
+    "old": "他们打算明年结婚，已经开始准备了。",
+    "new": "他们上个月见了一次面，觉得很开心。"
+  },
+  {
+    "content": "动宾式离合词：放假、见面、结婚、洗澡",
+    "hsk_level": "L3",
+    "field": "translation_1",
+    "old": "They plan to get married next year and have already started preparing.",
+    "new": "They met up once last month and had a great time."
+  },
+  {
+    "content": "动补式离合词：打开、看见、离开、完成、分开",
+    "hsk_level": "L3",
+    "field": "sentence_3",
+    "old": "他们完成了作业，高兴地分开了。",
+    "new": "作业太多了，我今天完不成。"
+  },
+  {
+    "content": "动补式离合词：打开、看见、离开、完成、分开",
+    "hsk_level": "L3",
+    "field": "translation_3",
+    "old": "They finished the homework and happily went their separate ways.",
+    "new": "There's too much homework — I can't finish it today."
+  },
+  {
+    "content": "从而、可见、假如、总之",
+    "hsk_level": "L5",
+    "field": "sentence_2",
+    "old": "假如你有时间，可以来参加我们的活动。",
+    "new": "他每天坚持练习，可见他非常热爱这项运动。"
+  },
+  {
+    "content": "从而、可见、假如、总之",
+    "hsk_level": "L5",
+    "field": "translation_2",
+    "old": "If you have time, you are welcome to join our event.",
+    "new": "He practises every day — it is clear he is very passionate about this activity."
+  },
+  {
+    "content": "以及、同2",
+    "hsk_level": "L5",
+    "field": "sentence_3",
+    "old": "你同他一起去吧，路上有个伴。",
+    "new": "老师同家长都参加了这次家长会。"
+  },
+  {
+    "content": "以及、同2",
+    "hsk_level": "L5",
+    "field": "translation_3",
+    "old": "Go together with him — you'll have company on the way.",
+    "new": "Both the teachers and the parents attended the parent-teacher meeting."
+  },
+  {
+    "content": "借用名量词：脸、手、盒、屋子、桌子",
+    "hsk_level": "L4",
+    "field": "sentence_2",
+    "old": "他跑步回来，脸上一脸汗，手上也是一手水。",
+    "new": "他跑步回来，一脸汗，手上也是一手汗。"
+  },
+  {
+    "content": "借用名量词：脸、手、盒、屋子、桌子",
+    "hsk_level": "L4",
+    "field": "translation_2",
+    "old": "When he came back, his face was dripping with sweat and his hands were covered in water.",
+    "new": "When he came back, his face was dripping with sweat and his hands were covered in sweat too."
+  },
+  {
+    "content": "就是说/这就是说",
+    "hsk_level": "L4",
+    "field": "sentence_3",
+    "old": "他总找借口，这就是说他不想负责任。",
+    "new": "他总是说没时间，这就是说他不想参加。"
+  },
+  {
+    "content": "就是说/这就是说",
+    "hsk_level": "L4",
+    "field": "translation_3",
+    "old": "He always makes excuses — in other words, he doesn't want to take responsibility.",
+    "new": "He always says he has no time — in other words, he doesn't want to participate."
+  },
+  {
+    "content": "……,甚至……",
+    "hsk_level": "L4",
+    "field": "sentence_1",
+    "old": "我经常去健身房，甚至还请了健身教练。",
+    "new": "我经常去健身房，甚至还请了教练。"
+  },
+  {
+    "content": "……,甚至……",
+    "hsk_level": "L4",
+    "field": "translation_1",
+    "old": "I go to the gym regularly — I even hired a personal trainer.",
+    "new": "I go to the gym regularly — I even hired a trainer."
+  },
+  {
+    "content": "不仅/不光……，还/而且……",
+    "hsk_level": "L4",
+    "field": "sentence_3",
+    "old": "她不仅会说汉语，还会说法语和西班牙语。",
+    "new": "她不仅会说汉语，还会说别的外语。"
+  },
+  {
+    "content": "不仅/不光……，还/而且……",
+    "hsk_level": "L4",
+    "field": "translation_3",
+    "old": "She can not only speak Chinese but also French and Spanish.",
+    "new": "She can not only speak Chinese but also other foreign languages."
+  },
+  {
+    "content": "连……也/都……，……更……",
+    "hsk_level": "L4",
+    "field": "sentence_1",
+    "old": "她连简单的问候都说不好，更难说整段对话了。",
+    "new": "她连简单的打招呼都说不好，更难说整个对话了。"
+  },
+  {
+    "content": "连……也/都……，……更……",
+    "hsk_level": "L4",
+    "field": "translation_1",
+    "old": "She can't even manage a simple greeting well, let alone a whole conversation.",
+    "new": "She can't even manage a simple greeting well, let alone an entire conversation."
+  },
+  {
+    "content": "不是……，就是……",
+    "hsk_level": "L4",
+    "field": "sentence_2",
+    "old": "周末他不是在游泳馆游泳，就是在篮球场打篮球。",
+    "new": "周末他不是去游泳，就是在球场打篮球。"
+  },
+  {
+    "content": "不是……，就是……",
+    "hsk_level": "L4",
+    "field": "translation_2",
+    "old": "On weekends he is either swimming at the pool or playing basketball on the court.",
+    "new": "On weekends he is either swimming or playing basketball on the court."
+  },
+  {
+    "content": "前后动作先后发生，后一动作是前一动作的目的",
+    "hsk_level": "L1",
+    "field": "sentence_3",
+    "old": "他去商店买东西。",
+    "new": "她去医院看病。"
+  },
+  {
+    "content": "前后动作先后发生，后一动作是前一动作的目的",
+    "hsk_level": "L1",
+    "field": "translation_3",
+    "old": "He went to the shop to buy things.",
+    "new": "She went to the hospital to see the doctor."
+  },
+  {
+    "content": "用动态助词\"了1\"表示",
+    "hsk_level": "L1",
+    "field": "sentence_2",
+    "old": "我吃了早饭，去学校了。",
+    "new": "我吃了一个苹果。"
+  },
+  {
+    "content": "用动态助词\"了1\"表示",
+    "hsk_level": "L1",
+    "field": "translation_2",
+    "old": "I ate breakfast and went to school.",
+    "new": "I ate an apple."
+  },
+  {
+    "content": "用动态助词\"过\"表示",
+    "hsk_level": "L2",
+    "field": "sentence_2",
+    "old": "我从来没坐过地铁。",
+    "new": "我没有坐过飞机。"
+  },
+  {
+    "content": "用动态助词\"过\"表示",
+    "hsk_level": "L2",
+    "field": "translation_2",
+    "old": "I have never taken the subway.",
+    "new": "I have never been on a plane."
+  }
+]
