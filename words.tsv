@@ -2621,7 +2621,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 月饼	yuè bǐng	noun		mooncake (sweet eaten during Mid-Autumn Festival)	L4	中秋节要吃月饼。	You eat mooncakes during the Mid-Autumn Festival.	这个月饼很甜。	This mooncake is very sweet.	妈妈买了很多月饼。	Mom bought a lot of mooncakes.
 月份	yuè fèn	time word, noun		month	L4	你是哪个月份出生的？	Which month were you born in?	一年有十二个月份。	There are twelve months in a year.	这个月份天气很冷。	The weather is very cold this month.
 阅读	yuè dú	verb, verbal noun		to read	L4	他每天阅读半小时。	He reads for half an hour every day.	我喜欢阅读小说。	I like to read novels.	阅读可以提高语言能力。	Reading can improve language ability.
-云	yún	noun, morpheme, non-predicate adjective		cloud	L4	今天云很多。	There are many clouds today.	云遮住了太阳。	The clouds covered the sun.	那个云很大。	That cloud is very large.
+云	yún	noun, morpheme, non-predicate adjective	朵	cloud	L4	今天云很多。	There are many clouds today.	天上有一朵云。	There is a cloud in the sky.	那朵云很大。	That cloud is very large.
 允许	yǔn xǔ	verb, verbal noun		to permit	L4	老师不允许我们迟到。	The teacher does not permit us to be late.	这里不允许吸烟。	Smoking is not permitted here.	父母允许她出去玩。	Her parents permitted her to go out and play.
 杂志	zá zhì	noun	本, 份, 期	magazine	L4	我买了一本杂志。	I bought a magazine.	这份杂志很有趣。	This magazine is very interesting.	她每期都会买这本杂志。	She buys this magazine every issue.
 仔细	zǐ xì	adverbial adjective, adjective		careful	L4	做事要仔细，别出错。	Be careful when doing things, don't make mistakes.	她仔细地读了那封信。	She carefully read that letter.	请仔细检查一下。	Please check carefully.
@@ -2635,7 +2635,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 责任	zé rèn	noun	个	responsibility	L4	这是你的一个重要责任。	This is an important responsibility of yours.	他认真做好自己的责任。	He takes his responsibilities seriously.	教育孩子是父母的责任。	Educating children is a responsibility of parents.
 增加	zēng jiā	verb, verbal noun		to increase	L4	学生人数增加了。	The number of students increased.	今年收入增加了很多。	Income increased a lot this year.	学习时间增加了，成绩也提高了。	Study time increased, and grades improved too.
 增加	zēng jiā	verb, verbal noun		to raise	L4	公司增加了工资。	The company raised salaries.	老师增加了作业。	The teacher raised the amount of homework.	学校增加了学费。	The school raised tuition fees.
-增长	zēng zhǎng	verb, verbal noun		to grow	L4	孩子的身高每年都在增长。	The child's height grows every year.	花儿慢慢增长。	Flowers grow slowly.	他的汉语水平在增长。	His Chinese level is growing.
+增长	zēng zhǎng	verb, verbal noun		to grow	L4	孩子的身高每年都在增长。	The child's height grows every year.	公司的收入在慢慢增长。	The company's revenue is gradually growing.	他的汉语水平在增长。	His Chinese level is growing.
 招聘	zhāo pìn	verb, verbal noun		to invite applications for a job	L4	公司正在招聘新老师。	The company is currently inviting applications for new teachers.	他们招聘了两位老师。	They invited applications for two teachers.	这家公司一直在招聘。	This company has been continuously inviting job applications.
 者	zhě	suffix, pronoun, modal particle, noun, morpheme, particle		verb suffix used to indicate person who performs that action (e.g. 劳动者 = laborer)	L4	工作者应该得到尊重。	Workers should be respected. (者 marks 工作 as the performer: worker)	学习者需要努力。	Learners need to work hard. (者 attaches to 学习 to mean learner)	记者每天写很多文章。	Reporters write many articles every day. (记者 = reporter, one who records)
 着火	zháo huǒ	verb		to catch fire	L4	那个房子着火了！	That house caught fire!	厨房着火，大家快跑！	The kitchen caught fire, everyone run!	小心，别让房子着火。	Be careful, don't let the house catch fire.
@@ -2652,21 +2652,21 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 正好	zhèng hǎo	state word		just right	L4	这双鞋穿起来正好。	These shoes fit just right.	这个箱子放进去正好。	This box fits in just right.	水温正好，可以喝了。	The water temperature is just right — it's ready to drink.
 正确	zhèng què	adjective, adverbial adjective		correct	L4	他的回答是正确的。	His answer is correct.	请选择正确的答案。	Please select the correct answer.	你的做法是正确的。	Your approach is correct.
 正式	zhèng shì	adverbial adjective, adjective		formal	L4	参加面试要穿正式的衣服。	You should wear formal clothes to a job interview.	这是一个正式的活动。	This is a formal occasion.	他用了正式的语言写信。	He wrote the letter using formal language.
-正式	zhèng shì	adverbial adjective, adjective		official	L4	这是一份正式的通知。	This is an official formal notice.	这是一份正式文件。	This is an official document.	他正式加入了这个公司。	He officially joined the company.
+正式	zhèng shì	adverbial adjective, adjective		official	L4	这是一份正式的通知。	This is an official notice.	这是一份正式文件。	This is an official document.	他正式加入了这个公司。	He officially joined the company.
 证	zhèng	noun, morpheme		certificate	L4	请给我看你的证。	Please show me your certificate.	他的证丢了。	He lost his certificate.	我需要办一个证。	I need to get a certificate issued.
 证	zhèng	noun, morpheme		proof	L4	你有什么证可以说明这件事？	What proof do you have to explain this matter?	没有证就不能相信他。	Without proof you can't believe him.	他拿出证来说明自己的话。	He produced proof to back up his words.
 证件	zhèng jiàn	noun		credentials	L4	进去需要拿出证件。	You need to take out credentials to enter.	请准备好你的证件。	Please have your credentials ready.	没有证件不能进去。	You cannot enter without credentials.
-证件	zhèng jiàn	noun		papers	L4	银行需要看你的证件。	The bank needs to see your papers.	他随身带着重要的证件。	He carries important papers on him at all times.	出门要带好证件。	When going out, bring your papers.
+证件	zhèng jiàn	noun		papers	L4	银行需要看你的证件。	The bank needs to see your papers.	他每天都带着重要的证件。	He carries important papers every day.	出门要带好证件。	When going out, bring your papers.
 证明	zhèng míng	verb, noun, verbal noun	个	certificate	L4	我需要一个健康证明。	I need a health certificate.	他拿到了工作的证明。	He obtained a certificate for his work.	学校给了他一个毕业证明。	The school gave him a graduation certificate.
 证明	zhèng míng	verb, noun, verbal noun	个	to prove	L4	这个结果证明了他是对的。	This result proves that he was right.	他用努力证明了自己的能力。	He proved his ability through his hard work.	他的成功证明了这个方法很好。	His success proved this method was very good.
-之	zhī	particle, pronoun, morpheme		possessive particle, literary equivalent of 的	L4	中国之大，令人感动。	China's vastness is moving. (之 as literary possessive, equivalent to 的)	世界之事很复杂。	The affairs of the world are complicated. (之 used as literary 的)	他是我们的好朋友之一。	He is one of our good friends.
+之	zhī	particle, pronoun, morpheme		possessive particle, literary equivalent of 的	L4	学习之路很长。	The road of learning is long. (之 as literary possessive, equivalent to 的)	世界之事很复杂。	The affairs of the world are complicated. (之 used as literary 的)	他是我们的好朋友之一。	He is one of our good friends.
 之后	zhī hòu	directional word, time word		afterwards	L4	吃饭之后我去散步。	After eating, I went for a walk.	毕业之后他去了北京。	After graduating, he went to Beijing.	下课之后我们去踢球。	After class, we went to play football.
 之间	zhī jiān	directional word		among	L4	这个事只在好朋友之间。	This matter is only among close friends.	同学之间要互相帮助。	Among classmates you should help each other.	家人之间要多关心。	Among family members, care for each other more.
 之间	zhī jiān	directional word		between	L4	两个城市之间有一条河。	Between the two cities there is a river.	我们之间没有什么不同。	Between us there is nothing different.	学校和家之间很近。	Between school and home it is very close.
 之前	zhī qián	directional word		before	L4	睡觉之前要刷牙。	Before sleeping you should brush your teeth.	出发之前检查一下行李。	Before departing check your luggage.	吃饭之前洗手。	Before eating wash your hands.
 之中	zhī zhōng	directional word		among	L4	同学之中他学习最好。	Among the classmates, his studies are the best.	所有人之中她最努力。	Among everyone, she works hardest.	这些书之中哪本最好？	Among these books, which one is the best?
 之中	zhī zhōng	directional word		within	L4	这件事在可能之中。	This matter is within the realm of possibility.	他在工作之中发现了问题。	He discovered a problem within his work.	请在规定之中做事。	Please act within the rules.
-支持	zhī chí	verb, verbal noun	个	to support	L4	我支持你的这个决定。	I support this decision of yours.	大家都支持他的想法。	Everyone supports his idea.	父母一直支持我学习。	My parents have always supported my studies.
+支持	zhī chí	verb, verbal noun		to support	L4	我支持你的这个决定。	I support this decision of yours.	大家都支持他的想法。	Everyone supports his idea.	父母一直支持我学习。	My parents have always supported my studies.
 支付	zhī fù	verb, verbal noun		to pay (money)	L4	他用手机支付了饭钱。	He paid for the meal with his phone.	请用手机支付费用。	Please pay the fee with your phone.	我用现金支付了。	I paid with cash.
 只好	zhǐ hǎo	adverb		to have to	L4	太晚了，我只好走了。	It was too late, so I had to leave.	没有别的办法，我只好同意。	There was no other way, I had to agree.	飞机晚点，他只好等。	The flight was delayed, so he had to wait.
 只好	zhǐ hǎo	adverb		without any better option	L4	没有车，他只好走路去。	Without any better option, he had to walk there.	没有钱，我只好在家。	Without any better option, I had to stay home.	下雨了，她只好取消计划。	It rained, so without any better option she had to cancel the plan.
