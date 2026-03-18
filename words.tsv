@@ -351,11 +351,11 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 真	zhēn	adverb, adjective, morpheme		genuine	L1	这是真的吗？	Is this genuine?	这个是真的。	This one is genuine.	他要买真的。	He wants to buy a genuine one.
 真	zhēn	adverb, adjective, morpheme		really	L1	这个真好吃！	This is really delicious!	他真好。	He is truly good.	今天真冷。	Today is really cold.
 正在	zhèng zài	adverb		in the process of (doing something or happening)	L1	她正在吃饭。	She is eating.	我正在看书。	I am reading.	他正在睡觉。	He is sleeping.
-只	zhī	adverb, classifier		measure word used with certain nouns denoting animals or utensils, or objects normally occurring in pairs	L1	我有一只猫。	I have one cat.	她有两只猫。	She has two cats.	桌子上有两只杯子。	There are two cups on the table.
-只	zhǐ	adverb, classifier		only	L1	我只买了一本书。	I only bought one book.	他只吃米饭。	He only eats rice.	他只喝水。	He only drinks water.
+只	zhī	classifier		measure word used with certain nouns denoting animals or utensils, or objects normally occurring in pairs	L1	我有一只猫。	I have one cat.	她有两只猫。	She has two cats.	桌子上有两只杯子。	There are two cups on the table.
+只	zhǐ	adverb		only	L1	我只买了一本书。	I only bought one book.	他只吃米饭。	He only eats rice.	他只喝水。	He only drinks water.
 知道	zhī dào	verb		to know	L1	我知道了。	I know now.	你知道他在哪里吗？	Do you know where he is?	她不知道这个字。	She doesn't know this character.
 中国	zhōng guó	proper noun (place)		China	L1	我在中国。	I am in China.	他是中国人。	He is Chinese.	中国很大。	China is very big.
-中文	zhōng wén	proper noun (other)	门	Chinese language	L1	中文是一门课。	Chinese is a course.	他会说中文。	He can speak Chinese.	这本书是中文的。	This book is in Chinese.
+中文	zhōng wén	proper noun (other)		Chinese language	L1	中文是一门课。	Chinese is a course.	他会说中文。	He can speak Chinese.	这本书是中文的。	This book is in Chinese.
 中午	zhōng wǔ	time word	个	noon	L1	中午我吃饭。	At noon I eat lunch.	他睡了一个中午。	He slept through noon.	他中午回家。	He goes home at noon.
 中学	zhōng xué	noun	个	middle school	L1	他去一个中学。	He goes to a middle school.	这个中学很大。	This middle school is very big.	这里有一个中学。	There is a middle school here.
 中学生	zhōng xué shēng	noun	个	middle school student	L1	我们有三个中学生。	We have three middle school students.	这些中学生学中文。	These middle school students study Chinese.	我们学校有很多中学生。	Our school has many middle school students.
