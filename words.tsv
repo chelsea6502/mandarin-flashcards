@@ -372,11 +372,11 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 啊	ā	modal particle, interjection		interjection used to express emotional intensity	L2	太好了啊！	That's great!	这里真漂亮啊！	This place is really beautiful!	你来了啊！	Oh, you're here!
 爱好	ài hào	noun, verb	个	hobby	L2	你有什么爱好？	What hobbies do you have?	我有一个爱好：看书。	I have one hobby: reading.	他的爱好是踢足球。	His hobby is playing soccer.
 白色	bái sè	noun		white	L2	她喜欢白色。	She likes white.	这件衣服是白色的。	This piece of clothing is white.	那个包是白色的。	That bag is white.
-班	bān	noun, classifier, proper noun (person)		group of people in a school or workplace	L2	我们班有三十个同学。	Our class has thirty students.	他是我们班的老师。	He is our class's teacher.	我们班同学都来了。	All the classmates in our class came.
-班	bān	noun, classifier, proper noun (person)		work shift	L2	他今天上班。	He is working his shift today.	我早班八点开始。	My morning shift starts at eight o'clock.	她上晚班很累。	Working the evening shift tires her out.
+班	bān	noun, classifier		group of people in a school or workplace	L2	我们班有三十个同学。	Our class has thirty students.	他是我们班的老师。	He is our class's teacher.	我们班同学都来了。	All the classmates in our class came.
+班	bān	noun, classifier		work shift	L2	他今天上班。	He is working his shift today.	我早班八点开始。	My morning shift starts at eight o'clock.	她上晚班很累。	Working the evening shift tires her out.
 帮	bāng	verb, classifier		to help	L2	他帮我拿东西。	He helped me carry things.	请你帮我开门。	Please help me open the door.	妈妈帮我做饭。	Mom helped me cook.
 帮忙	bāng máng	verb, verbal noun		to help	L2	你能帮忙吗？	Can you help?	他来帮忙了。	He came to help.	我想帮忙做饭。	I want to help with cooking.
-包	bāo	verb, noun, classifier	个	bag	L2	她拿着一个包。	She is carrying a bag.	我的包在桌子上。	My bag is on the table.	这个包很贵。	This bag is very expensive.
+包	bāo	verb, noun, classifier	个	bag	L2	她有一个包。	She has a bag.	我的包在桌子上。	My bag is on the table.	这个包很贵。	This bag is very expensive.
 包	bāo	verb, noun, classifier		to wrap	L2	把东西包起来。	Wrap the things up.	他把书包起来了。	He wrapped the book up.	请把这个包好。	Please wrap this up properly.
 本子	běn zi	noun	本	notebook	L2	我买了一本本子。	I bought a notebook.	这本本子是我的。	This notebook is mine.	他有三本本子。	He has three notebooks.
 比	bǐ	preposition, verb, noun, non-predicate adjective		than (e.g. better than, colder than)	L2	他比我高。	He is taller than me.	今天比昨天冷。	Today is colder than yesterday.	这个比那个好。	This one is better than that one.
@@ -386,7 +386,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 别	bié	adverb, verb, pronoun, verbal noun		don't	L2	别说话！	Don't talk!	别走，等我。	Don't leave, wait for me.	别吃太多。	Don't eat too much.
 不错	bù cuò	adjective		not bad	L2	这个饭不错。	This food is not bad.	他的中文不错。	His Chinese is not bad.	今天天气不错。	The weather today is not bad.
 不好意思	bù hǎo yì si	verb, adjective		to feel embarrassed; used as an apology or polite excuse me	L2	不好意思，我来晚了。	Sorry, I came late.	不好意思，请问……	Excuse me, may I ask…	不好意思，这些是我的东西。	Excuse me, these are my belongings.
-车站	chē zhàn	noun	处, 个	bus stop	L2	下一个车站是哪里？	What is the next bus stop?	我在车站下车。	I get off at the bus stop.	这个车站很近。	This bus stop is very close.
+车站	chē zhàn	noun	处, 个	bus stop	L2	下一个车站是哪里？	Where is the next bus stop?	我在车站下车。	I get off at the bus stop.	这个车站很近。	This bus stop is very close.
 车站	chē zhàn	noun	处, 个	rail station	L2	那个车站在哪里？	Where is that station?	我在车站等你。	I'll wait for you at the rail station.	我们去那个车站。	Let's go to that rail station.
 出	chū	verb, classifier		to emerge	L2	鱼从水里出来了。	The fish emerged from the water.	他从门里出来。	He emerged from the doorway.	水从里面出来。	Water emerged from inside.
 出	chū	verb, classifier		to produce	L2	这里出很多苹果。	This place produces a lot of apples.	这里出很多东西。	This place produces many things.	他出了一本书。	He produced a book.
@@ -411,14 +411,14 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 但是	dàn shì	conjunction		however	L2	他学了很多，但是没考好。	He studied a lot; however, he didn't do well on the exam.	天气好，但是我不想出去。	The weather is nice; however, I don't want to go out.	我知道，但是不会说。	I know it; however, I can't say it.
 得	dé	verb		to receive	L2	他得了一百分。	He received one hundred points.	我得了很多书。	I received many books.	她得了第一名。	She received first place.
 得	de	particle		used to indicate manner or degree of a verb or adjective (e.g. 唱得好 to sing well, 大得拿不动 too big to be moved)	L2	他唱得很好。	He sings very well.	她跑得很快。	She runs very fast.	你说得对。	You said it correctly.
-等	děng	particle		etcetera	L2	他会说中文、英文等。	He can speak Chinese, English, etcetera.	我喜欢猫、狗等。	I like cats, dogs, etcetera.	桌上有书、笔等。	On the table there are books, pens, etcetera.
+等	děng	particle		etcetera	L2	她会唱歌、跳舞等。	She can sing, dance, etcetera.	我喜欢猫、狗等。	I like cats, dogs, etcetera.	桌上有书、笔等。	On the table there are books, pens, etcetera.
 等	děng	verb		to wait	L2	请等一下。	Please wait a moment.	我在这里等你。	I am waiting for you here.	他等了很长时间。	He waited for a long time.
-地	dì	noun	块	ground	L2	地上有水。	There is water on the ground.	书掉在地上了。	The book fell on the ground.	学校前面有一块地。	There is a piece of land in front of the school.
+地	dì	noun	块	ground	L2	地上有水。	There is water on the ground.	书在地上。	The book is on the ground.	学校前面有一块地。	There is a piece of land in front of the school.
 地	dì	noun		place (as in 地方)	L2	这个地方很好。	This place is very good.	你住在什么地方？	What place do you live in?	我想去一个新地方。	I want to go to a new place.
 地	de	particle		suffix used to turn an adjective, noun, or phrase into an adverb (e.g. 高兴地说 to speak happily)	L2	她高兴地笑了。	She smiled happily.	他慢慢地走过来。	He walked over slowly.	他很快地跑过去了。	He quickly ran over.
-地铁	dì tiě	noun	条	subway	L2	我坐地铁去上班。	I take the subway to work.	这个城市有三条地铁。	This city has three subway lines.	地铁站在哪里？	Where is the subway station?
+地铁	dì tiě	noun	条	subway	L2	我坐地铁去上班。	I take the subway to work.	这里有三条地铁。	There are three subway lines here.	地铁站在哪里？	Where is the subway station?
 懂	dǒng	verb		to understand	L2	你懂中文吗？	Do you understand Chinese?	我不懂他说的。	I don't understand what he said.	她懂很多东西。	She understands many things.
-动	dòng	verb		to act	L2	你先动，我后动。	You act first; I'll act after.	快动，别等了。	Act quickly; don't wait.	他没有动。	He did not act.
+动	dòng	verb		to act	L2	我们要动了！	We need to act now!	快动，别等了。	Act quickly; don't wait.	他没有动。	He did not act.
 动	dòng	verb		to move	L2	别动，我在看书。	Don't move; I'm reading.	那只猫不动了。	That cat stopped moving.	车在动。	The car is moving.
 饭馆	fàn guǎn	noun	家	restaurant	L2	前面有一家饭馆。	There is a restaurant up ahead.	我们去那家饭馆吃饭吧。	Let's go eat at that restaurant.	这家饭馆的菜很好吃。	The food at this restaurant is delicious.
 飞	fēi	verb		to fly	L2	小鸟飞得很高。	The small bird flies very high.	我想坐飞机飞到那里。	I want to fly there by airplane.	那只鸟飞走了。	That bird flew away.
