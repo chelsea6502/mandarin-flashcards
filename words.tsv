@@ -1372,7 +1372,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 表扬	biǎo yáng	verb, verbal noun		to commend	L4	公司表扬了工作努力的人。	The company commended people who worked hard.	他被学校表扬为优秀学生。	He was commended by the school as an outstanding student.	她的好事受到了大家的表扬。	Her good deed was commended by everyone.
 表扬	biǎo yáng	verb, verbal noun		to praise	L4	老师表扬了认真的学生。	The teacher praised the diligent students.	妈妈表扬了我做得很好。	Mom praised me for doing well.	他受到了老师的表扬。	He was praised by his teacher.
 饼干	bǐng gān	noun	片, 块	biscuit	L4	我买了一包饼干。	I bought a packet of biscuits.	她早饭只吃了几片饼干。	She only ate a few biscuits for breakfast.	这个饼干很好吃。	These biscuits taste very good.
-饼干	bǐng gān	noun	片, 块	cookie	L4	孩子们最喜欢吃饼干了。	Children love eating cookies most.	我来给你做一些饼干。	Let me make some cookies for you.	这块饼干又甜又香。	This cookie is both sweet and fragrant.
+饼干	bǐng gān	noun	片, 块	cookie	L4	孩子们最喜欢吃饼干了。	Children love eating cookies most.	她给了我两块饼干。	She gave me two cookies.	这块饼干又甜又香。	This cookie is both sweet and fragrant.
 并	bìng	adverb, coordinating conjunction		and	L4	他聪明并努力，所以成功了。	He is smart and hardworking, so he succeeded.	她会唱歌并跳舞。	She can sing and dance.	他们来了并坐了下来。	They came and sat down.
 并	bìng	verb		to join	L4	两条路并到了一起。	The two roads joined together.	请把两张桌子并在一起。	Please put the two tables together.	这两条线并在了一起。	These two lines joined together.
 并	bìng	verb		to merge	L4	两家公司并到了一起。	The two companies merged together.	学校决定把两个班并在一起。	The school decided to merge the two classes together.	这两个部门被并到了一起。	These two departments were merged together.
@@ -1405,17 +1405,17 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 部门	bù mén	noun	个	department	L4	请问哪个部门负责这件事？	Which department is responsible for this matter?	公司有几个部门。	The company has several departments.	他换到了别的部门。	He transferred to another department.
 擦	cā	verb		to clean or erase by wiping or rubbing	L4	她用毛巾擦桌子。	She wiped the table with a towel.	请把黑板擦干净。	Please clean the blackboard by erasing it.	他擦掉了错误的字。	He erased the wrong characters.
 猜	cāi	verb		to guess	L4	你猜他是谁？	Can you guess who he is?	我猜这道题的答案是三。	I guess the answer to this question is three.	猜猜看，盒子里有什么？	Take a guess — what's inside the box?
-材料	cái liào	noun	份	data	L4	他整理了所有的材料。	He organized all the data.	我需要更多材料来写文章。	I need more data to write the article.	这些材料来自网上。	This data comes from the internet.
+材料	cái liào	noun	份	data	L4	他整理了所有的材料。	He organized all the data.	我需要更多材料来写文章。	I need more data to write the article.	我整理了三份材料。	I organized three sets of data.
 材料	cái liào	noun	种, 份	material	L4	做这座桥需要很多材料。	Building this bridge requires lots of material.	这个材料很好。	This material is very good.	我买了两份材料。	I bought two sets of materials.
 参观	cān guān	verb, verbal noun		to tour	L4	我们参观了整个校园。	We toured the entire campus.	他们参观了这座城市。	They toured this city.	我想参观一下这里。	I'd like to tour around here.
 参观	cān guān	verb, verbal noun		to visit	L4	我们去参观了一个大工厂。	We visited a large factory.	同学们参观了工厂。	The students visited the factory.	欢迎大家来参观。	Everyone is welcome to visit.
 参赛	cān sài	verb, verbal noun		to take part in a competition	L4	他决定参赛。	He decided to take part in the competition.	我们队参赛了。	Our team took part in the competition.	你打算参赛吗？	Are you planning to take part in the competition?
-餐厅	cān tīng	noun	间, 家	restaurant	L4	这家餐厅的菜很好吃。	The food at this restaurant is delicious.	我们在餐厅吃晚饭。	We ate dinner at the restaurant.	那间餐厅每天都很热闹。	That restaurant is lively every day.
-操场	cāo chǎng	noun	个	playground	L4	孩子们在操场上玩。	The children are playing on the playground.	这个操场很大。	This playground is very large.	下课后我去操场。	After class I'll go to the playground.
-操场	cāo chǎng	noun	个	sports ground	L4	学生们在操场上跑步。	The students are running on the sports ground.	操场上有人在踢足球。	People are playing football on the sports ground.	这个操场可以用来比赛。	This sports ground can be used for competitions.
-厕所	cè suǒ	noun	间, 处	toilet	L4	厕所在哪里？	Where is the toilet?	请问，厕所怎么走？	Excuse me, how do I get to the toilet?	那间厕所不干净。	That toilet is not clean.
-茶叶	chá yè	noun	盒, 罐, 包, 片	tea leaves	L4	这盒茶叶是送给爸爸的礼物。	This box of tea leaves is a gift for dad.	她买了一包茶叶。	She bought a packet of tea leaves.	这个茶叶很香。	This tea is very fragrant.
-查看	chá kàn	verb		to inspect	L4	医生仔细查看了病人。	The doctor carefully inspected the patient.	他查看了那台电脑是否正常。	He inspected whether the computer was working normally.	工人查看了每一台机器。	The worker inspected every single thing.
+餐厅	cān tīng	noun	间, 家	restaurant	L4	这家餐厅的菜很好吃。	The food at this restaurant is delicious.	我们在餐厅吃晚饭。	We ate dinner at the restaurant.	我去了两家餐厅。	I went to two restaurants.
+操场	cāo chǎng	noun	个	playground	L4	孩子们在操场上玩。	The children are playing on the playground.	学校有两个操场。	The school has two playgrounds.	下课后我去操场。	After class I'll go to the playground.
+操场	cāo chǎng	noun	个	sports ground	L4	我们学校有一个大操场。	Our school has one big sports ground.	操场上有人在踢足球。	People are playing football on the sports ground.	这个操场可以用来比赛。	This sports ground can be used for competitions.
+厕所	cè suǒ	noun	间, 处	toilet	L4	厕所在哪里？	Where is the toilet?	请问，厕所怎么走？	Excuse me, how do I get to the toilet?	这里有三间厕所。	There are three toilets here.
+茶叶	chá yè	noun	盒, 罐, 包	tea leaves	L4	这盒茶叶是送给爸爸的礼物。	This box of tea leaves is a gift for dad.	她买了一包茶叶。	She bought a packet of tea leaves.	这个茶叶很香。	This tea is very fragrant.
+查看	chá kàn	verb		to inspect	L4	医生仔细查看了病人。	The doctor carefully inspected the patient.	他查看了那台电脑是否正常。	He inspected whether the computer was working normally.	工人查看了每一台机器。	The worker inspected every single machine.
 查看	chá kàn	verb		to look over	L4	他查看了一下地图。	He looked over the map.	我查看了所有文件。	I looked over all the documents.	请查看一下这些文件。	Please look over these documents.
 查找	chá zhǎo	verb, verbal noun		to search for	L4	他在网上查找信息。	He is searching for information online.	我帮你查找那本书。	I'll help you search for that book.	请查找一下这个词的意思。	Please search for the meaning of this word.
 差点儿	chà diǎnr	adverb		almost; nearly (implying something undesirable nearly happened)	L4	我差点儿错过了火车。	I almost missed the train.	他差点儿输了。	He almost lost.	我差点儿忘了今天是她的生日。	I almost forgot that today is her birthday.
