@@ -581,13 +581,13 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 洗手间	xǐ shǒu jiān	noun	个	restroom	L2	洗手间在哪里？	Where is the restroom?	我要去洗手间。	I need to go to the restroom.	这里有两个洗手间。	There are two restrooms here.
 下来	xià lai	verb		to come down	L2	他从楼上走下来了。	He walked down from upstairs.	请你下来，我们在这里等你。	Please come down; we are waiting for you here.	猫从上面走下来了。	The cat walked down from above.
 下面	xià miàn	directional word		below	L2	书在桌子下面。	The book is below the table.	猫在椅子下面。	The cat is below the chair.	下面有一条鱼。	There is a fish below.
-下面	xià miàn	directional word		following	L2	下面我们看书。	Next we will read.	请看下面的图。	Please look at the following picture.	下面的东西很多。	There are many things in the following part.
+下面	xià miàn	directional word		following	L2	下面我们看书。	Next we will read.	请看下面的问题。	Please look at the following questions.	下面的东西很多。	There are many things in the following part.
 下去	xià qù	verb		to continue	L2	你要做下去吗？	Do you want to keep going?	我们做下去吧。	Let's continue doing it.	他没有写下去。	He didn't continue writing.
 下去	xià qù	verb		to go down	L2	他走下去了。	He went down.	请慢慢下去。	Please go down slowly.	我们从这里下去。	We go down from here.
 小孩儿	xiǎo hái r	noun	个	child	L2	那个小孩儿很高兴。	That child is very happy.	小孩儿不会做这个。	A child can't do this.	她有两个小孩儿。	She has two children.
 小时候	xiǎo shí hou	time word, noun		in one's childhood	L2	我小时候住在那里。	I lived there when I was young.	她小时候很喜欢跑步。	She loved running in her childhood.	你小时候学过什么？	What did you study in your childhood?
 笑	xiào	verb, verbal noun		to laugh	L2	大家都笑了。	Everyone laughed.	他看了那个电影，笑了。	He watched that movie and laughed.	他一说话，大家都笑了。	As soon as he spoke, everyone laughed.
-笑	xiào	verb, verbal noun		to smile	L2	她对我笑了一下。	She smiled at me.	老师对学生笑。	The teacher smiles at the students.	他笑着说你好。	He smiled and said hello.
+笑	xiào	verb, verbal noun		to smile	L2	她对我笑了一下。	She smiled at me.	老师对学生笑。	The teacher smiles at the students.	他对我笑了。	He smiled at me.
 姓	xìng	verb, noun	个	surname	L2	你姓什么？	What is your surname?	一个姓李，一个姓王。	One is surnamed Li, the other is surnamed Wang.	他姓什么？	What is his surname?
 姓名	xìng míng	noun	个	full name	L2	请告诉我你的姓名。	Please tell me your full name.	她的姓名很好听。	Her full name sounds very nice.	请写一个姓名。	Please write a name.
 颜色	yán sè	noun	种	color	L2	你喜欢什么颜色？	What color do you like?	这件衣服的颜色很好看。	The color of this piece of clothing is very nice.	这里有三种颜色。	There are three colors here.
@@ -609,12 +609,12 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 右	yòu	directional word, adjective		right (-hand)	L2	他的右手很好。	His right hand is very good.	往右走就到了。	Go right and you'll be there.	请往右走。	Please walk to the right.
 右边	yòu bian	directional word		right side	L2	学校在右边。	The school is on the right side.	右边是饭店。	The right side is the restaurant.	请走右边。	Please go to the right side.
 鱼	yú	noun	条	fish	L2	我很喜欢吃鱼。	I really like eating fish.	那条鱼很大。	That fish is very big.	他在水里看鱼。	He is watching fish in the water.
-远	yuǎn	adjective, adverbial adjective		distant	L2	那里很远。	That place is very distant.	他住得很远。	The place where he lives is very distant.	北京离我们很远。	Beijing is very distant from us.
+远	yuǎn	adjective, adverbial adjective		distant	L2	那里很远。	That place is very distant.	他住得很远。	The place where he lives is very distant.	那里离我们很远。	That place is very distant from us.
 远	yuǎn	adjective, adverbial adjective		far	L2	他家离学校很远。	His home is very far from school.	那里太远了。	That place is too far.	超市不远，走路就到。	The supermarket is not far; you can walk there.
-运动	yùn dòng	verbal noun, noun, verb	场	exercise	L2	我每天都运动。	I exercise every day.	我看了一场运动比赛。	I watched a sports competition.	运动对身体好。	Exercise is good for your body.
+运动	yùn dòng	verbal noun, noun, verb	场	exercise	L2	我每天都运动。	I exercise every day.	他们有一场运动。	They have a sports event.	运动对身体好。	Exercise is good for your body.
 站	zhàn	verb, noun, classifier	个	station	L2	火车站在哪里？	Where is the train station?	我在站里等你。	I am waiting for you at the station.	这个站很大。	This station is very big.
 站	zhàn	verb, noun, classifier	个	stop	L2	下一站是学校。	The next stop is the school.	我们在这站下车。	We get off at this stop.	还有两个站就到了。	Two more stops and we'll be there.
-站	zhàn	verb, noun, classifier		to stand	L2	请站起来。	Please stand up.	他站在门口。	He is standing at the doorway.	我们都站着。	We are all standing.
+站	zhàn	verb, noun, classifier		to stand	L2	请站起来。	Please stand up.	他站在门口。	He is standing at the doorway.	请站在这里。	Please stand here.
 长	cháng	adjective, verb, adverbial adjective, morpheme		long	L2	这条路很长。	This road is very long.	他的手很长。	His hands are very long.	这本书有点长。	This book is a bit long.
 长	zhǎng	adjective, verb, adverbial adjective, morpheme		to grow	L2	花长得很好看。	The flowers grew beautifully.	孩子长大了。	The child has grown up.	这花长得很快。	This flower grows very fast.
 丈夫	zhàng fu	noun	个	husband	L2	她丈夫很高。	Her husband is very tall.	我丈夫在家。	My husband is at home.	她有一个好丈夫。	She has a good husband.
