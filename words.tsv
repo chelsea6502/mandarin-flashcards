@@ -49,8 +49,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 东西	dōng xi	noun	个	thing	L1	这个东西是什么？	What is this thing?	桌子上有很多东西。	There are many things on the table.	我买了一些东西。	I bought some things.
 都	dōu	adverb		all	L1	他们都是学生。	They are all students.	我都喜欢这些。	I like all of these.	大家都来了。	Everyone has come.
 读	dú	verb		to read	L1	她在读一本书。	She is reading a book.	他读这本书。	He reads this book.	我喜欢读中文。	I like to read Chinese.
-读	dú	verb		to study	L1	他在大学读中文。	He is studying Chinese at university.	她读了三年中文。	She studied Chinese for three years.	我想读中文。	I want to study Chinese.
-读书	dú shū	verb, verbal noun		to attend school	L1	他在大学读书。	He attends university.	我六岁去读书。	I started attending school at age six.	她在学校读书。	She attends school.
+读	dú	verb		to study	L1	他在学校读中文。	He is studying Chinese at school.	她读了三年中文。	She studied Chinese for three years.	我想读中文。	I want to study Chinese.
+读书	dú shū	verb, verbal noun		to attend school	L1	她的儿子去读书了。	Her son went to school.	我六岁去读书。	I started attending school at age six.	她在学校读书。	She attends school.
 读书	dú shū	verb, verbal noun		to read a book	L1	他在读书。	He is reading a book.	我在家读书。	I read books at home.	她喜欢读书。	She likes to read books.
 对	duì	preposition, verb, classifier, adjective		correct	L1	你说对了。	What you said is correct.	这个是对的。	This is correct.	他做对了。	He did it correctly.
 对	duì	preposition, verb, classifier, adjective		regarding	L1	他对这件事不知道。	Regarding this matter, he doesn't know.	她对这件事不高兴。	She is unhappy regarding this matter.	你对这个怎么想？	What do you think regarding this?
@@ -58,7 +58,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 多	duō	adjective, numeral, adverbial adjective, adverb, verb, morpheme		many	L1	我有很多朋友。	I have many friends.	他的书很多。	He has many books.	学校里有很多学生。	There are many students in the school.
 多少	duō shǎo	pronoun		how many	L1	你有多少钱？	How much money do you have?	这里有多少人？	How many people are here?	你买了多少苹果？	How many apples did you buy?
 儿子	ér zi	noun	个	son	L1	他有一个儿子。	He has a son.	我儿子在学校。	My son is at school.	她的儿子很高兴。	Her son is very happy.
-二	èr	numeral, time word		two	L1	今天是二月一号。	Today is February 1st.	他是第二个到的。	He was the second to arrive.	他有二十本书。	He has twenty books.
+二	èr	numeral, time word		two	L1	今天是二月一日。	Today is February 1st.	他是第二个到的。	He was the second to arrive.	他有二十本书。	He has twenty books.
 饭	fàn	noun	碗	cooked rice	L1	我要吃饭。	I want to eat rice.	我吃了一碗饭。	I ate a bowl of rice.	这饭很好吃。	This cooked rice is very delicious.
 饭	fàn	noun	顿	meal	L1	我一天吃三顿饭。	I eat three meals a day.	我们都吃饭吧。	Let's all eat food.	这里的饭很好吃。	The food here is very delicious.
 饭店	fàn diàn	noun	家, 个	restaurant	L1	我们去那家饭店吃饭。	We go to that restaurant to eat.	这个饭店很好。	This restaurant is very good.	饭店里有很多人。	There are many people in the restaurant.
@@ -78,11 +78,11 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 狗	gǒu	noun	只, 条	dog	L1	我有一只狗。	I have a dog.	那只狗很大。	That dog is very big.	狗在这里。	The dog is here.
 贵	guì	adjective, pronoun, non-predicate adjective, morpheme		expensive	L1	这个苹果很贵。	This apple is very expensive.	那家饭店太贵了。	That restaurant is too expensive.	这件衣服太贵了。	This piece of clothing is too expensive.
 国	guó	noun	个	country	L1	中国是一个大国。	China is a large country.	你是哪国人？	What country are you from?	你去中国了吗？	Did you go to China?
-还	hái	adverb, verb		passably	L1	他做得还好。	He did passably well.	他的汉语还好。	His Chinese is passably good.	今天天气还好。	The weather today is passably good.
+还	hái	adverb, verb		passably	L1	这个菜还好。	This dish is passably good.	他的汉语还好。	His Chinese is passably good.	今天天气还好。	The weather today is passably good.
 还	hái	adverb, verb		still	L1	他还在学校。	He is still at school.	你还喜欢她吗？	Do you still like her?	妈妈还没来。	Mom still hasn't come.
 还	huán	adverb, verb		to return	L1	他还书给我了。	He returned the book to me.	我要还这本书。	I need to return this book.	请你还书给他。	Please return the book to him.
 孩子	hái zi	noun	个	child	L1	这个孩子很好看。	This child looks very nice.	她有两个孩子。	She has two children.	孩子在学校。	The child is at school.
-汉语	hàn yǔ	noun	门	Chinese language	L1	我在学汉语。	I am studying the Chinese language.	他的汉语很好。	His Chinese is very good.	你会说汉语吗？	Can you speak Chinese?
+汉语	hàn yǔ	noun	门	Chinese language	L1	我有一门汉语课。	I have a Chinese language class.	他的汉语很好。	His Chinese is very good.	你会说汉语吗？	Can you speak Chinese?
 汉字	hàn zì	noun	个	Chinese character	L1	我会写三个汉字。	I can write three Chinese characters.	这个汉字我不会写。	I don't know how to write this character.	他学了很多汉字。	He learned many Chinese characters.
 好	hǎo	adjective, adverb, verb		good	L1	他是一个好人。	He is a good person.	今天天气很好。	The weather today is very good.	这本书很好。	This book is very good.
 好	hǎo	adjective, adverb, verb		very	L1	今天好热！	Today is very hot!	他好高兴。	He is very happy.	这里好大！	This place is very big!
