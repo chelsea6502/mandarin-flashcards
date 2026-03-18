@@ -2674,7 +2674,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 直接	zhí jiē	adverbial adjective, adjective		direct	L4	你可以直接告诉我。	You can tell me directly.	这条路直接通到学校。	This road goes directly to school.	请直接回答问题。	Please answer the question directly.
 值	zhí	verb, noun, adjective		to be worth	L4	这本书值一百块钱。	This book is worth one hundred yuan.	这件事不值那么多钱。	This matter is not worth that much money.	这双鞋值两百元。	These shoes are worth two hundred yuan.
 值得	zhí de	verb		to be worth it	L4	这次旅行非常值得。	This trip is very worth it.	帮助别人是值得的。	Helping others is worth it.	花时间学习是值得的。	Spending time studying is worth it.
-职业	zhí yè	noun		occupation	L4	你的职业是什么？	What is your occupation?	他换了一个新的职业。	He switched to a new occupation.	我想找一个好职业。	I want to find a good occupation.
+职业	zhí yè	noun	个	occupation	L4	你的职业是什么？	What is your occupation?	他换了一个新的职业。	He switched to a new occupation.	我想找一个好职业。	I want to find a good occupation.
 植物	zhí wù	noun	种	plant	L4	这是一种热带植物。	This is a kind of tropical plant.	她在家里养了很多植物。	She grows many kinds of plants at home.	这植物需要很多水。	This kind of plant needs a lot of water.
 植物	zhí wù	noun	种	vegetation	L4	这个公园里有很多植物。	There are many kinds of vegetation in this park.	山上的植物很丰富。	The vegetation on the mountain is very abundant.	这植物在南方很常见。	This kind of vegetation is very common in the south.
 纸巾	zhǐ jīn	noun	张	tissue; paper towel	L4	你有纸巾吗？	Do you have a tissue?	他给了我一张纸巾。	He gave me a tissue.	桌子上有一包纸巾。	There is a pack of tissues on the table.
@@ -2687,7 +2687,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 中年	zhōng nián	time word		middle age	L4	他已经到了中年。	He has already reached middle age.	中年时候压力很大。	People in middle age have a lot of pressure.	她在中年时换了职业。	She changed profession during middle age.
 重	chóng	adjective, adverb, verb, classifier, morpheme		again	L4	这道题做错了，重做一遍。	This problem was done incorrectly — do it again.	他不满意，重写了一次。	He was not satisfied and wrote it again.	请重读一遍这个句子。	Please read this sentence again.
 重	zhòng	adjective, adverb, verb, classifier, morpheme		heavy	L4	这个箱子很重，我搬不动。	This box is very heavy, I can't move it.	他的书包太重了。	His school bag is too heavy.	这块比那块重。	This one is heavier than that one.
-重	zhòng	adjective, adverb, verb, classifier, morpheme		important	L4	健康是最重要的事。	Health is the most important thing.	这个决定非常重要。	This decision is very important.	学习很重要，不能放弃。	Studying is important, you cannot give up.
+重	zhòng	adjective, adverb, verb, classifier, morpheme		important	L4	他的责任很重。	His responsibilities are very important.	这件事很重，你要注意。	This matter is very important — you need to pay attention.	考试对学生来说很重。	Exams are very important to students.
 重	chóng	adjective, adverb, verb, classifier, morpheme		measure word for layers	L4	这件外套有三重，很厚。	This coat has three layers and is very thick.	他穿了两重衣服。	He is wearing two layers of clothing.	这个蛋糕有四重。	This cake has four layers.
 重点	zhòng diǎn	noun, adverb		important point	L4	考试的重点是语法。	The important point of the exam is grammar.	老师讲了今天的重点。	The teacher explained today's important point.	请记住这个重点。	Please remember this important point.
 重视	zhòng shì	verb, verbal noun		to attach importance to	L4	他非常重视自己的健康。	He attaches great importance to his health.	公司重视每个人的意见。	The company attaches importance to everyone's opinions.	父母重视孩子的教育。	Parents attach importance to their children's education.
@@ -2697,19 +2697,19 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 主意	zhǔ yi	noun	个	plan	L4	他想出了一个好主意。	He came up with a good plan.	这个主意值得试一试。	This plan is worth trying.	我们需要一个好主意。	We need a good plan.
 祝	zhù	verb, proper noun (person)		to express good wishes	L4	我祝你新年快乐！	I express good wishes to you for the New Year!	朋友们祝他一切顺利。	Friends expressed good wishes for everything to go smoothly for him.	她祝大家节日愉快。	She expressed good wishes to everyone for a happy holiday.
 祝	zhù	verb, proper noun (person)		to wish	L4	我祝你生日快乐！	I wish you a happy birthday!	他祝我考试顺利。	He wished me good luck on the exam.	我祝你身体健康。	I wish you good health.
-祝贺	zhù hè	verb, verbal noun	个	to congratulate	L4	我想祝贺你通过考试！	I want to congratulate you on passing the exam!	大家都来祝贺她结婚。	Everyone came to congratulate her on her wedding.	请接受我的一个祝贺。	Please accept my congratulations.
-著名	zhù míng			famous	L4	他是著名的科学家。	He is a famous scientist.	这是一座著名的城市。	This is a famous city.	她是中国著名的歌手。	She is a famous Chinese singer.
+祝贺	zhù hè	verb, verbal noun		to congratulate	L4	我想祝贺你通过考试！	I want to congratulate you on passing the exam!	大家都来祝贺她结婚。	Everyone came to congratulate her on her wedding.	请接受我的祝贺。	Please accept my congratulations.
+著名	zhù míng	adjective		famous	L4	他是著名的科学家。	He is a famous scientist.	这是一座著名的城市。	This is a famous city.	她是中国著名的歌手。	She is a famous Chinese singer.
 专门	zhuān mén	adverb, non-predicate adjective		specialized	L4	这家店专门卖中国茶。	This shop specializes in selling Chinese tea.	他专门来看你的。	He came specifically to see you.	我们专门学习汉语。	We study Chinese as our specialization.
 专业	zhuān yè	noun	门, 个	main field of study	L4	你的专业是什么？	What is your major field of study?	她的专业是数学。	Her main field of study is mathematics.	我选了一个有意思的专业。	I chose an interesting field of study.
-专业	zhuān yè	noun	门, 个	professional	L4	他的表现非常专业。	His performance was very professional.	我们需要一个专业的人来帮忙。	We need a professional person to help.	她的回答听起来很专业。	Her answer sounds very professional.
-专业	zhuān yè	noun	门, 个	specialized	L4	这份工作需要专业的知识。	This job requires specialized knowledge.	他接受过专业的教育。	He has received specialized education.	这是专业的方法。	This is a specialized method.
+专业	zhuān yè	adjective		professional	L4	他的表现非常专业。	His performance was very professional.	我们需要一个专业的人来帮忙。	We need a professional person to help.	她的回答听起来很专业。	Her answer sounds very professional.
+专业	zhuān yè	adjective		specialized	L4	这份工作需要专业的知识。	This job requires specialized knowledge.	他接受过专业的教育。	He has received specialized education.	这是专业的方法。	This is a specialized method.
 专业	zhuān yè	noun	门, 个	specialty	L4	汉语是一门很重要的专业。	Chinese is a very important specialty.	他在这个专业很有经验。	He has a lot of experience in this specialty.	这个专业需要专门的知识。	This specialty requires specialized knowledge.
-转	zhuàn	verb		to revolve	L4	地球绕着太阳转。	The Earth revolves around the Sun.	风车转得很快。	The windmill revolves very quickly.	风扇在转。	The fan is revolving.
+转	zhuàn	verb		to revolve	L4	那个东西一直在转。	That thing keeps revolving.	风车转得很快。	The windmill revolves very quickly.	风扇在转。	The fan is revolving.
 转	zhuǎn	verb		to transfer	L4	请把这封信转给他。	Please transfer this letter to him.	我把文件转给你了。	I have transferred the file to you.	她把电话转给了经理。	She transferred the call to the manager.
 转	zhuǎn	verb		to turn	L4	请在这里左转。	Please turn left here.	车子转了一个弯。	The car made a turn.	走到路口再转。	Turn at the intersection.
 转发	zhuǎn fā	verb		to forward; to repost (a message or social media post)	L4	请把这条消息转发给大家。	Please forward this message to everyone.	她转发了一篇有意思的文章。	She reposted an interesting article.	你可以转发这个视频吗？	Can you repost this video?
 转机	zhuǎn jī	noun		a turn for the better	L4	他的病终于出现了转机。	His illness finally took a turn for the better.	事情终于有了转机。	Things finally took a turn for the better.	我们一直在找转机。	We have been looking for a turn for the better.
-转机	zhuǎn jī	noun		to change planes	L4	我要在上海转机去北京。	I need to change planes in Shanghai to go to Beijing.	这次旅行需要转机一次。	This trip requires one plane change.	她在北京转机，很辛苦。	She changed planes in Beijing, which was exhausting.
+转机	zhuǎn jī	verb		to change planes	L4	我要在上海转机去北京。	I need to change planes in Shanghai to go to Beijing.	这次旅行需要转机一次。	This trip requires one plane change.	她在北京转机，很辛苦。	She changed planes in Beijing, which was exhausting.
 赚	zhuàn	verb		to earn (money)	L4	他每个月能赚多少钱？	How much money can he earn each month?	我想赚更多的钱。	I want to earn more money.	她通过唱歌赚钱。	She earns money through singing.
 装	zhuāng	verb		to fill	L4	瓶子里装满了水。	The bottle is filled with water.	请把这个杯子装满。	Please fill this cup.	袋子装不下了。	The bag can't be filled anymore.
 装	zhuāng	verb		to install	L4	我们给房间装了空调。	We installed an air conditioner in the room.	他在门上装了一个灯。	He installed a light on the door.	这台电脑昨天刚装好。	This computer was just installed yesterday.
