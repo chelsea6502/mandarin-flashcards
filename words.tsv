@@ -1094,8 +1094,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 声	shēng	verbal classifier, morpheme, noun		sound	L3	他叫了一声。	He called out once.	孩子哭了一声。	The child let out a cry.	他说了一声谢谢。	He said thanks once.
 声音	shēng yīn	noun	个	sound	L3	外面有什么声音？	What sound is that outside?	我听到一个奇怪的声音。	I heard a strange sound.	音乐的声音很大。	The sound of the music is very loud.
 声音	shēng yīn	noun	个	voice	L3	她的声音很好听。	Her voice is very pleasant.	我认得他的声音。	I recognize his voice.	他有一个好听的声音。	He has a pleasant-sounding voice.
-世界	shì jiè	noun	个	world	L3	这个世界很大。	This world is very big.	我想去世界上很多地方看看。	I want to go see many places in the world.	他是世界上最好的人。	He is the best person in the world.
-市	shì	noun	个	city	L3	他住在一个大城市里。	He lives in a big city.	这个城市有很多人。	This city has many people.	我们的城市很好看。	Our city is very beautiful.
+世界	shì jiè	noun	个	world	L3	这个世界很大。	This world is very big.	我想去世界上很多地方看看。	I want to go see many places in the world.	他去过一个不同的世界。	He has been to a different world.
+市	shì	noun	个	city	L3	他住在一个大城市里。	He lives in a big city.	这个城市有很多人。	This city has many people.	我们市很大。	Our city is very big.
 市	shì	noun	个	market	L3	这个超市卖菜和水果。	This market sells vegetables and fruit.	市里东西很多。	The market has many things.	我去超市买东西。	I am going to the market to buy things.
 试	shì	verb, verbal noun		to test	L3	老师要试学生。	The teacher will test the students.	老师让我们试这个方法。	The teacher had us try this method.	我们试一下这个方法。	Let us test this method.
 试	shì	verb, verbal noun		to try	L3	你试一试这个菜。	Try this dish.	我想试这件上衣。	I want to try on this jacket.	试试看，你能做到。	Try it and see, you can do it.
@@ -1109,7 +1109,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 瘦	shòu	adjective		(of clothing) tight	L3	这条裤子太瘦了，我穿不上。	These pants are too tight; I can't get them on.	这件衣服有点瘦，不舒服。	This piece of clothing is a bit tight and uncomfortable.	这件上衣太瘦了，穿不上。	This jacket is too tight; I can't get it on.
 瘦	shòu	adjective		(of meat) lean	L3	我要瘦肉，不要其他的。	I want lean meat, not other cuts.	这块肉很瘦，很好吃。	This piece of meat is very lean and delicious.	请给我一些瘦肉。	Please give me some lean meat.
 瘦	shòu	adjective		thin	L3	她很瘦，要多吃点。	She is very thin, she should eat more.	他最近瘦了很多。	He has become much thinner recently.	这只猫太瘦了。	This cat is too thin.
-叔叔	shū shu	noun	个	father's younger brother	L3	我叔叔住在北京。	My uncle (father's younger brother) lives in Beijing.	我有两个叔叔。	I have two uncles on my father's side.	叔叔给我买了一个礼物。	My uncle bought me a gift.
+叔叔	shū shu	noun	个	father's younger brother	L3	我叔叔住在这里。	My uncle (father's younger brother) lives here.	我有两个叔叔。	I have two uncles on my father's side.	叔叔给我买了一个礼物。	My uncle bought me a gift.
 树	shù	noun, verb	棵	tree	L3	公园里有很多树。	There are many trees in the park.	那棵树很高。	That tree is very tall.	那里有一棵大树。	There is a big tree there.
 数学	shù xué	noun		mathematics; math	L3	我喜欢数学。	I like math.	今天有数学课。	There is a math class today.	这个数学题很难。	This math problem is very difficult.
 刷	shuā	verb, onomatopoeia		to brush	L3	我每天早上刷牙。	I brush my teeth every morning.	刷完牙再去睡觉。	Brush your teeth before going to sleep.	她用新牙刷刷牙。	She brushes her teeth with a new toothbrush.
@@ -1125,11 +1125,11 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 提高	tí gāo	verb, verbal noun		to raise	L3	我想提高我的成绩。	I want to raise my grades.	他的中文提高了很多。	His Chinese has improved a lot.	努力学习可以提高水平。	Studying hard can raise your level.
 体育	tǐ yù	noun		physical education	L3	我们每周有两节体育课。	We have two physical education classes every week.	体育课上我们打篮球。	In physical education class we play basketball.	他的体育课成绩很好。	His physical education grade is very good.
 体育	tǐ yù	noun		sports	L3	他很喜欢体育运动。	He really likes sports.	中国人爱看体育比赛。	Chinese people love watching sports competitions.	多做体育对身体很好。	Doing more sports is very good for the body.
-体育馆	tǐ yù guǎn	noun	个	gymnasium	L3	学校有体育馆。	The school has a gymnasium.	我们在体育馆里打球。	We play ball in the gymnasium.	这个体育馆很大。	This gymnasium is very big.
+体育馆	tǐ yù guǎn	noun	个	gymnasium	L3	学校有一个体育馆。	The school has one gymnasium.	我们在体育馆里打球。	We play ball in the gymnasium.	这个体育馆很大。	This gymnasium is very big.
 甜	tián	adjective		sweet	L3	这个苹果很甜。	This apple is very sweet.	这杯水喝起来很甜。	This cup of water tastes very sweet.	这杯茶太甜了。	This cup of tea is too sweet.
 跳	tiào	verb, verbal noun, classifier		to jump	L3	他跳得很高。	He jumps very high.	小狗跳上了椅子。	The puppy jumped onto the chair.	我们一起跳吧！	Let's jump together!
 听说	tīng shuō	verb		it is said	L3	听说他要去中国了。	It is said that he is going to China.	听说这家店很好吃。	It is said that this restaurant is delicious.	听说后天会下雨。	It is said that it will rain the day after tomorrow.
-挺	tǐng	adverb, verb, morpheme, classifier		to endure	L3	再挺一会儿就好了。	Endure a little longer and it will be fine.	他生病了，但还在挺着。	He is sick but still enduring.	你能挺过去的。	You can endure through it.
+挺	tǐng	adverb, verb, morpheme, classifier		to endure	L3	再挺一会儿就好了。	Endure a little longer and it will be fine.	他生病了，还要挺下去。	He is sick but must endure on.	你能挺过去的。	You can endure through it.
 挺	tǐng	adverb, verb, morpheme, classifier		very	L3	这本书挺有意思的。	This book is very interesting.	今天的天气挺好的。	The weather today is very nice.	他挺聪明的。	He is very smart.
 同事	tóng shì	noun	个, 位	colleague	L3	他是我的同事。	He is my colleague.	我和同事一起吃午饭。	I have lunch together with my colleagues.	我有一个很好的同事。	I have a very good colleague.
 同意	tóng yì	verb, verbal noun		to agree	L3	你同意我说的吗？	Do you agree with what I said?	他不同意这件事。	He does not agree with this matter.	大家都同意了。	Everyone agreed.
