@@ -683,14 +683,14 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 宾馆	bīn guǎn	noun	个, 家	hotel	L3	我们住在一家宾馆里。	We are staying in a hotel.	这个宾馆很干净。	This hotel is very clean.	他在宾馆住了三天。	He stayed at the hotel for three days.
 冰	bīng	noun	块	ice	L3	水变成冰了。	The water turned into ice.	他要一块冰。	He wants a piece of ice.	冰很冷。	Ice is very cold.
 冰激凌	bīng jī líng	noun	个	ice cream	L3	我想吃一个冰激凌。	I want to eat an ice cream.	这个冰激凌很好吃。	This ice cream is very delicious.	天热的时候，我喜欢吃冰激凌。	When the weather is hot, I like to eat ice cream.
-冰箱	bīng xiāng	noun	台, 个	refrigerator	L3	冰箱里有牛奶。	There is milk in the refrigerator.	这个冰箱很大。	This refrigerator is very big.	把菜放进冰箱。	Put the vegetables in the refrigerator.
-病人	bìng rén	noun	个	patient	L3	医生看病人。	The doctor sees the patient.	这个病人好多了。	This patient is much better.	医生帮助病人。	The doctor helps the patient.
-病人	bìng rén	noun	个	sick person	L3	那个病人很不舒服。	That sick person feels very unwell.	病人需要休息。	A sick person needs rest.	他是个病人。	He is a sick person.
+冰箱	bīng xiāng	noun	台, 个	refrigerator	L3	冰箱里有牛奶。	There is milk in the refrigerator.	我们买了一台冰箱。	We bought a refrigerator.	把菜放进冰箱。	Put the vegetables in the refrigerator.
+病人	bìng rén	noun	个	patient	L3	医生在看一个病人。	The doctor is seeing a patient.	这个病人好多了。	This patient is much better.	医生帮助病人。	The doctor helps the patient.
+病人	bìng rén	noun	个	sick person	L3	那个病人很不舒服。	That sick person feels very unwell.	病人需要休息。	A sick person needs rest.	这里有三个病人。	There are three sick people here.
 不但	bù dàn	conjunction		not only	L3	他不但会说中文，也会说外语。	He not only can speak Chinese, but also a foreign language.	不但我去，她也去。	Not only am I going, she is going too.	不但好看，而且好吃。	Not only does it look good, it tastes good too.
 不行	bù xíng	adjective		not OK	L3	不行，你不能走。	Not OK — you cannot leave.	这样做不行。	Doing it this way is not OK.	不行，太贵了。	Not OK, it's too expensive.
 不见	bù jiàn	verb		to disappear	L3	我的书不见了。	My book has disappeared.	钱不见了！	The money has disappeared!	猫不见了。	The cat has disappeared.
 不见	bù jiàn	verb		to not meet (e.g. 一年不见 to not see for a year)	L3	一年不见，你好吗？	We haven't met for a year — how are you?	好久不见！	Long time no see!	我们三年不见了。	We haven't seen each other for three years.
-不见	bù jiàn	verb		to not see	L3	我今天不见他。	I'm not seeing him today.	今天不见妈妈。	Today I don't see Mom.	他不见我了。	He didn't see me.
+不见	bù jiàn	verb		to not see	L3	我今天不见他。	I'm not seeing him today.	今天不见妈妈。	Today I don't see Mom.	他不见我了。	He won't see me anymore.
 不久	bù jiǔ	adverb, time word		soon	L3	他不久就来了。	He came soon after.	不久，她回来了。	Soon, she came back.	不久就开始了。	It will start soon.
 不同	bù tóng	adjective, adjective-noun		different	L3	我们说的不同。	What we said is different.	这两件衣服不同。	These two pieces of clothing are different.	每人都不同。	Every person is different.
 不用	bù yòng	adverb		need not	L3	不用谢。	No need to thank me.	你不用过来。	You need not come over.	不用买，家里有。	No need to buy it — we have some at home.
@@ -701,9 +701,9 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 参加	cān jiā	verb		to participate	L3	我参加了比赛。	I participated in the competition.	他想参加这次运动。	He wants to participate in this event.	她参加了学校的比赛。	She participated in the school competition.
 草	cǎo	noun		grass	L3	公园里有很多草。	There is a lot of grass in the park.	草是绿色的。	Grass is green.	牛在吃草。	The cow is eating grass.
 草地	cǎo dì	noun	片	lawn	L3	孩子在草地上玩。	The children are playing on the lawn.	公园里有一片草地。	There is a patch of lawn in the park.	我们坐在草地上。	We are sitting on the lawn.
-草地	cǎo dì	noun	片	turf	L3	球场的草地很好。	The turf on the sports field is very good.	这片草地刚种好。	This turf was just planted.	草地上不能走。	You cannot walk on the turf.
+草地	cǎo dì	noun	片	turf	L3	球场的草地很好。	The turf on the sports field is very good.	这片草地刚种好。	This turf was just planted.	我们种了一片草地。	We planted a patch of turf.
 层	céng	verbal classifier, noun		floor	L3	我住在三层。	I live on the third floor.	电梯到哪一层？	Which floor does the elevator go to?	教室在二层。	The classroom is on the second floor.
-层	céng	verbal classifier, noun		layer	L3	蛋糕有三层。	The cake has three layers.	穿一层就够了。	One layer is enough to wear.	画一层颜色。	Paint one layer of color.
+层	céng	verbal classifier, noun		layer	L3	蛋糕有三层。	The cake has three layers.	穿一层就好了。	Wearing one layer is fine.	画一层颜色。	Paint one layer of color.
 查	chá	verb		to consult	L3	我查了字典。	I consulted the dictionary.	你可以查一下。	You can consult it and check.	他查了地图。	He consulted the map.
 查	chá	verb		to investigate	L3	他们在查这件事。	They are investigating this matter.	我们要查清楚。	We need to investigate and find out clearly.	他们查了很久。	They investigated for a long time.
 查	chá	verb		to look up in	L3	我查字典学新词。	I look up new words in the dictionary.	查一查这个字。	Look this character up.	他查了一下词典。	He looked it up in the dictionary.
@@ -711,7 +711,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 差	chā	noun, adjective, verb, morpheme		discrepancy	L3	这些有差，不对。	There is a discrepancy in these — something is wrong.	两个写的有差。	The two written ones have a discrepancy.	这里有一点差。	There is a small discrepancy here.
 差	chà	adjective, verb, morpheme		to be short	L3	还差五块钱。	I'm still five yuan short.	他差一点钱。	He is a little short on money.	差五分钟到三点。	It's five minutes short of three o'clock.
 差	chà	adjective, verb, morpheme		to lack	L3	还差一个学生。	There is still one student lacking.	差什么？	What is lacking?	你还差什么？	What are you still lacking?
-差	chāi	adjective, verb, morpheme		to send somebody on an errand	L3	老师差他去买书。	The teacher sent him on an errand to buy books.	妈妈差我去买菜。	Mom sent me on an errand to buy vegetables.	他被差出去了。	He was sent out on an errand.
+差	chāi	verb, morpheme		to send somebody on an errand	L3	老师差他去买书。	The teacher sent him on an errand to buy books.	妈妈差我去买菜。	Mom sent me on an errand to buy vegetables.	他被差出去了。	He was sent out on an errand.
 差不多	chà bu duō	set phrase		more or less	L3	两件衣服差不多。	The two pieces of clothing are more or less the same.	差不多好了。	It's more or less done.	我们差不多一样大。	We are more or less the same size.
 尝	cháng	verb		to taste	L3	你尝一下这个菜。	Taste this dish.	我尝了一口。	I tasted a bite.	她尝了一口水。	She tasted a sip of water.
 常	cháng	adverb, proper noun (person)		often	L3	我常去那家店。	I often go to that shop.	他常喝茶。	He often drinks tea.	她常来我家。	She often comes to my house.
@@ -721,17 +721,17 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 常用	cháng yòng	adjective		in common usage	L3	这是常用的字。	This is a character in common usage.	这些词很常用。	These words are very commonly used.	筷子是常用的。	Chopsticks are in common usage.
 衬衫	chèn shān	noun	件	shirt	L3	他穿了一件衬衫。	He is wearing a shirt.	这件衬衫很好看。	This shirt looks very nice.	我买了一件新衬衫。	I bought a new shirt.
 成绩	chéng jì	noun	项, 个	achievement	L3	他做出了很大成绩。	He made great achievements.	这次成绩很好。	These results are very good.	他得到了一个好成绩。	He achieved a good result.
-成绩	chéng jì	noun	项, 个	grades	L3	他每个成绩都很好。	His grades are very good.	我的数学成绩不好。	My math grades are not good.	她的成绩是班里第一。	Her grades are the best in the class.
-成绩	chéng jì	noun	项, 个	performance records	L3	他的每个成绩都写在这里。	His performance records are all written here.	公司每年看成绩。	The company reviews performance records every year.	这些成绩很重要。	These performance records are very important.
-城市	chéng shì	noun	座	city	L3	这是一个大城市。	This is a large city.	我喜欢住在城市里。	I like living in the city.	北京是一个大城市。	Beijing is a big city.
+成绩	chéng jì	noun	项, 个	grades	L3	老师给了他一个好成绩。	The teacher gave him a good grade.	我的数学成绩不好。	My math grades are not good.	她的成绩是班里第一。	Her grades are the best in the class.
+成绩	chéng jì	noun	项, 个	performance records	L3	他的三项成绩都在这里。	His three performance records are all here.	公司每年看成绩。	The company reviews performance records every year.	这些成绩很重要。	These performance records are very important.
+城市	chéng shì	noun	座	city	L3	这是一座大城市。	This is a large city.	我喜欢住在城市里。	I like living in the city.	那是一座很大的城市。	That is a very large city.
 迟到	chí dào	verb, verbal noun		to arrive late	L3	他又迟到了。	He arrived late again.	不要迟到！	Don't arrive late!	我今天迟到了五分钟。	I arrived five minutes late today.
-出发	chū fā	verb		to set off (on a journey)	L3	我们八点出发。	We set off at eight o'clock.	他出发去北京了。	He set off for Beijing.	你们准备好出发了吗？	Are you all ready to set off?
-出生	chū shēng	verb, verbal noun		to be born	L3	她出生在北京。	She was born in Beijing.	你是哪年出生的？	What year were you born?	我弟弟出生的时候，我很开心。	When my younger brother was born, I was very happy.
+出发	chū fā	verb		to set off (on a journey)	L3	我们八点出发。	We set off at eight o'clock.	他早上出发了。	He set off in the morning.	你们准备好出发了吗？	Are you all ready to set off?
+出生	chū shēng	verb, verbal noun		to be born	L3	她出生在一个小城市。	She was born in a small city.	你是哪年出生的？	What year were you born?	我弟弟出生的时候，我很开心。	When my younger brother was born, I was very happy.
 出院	chū yuàn	verb, verbal noun		to be discharged from hospital	L3	他明天可以出院了。	He can be discharged from the hospital tomorrow.	妈妈出院了，我们都很高兴。	Mom was discharged from the hospital; we were all very happy.	医生说她可以出院了。	The doctor said she can be discharged from the hospital.
 初中	chū zhōng	noun		middle school	L3	她在读初中。	She is in middle school.	我哥哥上初中的时候学了外语。	My older brother studied a foreign language when he was in middle school.	初中有三年。	Middle school has three years.
 除了	chú le	preposition		apart from	L3	除了我，大家都来了。	Apart from me, everyone came.	除了汉语，他还会外语。	Apart from Chinese, he also knows foreign languages.	除了下雨，天气很好。	Apart from the rain, the weather is great.
 船	chuán	noun	条	boat	L3	我们坐船过河。	We took a boat across the river.	河里有一条船。	There is a boat on the river.	那条船很大。	That boat is very big.
-春天	chūn tiān	time word	个	springtime	L3	春天来了，花开了。	Springtime has come; the flowers have bloomed.	我喜欢春天，不冷也不热。	I like springtime — it's neither cold nor hot.	这个春天很短。	This springtime is very short.
+春天	chūn tiān	time word	个	springtime	L3	春天来了，花开了。	Springtime has come; the flowers have bloomed.	我喜欢春天，不冷也不热。	I like springtime — it's neither cold nor hot.	我在这里过了两个春天。	I have spent two springs here.
 词典	cí diǎn	noun	部, 本	dictionary	L3	我有一本词典。	I have one dictionary.	这本词典很有用。	This dictionary is very useful.	你可以用词典查这个字。	You can look up this character in the dictionary.
 聪明	cōng ming	adjective, adjective-noun		clever	L3	她很聪明，学什么都快。	She is clever; she learns everything quickly.	这个孩子真聪明！	This child is really clever!	聪明的学生学什么都快。	Clever students learn everything quickly.
 聪明	cōng ming	adjective, adjective-noun		smart	L3	他很聪明，会用电脑。	He is smart; he knows how to use a computer.	你真聪明，马上就懂了。	You're really smart — you understood immediately.	聪明的人能解决问题。	Smart people can solve problems.
