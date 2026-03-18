@@ -1426,15 +1426,15 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 场	chǎng	noun, morpheme		place used for a specific purpose (e.g. 考场 testing center)	L4	考场里不能用手机。	Mobile phones cannot be used in the testing center.	考场很大。	The testing center is very large.	那个大场上有很多人。	There are many people in that large open area.
 超过	chāo guò	verb		to exceed	L4	他的体重超过了一百公斤。	His weight exceeded one hundred kilograms.	速度不能超过要求的数字。	The speed must not exceed the required number.	报名人数超过了五十人。	The number of registrations exceeded fifty people.
 车速	chē sù	noun		vehicle speed	L4	这里的车速很快。	The vehicle speed here is very fast.	请降低车速。	Please reduce your vehicle speed.	车速不能太快。	The vehicle speed must not be too fast.
-车位	chē wèi	noun	个	parking spot	L4	这里没有空的车位了。	There are no empty parking spots here.	我找了很久才找到车位。	I looked for a long time before finding a parking spot.	这个车位是我的。	This parking spot is mine.
+车位	chē wèi	noun	个	parking spot	L4	这里没有空的车位了。	There are no empty parking spots here.	我找了很久才找到一个车位。	I looked for a long time before finding a parking spot.	这个车位是我的。	This parking spot is mine.
 成功	chéng gōng	verb, adjective		to succeed	L4	他终于成功了。	He finally succeeded.	我们的计划成功了。	Our plan succeeded.	只要努力，就能成功。	As long as you work hard, you can succeed.
 成为	chéng wéi	verb		to become	L4	她想成为一名医生。	She wants to become a doctor.	他成为了公司的经理。	He became the manager of the company.	努力学习才可以成为好老师。	You must study hard to become a good teacher.
 诚实	chéng shí	adjective, adverbial adjective, adjective-noun		honest	L4	他是一个诚实的人。	He is an honest person.	诚实是最重要的一件事。	Being honest is the most important thing.	你要诚实地回答问题。	You must answer the questions honestly.
-城	chéng	noun	座, 道, 个	city	L4	我们住在一座小城里。	We live in a small city.	这个城有很多好吃的东西。	This city has a lot of delicious food.	她来自一个北方的城。	She comes from a city in the north.
-乘	chéng	verb		to multiply	L4	三乘四是十二。	Three multiplied by four is twelve.	你会乘数字吗？	Can you multiply numbers?	这道题要先乘再加。	For this problem, you multiply first, then add.
+城	chéng	noun	座, 个	city	L4	我们住在一座小城里。	We live in a small city.	这个城有很多好吃的东西。	This city has a lot of delicious food.	她来自一个北方的城。	She comes from a city in the north.
+乘	chéng	verb		to multiply	L4	三乘四是十二。	Three multiplied by four is twelve.	五乘二是十。	Five times two is ten.	这道题要先乘再加。	For this problem, you multiply first, then add.
 乘	chéng	verb		to ride	L4	他每天乘公共汽车上班。	He rides the bus to work every day.	我们乘地铁去学校。	We ride the subway to school.	她第一次乘船出海。	It was her first time riding a boat out to sea.
-乘	chéng	verb		to travel by	L4	我乘飞机来北京的。	I traveled here to Beijing by plane.	他喜欢乘火车旅行。	He likes to travel by train.	我们乘船去了那个岛。	We traveled to that island by boat.
-乘客	chéng kè	noun	位, 名, 个	passenger	L4	飞机上有很多乘客。	There are many passengers on the plane.	乘客们都坐好了，准备出发。	All the passengers were seated and ready to depart.	司机等乘客都坐好了才出发。	The driver waited until all passengers were seated before setting off.
+乘	chéng	verb		to travel by	L4	我乘飞机来北京的。	I traveled here to Beijing by plane.	他喜欢乘火车旅行。	He likes to travel by train.	我们乘船去了那个地方。	We traveled to that place by boat.
+乘客	chéng kè	noun	位, 名, 个	passenger	L4	飞机上有三百名乘客。	There are three hundred passengers on the plane.	乘客们都坐好了，准备出发。	All the passengers were seated and ready to depart.	司机等乘客都坐好了才出发。	The driver waited until all passengers were seated before setting off.
 乘坐	chéng zuò	verb		to ride (in a vehicle)	L4	我每天乘坐地铁上班。	I ride the subway to work every day.	他第一次乘坐飞机。	It was his first time riding in a plane.	乘坐这辆车很舒服。	Riding in this vehicle is very comfortable.
 吃惊	chī jīng	verb		to be shocked	L4	这个消息让大家都吃惊。	This news shocked everyone.	他的成绩让老师很吃惊。	His grades shocked the teacher.	听到这件事，我非常吃惊。	Hearing about this, I was very shocked.
 吃惊	chī jīng	adjective		startled	L4	猫突然跳出来，我很吃惊。	The cat suddenly jumped out and I was startled.	那个声音让她很吃惊。	That sound startled her.	他突然出现，让我很吃惊。	He suddenly appeared and startled me.
@@ -1446,26 +1446,26 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 出现	chū xiàn	verb, verbal noun		to appear	L4	太阳出现了。	The sun appeared.	他突然出现在门口。	He suddenly appeared at the doorway.	电脑上出现了一条消息。	A message appeared on the computer.
 出现	chū xiàn	verb, verbal noun		to emerge	L4	新问题不断出现。	New problems keep emerging.	这种技术是最近出现的。	This technology emerged recently.	从水里出现了一条鱼。	A fish emerged from the water.
 出租	chū zū	verb, verbal noun		to rent out	L4	他把房子出租给别人了。	He rented out his house to someone else.	我想把这间屋子出租。	I want to rent out this room.	这辆车是出租的。	This car is rented out (for hire).
-厨房	chú fáng	noun	间	kitchen	L4	厨房在哪里？	Where is the kitchen?	妈妈在厨房做饭。	Mom is cooking in the kitchen.	我们家的厨房很小。	The kitchen in our home is very small.
-厨师	chú shī	noun	个, 位, 名	chef	L4	这位厨师很有名。	This chef is very well-known.	他是大酒店的厨师。	He is a chef at a grand hotel.	厨师把菜做得很漂亮。	The chef prepared the dish beautifully.
-厨师	chú shī	noun	个, 位, 名	cook	L4	他是这家餐厅的厨师。	He is the cook at this restaurant.	这位厨师做的菜很好吃。	The food this cook makes is delicious.	他想学做厨师。	He wants to learn to be a cook.
-窗	chuāng	noun	扇	window	L4	请打开那扇窗，让空气进来。	Please open that window to let some air in.	我喜欢坐在窗边看书。	I like to sit by the window and read.	外面下雨了，快关上窗。	It's raining outside — quickly close the window.
+厨房	chú fáng	noun	间	kitchen	L4	厨房在哪里？	Where is the kitchen?	妈妈在厨房做饭。	Mom is cooking in the kitchen.	这家餐厅有两间厨房。	This restaurant has two kitchens.
+厨师	chú shī	noun	个, 位, 名	chef	L4	我们请了一位有名的厨师。	We hired a well-known chef.	他是大酒店的厨师。	He is a chef at a grand hotel.	厨师把菜做得很漂亮。	The chef prepared the dish beautifully.
+厨师	chú shī	noun	个, 位, 名	cook	L4	这家饭馆只有一个厨师。	This restaurant only has one cook.	这位厨师做的菜很好吃。	The food this cook makes is delicious.	他想学做厨师。	He wants to learn to be a cook.
+窗	chuāng	noun	扇	window	L4	请打开那扇窗，让空气进来。	Please open that window to let some air in.	我喜欢坐在窗边看书。	I like to sit by the window and read.	我的房间有两扇窗。	My room has two windows.
 窗户	chuāng hu	noun	个, 扇	window	L4	请把窗户打开。	Please open the window.	这个窗户坏了。	This window is broken.	房间里有两个窗户。	There are two windows in the room.
 吹	chuī	verb		to blow	L4	风在吹树叶。	The wind is blowing the leaves.	他吹了一下。	He blew once.	她吹了吹热汤。	She blew on the hot soup.
-吹	chuī	verb		to brag	L4	他总是爱吹，说自己最厉害。	He always likes to brag, saying he is the best.	别吹了，大家都知道你的水平。	Stop bragging — everyone knows your level.	他吹说自己认识很多名人。	He bragged that he knows many famous people.
+吹	chuī	verb		to brag	L4	他总是爱吹，说自己最厉害。	He always likes to brag, saying he is the best.	别吹了，大家都知道你的水平。	Stop bragging — everyone knows your level.	他吹自己认识很多名人。	He bragged that he knows many famous people.
 吹	chuī	verb		to fall through	L4	他们一起做的计划吹了。	The plan they made together fell through.	这件事吹了，我很失望。	This matter fell through and I'm very disappointed.	旅行的计划吹了。	The travel plan fell through.
 词语	cí yǔ	noun	个	expression	L4	这个词语是什么意思？	What does this expression mean?	这个词语常用在写文章时。	This expression is commonly used when writing articles.	他用了一个很有意思的词语。	He used a very interesting expression.
-词语	cí yǔ	noun	个	word	L4	这个词语很难写。	This word is very hard to write.	我学了很多新词语。	I learned many new words.	请用这个词语写一个句子。	Please use this word to write a sentence.
+词语	cí yǔ	noun	个	word	L4	这个词语很难写。	This word is very hard to write.	我今天学了五个新词语。	I learned five new words today.	请用这个词语写一个句子。	Please use this word to write a sentence.
 此	cǐ	pronoun		this	L4	此事由我来办。	This matter will be handled by me.	此事我不清楚。	I am not clear about this matter.	此人是我朋友。	This person is my friend.
 此次	cǐ cì	pronoun		this time	L4	此次旅行很顺利。	This trip went very smoothly.	此次考试比上次难。	This time's exam is harder than last time.	他此次来主要是为了开会。	He came this time mainly to attend a meeting.
 此外	cǐ wài	conjunction		furthermore	L4	他很聪明，此外非常努力。	He is very smart; furthermore, he is extremely hardworking.	这里风景好，此外东西也便宜。	The scenery here is beautiful; furthermore, things are also cheap.	今天下雨了，此外还有风。	It rained today; furthermore, there was also wind.
 此外	cǐ wài	conjunction		in addition	L4	他会说中文，此外还会说英文。	He can speak Chinese; in addition, he can also speak English.	饭做好了，此外还有汤。	The food is ready; in addition, there is also soup.	我去了学校，此外也去了书店。	I went to school; in addition, I also went to the bookstore.
 从此	cóng cǐ	adverb		henceforth	L4	我从此会更加努力。	Henceforth I will work even harder.	从此，他开始了新的生活。	Henceforth, he began a new life.	你从此要好好照顾自己。	Henceforth you must take good care of yourself.
 从此	cóng cǐ	adverb		since then	L4	他们两个人不再联系，从此分开生活。	The two of them stopped contacting each other; since then they each lived apart.	我从此不吃糖了。	Since then I stopped eating candy.	那次以后，他从此开车很小心。	After that time, since then he drives very carefully.
-从来	cóng lái	adverb		always (usually used in negative)	L4	他从来不迟到。	He never arrives late (he always arrives on time).	我从来没有去过那里。	I have never been there.	她从来不说谎。	She never tells lies.
-从中	cóng zhōng	adverb		from among	L4	他从中找到了有用的信息。	He found useful information from among it all.	她从中学到了很多。	She learned a lot from among the experience.	我们从中选出了最好的一个。	We selected the best one from among them.
+从来	cóng lái	adverb		always (usually used in negative)	L4	他从来不迟到。	He never arrives late (he always arrives on time).	我从来没有去过那里。	I have never been there.	她从来不吃肉。	She never eats meat.
+从中	cóng zhōng	adverb		from among	L4	他从中找到了有用的信息。	He found useful information from among it all.	他从中发现了一个问题。	He discovered a problem from among them.	我们从中选出了最好的一个。	We selected the best one from among them.
 从中	cóng zhōng	adverb		from something	L4	他从中学到了很多。	He learned a lot from it.	我们从中找到了答案。	We found the answer from it.	你能从中得到什么？	What can you get from it?
-粗	cū	adjective		rough	L4	这块布摸起来很粗。	This cloth feels very rough to the touch.	这块石头摸起来很粗。	This stone feels very rough to the touch.	老人的手又粗又干。	The old person's hands are rough and dry.
+粗	cū	adjective		rough	L4	这条毛巾太粗了。	This towel is too rough.	他的声音很粗。	His voice is very rough.	老人的手又粗又干。	The old person's hands are rough and dry.
 粗	cū	adjective		thick (large in diameter)	L4	这棵树很粗，我抱不住。	This tree is very thick; I can't wrap my arms around it.	这个管子太粗了。	This pipe is too thick.	这棵树的树干很粗。	This tree's trunk is very thick.
 粗心	cū xīn	adjective, adjective-noun		careless	L4	他太粗心，写错了字。	He was too careless and wrote the wrong character.	粗心的人容易出错。	Careless people make mistakes easily.	做事不能粗心。	You can't be careless when doing things.
 村	cūn	noun	个	village	L4	他住在一个小村里。	He lives in a small village.	这个村有很多人。	This village has many people.	我们去村里看看吧。	Let's go to the village and have a look.
