@@ -1189,14 +1189,14 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 校长	xiào zhǎng	noun	个, 位, 名	principal	L3	我们学校的校长很好。	Our school's principal is very good.	校长今天来了我们班。	The principal came to our class today.	他是一位好校长。	He is a good principal.
 鞋	xié	noun	双, 只	shoe	L3	她买了一双新鞋。	She bought a new pair of shoes.	我的鞋太小了。	My shoes are too small.	他的鞋很干净。	His shoes are very clean.
 心里	xīn li	place word		in the heart	L3	我心里很高兴。	I am very happy in my heart.	她心里有很多话。	She has a lot to say in her heart.	心里不舒服，但他没有说。	He was uncomfortable in his heart, but he didn't say anything.
-心里	xīn li	place word		in the mind	L3	他心里记着这件事。	He keeps this matter in mind.	我心里知道怎么做。	I know in my mind how to do it.	她心里一直想着妈妈。	She always thinks of her mother in her mind.
-新年	xīn nián	time word	个	New Year	L3	新年快乐！	Happy New Year!	我们一起过新年吧。	Let's celebrate New Year together.	这个新年我回家了。	This New Year I went home.
+心里	xīn li	place word		in the mind	L3	他把这件事记在心里。	He keeps this matter in mind.	我心里知道怎么做。	I know in my mind how to do it.	她心里一直想妈妈。	She always thinks of her mother in her mind.
+新年	xīn nián	time word	个	New Year	L3	新年快乐！	Happy New Year!	我在这里过了两个新年。	I have spent two New Years here.	这个新年我回家了。	This New Year I went home.
 新闻	xīn wén	noun	条, 个	current events	L3	他对新闻很感兴趣。	He is very interested in current events.	我们要了解新闻。	We should keep up with current events.	这条新闻很重要。	This piece of news is very important.
 新闻	xīn wén	noun	条, 个	news	L3	他每天看新闻。	He watches the news every day.	今天有一条重要的新闻。	There is one important piece of news today.	我在手机上看新闻。	I read the news on my phone.
 新鲜	xīn xiān	adjective		fresh	L3	这个苹果很新鲜。	This apple is very fresh.	这里的菜很新鲜。	The vegetables here are very fresh.	我喜欢喝新鲜的水。	I like drinking fresh water.
 信	xìn	noun, verb	封	letter	L3	我收到了一封信。	I received a letter.	她给妈妈写了一封信。	She wrote a letter to her mother.	这封信是谁写的？	Who wrote this letter?
 信用卡	xìn yòng kǎ	noun		credit card	L3	我用信用卡买东西。	I use a credit card to buy things.	这里可以用信用卡吗？	Can I use a credit card here?	他没有信用卡。	He doesn't have a credit card.
-兴趣	xìng qù	noun	个	interest	L3	我对音乐有兴趣。	I have an interest in music.	他没有这个兴趣。	He doesn't have this interest.	你有什么兴趣？	What interests do you have?
+兴趣	xìng qù	noun	个	interest	L3	我对音乐有兴趣。	I have an interest in music.	他没有这个兴趣。	He doesn't have this interest.	我有一个新兴趣。	I have a new interest.
 休假	xiū jià	verb, verbal noun, noun		to take a vacation	L3	我下周要休假。	I'm taking a vacation next week.	他今年还没休假。	He hasn't taken a vacation this year yet.	我们一起去休假吧。	Let's go on vacation together.
 需要	xū yào	verb, noun, verbal noun		to need	L3	我需要一杯水。	I need a glass of water.	你需要帮忙吗？	Do you need help?	他需要多休息。	He needs to rest more.
 选	xuǎn	verb, morpheme		to choose	L3	你选哪个？	Which one will you choose?	我选了红色的。	I chose the red one.	请你来选一个。	Please come and choose one.
@@ -1211,7 +1211,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 养	yǎng	verb		to bring up	L3	妈妈把我养大了。	Mom brought me up.	爸爸妈妈养大了我们。	Dad and mom brought us up.	他是爷爷养大的。	He was brought up by his grandfather.
 养	yǎng	verb		to raise	L3	他家养了一条狗。	His family raises a dog.	我想养一只猫。	I want to raise a cat.	他们养了很多鱼。	They raise a lot of fish.
 要求	yāo qiú	verb, noun	个	to require	L3	老师要求我们认真听课。	The teacher requires us to listen carefully in class.	工作要求你每天来。	The job requires you to come every day.	他要求我写得更好。	He requires me to write better.
-页	yè	classifier, morpheme		page	L3	请打开第五页。	Please open to page five.	这本书有一百页。	This book has one hundred pages.	第一页写着什么？	What is written on the first page?
+页	yè	classifier, morpheme		page	L3	请打开第五页。	Please open to page five.	这本书有一百页。	This book has one hundred pages.	第一页写了什么？	What is written on the first page?
 一般	yī bān	adjective, adverbial adjective, particle		average	L3	他的成绩一般。	His grades are average.	这家饭馆一般。	This restaurant is average.	水平一般，还需要练习。	The level is average; more practice is needed.
 一般	yī bān	adjective, adverbial adjective, particle		common	L3	这是一般的问题。	This is a common problem.	一般的学生都会这个。	Ordinary students all know this.	这是一般的方法。	This is a common method.
 一般	yī bān	adjective, adverbial adjective, particle		same as	L3	他跑得跟我一般快。	He runs as fast as me.	这两本书一般大。	These two books are the same size.	她唱得跟你一般好。	She sings just as well as you.
@@ -1220,7 +1220,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 一定	yī dìng	adverb, non-predicate adjective		certainly	L3	他一定来了。	He certainly came.	你一定能做好。	You can certainly do it well.	她一定知道怎么做。	She certainly knows how to do it.
 一定	yī dìng	adverb, non-predicate adjective		definitely	L3	我一定去。	I will definitely go.	他一定会回来的。	He will definitely come back.	你一定要努力。	You must definitely work hard.
 一定	yī dìng	adverb, non-predicate adjective		fixed	L3	出发时间是一定的。	The departure time is fixed.	会议地点是一定的。	The meeting location is fixed.	这件事是一定的。	This matter is fixed.
-一定	yī dìng	adverb, non-predicate adjective		to a certain degree	L3	学了一定的时间就会好。	After studying for a certain amount of time it will get better.	他有一定的水平。	He has ability to a certain degree.	这件事有一定的难度。	This matter has a certain degree of difficulty.
+一定	yī dìng	adverb, non-predicate adjective		to a certain degree	L3	学了一定的时间就会好。	After studying for a certain amount of time it will get better.	他有一定的水平。	He has ability to a certain degree.	这件事有一定的问题。	This matter has certain problems.
 一共	yī gòng	adverb		altogether	L3	一共多少钱？	How much is it altogether?	我们一共有五个同学来了。	Five classmates came altogether.	他一共买了三本书。	He bought three books altogether.
 一块儿	yī kuài r	adverb, place word		together	L3	我们一块儿去吧。	Let's go together.	他们一块儿吃饭。	They eat together.	我想跟你一块儿学习。	I want to study together with you.
 一样	yī yàng	particle, adjective, adverbial adjective		the same	L3	我们两个人说的一样。	What the two of us said is the same.	这两件衣服一样。	These two pieces of clothing are the same.	你和他说的一样吗？	Is what you said the same as his?
@@ -1228,7 +1228,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 一直	yī zhí	adverb		continuously	L3	他一直在学习。	He has been studying continuously.	她一直哭。	She cried continuously.	我一直等你。	I waited for you continuously.
 一直	yī zhí	adverb		straight (i.e., in a straight line)	L3	一直往前走。	Keep walking straight ahead.	请一直走。	Please keep going straight.	这条路是一直的。	This road is straight.
 以后	yǐ hòu	directional word		afterwards	L3	吃饭以后，我们去外面走走。	After eating, we went outside for a walk.	以后你想做什么？	What do you want to do afterwards?	下课以后他回家了。	After class, he went home.
-以前	yǐ qián	directional word		before	L3	以前我住在北京。	Before, I lived in Beijing.	吃饭以前要洗手。	Before eating, you should wash your hands.	以前他不会说中文。	Before, he couldn't speak Chinese.
+以前	yǐ qián	directional word		before	L3	以前我住在外地。	Before, I lived in another part of the country.	吃饭以前要洗手。	Before eating, you should wash your hands.	以前他不会说中文。	Before, he couldn't speak Chinese.
 以上	yǐ shàng	directional word		that level or higher	L3	十岁以上的孩子可以进去。	Children at ten years old or higher can enter.	考到八十分以上才可以。	You need to score eighty or higher to pass.	二十元以上的都很好。	Anything at twenty yuan or higher is very good.
 以外	yǐ wài	directional word		outside of	L3	学校以外他喜欢踢球。	Outside of school he likes to play football.	工作以外，他喜欢看书。	Outside of work, he likes to read.	中国以外的地方他没去过。	He has never been to places outside of China.
 以为	yǐ wéi	verb		to be under the impression	L3	我以为他不来了。	I was under the impression that he wasn't coming.	她以为我不知道。	She was under the impression that I didn't know.	我以为今天没有课。	I was under the impression there was no class today.
