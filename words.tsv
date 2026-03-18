@@ -1336,7 +1336,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 办事	bàn shì	verb, verbal noun		to handle affairs	L4	他很会办事，大家都喜欢他。	He is good at handling affairs; everyone likes him.	你去帮我办一件事好吗？	Can you go take care of something for me?	她办事很认真，很少出错。	She handles affairs very carefully and rarely makes mistakes.
 办事	bàn shì	verb, verbal noun		to work	L4	他办事很快，也很好。	He works quickly and well.	不要急，慢慢办事。	Don't rush, work slowly and carefully.	今天我有很多事要办。	I have a lot of work to do today.
 棒	bàng	adjective		great	L4	今天的饭菜真棒！	Today's food is truly great!	他的表现太棒了。	His performance was truly great.	这个主意棒极了。	This idea is absolutely great.
-棒	bàng	noun		stick	L4	他用棒打开了箱子。	He used a stick to open the box.	地上有一个棒。	There is a stick on the ground.	孩子们用棒玩游戏。	The children played a game with sticks.
+棒	bàng	noun	根	stick	L4	他用棒打开了箱子。	He used a stick to open the box.	地上有一根棒。	There is a stick on the ground.	孩子们用棒玩游戏。	The children played a game with sticks.
 保护	bǎo hù	verb, verbal noun		to protect	L4	我们要保护环境。	We need to protect the environment.	我们要保护好这里的树。	We need to protect the trees here.	他保护了受伤的小鸟。	He protected the injured little bird.
 保证	bǎo zhèng	verb, verbal noun	个	guarantee	L4	我给你一个保证，明天一定来。	I give you a guarantee — I will definitely come tomorrow.	他无法保证质量。	He cannot guarantee the quality.	公司对每件东西都有质量保证。	The company has a quality guarantee on every item.
 报考	bào kǎo	verb, verbal noun		to register for a test	L4	她报考了今年的HSK考试。	She registered for this year's HSK exam.	你报考了哪个大学？	Which university did you apply to?	报考的时间快到了。	The registration deadline for the test is approaching.
@@ -1345,7 +1345,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 抱	bào	verb		to hold in one's arms	L4	她抱孩子睡觉。	She holds the child in her arms to sleep.	他抱了很多书走进来。	He walked in carrying many books in his arms.	请抱好这个包，我去开门。	Please hold this bag well; I'll go open the door.
 抱歉	bào qiàn	adjective		sorry; apologetic	L4	我很抱歉，来晚了。	I'm so sorry, I'm late.	他说抱歉，打扰了你。	He said sorry for disturbing you.	真的很抱歉，我忘了。	I'm truly sorry, I forgot.
 北部	běi bù	directional word		northern part	L4	中国的北部比较冷。	The northern part of China is relatively cold.	他在城市的北部住了很多年。	He lived in the northern part of the city for many years.	北部的天气很冷，下了很多雪。	The weather in the northern part is very cold, and there was a lot of snow.
-背	bèi	noun		back (of the body or object)	L4	他的背很大。	His back is very big.	书包放在椅子背上。	The schoolbag is on the back of the chair.	她躺下来，背在上面。	She lay down with her back on top.
+背	bèi	noun		back (of the body or object)	L4	他的背很大。	His back is very big.	书包放在椅子背上。	The schoolbag is on the back of the chair.	我的背不舒服。	My back is uncomfortable.
 背	bēi	verb		to carry on the back	L4	他把孩子背上了山。	He carried the child on his back up the mountain.	请帮我背一下这个包。	Please help me carry this bag on your back.	她背了书包去上学。	She carried her schoolbag on her back to school.
 背	bèi	verb		to memorize	L4	他每天背课文。	He memorizes lesson texts every day.	这篇文章太长，很难背。	This article is too long; it's hard to memorize.	她已经背下来了那首歌。	She has already memorized that song.
 背包	bēi bāo	noun	个	backpack	L4	我买了一个新背包。	I bought a new backpack.	他的背包里有很多书。	His backpack has a lot of books in it.	这个背包很轻，很方便。	This backpack is very light and convenient.
@@ -1356,14 +1356,14 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 鼻子	bí zi	noun	个	nose	L4	他的鼻子很高。	His nose is very high (prominent).	冬天鼻子容易不舒服。	In winter, noses easily become uncomfortable.	她有一个漂亮的鼻子。	She has a pretty nose.
 笔试	bǐ shì	noun	场, 次	written examination	L4	这次招聘有笔试和面试。	This recruitment has both a written examination and an interview.	我下周有一场笔试。	I have a written examination next week.	笔试的问题很难。	The written examination questions were very difficult.
 毕业	bì yè	verb, verbal noun		to graduate	L4	他去年大学毕业了。	He graduated from university last year.	毕业以后，她找到了好工作。	After graduation, she found a good job.	再有两年她就毕业了。	In two more years she will graduate.
-毕业生	bì yè shēng	noun		graduate	L4	今年的毕业生比去年多。	This year's graduates are more numerous than last year's.	很多毕业生选择在大城市工作。	Many graduates choose to work in big cities.	他是一位优秀的毕业生。	He is an outstanding graduate.
+毕业生	bì yè shēng	noun	名, 个, 位	graduate	L4	今年的毕业生比去年多。	This year's graduates are more numerous than last year's.	很多毕业生选择在大城市工作。	Many graduates choose to work in big cities.	他是一位优秀的毕业生。	He is an outstanding graduate.
 便于	biàn yú	verb		to be easy to	L4	这个方法便于学习。	This method is easy to use for studying.	小东西便于放进包里。	Small things are easy to put in a bag.	这本书的内容便于理解。	The content of this book is easy to understand.
-标准	biāo zhǔn	noun, adjective		standard	L4	这里的服务达到了国际标准。	The service here meets international standards.	他的中文水平达到了很高的标准。	His Chinese proficiency has reached a very high standard.	食品安全有严格的标准。	Food safety has strict standards.
-表	biǎo	noun, morpheme		form (e.g. application form)	L4	请填写这张申请表。	Please fill out this application form.	表上有几个地方不太清楚。	There are a few places on the form that aren't very clear.	他把表交给了老师。	He handed the form to the teacher.
-表	biǎo	noun, morpheme		list	L4	老师给了我们一张词语表。	The teacher gave us a vocabulary list.	请在表上找到你的名字。	Please find your name on the list.	这份表里有所有学生的信息。	This list contains information on all students.
-表	biǎo	noun, morpheme		meter	L4	水表上的数字变大了。	The number on the water meter has increased.	工人来检查表了。	A worker came to check the meter.	这个表是用来看温度的。	This meter is used to check the temperature.
-表	biǎo	noun, morpheme		table	L4	老师在黑板上画了一个表。	The teacher drew a table on the blackboard.	请看这个表里的数字。	Please look at the numbers in this table.	这个表写出了每月的收入。	This table shows the monthly income.
-表	biǎo	noun, morpheme		wristwatch	L4	他的表停了，不知道现在几点。	His wristwatch stopped; he doesn't know what time it is now.	这块表是爸爸送给我的。	This wristwatch was given to me by my father.	她的表走得很准。	Her wristwatch keeps very accurate time.
+标准	biāo zhǔn	noun, adjective	个, 条	standard	L4	这里的服务达到了国际标准。	The service here meets international standards.	他的中文水平达到了很高的标准。	His Chinese proficiency has reached a very high standard.	食品安全有几条严格的标准。	Food safety has several strict standards.
+表	biǎo	noun, morpheme	张	form (e.g. application form)	L4	请填写这张申请表。	Please fill out this application form.	表上有几个地方不太清楚。	There are a few places on the form that aren't very clear.	他把表交给了老师。	He handed the form to the teacher.
+表	biǎo	noun, morpheme	张, 份	list	L4	老师给了我们一张词语表。	The teacher gave us a vocabulary list.	请在表上找到你的名字。	Please find your name on the list.	这份表里有所有学生的信息。	This list contains information on all students.
+表	biǎo	noun, morpheme	个	meter	L4	水表上的数字变大了。	The number on the water meter has increased.	工人来检查了两个表。	A worker came to check two meters.	这个表是用来看温度的。	This meter is used to check the temperature.
+表	biǎo	noun, morpheme	张, 个	table	L4	老师在黑板上画了一个表。	The teacher drew a table on the blackboard.	请看这个表里的数字。	Please look at the numbers in this table.	这个表写出了每月的收入。	This table shows the monthly income.
+表	biǎo	noun, morpheme	块	wristwatch	L4	他的表停了，不知道现在几点。	His wristwatch stopped; he doesn't know what time it is now.	这块表是爸爸送给我的。	This wristwatch was given to me by my father.	她的表走得很准。	Her wristwatch keeps very accurate time.
 表格	biǎo gé	noun	张, 份	form (i.e., application form)	L4	请把这张表格写完。	Please complete this form (表格).	他给我一份表格让我写名字。	He gave me a form to write my name on.	表格上的信息都要写对。	All the information on the form must be filled in correctly.
 表示	biǎo shì	verb		to express; to indicate; to show	L4	他点头表示同意。	He nodded to indicate agreement.	她买了花，表示感谢。	She bought flowers to express her gratitude.	这个表示什么意思？	What does this indicate?
 表现	biǎo xiàn	verb, verbal noun		performance (at work, etc.)	L4	他在工作上的表现很好。	His performance at work is very good.	老师对她的表现很满意。	The teacher is very satisfied with her performance.	这次考试的表现让他很失望。	His performance on this exam disappointed him.
