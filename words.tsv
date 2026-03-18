@@ -895,7 +895,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 鸡	jī	noun	只	chicken	L3	我们家有两只鸡。	Our family has two chickens.	这只鸡很大。	This chicken is very big.	她不喜欢吃鸡。	She doesn't like to eat chicken.
 极	jí	adverb, morpheme		extremely	L3	这里好极了。	It's extremely good here.	他跑得快极了。	He runs extremely fast.	今天冷极了。	Today is extremely cold.
 急	jí	verb, adverbial adjective, adjective		anxious	L3	他很急，等不了。	He is anxious and can't wait.	妈妈等我，很急。	Mom is waiting for me and is anxious.	你为什么这么急？	Why are you so anxious?
-急	jí	verb, adverbial adjective, adjective		fast	L3	河水流得很急。	The river water moves very fast.	他走路很急。	He walks very fast.	风很急，很冷。	The wind is very fast and very cold.
+急	jí	verb, adverbial adjective, adjective		fast	L3	河水很急。	The river water is very fast.	他走路很急。	He walks very fast.	风很急，很冷。	The wind is very fast and very cold.
 急	jí	verb, adverbial adjective, adjective		agitated	L3	他说话时很急。	He is nervous when speaking.	考试前她很急。	She is nervous before the exam.	不要急，慢慢来。	Don't be nervous, take it slowly.
 急	jí	verb, adverbial adjective, adjective		pressing	L3	时间很急，快走吧。	Time is pressing, let's go quickly.	这件事很急，不能等。	This matter is pressing and cannot wait.	这个问题很急。	This problem is pressing.
 急	jí	verb, adverbial adjective, adjective		rapid	L3	雨下得很急。	The rain is falling rapidly.	他跑步跑得很急。	His running is very rapid.	马跑得很急。	The horse runs rapidly.
@@ -904,8 +904,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 几乎	jī hū	adverb		nearly	L3	他几乎看完了这本书。	He has nearly finished reading this book.	我们几乎到了。	We are nearly there.	她几乎每天都迟到。	She is nearly late every day.
 记	jì	verb, morpheme, classifier		to record	L3	请记下这个号码。	Please record this number.	他记了很多笔记。	He recorded a lot of notes.	请把这件事记下来。	Please write this matter down.
 记	jì	verb, morpheme, classifier		to remember	L3	你记得我吗？	Do you remember me?	我记不住这个字。	I can't remember this character.	她记得每个学生的名字。	She remembers every student's name.
-季	jì	classifier, morpheme, proper noun (person)		season	L3	一年有四季。	There are four seasons in a year.	春天是很好的季节。	Spring is a great season.	冬天很冷。	The winter season is very cold.
-季节	jì jié	noun	个	season	L3	你最喜欢哪个季节？	Which season do you like most?	秋天是我最爱的季节。	Autumn is my favorite season.	每个季节都不一样。	Every season is different.
+季	jì	classifier, morpheme, proper noun (person)		season	L3	一年有四季。	There are four seasons in a year.	春天是最好的一季。	Spring is the best season.	这一季很冷。	This season is very cold.
+季节	jì jié	noun	个	season	L3	你最喜欢哪个季节？	Which season do you like most?	秋天是我最爱的季节。	Autumn is my favorite season.	一年有四个季节。	There are four seasons in a year.
 加	jiā	verb, non-predicate adjective		to add	L3	请加一点水。	Please add a little water.	二加三是五。	Two plus three is five.	他在水里加了糖。	He added sugar to the water.
 假期	jià qī	time word		vacation	L3	这个假期你想去哪儿？	Where do you want to go during this vacation?	假期我在家休息了。	During vacation I rested at home.	我们假期去旅游了。	We traveled during our vacation.
 坚持	jiān chí	verb		to persevere with	L3	他坚持每天学中文。	He perseveres with studying Chinese every day.	你要坚持学习。	You must persist in studying.	她坚持学了三年。	She persevered with it for three years.
@@ -918,21 +918,21 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 健康	jiàn kāng	adjective, adjective-noun, adverbial adjective		health	L3	你的健康最重要。	Your health is most important.	多运动对健康好。	Exercising more is good for health.	他的健康很好。	His health is very good.
 讲	jiǎng	verb		to speak	L3	老师在讲中文。	The teacher is speaking Chinese.	他讲得很清楚。	He speaks very clearly.	请你慢点讲。	Please speak more slowly.
 角	jiǎo	noun, classifier, morpheme		0.1 RMB	L3	这个苹果一角钱。	This apple costs one jiao (0.1 RMB).	找你五角。	Your change is five jiao.	一块零五角。	One yuan and five jiao.
-角	jué	noun, classifier, morpheme		character	L3	他在表演里扮了一个坏人的角。	In the performance, he played the character of a villain.	她喜欢这个角。	She likes this character.	这个角很有意思。	This character is very interesting.
+角	jué	noun, morpheme		character	L3	这个表演里有一个坏人的角。	In this performance, there is a villain character.	她喜欢这个角。	She likes this character.	这个角很有意思。	This character is very interesting.
 角	jiǎo	noun, classifier, morpheme		corner	L3	那个角很小。	That corner is very small.	他站在那个角里。	He stands in the corner.	房间的角有一把椅子。	There is a chair in the corner of the room.
 角	jiǎo	noun, classifier, morpheme		horn	L3	牛有两个角。	A cow has two horns.	那只羊的角很大。	That sheep's horns are very big.	我喜欢看牛的角。	I like looking at cows' horns.
-角	jué	noun, classifier, morpheme		role	L3	她在表演里是什么角？	What role does she have in the performance?	他的角是老师。	His role is a teacher.	这个角很重要。	This role is very important.
-脚	jiǎo	noun, classifier	双, 只	foot	L3	我的脚很冷。	My feet are very cold.	他买了鞋，脚好多了。	He bought shoes and his feet feel much better.	她的一只脚很累。	One of her feet is very tired.
+角	jué	noun, morpheme		role	L3	她在表演里是什么角？	What role does she have in the performance?	他的角是老师。	His role is a teacher.	这个角很重要。	This role is very important.
+脚	jiǎo	noun	双, 只	foot	L3	我的脚很冷。	My feet are very cold.	他买了鞋，脚好多了。	He bought shoes and his feet feel much better.	她的一只脚很累。	One of her feet is very tired.
 接	jiē	verb		to connect	L3	请把这两个接起来。	Please connect these two together.	把手机接上电脑。	Connect the phone to the computer.	这条路接到那条路上。	This road connects to that road.
 接	jiē	verb		to meet (a visitor at a location where they’ve arrived)	L3	我去机场接朋友。	I'm going to the airport to meet my friend.	爸爸去学校接我。	Dad went to school to pick me up.	你能去车站接他吗？	Can you go to the station to meet him?
 接	jiē	verb		to receive	L3	我接到了一封信。	I received a letter.	他没有接到我的电话。	He didn't receive my phone call.	我接到了老师的信。	I received a letter from the teacher.
 街	jiē	noun	条	street	L3	这条街很好看。	This street is very attractive.	学校前面有一条街。	There is a street in front of the school.	我们在街上走了很久。	We walked along the street for a long time.
 节	jié	noun, classifier, morpheme, verb		festival	L3	中国有很多节。	China has many festivals.	这个节你去哪儿？	Where are you going during this festival?	你最喜欢哪个节？	Which festival do you like the most?
-节	jié	noun, classifier, morpheme, verb		holiday	L3	这个节你有空吗？	Do you have time during this holiday?	过节的时候我想休息。	I want to rest during the holiday.	下个节日我们去旅游。	We'll travel during the next holiday.
+节	jié	noun, classifier, morpheme, verb		holiday	L3	这个节你有空吗？	Do you have time during this holiday?	过节的时候我想休息。	I want to rest during the holiday.	下个节我们放假。	We'll have a day off on the next holiday.
 节	jié	noun, classifier, morpheme, verb		measure word for sections	L3	今天有三节课。	There are three sections of class today.	第一节课是中文。	The first section of class is Chinese.	这节课很有意思。	This section of class is very interesting.
-节目	jié mù	noun	台, 个, 套	(TV or radio) program	L3	我喜欢看这个节目。	I like watching this program.	电视上有什么节目？	What programs are on TV?	那个节目很好看。	That program is very good.
-节日	jié rì	noun	个	festival	L3	过年是中国最重要的节日。	Chinese New Year is the most important festival in China.	这个节日有很长的历史。	This festival has a very long history.	每个国家都有自己的节日。	Every country has its own festivals.
-节日	jié rì	noun	个	holiday	L3	今天是什么节日？	What holiday is today?	节日里大家都很开心。	Everyone is happy during the holiday.	这个节日我们放假。	We have a day off for this holiday.
+节目	jié mù	noun	台, 个, 套	(TV or radio) program	L3	我喜欢看这个节目。	I like watching this program.	电视上有什么节目？	What programs are on TV?	我们看了两个节目。	We watched two programs.
+节日	jié rì	noun	个	festival	L3	过年是中国最重要的节日。	Chinese New Year is the most important festival in China.	这个节日有很长的历史。	This festival has a very long history.	一年有好几个节日。	There are several festivals in a year.
+节日	jié rì	noun	个	holiday	L3	今天是什么节日？	What holiday is today?	这个月有两个节日。	There are two holidays this month.	这个节日我们放假。	We have a day off for this holiday.
 结婚	jié hūn	verb, verbal noun	次	to marry	L3	他们去年结婚了。	They got married last year.	你想什么时候结婚？	When do you want to get married?	她结婚那天很开心。	She was very happy on the day she got married.
 结束	jié shù	verb, verbal noun		to conclude	L3	他的话结束了会议。	His words concluded the meeting.	那场晚会结束了。	That evening event concluded.	请你结束你的话。	Please conclude what you are saying.
 结束	jié shù	verb, verbal noun		to end	L3	电影结束了。	The movie has ended.	课结束了，我们走吧。	Class has ended, let's go.	比赛什么时候结束？	When does the competition end?
