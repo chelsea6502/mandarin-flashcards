@@ -742,7 +742,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 大概	dà gài	adverb, noun		probably	L3	他大概不知道这件事。	He probably doesn't know about this.	她大概还在睡觉。	She is probably still sleeping.	大概他不会来了。	He probably won't come.
 大人	dà ren	noun		adult	L3	大人不怕这个。	Adults are not afraid of this.	这件事大人来做。	Adults do this kind of thing.	孩子和大人一起吃饭。	The children ate together with the adults.
 大小	dà xiǎo	noun		size	L3	这件衣服大小好。	The size of this piece of clothing is good.	你知道这个房间的大小吗？	Do you know the size of this room?	这两个箱子大小不一样。	These two boxes are not the same size.
-大熊猫	dà xióng māo	noun	只	giant panda	L3	大熊猫是中国的动物。	The giant panda is a Chinese animal.	我在动物园看到了两只大熊猫。	I saw two giant pandas at the zoo.	大熊猫喜欢吃草。	Giant pandas like to eat grass.
+大熊猫	dà xióng māo	noun	只	giant panda	L3	大熊猫是中国的动物。	The giant panda is a Chinese animal.	我在动物园看到了两只大熊猫。	I saw two giant pandas at the zoo.	大熊猫很可爱。	Giant pandas are very cute.
 大衣	dà yī	noun	件	overcoat	L3	冬天我穿一件大衣。	In winter I wear an overcoat.	她的大衣是黑色的。	Her overcoat is black.	这件大衣很好看。	This overcoat looks very nice.
 带	dài	noun	条	belt	L3	他有一条新带。	He has a new belt.	这条带是新的。	This belt is new.	他买了一条新带。	He bought a new belt.
 带	dài	verb		to bring	L3	请带一条裤子来。	Please bring a pair of trousers.	他带了水和面包。	He brought water and bread.	出门别忘了带手机。	Don't forget to bring your phone when you go out.
@@ -756,25 +756,25 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 得分	dé fēn	verb, noun		to score	L3	他在比赛中得分了。	He scored in the match.	他在比赛中没有得分。	He didn't score in the match.	她今天也得分了。	She also scored today.
 的话	de huà	particle		if (coming after a conditional clause)	L3	你有时间的话，来我家玩。	If you have time, come to my place.	下雨的话，我们不去了。	If it rains, we won't go.	你饿的话，就先吃饭。	If you're hungry, go ahead and eat first.
 灯	dēng	noun	盏	lamp	L3	桌上有一盏灯。	There is a lamp on the table.	请开灯。	Please turn on the light.	这个灯坏了。	This lamp is broken.
-灯	dēng	noun	盏	lantern	L3	节日的时候，街上有很多灯。	During the festival, there are many lanterns on the street.	那个灯很好看。	That lantern is very beautiful.	她拿着一盏灯走路。	She walked while carrying a lantern.
+灯	dēng	noun	盏	lantern	L3	节日的时候，街上有很多灯。	During the festival, there are many lanterns on the street.	那个灯很好看。	That lantern is very beautiful.	他手里有一盏灯。	He has a lantern in his hand.
 地点	dì diǎn	noun	个	location	L3	开会的地点在哪儿？	Where is the location of the meeting?	我们换一个地点吧。	Let's change to a different location.	请告诉我地点。	Please tell me the location.
 地方	dì fāng	noun		place; area; locality	L3	你住在哪个地方？	What place do you live in?	这个地方很安静。	This place is very quiet.	这个地方很远。	This place is very far.
 地图	dì tú	noun	张, 本	map	L3	我有一张地图。	I have a map.	他用地图找到了路。	He found the way using a map.	请给我看一下地图。	Please show me the map.
 电	diàn	noun		electricity	L3	没有电了。	There is no electricity.	电脑用电工作。	The computer runs on electricity.	少用电，对大家都好。	Using less electricity is good for everyone.
-电梯	diàn tī	noun	台, 部	elevator	L3	我坐电梯上去。	I took the elevator up.	这个楼有两个电梯。	This building has two elevators.	电梯坏了，我们走楼梯吧。	The elevator is broken; let's take the stairs.
+电梯	diàn tī	noun	台, 部	elevator	L3	我坐电梯上去。	I took the elevator up.	这个楼有两台电梯。	This building has two elevators.	电梯坏了，我们走楼梯吧。	The elevator is broken; let's take the stairs.
 电子书	diàn zǐ shū	noun	本	e-book; electronic book	L3	我在手机上看电子书。	I read e-books on my phone.	他买了一本电子书。	He bought an e-book.	电子书比书便宜。	E-books are cheaper than paper books.
 丢	diū	verb		to lose	L3	我把手机丢了。	I lost my phone.	他在路上丢了手机。	He lost his phone on the road.	你丢了什么？	What did you lose?
-丢	diū	verb		to throw away	L3	把这个旧东西丢掉吧。	Throw away this old thing.	他把纸丢进了箱子里。	He threw the paper into the box.	不要把饭丢了。	Don't throw away the food.
+丢	diū	verb		to throw away	L3	把这个旧东西丢了吧。	Throw away this old thing.	他把纸丢进了箱子里。	He threw the paper into the box.	不要把饭丢了。	Don't throw away the food.
 东	dōng	directional word, non-predicate adjective		east	L3	学校在公园的东面。	The school is to the east of the park.	太阳从东边出来。	The sun rises from the east.	向东走五分钟就到了。	Walk east for five minutes and you'll be there.
 东北	dōng běi	place word		northeast	L3	他家在城市的东北方向。	His home is to the northeast of the city.	东北冬天很冷。	It is very cold in the northeast in winter.	从这里向东北走。	Walk northeast from here.
 东方	dōng fāng	place word, directional word		the east	L3	太阳来自东方。	The sun comes from the east.	东方的文化很有意思。	Eastern culture is very interesting.	他来自东方的一个国家。	He comes from a country in the east.
-东南	dōng nán	directional word		southeast	L3	海南在中国的东南。	Hainan is in the southeast of China.	向东南方向走。	Walk in the southeast direction.	东南很热。	The southeast is very hot.
-冬天	dōng tiān	time word	个	winter	L3	冬天很冷，我不喜欢。	Winter is very cold; I don't like it.	今年冬天雪下了很多。	It snowed a lot this winter.	这个冬天比去年短。	This winter is shorter than last year.
+东南	dōng nán	directional word		southeast	L3	我家在城市的东南。	My home is in the southeast of the city.	向东南方向走。	Walk in the southeast direction.	东南很热。	The southeast is very hot.
+冬天	dōng tiān	time word	个	winter	L3	冬天很冷，我不喜欢。	Winter is very cold; I don't like it.	今年冬天雪下了很多。	It snowed a lot this winter.	我在这里过了三个冬天。	I have spent three winters here.
 懂得	dǒng de	verb		to understand	L3	你懂得这个问题吗？	Do you understand this problem?	他懂得怎么做这件事。	He understands how to do this.	我现在懂得她的意思了。	I now understand what she meant.
 动物	dòng wù	noun	只, 群, 个	animal	L3	动物园里有很多动物。	There are many animals in the zoo.	我家养了几只小动物。	My family keeps a few small animals.	动物不能打。	Animals must not be hit.
-动物园	dòng wù yuán	noun	个	zoo	L3	我们去动物园看动物。	We went to the zoo to see animals.	这个动物园很大。	This zoo is very large.	小朋友们都喜欢去动物园。	Children all like going to the zoo.
+动物园	dòng wù yuán	noun	个	zoo	L3	我们去动物园看动物。	We went to the zoo to see animals.	这里有两个动物园。	There are two zoos here.	小朋友们都喜欢去动物园。	Children all like going to the zoo.
 短	duǎn	adjective		short	L3	这条裤子太短了。	These pants are too short.	他的头发很短。	His hair is very short.	这段路很短，走路就可以。	This section of road is very short; you can walk it.
-短裤	duǎn kù	noun	条	shorts	L3	天热，他穿着短裤。	It's hot, so he's wearing shorts.	我买了一条短裤。	I bought a pair of shorts.	她的短裤是蓝的。	Her shorts are blue.
+短裤	duǎn kù	noun	条	shorts	L3	天热，他穿短裤。	It's hot, so he wears shorts.	我买了一条短裤。	I bought a pair of shorts.	她的短裤是蓝的。	Her shorts are blue.
 段	duàn	classifier, morpheme		measure word for section of something long	L3	这段路很长。	This section of road is very long.	他说了一段课文。	He read a passage of the text.	我们走了很长一段路。	We walked a very long stretch of road.
 锻炼	duàn liàn	verb, verbal noun		to engage in physical exercise	L3	他每天早上锻炼。	He exercises every morning.	你应该多锻炼身体。	You should exercise more.	我喜欢在公园里锻炼。	I like to exercise in the park.
 锻炼	duàn liàn	verb, verbal noun		to temper	L3	那段生活锻炼了他。	That period of life tempered him.	做难的事能锻炼人。	Doing hard things can temper a person.	他在工作中被锻炼了。	He was tempered through his work.
