@@ -2730,8 +2730,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 自习	zì xí	verb		to study independently; self-study	L4	下午我们有一节自习课。	We have a self-study period this afternoon.	他在图书馆自习。	He is studying independently in the library.	我喜欢在家自习。	I like to study on my own at home.
 自信	zì xìn	verb, adjective-noun, adjective, verbal noun		to be self-confident	L4	你要对自己自信一点。	You should be a bit more self-confident.	她在工作上很自信。	She is very self-confident at work.	自信的人更容易成功。	Self-confident people succeed more easily.
 自学	zì xué	verb, verbal noun		to teach oneself	L4	他自学了三门外语。	He taught himself three foreign languages.	我在家自学钢琴。	I am teaching myself piano at home.	她自学电脑，找到了工作。	She taught herself computers and found a job.
-总结	zǒng jié	verb, verbal noun	个	to sum up	L4	开会后，我们总结了经验。	After the meeting, we summed up our experience.	请总结一下今天学到的内容。	Please sum up what was learned today.	老师让我们总结这一课。	The teacher asked us to sum up this lesson.
-总结	zǒng jié	verb, verbal noun	个	to summarize	L4	我来总结一下大家的意见。	Let me summarize everyone's opinions.	他把内容总结成了一个重点。	He summarized the content into one key point.	请用几句话总结这篇文章。	Please summarize this article in a few sentences.
+总结	zǒng jié	verb, verbal noun	个	to sum up	L4	开会后，他写了一个总结。	After the meeting, he wrote a summary.	请总结一下今天学到的内容。	Please sum up what was learned today.	老师让我们总结这一课。	The teacher asked us to sum up this lesson.
+总结	zǒng jié	verb, verbal noun		to summarize	L4	我来总结一下大家的意见。	Let me summarize everyone's opinions.	他把内容总结成了一个重点。	He summarized the content into one key point.	请用几句话总结这篇文章。	Please summarize this article in a few sentences.
 租	zū	verb, morpheme		to rent	L4	我想租一间小房子。	I want to rent a small house.	他在城里租了一个房子。	He rented a house in the city.	这间房子出租多少钱？	How much does it cost to rent this room?
 组	zǔ	noun, classifier, morpheme, verb		group	L4	我们分两组来做这件事。	We divided into two groups to do this.	第一组先说话。	The first group speaks first.	他在哪个组？	Which group is he in?
 组	zǔ	noun, classifier, morpheme, verb		set	L4	这组照片很好看。	This set of photos looks very nice.	桌子上有一组数字。	There is a set of numbers on the table.	他买了一组新家具。	He bought a set of new furniture.
@@ -2747,7 +2747,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 作文	zuò wén	noun	篇	composition (student essay)	L4	老师让我们写一篇作文。	The teacher asked us to write a composition.	她的作文写得很好。	Her composition is written very well.	这篇作文写的是什么？	What is this composition about?
 作用	zuò yòng	noun, verb		effect	L4	这药对病有很好的作用。	This medicine has a very good effect on the illness.	运动对健康有好的作用。	Exercise has a good effect on health.	这件事没有什么作用。	This matter has no real effect.
 作者	zuò zhě	noun		author	L4	这本书的作者是谁？	Who is the author of this book?	这篇文章的作者是一位学生。	The author of this article is a student.	我喜欢这个作者写的书。	I like the books written by this author.
-座	zuò	classifier, morpheme	个	measure word for buildings, mountains and similar large immovable objects	L4	前面有一座大山。	There is a large mountain ahead.	这座城市很漂亮。	This city is very beautiful.	公园里有一座桥。	There is a bridge in the park.
+座	zuò	classifier, morpheme		measure word for buildings, mountains and similar large immovable objects	L4	前面有一座大山。	There is a large mountain ahead.	这座城市很漂亮。	This city is very beautiful.	公园里有一座桥。	There is a bridge in the park.
 座	zuò	classifier, morpheme	个	seat	L4	请坐到你的座上。	Please sit in your seat.	这个座已经有人了。	This seat is already taken.	我找到了一个好座。	I found a good seat.
 座位	zuò wèi	noun	个	seat	L4	请坐到你的座位上。	Please sit in your seat.	这个座位有人吗？	Is this seat taken?	他找了一个好的座位。	He found a good seat.
 做法	zuò fǎ	noun	个	way of doing something	L4	我不喜欢他的做法。	I don't like his way of doing things.	这个做法不太对。	This way of doing something is not quite right.	我们要找到一个更好的做法。	We need to find a better way of doing something.
