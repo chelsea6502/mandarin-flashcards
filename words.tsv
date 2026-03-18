@@ -157,7 +157,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 米饭	mǐ fàn	noun	碗	(cooked) rice	L1	我要吃米饭。	I want to eat rice.	我要一碗米饭。	I want a bowl of rice.	这个米饭很好吃。	This rice is very tasty.
 面包	miàn bāo	noun	片, 袋, 块	bread	L1	我买了一块面包。	I bought a piece of bread.	她早上吃面包。	She eats bread in the morning.	桌上有一块面包。	There is a piece of bread on the table.
 面条儿	miàn tiáor	noun	碗	noodles	L1	我想吃面条儿。	I want to eat noodles.	她做的面条儿很好吃。	The noodles she made are very tasty.	我要一碗面条儿。	I want a bowl of noodles.
-名字	míng zi	noun	个	name (of a person or thing)	L1	你叫什么名字？	What is your name?	这个名字很好听。	This name sounds nice.	他的名字是一个字。	His name is one character.
+名字	míng zi	noun	个	name (of a person or thing)	L1	你叫什么名字？	What is your name?	这个名字很好听。	This name sounds nice.	她有一个好名字。	She has a nice name.
 明年	míng nián	time word		next year	L1	明年我去中国。	Next year I will go to China.	她明年学中文。	She will study Chinese next year.	明年你做什么？	What will you do next year?
 明天	míng tiān	time word		tomorrow	L1	明天我不上班。	I don't work tomorrow.	明天你来吗？	Will you come tomorrow?	明天天气好吗？	Will the weather be good tomorrow?
 哪	nǎ	pronoun		which	L1	哪本书是你的？	Which book is yours?	你去哪个学校？	Which school do you go to?	你要哪个？	Which one do you want?
@@ -170,7 +170,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 那边	nà bian	pronoun		over there	L1	他在那边。	He is over there.	学校在那边。	The school is over there.	那边有人吗？	Is there someone over there?
 那儿	nàr	pronoun		there	L1	她在那儿工作。	She works there.	我们去那儿吧。	Let's go there.	你去那儿做什么？	What are you going there to do?
 那个	nà ge	pronoun		that one; that	L1	那个是我的。	That one is mine.	我要那个。	I want that one.	那个人是谁？	Who is that person?
-那里	nà li	pronoun		there	L1	他住在那里。	He lives there.	那里有很多人。	There are many people there.	我们在那里吃饭。	We eat there.
+那里	nà lǐ	pronoun		there	L1	他住在那里。	He lives there.	那里有很多人。	There are many people there.	我们在那里吃饭。	We eat there.
 那些	nà xiē	pronoun		those	L1	那些是我的书。	Those are my books.	那些人是谁？	Who are those people?	那些苹果很好吃。	Those apples are very tasty.
 男	nán	non-predicate adjective, morpheme		male	L1	那个学生是男的。	That student is male.	他是男孩子。	He is a male child.	他是男老师。	He is a male teacher.
 男朋友	nán péng you	noun	个	boyfriend	L1	她有一个男朋友。	She has a boyfriend.	你有男朋友吗？	Do you have a boyfriend?	他是我的男朋友。	He is my boyfriend.
