@@ -3107,7 +3107,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 当成	dàng chéng	verb		to consider as	L5	他把这次考试当成了一次练习。	He considered this exam a practice run.	别把玩笑当成真的。	Don't treat a joke as real.	她把工作当成了生活的全部。	She treated work as her entire life.
 当地	dāng dì	place word		local	L5	当地的食物很有特色。	The local food has a very distinctive character.	我们吃了当地的美食。	We ate the local delicacies.	当地居民非常热情。	The local residents are very warm and welcoming.
 当年	dāng nián	time word		in those years	L5	当年他还是个学生。	In those years, he was still a student.	当年的事我还记得。	I still remember the things from those years.	当年他们住在同一个城市。	In those years they lived in the same city.
-当年	dāng nián	time word		prime of life	L5	他正当年，精力充沛。	He is in the prime of life, full of energy.	她正值当年，工作非常努力。	She is in the prime of life and works very hard.	人应该珍惜当年，努力工作。	One should cherish one's prime years and work hard.
+当年	dāng nián	time word		prime of life	L5	他正当年，身体很好。	He is in the prime of life and in great health.	她正值当年，工作非常努力。	She is in the prime of life and works very hard.	人应该珍惜当年，努力工作。	One should cherish one's prime years and work hard.
 当前	dāng qián	time word		current	L5	当前最重要的是解决这个问题。	Currently the most important thing is to solve this problem.	当前的经济情况不太好。	The current economic situation is not great.	我们要关注当前的形势。	We must pay attention to the current situation.
 当中	dāng zhōng	directional word		in the middle	L5	桌子当中放了一瓶花。	A vase of flowers was placed in the middle of the table.	他站在人群当中说话。	He stood in the middle of the crowd and spoke.	房间当中有一张大桌子。	There is a large table in the middle of the room.
 当作	dàng zuò	verb		to consider as	L5	他把我当作朋友。	He treats me as a friend.	请别把我当作外人。	Please don't treat me as an outsider.	她把这里当作自己的家。	She treats this place as her own home.
@@ -3119,7 +3119,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 导致	dǎo zhì	verb		to bring about	L5	不好的天气导致了交通问题。	Bad weather brought about traffic problems.	这件事导致了很大的变化。	This matter brought about great changes.	沟通不好导致了误会。	Poor communication brought about misunderstandings.
 导致	dǎo zhì	verb		to lead to	L5	不注意健康会导致生病。	Not paying attention to health can lead to illness.	错误的决定导致了失败。	The wrong decision led to failure.	压力太大导致他睡不着。	Too much pressure led to him being unable to sleep.
 到达	dào dá	verb		to arrive	L5	飞机到达北京了。	The plane has arrived in Beijing.	我们到达目的地了。	We have arrived at our destination.	他准时到达了会议室。	He arrived at the meeting room on time.
-到期	dào qī	verb		to become due	L5	合同明天到期。	The contract becomes due tomorrow.	合同下个月到期。	The contract becomes due next month.	租约下个月到期，要续约。	The lease comes due next month and needs to be renewed.
+到期	dào qī	verb		to become due	L5	合同明天到期。	The contract becomes due tomorrow.	合同下个月到期。	The contract becomes due next month.	这张卡下个月到期了。	This card becomes due next month.
 到期	dào qī	verb		to expire	L5	我的护照已经到期了。	My passport has already expired.	护照两年后到期。	The passport expires in two years.	他的身份证已经到期，不能使用了。	His ID card has already expired and cannot be used.
 道理	dào li	noun	个	rationale	L5	他说的话有道理。	What he said makes sense.	这个理论的道理很清楚。	The reasoning behind this theory is very clear.	他给了我一个有道理的解释。	He gave me a well-reasoned explanation.
 的确	dí què	adverb		really	L5	他的确很努力。	He really works very hard.	这件事的确很难。	This matter is really very difficult.	她的确是最好的学生。	She really is the best student.
@@ -3134,11 +3134,11 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 等于	děng yú	verb		to equal	L5	三加二等于五。	Three plus two equals five.	放弃等于失败。	Giving up equals failure.	一公里等于一千米。	One kilometer equals one thousand meters.
 低头	dī tóu	verb		to bow the head	L5	他低头看书。	He bowed his head to read.	她低头走进了房间。	She bowed her head and walked into the room.	他低头看了看手机。	He bowed his head and looked at his phone.
 低头	dī tóu	verb		to give in	L5	他最终低头了。	He finally gave in.	谁也不想先低头。	Nobody wants to be the first to give in.	她不会轻易低头。	She will not give in easily.
-低头	dī tóu	verb		to yield	L5	他不愿意低头承认错误。	He is unwilling to yield and admit his mistake.	他低头向对手认输了。	He yielded to his opponent.	他终于低头，承认了自己的错误。	He finally yielded and admitted his mistake.
-敌人	dí rén	noun	个	enemy	L5	他们打败了敌人。	They defeated the enemy.	我们要保护自己不受敌人伤害。	We must protect ourselves from the enemy.	这个敌人非常危险。	This enemy is very dangerous.
+低头	dī tóu	verb		to yield	L5	他不愿意低头承认错误。	He is unwilling to yield and admit his mistake.	他低头向对手认输了。	He yielded to his opponent.	困难面前，他不会低头。	In the face of difficulties, he will not yield.
+敌人	dí rén	noun	个	enemy	L5	他们打败了一个强大的敌人。	They defeated a powerful enemy.	我们要保护自己不受敌人伤害。	We must protect ourselves from the enemy.	这个敌人非常危险。	This enemy is very dangerous.
 地理	dì lǐ	noun		geography	L5	她喜欢学地理。	She likes studying geography.	地理课很有意思。	Geography class is very interesting.	我们学了中国的地理。	We studied China's geography.
-地面	dì miàn	noun		ground; Earth's surface	L5	孩子们坐在地面上玩耍。	The children sat on the ground and played.	飞机从地面飞上了天空。	The airplane flew up from the ground into the sky.	地面温度很高。	The temperature on Earth's surface is very high.
-地区	dì qū	noun	个	area	L5	这个地区很安全。	This area is very safe.	公园周围的地区很安静。	The area around the park is very quiet.	那个地区有很多工厂。	That area has many factories.
+地面	dì miàn	noun		ground; Earth's surface	L5	孩子们坐在地面上玩。	The children sat on the ground and played.	飞机从地面飞上了天空。	The airplane flew up from the ground into the sky.	地面温度很高。	The temperature on Earth's surface is very high.
+地区	dì qū	noun	个	area	L5	这个地区很安全。	This area is very safe.	公园周围的地区很安静。	The area around the park is very quiet.	他在一个新的地区工作。	He works in a new area.
 地区	dì qū	noun	个	region	L5	这个地区人口很多。	This region has a large population.	南方地区夏天很热。	The southern region is very hot in summer.	我们去了两个地区。	We went to two regions.
 地位	dì wèi	noun	个	position	L5	他在团队中的地位很重要。	His position in the team is very important.	这个地位需要很强的能力。	This position requires strong ability.	她有了一个重要的地位。	She has gained an important position.
 地位	dì wèi	noun	个	status	L5	他在公司的地位很高。	His status in the company is very high.	这个地位让他很高兴。	This status makes him very happy.	她的社会地位在提高。	Her social status is rising.
