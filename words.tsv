@@ -3305,12 +3305,12 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 敢于	gǎn yú	verb		to have the courage to do something	L5	我们要敢于说出自己的想法。	We must have the courage to speak our minds.	他敢于面对困难。	He has the courage to face difficulties.	要敢于承认自己的错误。	One must have the courage to admit one's mistakes.
 刚好	gāng hǎo	adverb		by coincidence	L5	我们刚好在同一家店。	By coincidence, we were in the same shop.	她刚好也来了北京。	By coincidence, she also came to Beijing.	刚好你也认识他！	What a coincidence that you also know him!
 刚好	gāng hǎo	adverb		just right	L5	这件衣服刚好合适。	This piece of clothing is just right.	时间刚好够用。	There is just enough time.	这双鞋刚好合脚。	These shoes fit just right.
-高大	gāo dà	adjective		lofty	L5	他的形象非常高大。	His image is very lofty.	这位英雄的形象高大，令人敬佩。	This hero's image is lofty and inspires admiration.	他在我心中的形象很高大。	His image is very lofty in my heart.
+高大	gāo dà	adjective		lofty	L5	他的形象非常高大。	His image is very lofty.	大家都觉得他的形象很高大。	Everyone thinks his image is very lofty.	他在我心中的形象很高大。	His image is very lofty in my heart.
 高大	gāo dà	adjective		tall	L5	那棵树非常高大。	That tree is very tall.	他是一个高大的男人。	He is a tall man.	楼旁边有一棵高大的树。	There is a tall tree next to the building.
 高档	gāo dàng	non-predicate adjective		high-end	L5	这是一家高档餐厅。	This is a high-end restaurant.	她买了一件高档衣服。	She bought a high-end piece of clothing.	这里卖高档手表。	They sell high-end watches here.
 高度	gāo dù	adverb, noun	个	altitude	L5	飞机的高度是一万米。	The altitude of the plane is 10,000 meters.	这个高度很危险。	This altitude is very dangerous.	飞机保持一个高度飞行。	The plane flies at a constant altitude.
-高度	gāo dù	adverb, noun	个	height	L5	这个楼的高度是五十米。	The height of this building is 50 meters.	请量一下这个高度。	Please measure this height.	桌子的高度刚好合适。	The height of the table is just right.
-高度	gāo dù	adverb, noun	个	to a high degree	L5	这件事高度重要。	This matter is highly important.	我们高度关注这个问题。	We are paying close attention to this issue.	他高度认真地做事。	He approaches everything with great seriousness.
+高度	gāo dù	adverb, noun	个	height	L5	这个楼的高度是五十米。	The height of this building is 50 meters.	请量一下这个高度。	Please measure this height.	每个人都有一个不同的高度。	Everyone has a different height.
+高度	gāo dù	adverb, noun		to a high degree	L5	这件事高度重要。	This matter is highly important.	我们高度关注这个问题。	We are paying close attention to this issue.	他高度认真地做事。	He approaches everything with great seriousness.
 高级	gāo jí	adjective		advanced	L5	他学了高级汉语课。	He took an advanced Chinese class.	这是高级水平的考试。	This is an advanced level exam.	她在学高级数学。	She is studying advanced mathematics.
 高级	gāo jí	adjective		high level	L5	这是一个高级会议。	This is a high-level meeting.	他是高级领导。	He is a high-level leader.	公司派了高级代表来。	The company sent a high-level representative.
 高科技	gāo kē jì	noun		high tech	L5	这家公司研究高科技。	This company researches high tech.	高科技改变了我们的生活。	High tech has changed our lives.	他在高科技公司工作。	He works at a high tech company.
@@ -3321,8 +3321,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 歌词	gē cí	noun		lyrics	L5	这首歌的歌词很美。	The lyrics of this song are beautiful.	他记不住歌词。	He cannot remember the lyrics.	她认真地学这首歌的歌词。	She is carefully learning the lyrics of this song.
 歌曲	gē qǔ	noun		song	L5	这首歌曲很好听。	This song sounds very nice.	她唱了一首歌曲。	She sang a song.	我最喜欢这首歌曲。	This is my favorite song.
 格外	gé wài	adverb		especially	L5	今天格外冷。	It is especially cold today.	她格外开心。	She is especially happy.	这里的空气格外新鲜。	The air here is especially fresh.
-隔	gé	verb, morpheme, verbal noun		to partition	L5	用木板把房间隔成两半。	Partition the room into two halves with a wooden board.	他们用屏风隔了一个地方。	They partitioned off a space with a screen.	把大厅隔成几个小间。	Partition the hall into several small sections.
-隔	gé	verb, morpheme, verbal noun		to separate	L5	一堵墙把两个房间隔开了。	A wall separates the two rooms.	这条河把两个城市隔开。	This river separates the two cities.	他们用木板把空间隔开。	They separated the space with a wooden board.
+隔	gé	verb, morpheme, verbal noun		to partition	L5	用一面墙把房间隔成两半。	Partition the room into two halves with a wall.	他们用布把办公室隔了一下。	They partitioned the office with cloth.	把大厅隔成几个小间。	Partition the hall into several small sections.
+隔	gé	verb, morpheme, verbal noun		to separate	L5	一堵墙把两个房间隔开了。	A wall separates the two rooms.	这条河把两个城市隔开。	This river separates the two cities.	他们用一面墙把空间隔开。	They separated the space with a wall.
 个别	gè bié	adjective, adverbial adjective		individual	L5	要尊重个别人的意见。	One should respect the opinions of individual people.	老师和个别学生谈话。	The teacher talked with individual students.	个别情况需要特别处理。	Individual cases need special handling.
 个别	gè bié	adjective, adverbial adjective		rare	L5	这种情况是个别的。	This kind of situation is rare.	这样的情况很个别，不常发生。	This kind of situation is quite rare and doesn't happen often.	个别的例子不能代表全部。	A rare example cannot represent the whole.
 个别	gè bié	adjective, adverbial adjective		very few	L5	只有个别人不同意。	Only very few people disagreed.	个别学生没来上课。	Very few students did not come to class.	个别问题还没有解决。	Very few problems have not yet been resolved.
@@ -3331,24 +3331,24 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 个性	gè xìng	noun		individuality	L5	她的穿衣很有个性。	Her way of dressing shows a lot of individuality.	他是一个有个性的人。	He is a person with strong individuality.	这幅画很有个性。	This painting has a lot of individuality.
 各行各业	gè háng gè yè	noun		all walks of life; all trades and professions	L5	各行各业的人都来参加了这次活动。	People from all walks of life came to participate in this event.	他认识很多各行各业的朋友。	He has friends from all different professions.	互联网影响了各行各业。	The internet has affected all walks of life.
 各自	gè zì	pronoun		respective	L5	大家各自做自己的事。	Everyone does their respective tasks.	他们各自回家了。	They each went back to their respective homes.	两国各自有不同的法律。	The two countries each have their respective laws.
-根	gēn	classifier, noun	条	measure word for long slender objects, e.g. cigarettes, string	L5	他买了两根香蕉。	He bought two bananas.	桌上有两根筷子。	There are two chopsticks on the table.	她手里拿着一根棍子。	She is holding a stick in her hand.
-根	gēn	classifier, noun	条	root	L5	树的根很深。	The roots of the tree are very deep.	大树的根深深地扎进了土里。	The roots of the big tree go deep into the soil.	植物的根吸收水分。	The roots of plants absorb water.
+根	gēn	classifier, noun		measure word for long slender objects, e.g. cigarettes, string	L5	他买了两根香蕉。	He bought two bananas.	桌上有两根筷子。	There are two chopsticks on the table.	地上有一根头发。	There is a strand of hair on the ground.
+根	gēn	classifier, noun	条	root	L5	这棵树有几条很深的根。	This tree has several deep roots.	大树的根深深地长进了土里。	The roots of the big tree grow deep into the soil.	植物的根吸收水分。	The roots of plants absorb water.
 根本	gēn běn	adverb, noun, adjective	个	basic	L5	这是一个根本的规则。	This is a basic rule.	安全是根本要求。	Safety is a basic requirement.	这个根本原则大家都同意。	Everyone agrees with this basic principle.
-根本	gēn běn	adverb, noun, adjective	个	fundamental	L5	诚实是做人的根本。	Honesty is a fundamental principle of being a good person.	这个根本问题必须解决。	This fundamental problem must be resolved.	他找到了解决问题的根本方法。	He found a fundamental method for solving the problem.
-更换	gēng huàn	verb, verbal noun		to change	L5	她更换了新发型。	She changed to a new hairstyle.	他更换了工作地点。	He changed his workplace.	公司更换了新的标志。	The company changed to a new logo.
+根本	gēn běn	adverb, noun, adjective	个	fundamental	L5	诚实是做人的根本。	Honesty is a fundamental principle of being a good person.	我们必须解决一个根本问题。	We must resolve a fundamental problem.	他找到了解决问题的根本方法。	He found a fundamental method for solving the problem.
+更换	gēng huàn	verb, verbal noun		to change	L5	她更换了新衣服。	She changed into new clothes.	他更换了工作地点。	He changed his workplace.	公司更换了新的标志。	The company changed to a new logo.
 更换	gēng huàn	verb, verbal noun		to replace	L5	他更换了旧零件。	He replaced the old parts.	请帮我更换这个电灯。	Please help me replace this light.	手机的电池需要更换了。	The phone battery needs to be replaced.
 更新	gēng xīn	verb, verbal noun		to renew	L5	他更新了合同。	He renewed the contract.	签证需要更新了。	The visa needs to be renewed.	会员卡可以更新一年。	The membership card can be renewed for one year.
-更新	gēng xīn	verb, verbal noun		to update	L5	请更新你的软件。	Please update your software.	他每天更新自己的博客。	He updates his blog every day.	系统需要更新了。	The system needs to be updated.
-工程	gōng chéng	noun	个, 项	engineering	L5	他大学学的是工程。	He studied engineering in college.	工程是一门重要的学科。	Engineering is an important discipline.	这所大学有工程专业。	This university has an engineering major.
+更新	gēng xīn	verb, verbal noun		to update	L5	请更新你的软件。	Please update your software.	他每天更新网站上的内容。	He updates the content on the website every day.	系统需要更新了。	The system needs to be updated.
+工程	gōng chéng	noun		engineering	L5	他大学学的是工程。	He studied engineering in college.	工程是一门重要的学科。	Engineering is an important discipline.	这所大学有工程专业。	This university has an engineering major.
 工程	gōng chéng	noun	个, 项	engineering project	L5	这项工程需要两年完成。	This engineering project will take two years to complete.	政府批准了这个工程。	The government approved this engineering project.	他参与了一项大工程。	He participated in a large engineering project.
 工程师	gōng chéng shī	noun	个, 位, 名	engineer	L5	他是一位工程师。	He is an engineer.	公司在找一名工程师。	The company is looking for an engineer.	这个工程师设计了大桥。	This engineer designed the bridge.
 工具	gōng jù	noun		tool	L5	这个工具很好用。	This tool is very easy to use.	他把工具放在箱子里。	He put the tools in the box.	语言是交流的工具。	Language is a tool for communication.
 工业	gōng yè	noun		industry	L5	中国的工业发展很快。	China's industry is developing very quickly.	这个城市以工业为主。	This city is mainly based on industry.	工业污染是一个大问题。	Industrial pollution is a big problem.
-工艺	gōng yì	noun		craft	L5	这件陶器是传统工艺。	This pottery piece is traditional craft.	她学习了中国传统工艺。	She studied traditional Chinese crafts.	这种传统工艺需要多年学习。	This traditional craft takes many years to learn.
+工艺	gōng yì	noun		craft	L5	这件作品是传统工艺。	This work is a traditional craft.	她学习了中国传统工艺。	She studied traditional Chinese crafts.	这种传统工艺需要多年学习。	This traditional craft takes many years to learn.
 工艺	gōng yì	noun		technology	L5	新工艺提高了生产效率。	The new technology improved production efficiency.	这家工厂使用先进工艺。	This factory uses advanced technology.	他研究制造工艺。	He researches manufacturing technology.
 公布	gōng bù	verb		to announce	L5	政府公布了新规定。	The government announced a new regulation.	学校公布了考试结果。	The school announced the exam results.	公司公布了新计划。	The company announced a new plan.
 公平	gōng píng	adjective, adverbial adjective, adjective-noun		fair	L5	比赛要公平进行。	The competition must be conducted fairly.	这个决定是公平的。	This decision is fair.	大家希望得到公平的机会。	Everyone hopes to get a fair chance.
-公平	gōng píng	adjective, adverbial adjective, adjective-noun		impartial	L5	裁判必须公平对待每个人。	Referees must treat everyone impartially.	他的判断很公平。	His judgment is very impartial.	我们需要一个公平的评委。	We need an impartial judge.
+公平	gōng píng	adjective, adverbial adjective, adjective-noun		impartial	L5	裁判必须公平对待每个人。	Referees must treat everyone impartially.	他的判断很公平。	His judgment is very impartial.	我们需要一个公平的人来做决定。	We need an impartial person to make the decision.
 公务员	gōng wù yuán	noun		civil servant	L5	她想成为一名公务员。	She wants to become a civil servant.	公务员考试很难。	The civil servant exam is very difficult.	他是一名优秀的公务员。	He is an outstanding civil servant.
 公寓	gōng yù	noun	套	apartment	L5	他租了一套公寓。	He rented an apartment.	这套公寓有两个卧室。	This apartment has two bedrooms.	她住在市中心的公寓里。	She lives in an apartment in the city center.
 功能	gōng néng	noun		capability	L5	这台电脑的功能很强。	This computer has strong capabilities.	新产品的功能超过旧的。	The new product's capabilities exceed the old one's.	大脑的功能很复杂。	The brain's capabilities are very complex.
