@@ -1945,12 +1945,12 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 咳	hāi	verb, interjection		hey (interjection used to get attention)	L4	咳，你在哪里？	Hey, where are you?	咳！快来看！	Hey! Come and look quickly!	咳，等一下！	Hey, wait a moment!
 咳	hāi	verb, interjection		oh (interjection expressing astonishment)	L4	咳，这么快就做完了！	Oh, you finished so quickly!	咳，真的吗？	Oh, really?	咳，没想到你来了！	Oh, I didn't expect you to come!
 咳	ké	verb, interjection		to cough	L4	他生病了，一直在咳。	He is sick and keeps coughing.	请不要对着人咳。	Please don't cough toward people.	他咳了一声，开始说话。	He coughed once and began to speak.
-咳嗽	ké sou	verb	阵	to cough	L4	他感冒了，一直咳嗽。	He has a cold and keeps coughing.	她咳嗽了很长时间，停不下来。	She coughed for a long time and couldn't stop.	咳嗽的时候，不要对着人。	When coughing, don't face people.
+咳嗽	ké sou	verb	阵	to cough	L4	他感冒了，一直咳嗽。	He has a cold and keeps coughing.	她咳嗽了一阵才停下来。	She coughed for a while before stopping.	咳嗽的时候，不要对着人。	When coughing, don't face people.
 可惜	kě xī	verb, adjective		what a pity	L4	可惜他没来参加。	What a pity he didn't come to participate.	这本书没买到，真可惜。	Couldn't buy this book — what a pity.	可惜比赛我们输了。	What a pity, we lost the competition.
 克	kè	morpheme, classifier, non-predicate adjective, verb		gram	L4	这个苹果有200克。	This apple weighs 200 grams.	请给我50克糖。	Please give me 50 grams of sugar.	一克盐很轻。	One gram of salt is very light.
 客气	kè qi	adjective, adverbial adjective		polite	L4	他说话很客气。	He speaks very politely.	不用客气，请坐。	No need to be polite, please sit.	她对人总是很客气。	She is always very polite to people.
 客厅	kè tīng	noun	间	living room	L4	客人坐在客厅里。	The guest sits in the living room.	我家客厅很大。	The living room in my home is very large.	一间客厅里有沙发和电视。	In a living room there is a sofa and a TV.
-课程	kè chéng	noun	堂, 节, 门	course	L4	这门课程很有趣。	This course is very interesting.	我这学期有五门课程。	I have five courses this semester.	这节课程很难。	This course class is very difficult.
+课程	kè chéng	noun	堂, 节, 门	course	L4	这门课程很有趣。	This course is very interesting.	我这学期有五门课程。	I have five courses this semester.	这节课程很难。	This class is very difficult.
 课程	kè chéng	noun	堂, 节, 门	program of study	L4	学校有很好的课程。	The school has a very good program of study.	这个课程有数学和科学。	This program of study has math and science.	你的课程安排得怎么样？	How is your program of study arranged?
 课堂	kè táng	noun	间	class (as in a lesson in progress)	L4	老师走进了课堂。	The teacher walked into the classroom.	课堂里很安静。	The classroom is very quiet.	这间课堂有四十个学生。	This classroom has forty students.
 肯定	kěn dìng	adverb, verb, verbal noun, adjective		to affirm	L4	老师肯定了他的回答。	The teacher affirmed his answer.	大家都肯定了这个决定。	Everyone affirmed this decision.	他的努力得到了肯定。	His effort received affirmation.
@@ -1958,14 +1958,14 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 空	kòng	adjective, verb, morpheme, adverb		free time	L4	你现在有空吗？	Do you have free time now?	我今天没有空。	I don't have free time today.	他工作很忙，没有空。	He is very busy with work and has no free time.
 空	kòng	adjective, verb, morpheme, adverb		to leave empty	L4	请把这行空着。	Please leave this line empty.	表格里有几行要空着。	A few lines in the form are to be left empty.	这里空着，你来填。	This is left empty, you fill it in.
 空气	kōng qì	noun		air	L4	这里的空气很新鲜。	The air here is very fresh.	城市的空气不太好。	The air in the city is not very good.	我喜欢早上的空气。	I like the morning air.
-恐怕	kǒng pà	adverb		to fear	L4	我恐怕他不会来了。	I fear he won't come.	她恐怕这次考试不好。	She fears this exam won't go well.	恐怕今天会下雨。	I fear it will rain today.
+恐怕	kǒng pà	adverb		I'm afraid that; probably	L4	我恐怕他不会来了。	I fear he won't come.	她恐怕这次考试不好。	She fears this exam won't go well.	恐怕今天会下雨。	I fear it will rain today.
 口语	kǒu yǔ	noun	门	spoken language	L4	他的口语很好。	His spoken language is very good.	我要练习中文口语。	I want to practice spoken Chinese.	这门口语课很有用。	This spoken language course is very useful.
 苦	kǔ	adjective, adjective-noun, adverbial adjective, verb		bitterness	L4	这个药很苦。	This medicine is very bitter (the bitterness).	咖啡的苦让我不喜欢。	The bitterness of coffee makes me dislike it.	这种苦让人难受。	This bitterness makes people uncomfortable.
 苦	kǔ	adjective, adjective-noun, adverbial adjective, verb		hardship	L4	他经历了很多苦。	He has experienced much hardship.	生活中的苦让他变强了。	The hardship in life made him stronger.	她不怕苦，努力工作。	She is not afraid of hardship and works hard.
 快餐	kuài cān	noun		fast food	L4	我们去吃快餐吧。	Let's go eat fast food.	他每天都吃快餐。	He eats fast food every day.	快餐不太健康。	Fast food is not very healthy.
 快递	kuài dì	verb, verbal noun		express delivery	L4	我今天收到了快递。	I received an express delivery today.	这个快递很快就到了。	This express delivery arrived very quickly.	请帮我寄快递。	Please help me send express delivery.
 快速	kuài sù	adverb, non-predicate adjective		fast	L4	他走路很快速。	He walks very fast.	这辆车非常快速。	This car is extremely fast.	快速完成作业很重要。	Completing homework fast is important.
-困	kùn	verb, adjective-noun, adjective, verbal noun		sleepy	L4	我好困，想睡觉。	I'm so sleepy, I want to sleep.	下午开会总是很困。	Afternoon meetings always make me sleepy.	他困得眼睛都闭上了。	He was so sleepy his eyes closed.
+困	kùn	verb, adjective-noun, adjective, verbal noun		sleepy	L4	我好困，想睡觉。	I'm so sleepy, I want to sleep.	下午开会总是很困。	Afternoon meetings always make me sleepy.	他困得不想说话了。	He was so sleepy he didn't want to talk.
 困	kùn	verb, adjective-noun, adjective, verbal noun		to trap	L4	大水困住了村子。	The flood trapped the village.	他被困在山上了。	He was trapped on the mountain.	大雪困住了他们。	The heavy snow trapped them.
 困难	kùn nan	adjective, adjective-noun		challenging	L4	游泳对他来说是一件困难的事。	Swimming is a challenging thing for him.	这个任务很困难。	This task is very challenging.	找工作对他来说很困难。	Finding a job is very challenging for him.
 困难	kùn nan	adjective, adjective-noun		difficult	L4	这道题很困难。	This problem is very difficult.	学中文不太困难。	Learning Chinese is not too difficult.	这项工作很困难。	This work is very difficult.
