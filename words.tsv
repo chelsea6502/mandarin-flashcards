@@ -784,8 +784,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 而且	ér qiě	conjunction		furthermore	L3	他聪明，而且努力。	He is smart, and furthermore hardworking.	这里安静，而且干净。	It's quiet here, and furthermore clean.	他努力，而且很认真。	He works hard, and is also very diligent.
 而且	ér qiě	conjunction		in addition	L3	他不但会唱歌，而且会跳舞。	He can not only sing but in addition he can dance.	这个地方便宜，而且很近。	This place is cheap, and in addition very close.	她不但漂亮，而且很聪明。	She is not only beautiful but in addition very smart.
 耳朵	ěr duo	noun	只, 个, 对	ear	L3	他的耳朵很大。	His ears are very big.	我有两只耳朵。	I have two ears.	她的左耳朵不好。	Her left ear is not good.
-耳机	ěr jī	noun	副	earphones	L3	他用耳机听音乐。	He uses earphones to listen to music.	这副耳机声音很好。	These earphones have great sound.	我忘带耳机了。	I forgot to bring my earphones.
-耳机	ěr jī	noun	副	headphones	L3	他用耳机听歌。	He listens to songs with headphones.	我的耳机坏了。	My headphones are broken.	她买了一个新耳机。	She bought new headphones.
+耳机	ěr jī	noun	副	earphones	L3	他用耳机听音乐。	He uses earphones to listen to music.	我买了一副新耳机。	I bought a new pair of earphones.	我忘带耳机了。	I forgot to bring my earphones.
+耳机	ěr jī	noun	副	headphones	L3	他用耳机听歌。	He listens to songs with headphones.	我的耳机坏了。	My headphones are broken.	她买了一副新耳机。	She bought a new pair of headphones.
 发	fā	verb		to become (e.g. 发黄 to yellow)	L3	这件衣服发黄了。	This piece of clothing has yellowed.	那本旧书发黄了。	That old book has turned yellow.	这些书都发黄了。	These books have all turned yellow.
 发	fā	verb		to send	L3	我发了一封邮件。	I sent an email.	请发给我一封信。	Please send me a letter.	他发了一个东西给我。	He sent something to me.
 发烧	fā shāo	verb, verbal noun, non-predicate adjective		to have a high temperature (from illness)	L3	他发烧了，要休息。	He has a fever and needs to rest.	孩子发烧了，很不好。	The child has a fever and feels terrible.	你发烧了吗？	Do you have a fever?
@@ -799,7 +799,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 方便面	fāng biàn miàn	noun		instant noodles	L3	他中午吃方便面。	He eats instant noodles at noon.	我很忙，就吃了方便面。	I was very busy, so I just ate instant noodles.	方便面便宜又好吃。	Instant noodles are cheap and tasty.
 方法	fāng fǎ	noun	个	method	L3	你有没有好方法？	Do you have a good method?	这个方法很有用。	This method is very useful.	老师教了我一个新方法。	The teacher taught me a new method.
 方法	fāng fǎ	noun	个	way	L3	有没有更好的方法？	Is there a better way?	我找到了一个方法。	I found a way.	这是解决问题的方法。	This is a way to solve the problem.
-方向	fāng xiàng	noun	个	direction	L3	你知道去车站的方向吗？	Do you know the direction to the station?	他走错方向了。	He went in the wrong direction.	往哪个方向走？	Which direction should we go?
+方向	fāng xiàng	noun	个	direction	L3	你知道去车站的方向吗？	Do you know the direction to the station?	他看了两个方向。	He looked in two directions.	往哪个方向走？	Which direction should we go?
 房子	fáng zi	noun	栋, 幢, 座, 套, 间	apartment	L3	他在城市里买了一套房子。	He bought an apartment in the city.	这套房子有三个房间。	This apartment has three rooms.	我在找一套房子。	I'm looking for an apartment.
 房子	fáng zi	noun	栋, 幢, 座, 套, 间	house	L3	他们住在一个大房子里。	They live in a big house.	这个房子很漂亮。	This house is very beautiful.	我想买一间房子。	I want to buy a house.
 放	fàng	verb		to place	L3	把书放在桌子上。	Place the book on the table.	你把东西放哪里了？	Where did you place the things?	请把杯子放这里。	Please place the cup here.
@@ -812,8 +812,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 风	fēng	noun, morpheme	阵, 丝	wind	L3	今天风很大。	The wind is very strong today.	外面刮了一阵风。	A gust of wind blew outside.	外面有风，穿件衣服吧。	It's windy outside, put on a jacket.
 封	fēng	classifier, verb, morpheme		measure word for sealed objects, esp. letters	L3	他写了一封信。	He wrote a letter.	我收到了一封信。	I received a letter.	桌上有两封信。	There are two letters on the table.
 封	fēng	classifier, verb, morpheme		to seal	L3	请把这个箱子封好。	Please seal this box.	他把箱子封上了。	He sealed the box.	这个包封好了吗？	Is this package sealed?
-夫妻	fū qī	noun		husband and wife	L3	他们是一对夫妻。	They are a husband and wife.	这对夫妻很开心。	This couple is very happy.	夫妻两人一起吃饭。	The husband and wife eat together.
-服务	fú wù	verbal noun, verb	项	to serve	L3	他在饭店服务。	He serves at a restaurant.	我们要认真地服务客人。	We should serve the guests earnestly.	这项服务很好。	This service is very good.
+夫妻	fū qī	noun	对	husband and wife	L3	他们是一对夫妻。	They are a husband and wife.	这对夫妻很开心。	This couple is very happy.	夫妻两人一起吃饭。	The husband and wife eat together.
+服务	fú wù	verbal noun, verb	项	to serve	L3	他在饭店服务。	He serves at a restaurant.	我们要认真地服务客人。	We should serve the guests earnestly.	我们有一项新服务。	We have one new service.
 附近	fù jìn	directional word		nearby	L3	车站就在附近。	The station is nearby.	附近有没有医院？	Is there a hospital nearby?	他住在附近。	He lives nearby.
 附近	fù jìn	directional word		vicinity	L3	附近有一家超市。	There is a supermarket in the vicinity.	学校附近有很多小店。	There are many small shops in the vicinity of the school.	我家附近很安静。	The vicinity of my home is very quiet.
 复习	fù xí	verb, verbal noun	次	to review	L3	考试前要复习。	You need to review before the exam.	我每天复习一次课。	I review my lessons once every day.	他认真地复习了。	He carefully reviewed his lessons.
@@ -826,10 +826,10 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 感兴趣	gǎn xìng qù	adjective		to be interested	L3	他对音乐很感兴趣。	He is very interested in music.	你对什么感兴趣？	What are you interested in?	我对学中文很感兴趣。	I am very interested in learning Chinese.
 干	gān	verb, adjective		adoptive (e.g. 干儿 adopted son)	L3	他是我的干爸爸。	He is my adoptive father.	她有一个干女儿。	She has an adopted daughter.	我干妈对我很好。	My adoptive mother is very good to me.
 干	gān	verb, adjective		dry	L3	今天天气很干，我很渴。	The weather is very dry today; I'm very thirsty.	衣服干了。	The clothes are dry.	衣服干了，可以收了。	The clothes are dry; you can take them in.
-干	gàn	verb, adjective		to do	L3	你在干什么？	What are you doing?	我们一起干吧。	Let's do it together.	他每天干很多工作。	He does a lot of work every day.
+干	gàn	verb		to do	L3	你在干什么？	What are you doing?	我们一起干吧。	Let's do it together.	他每天干很多工作。	He does a lot of work every day.
 干净	gān jìng	adjective, adverbial adjective		clean	L3	这个房间很干净。	This room is very clean.	请把手洗干净。	Please wash your hands clean.	她把地扫得很干净。	She swept the floor very clean.
 干净	gān jìng	adjective, adverbial adjective		neat	L3	他写字写得很干净。	He writes very neatly.	她的书包放得很干净。	Her school bag is organized neatly.	这本书写得很干净。	This book is written very neatly.
-刚	gāng	adverb, morpheme		barely	L3	他刚通过了考试。	He barely passed the exam.	这件衣服刚合适。	This piece of clothing just barely fits.	他刚能听懂老师说的话。	He can barely understand what the teacher says.
+刚	gāng	adverb, morpheme		barely	L3	他考试刚过了。	He barely passed the exam.	这件衣服刚合适。	This piece of clothing just barely fits.	他刚能听懂老师说的话。	He can barely understand what the teacher says.
 刚	gāng	adverb, morpheme		only a short while ago	L3	我刚到家。	I just got home a short while ago.	他刚吃完饭。	He just finished eating a moment ago.	老师刚走。	The teacher just left a short while ago.
 刚才	gāng cái	time word		just now	L3	刚才他打电话给我。	Just now he called me.	你刚才去哪里了？	Where did you go just now?	刚才的事你忘了吗？	Have you forgotten what happened just now?
 刚刚	gāng gang	adverb		just now	L3	妈妈刚刚出门。	Mom just went out.	我刚刚看完这本书。	I just finished reading this book.	他刚刚说了什么？	What did he say just now?
