@@ -1233,7 +1233,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 以外	yǐ wài	directional word		outside of	L3	学校以外他喜欢踢球。	Outside of school he likes to play football.	工作以外，他喜欢看书。	Outside of work, he likes to read.	中国以外的地方他没去过。	He has never been to places outside of China.
 以为	yǐ wéi	verb		to be under the impression	L3	我以为他不来了。	I was under the impression that he wasn't coming.	她以为我不知道。	She was under the impression that I didn't know.	我以为今天没有课。	I was under the impression there was no class today.
 以下	yǐ xià	directional word		below	L3	五岁以下的孩子不用买票。	Children below five years old don't need to buy tickets.	十以下是什么？	What is below ten?	十元以下的我都可以买。	Anything below ten yuan I can buy.
-音乐	yīn yuè	noun	张, 曲, 段	music	L3	我很喜欢音乐。	I really like music.	他每天听音乐。	He listens to music every day.	这段音乐很好听。	This piece of music sounds very nice.
+音乐	yīn yuè	noun	张, 曲, 段	music	L3	我很喜欢音乐。	I really like music.	他每天听两段音乐。	He listens to two pieces of music every day.	这段音乐很好听。	This piece of music sounds very nice.
 银行	yín háng	noun	家, 个	bank	L3	我在银行工作。	I work at the bank.	这家银行很近。	This bank is very close.	我家附近有一家银行。	There is a bank near my home.
 银行卡	yín háng kǎ	noun		bank card	L3	我用银行卡买东西。	I use my bank card to buy things.	你有银行卡吗？	Do you have a bank card?	这里可以用银行卡吗？	Can I use a bank card here?
 饮料	yǐn liào	noun		beverage	L3	这家店卖很多饮料。	This shop sells many beverages.	请问有什么饮料？	Excuse me, what beverages do you have?	他不喝酒，只喝饮料。	He doesn't drink alcohol, only beverages.
@@ -1274,12 +1274,12 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 怎么办	zěn me bàn	pronoun, verb		what to do	L3	下雨了，怎么办？	It's raining, what do we do?	我忘带钱了，怎么办？	I forgot to bring money, what do I do?	他不来了，怎么办？	He's not coming, what do we do?
 怎样	zěn yàng	pronoun		how	L3	这个问题怎样做？	How do you do this problem?	你怎样学中文？	How do you learn Chinese?	这件事怎样解决？	How is this matter resolved?
 张	zhāng	classifier, proper noun (person), verb, morpheme		measure word for flat objects	L3	桌上有两张纸。	There are two sheets of paper on the table.	我买了一张地图。	I bought a map.	请给我一张纸。	Please give me a sheet of paper.
-照	zhào	verb, preposition, morpheme, adverb		to illuminate upon	L3	灯照着桌子。	The lamp shines on the table.	太阳照在地上。	The sun shines on the ground.	灯照在桌子上。	The lamp shines on the table.
+照	zhào	verb, preposition, morpheme, adverb		to illuminate upon	L3	月亮照在水上。	The moonlight shines on the water.	太阳照在地上。	The sun shines on the ground.	灯照在桌子上。	The lamp shines on the table.
 照	zhào	verb, preposition, morpheme, adverb		to photograph	L3	我给她照了一张相。	I took a photograph of her.	他在公园照相。	He is taking photographs in the park.	我们一起照一张吧。	Let's take a photograph together.
 照	zhào	verb, preposition, morpheme, adverb		to reflect upon	L3	水里照出了他的脸。	The water reflected his face.	水里照出了月亮。	The moon was reflected in the water.	她在水里照了照。	She looked at her reflection in the water.
 照顾	zhào gu	verb, verbal noun		to attend to	L3	老师照顾每一位学生。	The teacher attends to every student.	他照顾好了每件事。	He attended to every matter.	请照顾好你的行李。	Please attend to your luggage carefully.
 照顾	zhào gu	verb, verbal noun		to care for	L3	妈妈照顾生病的孩子。	Mom cares for the sick child.	我在医院照顾爸爸。	I am caring for my dad in the hospital.	谢谢你照顾我。	Thank you for caring for me.
-照片	zhào piàn	noun	张, 套, 幅	photograph	L3	这张照片很好。	This photograph is very good.	我有一些家人的照片。	I have some family photographs.	他给我看了照片。	He showed me a photograph.
+照片	zhào piàn	noun	张, 套, 幅	photograph	L3	这张照片很好。	This photograph is very good.	她给我看了两张照片。	She showed me two photographs.	他给我看了照片。	He showed me a photograph.
 照相	zhào xiàng	verb, verbal noun		to take a photograph	L3	我想给你照相。	I want to take a photo of you.	他们在公园照相。	They are taking photos in the park.	我用手机照相。	I take photos with my phone.
 着急	zháo jí	adjective, adverbial adjective		to feel anxious	L3	考试快到了，她很着急。	The exam is coming soon, she feels anxious.	别着急，还有时间。	Don't feel anxious, there's still time.	他等得很着急。	He was feeling anxious waiting.
 着急	zháo jí	adjective, adverbial adjective		to worry	L3	别着急，慢慢说。	Don't worry, speak slowly.	他很着急，一直打电话。	He was very worried and kept calling.	你不用着急。	You don't need to worry.
