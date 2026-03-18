@@ -167,7 +167,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 哪里	nǎ lǐ	pronoun		where?	L1	她在哪里？	Where is she?	你的书在哪里？	Where is your book?	学校在哪里？	Where is the school?
 哪些	nǎ xiē	pronoun		which ones?	L1	你要哪些东西？	Which things do you want?	哪些学生来了？	Which students came?	那些是哪些人的？	Whose are those?
 那	nà	pronoun, conjunction		then	L1	你不去，那我去。	You're not going, then I'll go.	他不来，那我们吃饭吧。	He's not coming, then let's eat.	太贵了，那我不买了。	It's too expensive, then I won't buy it.
-那边	nà bian	pronoun		over there	L1	他在那边。	He is over there.	学校在那边。	The school is over there.	那边有人吗？	Is there someone over there?
+那边	nà biān	pronoun		over there	L1	他在那边。	He is over there.	学校在那边。	The school is over there.	那边有人吗？	Is there someone over there?
 那儿	nàr	pronoun		there	L1	她在那儿工作。	She works there.	我们去那儿吧。	Let's go there.	你去那儿做什么？	What are you going there to do?
 那个	nà ge	pronoun		that one; that	L1	那个是我的。	That one is mine.	我要那个。	I want that one.	那个人是谁？	Who is that person?
 那里	nà lǐ	pronoun		there	L1	他住在那里。	He lives there.	那里有很多人。	There are many people there.	我们在那里吃饭。	We eat there.
@@ -325,7 +325,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 有些	yǒu xiē	adverb		somewhat	L1	这件事有些大。	This matter is somewhat big.	今天有些冷。	Today is somewhat cold.	他有些不高兴。	He is somewhat unhappy.
 雨	yǔ	noun, morpheme	阵, 场	rain	L1	今天下雨了。	It is raining today.	昨天下了一场雨。	There was a rainfall yesterday.	雨很大。	The rain is very heavy.
 元	yuán	classifier, time morpheme		unit of money (in PRC: Chinese yuan, in USA: dollar, etc.)	L1	这本书五元。	This book costs five yuan.	他给了我十元。	He gave me ten yuan.	一个苹果两元。	One apple costs two yuan.
-月	yuè	noun, time word	个, 轮	month	L1	一年有十二个月。	A year has twelve months.	他学了三个月汉语。	He studied Chinese for three months.	下个月我去中国。	Next month I am going to China.
+月	yuè	noun, time word	个	month	L1	一年有十二个月。	A year has twelve months.	他学了三个月汉语。	He studied Chinese for three months.	下个月我去中国。	Next month I am going to China.
 月	yuè	noun, time word	个, 轮	moon	L1	晚上的月很好看。	The moon at night is very beautiful.	天上有一轮月。	There is a moon in the sky.	你看见月了吗？	Did you see the moon?
 再	zài	adverb, morpheme		again	L1	请再说。	Please say it again.	你再来吧。	Come again.	我再看看。	I'll look again.
 再	zài	adverb, morpheme		more (e.g. 再大点儿 a bit bigger)	L1	再大点儿。	A bit bigger.	再多一点儿。	A little more.	再大点儿好吗？	Can it be a bit bigger?
