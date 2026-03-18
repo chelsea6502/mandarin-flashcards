@@ -4307,7 +4307,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 四周	sì zhōu	directional word, place word		all around	L5	房子四周种满了花。	The area all around the house is planted with flowers.	四周非常安静。	It is very quiet all around.	山的四周都是树木。	There are trees all around the mountain.
 四周	sì zhōu	directional word, place word		on all sides	L5	他四周看了看，没有人。	He looked on all sides and there was no one.	湖的四周都是山。	There are mountains on all sides of the lake.	广场四周有很多商店。	There are many shops on all sides of the square.
 搜	sōu	verb		to search	L5	他搜遍了整个房间。	He searched the entire room.	警察在搜那个人的包。	The police are searching that person's bag.	他们搜了很久才找到。	They searched for a long time before finding it.
-搜索	sōu suǒ	verb, verbal noun		to conduct a search	L5	警察对整栋楼进行了搜索。	The police conducted a search of the entire building.	救援队在山里进行了大规模的搜索。	The rescue team conducted a large-scale search in the mountains.	海关人员对行李进行了仔细搜索。	Customs officers conducted a careful search of the luggage.
+搜索	sōu suǒ	verb, verbal noun		to conduct a search	L5	警察对整栋楼进行了搜索。	The police conducted a search of the entire building.	他们在山里进行了大规模的搜索。	They conducted a large-scale search in the mountains.	海关人员对行李进行了仔细搜索。	Customs officers conducted a careful search of the luggage.
 搜索	sōu suǒ	verb, verbal noun		to search	L5	他在网上搜索了答案。	He searched for the answer online.	警察搜索了整栋楼。	The police searched the entire building.	他搜索了很多相关信息。	He searched for a lot of related information.
 酸甜苦辣	suān tián kǔ là	set phrase		the joys and sorrows of life	L5	他经历了生活中的酸甜苦辣。	He has experienced the joys and sorrows of life.	人生的酸甜苦辣让人成长。	The joys and sorrows of life help people grow.	她把酸甜苦辣都写进了书里。	She wrote all the joys and sorrows of life into her book.
 随	suí	preposition, verb, morpheme		to follow	L5	小鸭子随着妈妈走。	The ducklings follow their mother.	他随着人群进了大楼。	He followed the crowd into the building.	请随我来。	Please follow me.
@@ -4316,22 +4316,22 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 随时	suí shí	adverb		whenever	L5	天气随时可能变化。	The weather can change at any time.	随时告诉我你的想法。	Tell me your thoughts whenever you have them.	我随时欢迎你来。	You are welcome to come whenever.
 随手	suí shǒu	adverb		conveniently	L5	请随手关灯。	Please turn off the lights while you're at it.	他随手拿了一本书。	He conveniently grabbed a book.	她随手把包放在桌上。	She conveniently placed her bag on the table.
 随手	suí shǒu	adverb		without extra trouble	L5	出门时随手带把伞吧。	Grab an umbrella on your way out.	随手帮我带杯水来。	Bring me a cup of water while you're at it.	随手把门关上。	Close the door while you're at it.
-随意	suí yì	adverbial adjective, adjective, adjective-noun		as one wishes	L5	你随意点菜，不用客气。	Order as you wish, no need to be polite.	请随意坐，不要拘束。	Please sit as you wish, don't be formal.	你随意，我都可以。	As you wish — I'm fine with anything.
+随意	suí yì	adverbial adjective, adjective, adjective-noun		as one wishes	L5	你随意点菜，不用客气。	Order as you wish, no need to be polite.	请随意坐，不要客气。	Please sit as you wish, don't be polite.	你随意，我都可以。	As you wish — I'm fine with anything.
 碎	suì	adjective, verb		to break into pieces	L5	杯子掉在地上碎了。	The cup fell on the floor and broke into pieces.	他不小心把花瓶打碎了。	He accidentally smashed the vase.	地震后窗户都碎了。	After the earthquake, all the windows broke into pieces.
-损害	sǔn hài	verb, verbal noun		to damage	L5	大风损害了很多农作物。	The strong wind damaged many crops.	这场水灾损害了道路。	The flood damaged the roads.	错误的使用方法会损害机器。	Wrong usage will damage the machine.
-损害	sǔn hài	verb, verbal noun		to harm	L5	抽烟会损害你的健康。	Smoking will harm your health.	这件事损害了他的名誉。	This matter harmed his reputation.	噪音损害了她的听力。	The noise harmed her hearing.
-损失	sǔn shī	noun, verb	个	to lose	L5	这次火灾损失了大量财物。	The fire caused the loss of a large amount of property.	公司损失了很多钱。	The company lost a lot of money.	他的粗心让我们损失了一笔钱。	His carelessness caused us to lose a sum of money.
+损害	sǔn hài	verb, verbal noun		to damage	L5	大风损害了很多树木。	The strong wind damaged many trees.	这场大雨损害了道路。	The heavy rain damaged the roads.	错误的使用方法会损害机器。	Wrong usage will damage the machine.
+损害	sǔn hài	verb, verbal noun		to harm	L5	抽烟会损害你的健康。	Smoking will harm your health.	这件事损害了他和别人的关系。	This matter harmed his relationship with others.	太大的声音损害了她的听力。	Sounds that are too loud harmed her hearing.
+损失	sǔn shī	noun, verb	个	to lose	L5	这次大火损失了大量东西。	The fire caused the loss of a large amount of things.	公司损失了很多钱。	The company lost a lot of money.	他的粗心让我们损失了一笔钱。	His carelessness caused us to lose a sum of money.
 缩短	suō duǎn	verb		to shorten	L5	我们把会议时间缩短了。	We shortened the meeting time.	新路线缩短了行程。	The new route shortened the journey.	能缩短等待时间吗？	Can we shorten the waiting time?
 缩小	suō xiǎo	verb, verbal noun		to reduce	L5	请把图片缩小一点。	Please reduce the image a little.	我们要缩小差距。	We need to reduce the gap.	这个计划需要缩小范围。	This plan needs to reduce its scope.
 所	suǒ	particle, classifier, noun		measure word for houses and institutions like schools and hospitals	L5	我买了一所新房子。	I bought a new house.	附近有三所学校。	There are three schools nearby.	城市里新建了两所医院。	Two new hospitals were built in the city.
-所	suǒ	particle, classifier, noun	个	used before a verb to express “all that” (e.g. 我所认识的人 all the people that I know)	L5	我所认识的人都喜欢她。	All the people that I know like her.	他所说的话都是真的。	All that he said is true.	她所做的事让大家感动。	All that she did moved everyone.
+所	suǒ	particle, classifier, noun		used before a verb to express “all that” (e.g. 我所认识的人 all the people that I know)	L5	我所认识的人都喜欢她。	All the people that I know like her.	他所说的话都是真的。	All that he said is true.	她所做的事让大家感动。	All that she did moved everyone.
 锁	suǒ	verb, noun	把	lock	L5	门上的锁坏了。	The lock on the door is broken.	我忘了带开这把锁的钥匙。	I forgot to bring the key for this lock.	这把锁很安全。	This lock is very secure.
 他人	tā rén	pronoun		another person	L5	不要随便看他人的日记。	Don't casually read another person's diary.	这件事与他人无关。	This matter has nothing to do with anyone else.	他人的意见也很重要。	Another person's opinion is also important.
 他人	tā rén	pronoun		others	L5	要懂得尊重他人。	One must know how to respect others.	不要把自己的想法强加给他人。	Don't impose your ideas on others.	帮助他人让我感到快乐。	Helping others makes me feel happy.
-台灯	tái dēng	noun		table lamp	L5	书桌上有一盏台灯。	There is a table lamp on the desk.	他开着台灯看书。	He reads with the table lamp on.	这个台灯的光很柔和。	The light from this table lamp is very soft.
+台灯	tái dēng	noun		table lamp	L5	书桌上有一盏台灯。	There is a table lamp on the desk.	他开着台灯看书。	He reads with the table lamp on.	这个台灯的光很舒服。	The light from this table lamp is very pleasant.
 台阶	tái jiē	noun		flight of steps	L5	小心台阶，别摔倒。	Watch the steps, don't fall.	大楼门口有三层台阶。	There are three steps at the building entrance.	爷爷慢慢走上了台阶。	Grandpa slowly walked up the flight of steps.
 台阶	tái jiē	noun		way out of an embarrassing situation	L5	他给了我一个台阶，我就不再争了。	He gave me a way out of the embarrassment, so I stopped arguing.	老师给他一个台阶下。	The teacher gave him a way out of the embarrassing situation.	请给他留个台阶。	Please leave him a way out of the embarrassing situation.
-太太	tài tai	noun	个, 位	madam	L5	王太太，欢迎您来。	Madam Wang, welcome.	这位太太是我们的贵客。	This madam is our honored guest.	太太们都坐在前排。	The madams are all sitting in the front row.
+太太	tài tai	noun	个, 位	madam	L5	王太太，欢迎您来。	Madam Wang, welcome.	这位太太是我们的贵客。	This madam is our honored guest.	三位太太都坐在前排。	Three madams are all sitting in the front row.
 太太	tài tai	noun	个, 位	Mrs.	L5	李太太明天会来参加活动。	Mrs. Li will come to the event tomorrow.	这位是陈太太。	This is Mrs. Chen.	张太太，请进。	Mrs. Zhang, please come in.
 太太	tài tai	noun	个, 位	wife	L5	他带着太太一起去旅行。	He traveled together with his wife.	我太太喜欢吃水果。	My wife likes eating fruit.	他的太太是一位老师。	His wife is a teacher.
 谈话	tán huà	verbal noun, verb, noun	次	to have a talk	L5	他们进行了一次认真的谈话。	They had a serious talk.	经理找他谈话。	The manager called him in for a talk.	他们谈话后，问题解决了。	After their talk, the problem was resolved.
@@ -4343,9 +4343,9 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 特殊	tè shū	adjective, adverbial adjective		special	L5	这个孩子有特殊的能力。	This child has a special ability.	今天是个特殊的日子。	Today is a special day.	他在特殊情况下做了决定。	He made the decision under special circumstances.
 特有	tè yǒu	non-predicate adjective, verb		characteristic	L5	这是北京特有的小吃。	This is a characteristic snack of Beijing.	大熊猫是中国特有的动物。	The giant panda is a characteristic animal of China.	这种花是南方特有的。	This type of flower is characteristic of the south.
 特有	tè yǒu	non-predicate adjective, verb		distinctive	L5	这种音乐有特有的风格。	This music has a distinctive style.	他说话的方式是特有的。	The way he speaks is distinctive.	这种颜色是这个品牌特有的。	This color is distinctive to this brand.
-特征	tè zhēng	noun		characteristic	L5	她外貌的主要特征是眼睛很大。	The main characteristic of her appearance is her big eyes.	这种鸟的特征是红色的羽毛。	The characteristic of this bird is its red feathers.	科学家研究了这种植物的特征。	Scientists studied the characteristic of this plant.
+特征	tè zhēng	noun		characteristic	L5	她的主要特征是眼睛很大。	Her main characteristic is her big eyes.	这种鸟的特征是红色的毛。	The characteristic of this bird is its red feathers.	科学家研究了这种植物的特征。	Scientists studied the characteristic of this plant.
 特征	tè zhēng	noun		distinctive feature	L5	大鼻子是他脸上的一个重要特征。	A big nose is a distinctive feature of his face.	每种动物都有自己的特征。	Every animal has its own distinctive features.	这种语言有很多特征。	This language has many distinctive features.
-疼痛	téng tòng	adjective-noun, adjective, noun		ache	L5	他头部有持续的疼痛。	He has a persistent ache in his head.	膝盖的疼痛让他无法走路。	The ache in his knee prevented him from walking.	吃药后疼痛减轻了。	The ache eased after taking medicine.
+疼痛	téng tòng	adjective-noun, adjective, noun		ache	L5	他头部有持续的疼痛。	He has a persistent ache in his head.	腿的疼痛让他无法走路。	The ache in his leg prevented him from walking.	吃药后疼痛减轻了。	The ache eased after taking medicine.
 疼痛	téng tòng	adjective-noun, adjective, noun		pain	L5	她感到背部有疼痛。	She felt pain in her back.	手术后他感到很多疼痛。	He felt a lot of pain after the surgery.	这种疼痛很难承受。	This pain is hard to bear.
 提倡	tí chàng	verb, verbal noun		to advocate	L5	政府提倡节约用水。	The government advocates saving water.	老师提倡同学互相帮助。	The teacher advocates students helping each other.	我们提倡健康的生活方式。	We advocate a healthy lifestyle.
 提交	tí jiāo	verb		to submit	L5	请在今天提交报告。	Please submit the report today.	他按时提交了作业。	He submitted his homework on time.	你需要提交申请表。	You need to submit the application form.
