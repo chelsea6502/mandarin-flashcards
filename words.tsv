@@ -1823,23 +1823,23 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 家乡	jiā xiāng	noun	个	hometown	L4	每个人都有一个家乡。	Everyone has a hometown.	我的家乡在南方。	My hometown is in the south.	春节时他回了家乡。	He went back to his hometown during Spring Festival.
 家长	jiā zhǎng	noun		head of a household	L4	他是这个家的家长。	He is the head of this household.	家长要对孩子负责任。	The head of a household should be responsible for the children.	家长会上家长们都来了。	All the heads of households came to the parents' meeting.
 假	jiǎ	adjective, adverbial adjective, noun, morpheme		fake	L4	这个包是假的。	This bag is fake.	他用假名字买了票。	He bought tickets using a fake name.	别相信这些假消息。	Don't believe this fake news.
-假	jià	adjective, adverbial adjective, noun, morpheme		vacation	L4	我下个月要请假。	I'm going to take a vacation next month.	他请了三天假。	He took three days of vacation.	暑假我打算去旅游。	I plan to travel during summer vacation.
+假	jià	noun		vacation	L4	我下个月要请假。	I'm going to take a vacation next month.	他请了三天假。	He took three days of vacation.	暑假我打算去旅游。	I plan to travel during summer vacation.
 假日	jià rì	noun		day off	L4	今天是假日，不上班。	Today is a day off; the office is closed.	下周有假日，我很高兴。	There's a day off next week — I'm very happy.	假日我想在家休息。	On my day off I want to rest at home.
 假日	jià rì	noun		holiday	L4	春节是重要的假日。	Spring Festival is an important holiday.	假日里大家都出去玩。	Everyone goes out to have fun during the holidays.	这个假日你有什么计划？	Do you have any plans for this holiday?
 价格	jià gé	noun	个	price	L4	这件衣服的价格是多少？	What is the price of this piece of clothing?	这个价格太高了。	This price is too high.	他们商量了一个好的价格。	They agreed on a good price.
-价钱	jià qian	noun		price	L4	这本书的价钱不贵。	The price of this book is not expensive.	你觉得这个价钱合适吗？	Do you think this price is reasonable?	市场的价钱比较便宜。	Prices at the market are cheaper than at the supermarket.
+价钱	jià qian	noun		price	L4	这本书的价钱不贵。	The price of this book is not expensive.	你觉得这个价钱合适吗？	Do you think this price is reasonable?	市场的价钱比较便宜。	Prices at the market are relatively cheap.
 减	jiǎn	verb		to decrease	L4	气温今天减到了零度以下。	The temperature decreased to below zero today.	这个月的收入减了。	This month's income has decreased.	他的体重减了五公斤。	His weight decreased by five kilograms.
-减	jiǎn	verb		to reduce	L4	医生让我减少吃糖。	The doctor advised me to reduce my sugar intake.	我们要减少工作时间。	The company decided to reduce working hours.	他想减重。	We need to reduce waste.
+减	jiǎn	verb		to reduce	L4	商店把价格减了一百块。	The store reduced the price by one hundred yuan.	公司减了我们的工作时间。	The company reduced our working hours.	他想减重。	He wants to lose weight.
 减轻	jiǎn qīng	verb		to alleviate	L4	吃了药，他的痛减轻了。	After taking the medicine, his pain was alleviated.	休息一下可以减轻压力。	Taking a break can alleviate stress.	她的帮助减轻了担心。	Her help alleviated my worry.
-减轻	jiǎn qīng	verb		to lighten	L4	运动可以减轻压力。	This method can lighten your workload.	少带东西可以减轻。	Carrying fewer things can lighten the weight.	换个小包可以减轻很多。	Switching to a smaller bag can lighten things a lot.
+减轻	jiǎn qīng	verb		to lighten	L4	运动可以减轻压力。	Exercise can lighten stress.	少带东西可以减轻。	Carrying fewer things can lighten the weight.	换个小包可以减轻很多。	Switching to a smaller bag can lighten things a lot.
 减少	jiǎn shǎo	verb, verbal noun		to reduce	L4	我们要减少用水量。	We need to reduce water usage.	空气污染慢慢减少了。	Air pollution has gradually reduced.	错误减少了很多。	The errors have reduced a lot.
 建议	jiàn yì	noun, verb	个, 点	to propose	L4	他建议我们换一个方法。	He proposed that we switch to a different method.	我建议大家早点出发。	I propose that everyone set off early.	她提出了一个建议。	She put forward a proposal.
 建议	jiàn yì	noun, verb	个, 点	to recommend	L4	我建议你去看医生。	I recommend that you see a doctor.	老师建议我多读书。	The teacher recommends that I read more.	朋友建议我去那家餐厅。	My friend recommended I go to that restaurant.
 健身	jiàn shēn	verbal noun, verb		to exercise	L4	他每天去健身房健身。	He goes to the gym to exercise every day.	跑步是很好的健身方式。	Running is a great way to exercise.	我喜欢早上健身。	I like to exercise in the morning.
 健身	jiàn shēn	verbal noun, verb		to keep fit	L4	他坚持游泳来健身。	He persistently swims to keep fit.	健身可以让你更有力气。	Keeping fit can make you more energetic.	她每周健身三次。	She keeps fit three times a week.
-健身房	jiàn shēn fáng	noun	家	gym; fitness center	L4	他每天早上去健身房运动。	He goes to the gym every morning to exercise.	附近有一家健身房。	There is a gym nearby; it's quite affordable.	你们学校有健身房吗？	Does your school have a gym?
-江	jiāng	proper noun (person), noun	条	river	L4	长江是中国最长的江。	The Yangtze River is China's longest river.	我们在江边散步。	We took a walk by the river.	这条江的水很深。	The water in this river is very deep.
-将	jiāng	adverb, preposition, morpheme		to check (as in chess, but also in the metaphorical sense of putting someone in a difficult situation)	L4	他一句话将了我一军。	You put me in check — what should I do?	那道题把我将住了。	He put me in a difficult spot with one sentence.	这道题把大家将住了。	His question put me in a tough position.
+健身房	jiàn shēn fáng	noun	家	gym; fitness center	L4	他每天早上去健身房运动。	He goes to the gym every morning to exercise.	附近有一家健身房。	There is a gym nearby.	你们学校有健身房吗？	Does your school have a gym?
+江	jiāng	proper noun (person), noun	条	river	L4	长江是中国最长的江。	The Yangtze River is China's longest river.	这个城市有两条大江。	This city has two large rivers.	这条江的水很深。	The water in this river is very deep.
+将	jiāng	adverb, preposition, morpheme		to check (as in chess, but also in the metaphorical sense of putting someone in a difficult situation)	L4	他一句话将了我一军。	He cornered me with one sentence.	那道题把我将住了。	That question stumped me.	这道题把大家将住了。	This question stumped everyone.
 将	jiāng	adverb, preposition, morpheme		verb object indicator used the same way as 把 (but more formal)	L4	请将门关上。	Please close the door. (formal)	他将书放在桌上。	He placed the book on the table. (formal)	她将信交给了老师。	She handed the letter to the teacher. (formal)
 将来	jiāng lái	time word		future	L4	你将来想做什么工作？	What kind of work do you want to do in the future?	她对将来很有信心。	She is very confident about the future.	我们要为将来做准备。	We need to prepare for the future.
 将要	jiāng yào	adverb		to be going to	L4	她将要参加比赛了。	She is going to participate in the competition.	他们将要搬到新家了。	They are going to move to a new home.	我将要开始新工作了。	I am going to start a new job.
@@ -1847,24 +1847,24 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 奖	jiǎng	noun, verb	个	to reward	L4	老师奖了表现好的学生。	The teacher rewarded the students who performed well.	公司奖了努力工作的人。	The company rewarded hardworking people.	他得到了一个奖。	He received a reward.
 奖金	jiǎng jīn	noun		award money	L4	他得到了比赛的奖金。	He received the award money from the competition.	比赛的奖金是一万元。	The award money for this competition is ten thousand yuan.	她把奖金给了家人。	She gave the award money to her family.
 奖金	jiǎng jīn	noun		bonus	L4	他每年都能拿到奖金。	He receives a bonus every year.	年底公司发了奖金。	The company gave out bonuses at the end of the year.	这次奖金比去年多。	This bonus is more than last year's.
-奖学金	jiǎng xué jīn	noun	笔	scholarship	L4	她得到了一笔奖学金。	She received a scholarship.	这笔奖学金够学费。	This scholarship can cover tuition fees.	他终于拿到了奖学金。	He studied hard and finally obtained a scholarship.
-降	jiàng	verb		to fall	L4	气温今天降了。	The temperature fell today.	雨降下来了。	The rain fell down.	树叶慢慢地降到了地上。	The leaves slowly fell to the ground.
+奖学金	jiǎng xué jīn	noun	笔	scholarship	L4	她得到了一笔奖学金。	She received a scholarship.	这笔奖学金够学费。	This scholarship can cover tuition fees.	他终于拿到了奖学金。	He finally obtained the scholarship.
+降	jiàng	verb		to fall	L4	气温今天降了。	The temperature fell today.	雨降下来了。	The rain fell down.	大雪从天上降下来了。	Heavy snow fell from the sky.
 降	xiáng	verb		to submit	L4	他降了，放弃了继续打。	He submitted and gave up continuing to fight.	另一方终于降了。	The other side finally submitted.	面对压力，他选择了降。	Faced with pressure, he chose to submit.
 降低	jiàng dī	verb, verbal noun		to reduce	L4	我们要想办法降低费用。	We need to find ways to reduce costs.	新方法降低了工作的困难。	The new method reduced the difficulty of the work.	空调可以降低室内温度。	Air conditioning can reduce the indoor temperature.
-降价	jiàng jià	verb, verbal noun		to reduce the price	L4	商店决定降价吸引顾客。	The store decided to reduce prices to attract customers.	这件衣服降价了。	This clothing has been reduced in price, much cheaper now.	手机降价了，我买了。	The phone's price has been reduced; I want to buy one.
+降价	jiàng jià	verb, verbal noun		to reduce the price	L4	商店决定降价吸引顾客。	The store decided to reduce prices to attract customers.	这件衣服降价了。	This piece of clothing has been reduced in price.	手机降价了，我买了。	The phone's price has been reduced; I bought one.
 降落	jiàng luò	verb, verbal noun		to descend	L4	飞机开始慢慢降落。	The plane began to slowly descend.	飞机在机场降落了。	The plane landed at the airport.	鸟慢慢地降落到树上。	The bird slowly descended onto the tree.
 降落	jiàng luò	verb, verbal noun		to land	L4	飞机安全降落在机场。	The plane safely landed at the airport.	这架飞机在北京降落。	This plane is landing in Beijing.	飞机顺利地降落了。	The plane landed smoothly.
 降温	jiàng wēn	verb, verbal noun		to cool	L4	开空调可以降温。	Turning on the air conditioning can cool things down.	天气降温了，多穿衣服。	The weather has cooled; dress more warmly.	喝冷水也可以降温。	Drinking cold water can also cool you down.
-交	jiāo	verb, morpheme		to give	L4	妈妈把礼物交给了孩子。	Mom gave the gift to the child.	他把信交给了我。	He gave the letter to me.	他把钱交给了老师。	The teacher gave the homework to the students.
+交	jiāo	verb, morpheme		to give	L4	妈妈把礼物交给了孩子。	Mom gave the gift to the child.	他把信交给了我。	He gave the letter to me.	他把钱交给了老师。	He gave the money to the teacher.
 交	jiāo	verb, morpheme		to hand over	L4	他把作业交给了老师。	He handed over the homework to the teacher.	请把这份文件交给经理。	Please hand over this document to the manager.	他把钥匙交给了朋友。	He handed over the keys to his friend.
-交	jiāo	verb, morpheme		to pay (money)	L4	他每个月交房租。	He pays rent every month.	请在下周前交学费。	Please pay the tuition before next week.	你交钱了吗？	Did you pay the electricity bill?
+交	jiāo	verb, morpheme		to pay (money)	L4	他每个月交房租。	He pays rent every month.	请在下周前交学费。	Please pay the tuition before next week.	你交钱了吗？	Did you pay the money?
 交警	jiāo jǐng	noun		traffic police	L4	交警在路口管理交通。	Traffic police are managing traffic at the intersection.	交警发现了开车太快的司机。	The traffic police found a driver going too fast.	他看到交警就慢了。	He slowed down when he saw the traffic police.
 交流	jiāo liú	verbal noun, verb		to exchange	L4	我们经常交流学习经验。	We often exchange learning experiences.	两国学生做了文化交流。	Students from both countries engaged in cultural exchange.	多交流可以让大家更了解。	More exchange can help everyone understand each other better.
 交通	jiāo tōng	noun		transportation	L4	这个城市的交通很方便。	Transportation in this city is very convenient.	早上交通很乱。	Transportation is very chaotic in the morning.	地铁是常用的交通方式。	The subway is a very common means of transportation.
-郊区	jiāo qū	place word	个	suburban district	L4	他们住在城市的郊区。	They live in the suburban district of the city.	这个郊区环境很安静。	This suburban district is very quiet.	很多人搬到了郊区生活。	Many people have moved to the suburban district to live.
+郊区	jiāo qū	place word	个	suburban district	L4	这个城市有三个郊区。	This city has three suburban districts.	这个郊区环境很安静。	This suburban district is very quiet.	很多人搬到了郊区生活。	Many people have moved to the suburban district to live.
 骄傲	jiāo ào	adjective-noun, adjective		arrogance	L4	他的骄傲让人不喜欢。	His arrogance makes people dislike him.	成功后他变得很骄傲。	After succeeding he became very arrogant.	骄傲会让人犯错误。	Arrogance causes people to make mistakes.
 骄傲	jiāo ào	adjective-noun, adjective		pride	L4	她为孩子感到骄傲。	She feels proud of her child.	这是我们国家的骄傲。	This is a source of pride for our country.	父母为她的成绩骄傲。	Her parents feel pride in her achievements.
-叫作	jiào zuò	verb		to be called	L4	这个地方叫作长城。	This place is called the Great Wall.	这种鸟叫作什么？	This kind of flower is called a peony.	他叫作小明。	He is called Xiao Ming.
+叫作	jiào zuò	verb		to be called	L4	这个地方叫作长城。	This place is called the Great Wall.	这种鸟叫作什么？	What is this kind of bird called?	他叫作小明。	He is called Xiao Ming.
 教练	jiào liàn	noun	个, 位, 名	instructor	L4	这位教练非常有经验。	This instructor is very experienced.	教练每天带我们练习。	Our instructor leads us in practice every day.	他是一名游泳教练。	He is a swimming instructor.
 教师	jiào shī	noun	个	teacher	L4	她是一个优秀的教师。	She is an excellent teacher.	这个学校有很多好教师。	This school has many good teachers.	他从小就想当教师。	He has wanted to be a teacher since childhood.
 教授	jiào shòu	noun, verb	个, 位	professor	L4	他是一位有名的教授。	He is a well-known professor.	这位教授的课很受欢迎。	This professor's classes are very popular.	她是大学里的教授。	She is a professor at the university.
