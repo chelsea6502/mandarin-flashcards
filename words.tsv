@@ -1043,7 +1043,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 怕	pà	verb		to fear	L3	我怕狗。	I'm afraid of dogs.	他怕考试。	He fears exams.	你怕什么？	What do you fear?
 拍照	pāi zhào	verb, verbal noun		to photograph	L3	我们在公园拍照。	We are taking photos in the park.	她喜欢拍照。	She likes to take photos.	可以帮我拍照吗？	Can you help me take a photo?
 盘子	pán zi	noun	个	plate	L3	桌上有两个盘子。	There are two plates on the table.	请把菜放在盘子里。	Please put the food in the plate.	这个盘子是干净的。	This plate is clean.
-盘子	pán zi	noun	个	tray	L3	这里有一个盘子。	There is a tray here.	盘子里放着几个杯子。	There are several cups on the tray.	把菜放在盘子里。	Put the food on the tray.
+盘子	pán zi	noun	个	tray	L3	这里有一个盘子。	There is a tray here.	盘子上有几个杯子。	There are several cups on the tray.	把菜放在盘子里。	Put the food on the tray.
 胖	pàng	adjective		fat	L3	他吃太多，变胖了。	He ate too much and got fat.	这只猫很胖。	This cat is very fat.	医生说他太胖了。	The doctor said he is too fat.
 啤酒	pí jiǔ	noun	杯, 瓶, 罐, 桶, 缸	beer	L3	他喜欢喝啤酒。	He likes to drink beer.	他要了一瓶啤酒。	He ordered a bottle of beer.	天热，我想喝啤酒。	It's hot — I want to drink beer.
 平时	píng shí	time word		in normal times	L3	平时他在家学习。	In normal times he studies at home.	平时这里没有这么多人。	In normal times there aren't this many people here.	平时学校门口很安静。	In normal times the school gate is very quiet.
@@ -1060,14 +1060,14 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 起飞	qǐ fēi	verb, verbal noun		(of an aircraft, economy, etc.) to take off	L3	飞机八点起飞。	The plane takes off at eight o'clock.	这个城市的发展起飞了。	This city's development has taken off.	飞机已经起飞了。	The plane has already taken off.
 汽车	qì chē	noun	辆	car	L3	他有一辆汽车。	He has a car.	路上的汽车很多。	There are many cars on the road.	那辆汽车是红色的。	That car is red.
 铅笔	qiān bǐ	noun	支, 枝, 杆	pencil	L3	我用铅笔写字。	I write with a pencil.	他有两支铅笔。	He has two pencils.	铅笔很便宜。	Pencils are very cheap.
-前年	qián nián	time word		the year before last	L3	前年我去了北京。	The year before last, I went to Beijing.	前年她结婚了。	She got married the year before last.	前年冬天很冷。	The winter the year before last was very cold.
+前年	qián nián	time word		the year before last	L3	前年我去了中国。	The year before last, I went to China.	前年她结婚了。	She got married the year before last.	前年冬天很冷。	The winter the year before last was very cold.
 前天	qián tiān	time word, noun		the day before yesterday	L3	前天我们去看电影了。	The day before yesterday we went to see a movie.	前天我没来上学。	The day before yesterday I didn't come to school.	他前天来过这里。	He came here the day before yesterday.
 清楚	qīng chu	adjective, verb, adverbial adjective		clear	L3	你说清楚一点。	Please speak a bit more clearly.	这张照片很清楚。	This photo is very clear.	我听得很清楚。	I heard it very clearly.
 请假	qǐng jià	verb		to request leave of absence	L3	我要请假一天。	I need to request one day off.	他去请假了。	He went to request leave.	我想请假回家。	I want to request leave to go home.
 请客	qǐng kè	verb		to treat somebody (to dinner, a show, etc.)	L3	今天我请客！	Today I'm treating everyone!	他请客吃饭。	He is treating us to dinner.	这次我来请客。	This time I'll treat.
-秋天	qiū tiān	time word	个	autumn	L3	秋天的树很好看。	The trees in autumn look beautiful.	这个秋天很凉快。	This autumn is quite cool.	我喜欢秋天。	I like autumn.
+秋天	qiū tiān	time word	个	autumn	L3	秋天的树很好看。	The trees in autumn look beautiful.	我在这里过了两个秋天。	I have spent two autumns here.	我喜欢秋天。	I like autumn.
 球场	qiú chǎng	noun	个, 处	ball court	L3	这个球场很大。	This ball court is very big.	他们在球场打球。	They are playing on the ball court.	学校有两个球场。	The school has two ball courts.
-球场	qiú chǎng	noun	个, 处	sports ground	L3	这个球场很新。	This sports ground is very new.	球场上有很多人。	There are many people on the sports ground.	我们去球场运动吧。	Let's go to the sports ground to exercise.
+球场	qiú chǎng	noun	个, 处	sports ground	L3	这个球场很新。	This sports ground is very new.	球场上有很多人。	There are many people on the sports ground.	这里有三个球场。	There are three sports grounds here.
 裙子	qún zi	noun	条	skirt	L3	她买了一条裙子。	She bought a skirt.	这条裙子很好看。	This skirt looks very nice.	她喜欢穿裙子。	She likes wearing skirts.
 然后	rán hòu	conjunction		afterwards	L3	先吃饭，然后去外面走走。	First eat, then go outside for a walk.	他洗手然后吃饭。	He washed his hands and then ate.	我们然后去哪里？	Where do we go afterwards?
 热情	rè qíng	adjective-noun, adjective, adverbial adjective		enthusiastic	L3	她对朋友很热情。	She is very enthusiastic toward her friends.	他热情地欢迎我们。	He enthusiastically welcomed us.	这里的人很热情。	The people here are very enthusiastic.
