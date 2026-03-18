@@ -534,7 +534,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 晴	qíng	adjective		(of weather) clear	L2	今天天气晴。	The weather is clear today.	晴天我喜欢出去走。	On clear days I like to go out for a walk.	明天是晴天。	Tomorrow will be a clear day.
 球	qiú	noun	个	ball	L2	这个球是我的。	This ball is mine.	他踢球踢得很好。	He plays soccer very well.	孩子们在玩球。	The children are playing with a ball.
 球	qiú	noun	个	sphere	L2	这个球很大。	This sphere is very big.	他画了一个球。	He drew a sphere.	那个球是白色的。	That sphere is white.
-让	ràng	preposition		by (used in some passive constructions)	L2	书让他拿走了。	The book was taken away by him.	水果让孩子吃完了。	The fruit was finished by the child.	钱让他用了。	The money was used by him.
+让	ràng	preposition		by (used in some passive constructions)	L2	书让他拿走了。	The book was taken away by him.	水果让孩子吃完了。	The fruit was finished by the child.	饭让他吃了。	The food was eaten by him.
 让	ràng	verb		to let	L2	妈妈让我出去玩。	Mom let me go out to play.	老师让学生回家。	The teacher let the students go home.	他不让我进去。	He didn't let me go in.
 让	ràng	verb		to make somebody do something or be a certain way	L2	这件事让我很高兴。	This matter makes me very happy.	雨让我很不高兴。	The rain makes me unhappy.	这件事让我很累。	This matter makes me very tired.
 肉	ròu	noun	块	meat	L2	我喜欢吃肉。	I like to eat meat.	这里的肉很好吃。	The meat here is very delicious.	妈妈买了两块肉。	Mom bought two pieces of meat.
@@ -544,24 +544,24 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 上去	shàng qù	verb		to go up	L2	他上去了。	He went up.	我们一起上去吧。	Let's go up together.	他跑上去找妈妈。	He ran up to find mom.
 上网	shàng wǎng	verb, verbal noun		to go on the internet	L2	我每天上网看书。	I go on the internet to read every day.	她在上网。	She is online.	孩子喜欢上网玩。	Children like to go on the internet to play.
 身体	shēn tǐ	noun	具, 个	body (of a person or organism)	L2	我的身体很好。	My body is very healthy.	他身体不舒服。	His body is not feeling well.	要爱自己的身体。	You should take care of your own body.
-生日	shēng rì	noun	个	birthday	L2	今天是我的生日。	Today is my birthday.	他的生日是几月几号？	What month and day is his birthday?	这是一个开心的生日。	This is a happy birthday.
+生日	shēng rì	noun	个	birthday	L2	今天是我的生日。	Today is my birthday.	他的生日是什么时候？	When is his birthday?	这是一个快乐的生日。	This is a happy birthday.
 时	shí	morpheme, time word		o'clock (e.g. 上午九时 9 a.m.)	L2	现在是上午九时。	It is now 9 o'clock in the morning.	下午三时我们上课。	We have class at 3 o'clock in the afternoon.	八时他去上学。	He goes to school at 8 o'clock.
 时	shí	morpheme, time word		time	L2	上课时，别说话。	During class, do not talk.	吃饭时不要说话。	Don't talk during meal time.	睡觉时不要看手机。	Do not look at your phone when sleeping.
 事情	shì qing	noun	件, 桩	thing (that happens or needs to be done)	L2	这件事情很大。	This thing is very important.	我有一件事情要做。	I have a thing I need to do.	你知道这件事情吗？	Do you know about this thing?
 事情	shì qing	noun	件, 桩	matter	L2	这件事情很好做。	This matter is very easy to handle.	我们来说说这件事情。	Let's discuss this matter.	他有很多事情要做。	He has many matters to take care of.
 手	shǒu	noun, classifier	双, 只	hand	L2	他的手很大。	His hands are very big.	请洗手再吃饭。	Please wash your hands before eating.	她有一双小手。	She has a pair of small hands.
 手表	shǒu biǎo	noun	块, 只, 个	wrist watch	L2	我的手表在哪里？	Where is my wrist watch?	他有一个手表。	He has a watch.	这只手表很贵。	This wrist watch is very expensive.
-书包	shū bāo	noun	个, 只	schoolbag	L2	我的书包很大。	My schoolbag is very big.	书包里有很多书。	There are many books in the schoolbag.	他拿着一个书包上学。	He carries a schoolbag to school.
+书包	shū bāo	noun	个, 只	schoolbag	L2	我的书包很大。	My schoolbag is very big.	书包里有很多书。	There are many books in the schoolbag.	他有一个书包。	He has a schoolbag.
 舒服	shū fu	adjective		comfortable	L2	这个椅子很舒服。	This chair is very comfortable.	今天天气很舒服。	The weather today is very comfortable.	我睡得很舒服。	I slept very comfortably.
 送	sòng	verb		to deliver	L2	他来送水了。	He came to deliver water.	他送东西过来了。	He delivered the items here.	他每天送水。	He delivers water every day.
 送	sòng	verb		to give (as a present)	L2	他送给我一本书。	He gave me a book as a present.	我送给妈妈一件衣服。	I gave Mom a piece of clothing as a gift.	生日时她送给我花。	On my birthday she gave me flowers as a gift.
 送	sòng	verb		to see somebody off	L2	我去送他上车。	I went to see him off to the car.	他们去机场送朋友。	They went to the airport to see their friend off.	朋友来送我了。	My friend came to see me off.
 虽然	suī rán	conjunction		although	L2	虽然很累，我还是去了。	Although I was very tired, I still went.	虽然天冷，他不穿衣服。	Although the weather is cold, he doesn't wear a jacket.	虽然贵，我还是买了。	Although it was expensive, I still bought it.
 所以	suǒ yǐ	conjunction		so	L2	天晚了，所以回家吧。	It's getting late, so let's go home.	我不知道，所以问你。	I didn't know, so I asked you.	他喜欢，所以买了。	He liked it, so he bought it.
-疼	téng	verb, adjective		(of parts of the body) to hurt	L2	我的头很疼。	My head hurts.	我的手很疼。	My hand hurts.	他的手疼。	His hand hurts.
+疼	téng	verb, adjective		(of parts of the body) to hurt	L2	我的头很疼。	My head hurts.	我的手很疼。	My hand hurts.	她的眼睛疼。	Her eyes hurt.
 疼	téng	verb, adjective		to love dearly	L2	妈妈很疼她的孩子。	Mom loves her child dearly.	爸爸最疼小女儿。	Dad loves his youngest daughter the most.	奶奶很疼我。	Grandma loves me dearly.
 踢	tī	verb		to kick	L2	他踢了一下门。	He kicked the door once.	不要踢小狗。	Don't kick the puppy.	她踢了那个球。	She kicked that ball.
-题	tí	noun, verb	道, 个	question	L2	这题不难。	This question is not difficult.	第一题你会吗？	Can you do question one?	我做了三道题。	I did three questions.
+题	tí	noun, verb	道, 个	question	L2	这题不好做。	This question is not easy to do.	第一题你会吗？	Can you do question one?	我做了三道题。	I did three questions.
 题	tí	noun, verb	个	topic	L2	今天的题是什么？	What is today's topic?	这个题很有意思。	This topic is very interesting.	这个题很大。	This topic is a big one.
 条	tiáo	classifier		measure word for long thin things and clauses	L2	我有两条鱼。	I have two fish.	他买了一条裤子。	He bought a pair of pants.	路上有一条狗。	There is a dog on the road.
 跳舞	tiào wǔ	verb, verbal noun		to dance	L2	她很喜欢跳舞。	She really likes to dance.	我们一起去跳舞吧。	Let's go dancing together.	他每天跳舞。	He dances every day.
