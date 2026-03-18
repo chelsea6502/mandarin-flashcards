@@ -2478,7 +2478,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 相互	xiāng hù	adverb, non-predicate adjective		mutual	L4	同学之间要相互帮助。	Classmates should help each other mutually.	他们相互学习，共同变好。	They learn from each other mutually and improve together.	两国相互尊重很重要。	It is important for the two countries to mutually respect each other.
 相同	xiāng tóng	adjective		identical	L4	他们两个的想法完全相同。	Their two ideas are completely identical.	这两件衣服的颜色相同。	These two pieces of clothing are identical in color.	他们的回答相同。	Their answers are identical.
 香	xiāng	noun, adjective, verb	根	fragrant	L4	这个房间里有一股香味。	There is a fragrant smell in this room.	这个花很香。	This flower is very fragrant.	这朵花的味道很香。	This flower has a very fragrant smell.
-香	xiāng	noun, adjective, verb	根	with relish	L4	他饿了，吃得很香。	He was hungry and ate with great relish.	他吃得很香。	He ate with great relish.	她吃饭吃得香极了。	She ate her meal with great relish.
+香	xiāng	noun, adjective, verb	根	with relish	L4	他饿了，吃得很香。	He was hungry and ate with great relish.	孩子吃得真香。	The child ate with great relish.	她吃饭吃得香极了。	She ate her meal with great relish.
 详细	xiáng xì	adjective, adverbial adjective		detailed	L4	请详细说一下这件事。	Please describe this matter in detail.	他给了我一个详细的解释。	He gave me a detailed explanation.	你能详细说一下吗？	Can you explain in more detail?
 响	xiǎng	verb, adjective, classifier		noisy	L4	这个地方太响了，说话听不见。	This place is too noisy, you can't hear people talking.	楼上很响，让人睡不着。	Upstairs is very noisy, making it hard to sleep.	街上的声音真响。	The sounds on the street are really noisy.
 响	xiǎng	verb, adjective, classifier		to make a sound	L4	手机突然响了。	The phone suddenly made a sound.	外面有什么在响。	Something outside is making a sound.	门响了，有人来了。	The door made a sound — someone has arrived.
@@ -2487,16 +2487,16 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 项	xiàng	classifier		measure word for items in a list	L4	这份表格有三项内容。	This form has three items.	请填写以下各项。	Please fill in each of the following items.	第一项是你的名字。	The first item is your name.
 消息	xiāo xi	noun	条	information	L4	你有他的消息吗？	Do you have any information about him?	我需要更多消息才好决定。	I need more information to make a good decision.	这条消息很重要。	This piece of information is very important.
 消息	xiāo xi	noun	条	news	L4	今天有一条好消息。	There is one piece of good news today.	我在电视上看了消息。	I watched the news on TV.	这条消息让大家很高兴。	This piece of news made everyone happy.
-小吃	xiǎo chī	noun	家	refreshments	L4	会议上准备了小吃和饮料。	Refreshments and drinks were prepared for the meeting.	大家边聊边吃小吃。	Everyone chatted while having refreshments.	桌上放着各种小吃。	Various refreshments were placed on the table.
-小吃	xiǎo chī	noun	家	snack	L4	街上有很多小吃。	There are many snacks on the street.	我买了一些小吃。	I bought some snacks.	那家小吃店很有名。	That snack shop is very famous.
+小吃	xiǎo chī	noun		refreshments	L4	会议上准备了小吃和饮料。	Refreshments and drinks were prepared for the meeting.	大家边聊边吃小吃。	Everyone chatted while having refreshments.	桌上放着各种小吃。	Various refreshments were placed on the table.
+小吃	xiǎo chī	noun		snack	L4	街上有很多小吃。	There are many snacks on the street.	我买了一些小吃。	I bought some snacks.	那家小吃店很有名。	That snack shop is very famous.
 小伙子	xiǎo huǒ zi	noun	个	lad	L4	这个小伙子很聪明。	This lad is very smart.	那个小伙子才二十岁。	That lad is only twenty years old.	小伙子，你叫什么名字？	Lad, what is your name?
 小伙子	xiǎo huǒ zi	noun	个	young man	L4	那个小伙子长得很高。	That young man is very tall.	一个小伙子帮我拿了行李。	A young man helped me carry my luggage.	这个小伙子很努力。	This young man works very hard.
 小说	xiǎo shuō	noun	本, 部	novel	L4	我正在看一本小说。	I am reading a novel.	这部小说很好看。	This novel is very good.	她喜欢看爱情小说。	She likes reading romance novels.
 小组	xiǎo zǔ	noun		group	L4	我们分为三个小组。	We divided into three groups.	每个小组有五名学生。	Each group has five students.	小组讨论结束了。	The group discussion has ended.
 笑话	xiào hua	noun	个	joke	L4	他给我们讲了一个笑话。	He told us a joke.	这个笑话真好笑。	This joke is really funny.	大家都喜欢听他讲笑话。	Everyone likes to hear him tell jokes.
 效果	xiào guǒ	noun		effect	L4	这个方法效果很好。	This method has a very good effect.	药的效果不错。	The effect of the medicine is good.	这个广告效果很差。	This advertisement has a very poor effect.
-心	xīn	noun	颗, 个	heart	L4	她的心很健康。	Her heart is very healthy.	医生检查了他的心。	The doctor examined his heart.	我的心不太好，要去看医生。	My heart is not great; I need to see a doctor.
-心情	xīn qíng	noun	个	mood	L4	今天的心情很好。	My mood is very good today.	他的心情不太好。	His mood is not very good.	音乐让她的心情好多了。	Music made her mood much better.
+心	xīn	noun	颗, 个	heart	L4	他有一颗好心。	He has a good heart.	医生检查了他的心。	The doctor examined his heart.	我的心不太好，要去看医生。	My heart is not great; I need to see a doctor.
+心情	xīn qíng	noun		mood	L4	今天的心情很好。	My mood is very good today.	他的心情不太好。	His mood is not very good.	音乐让她的心情好多了。	Music made her mood much better.
 辛苦	xīn kǔ	adjective, verb, adverbial adjective, adjective-noun		exhausting	L4	长时间工作真辛苦。	Working for a long time is truly exhausting.	爬这座山太辛苦了。	Climbing this mountain is too exhausting.	带孩子很辛苦。	Taking care of children is exhausting.
 辛苦	xīn kǔ	adjective, verb, adverbial adjective, adjective-noun		hard	L4	这份工作很辛苦。	This job is very hard.	爸爸每天工作都很辛苦。	Dad works very hard every day.	妈妈每天都很辛苦。	Mom works very hard every day.
 信号	xìn hào	noun	个	signal	L4	这里没有手机信号。	There is no cell phone signal here.	老师给了一个开始的信号。	The teacher gave a signal to start.	信号灯变成绿色了。	The signal light turned green.
@@ -2509,8 +2509,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 兴奋	xīng fèn	verb, adjective, adjective-noun		to excite	L4	好消息让她很兴奋。	The good news excited her.	比赛的结果让大家兴奋。	The result of the competition excited everyone.	这件事让他非常兴奋。	This matter excited him very much.
 幸福	xìng fú	adjective, adjective-noun, proper noun (other)		blessed	L4	他是个幸福的人。	He is a blessed person.	她有一个幸福的家庭。	She has a blessed family.	孩子们过着幸福的生活。	The children live a blessed life.
 幸福	xìng fú	adjective, adjective-noun, proper noun (other)		happy	L4	他们一家人生活得很幸福。	Their whole family lives happily.	她和爱的人在一起，很幸福。	She is with the person she loves and feels very happy.	我觉得现在的生活很幸福。	I feel that my current life is very happy.
-性	xìng	morpheme, noun, suffix		nature	L4	人的性是天生的。	His character is very good.	他的性很好。	A person's nature is very hard to change.	这个人的性很特别。	This person's nature is very special.
-性	xìng	morpheme, noun, suffix		property	L4	这种材料有特别的性。	Water has the property of flowing.	水有流动的性。	This material has the property of being very hard.	他在研究这种药的性。	This type of food has a sour property.
+性	xìng	morpheme, noun, suffix		nature	L4	人的性是天生的。	A person's nature is innate.	他的性很好。	His nature is very good.	这个人的性很特别。	This person's nature is very special.
+性	xìng	morpheme, noun, suffix		property	L4	这种材料有特别的性。	This type of material has special properties.	水有流动的性。	Water has the property of flowing.	他在研究这种药的性。	He is researching the properties of this medicine.
 性	xìng	morpheme, noun, suffix		sex	L4	这本书讲了性教育的内容。	This book covers the content of sex education.	性是一个重要的问题。	Sex is an important topic.	学校开始教关于性的知识。	The school began teaching knowledge about sex.
 性别	xìng bié	noun		gender	L4	请填写你的性别。	Please fill in your gender.	这份工作欢迎所有性别。	This job welcomes all genders.	表格上要写性别和年龄。	You need to write your gender and age on the form.
 性格	xìng gé	noun	个	temperament	L4	她的性格很好，大家都喜欢她。	Her temperament is very good; everyone likes her.	他的性格有点怪。	His temperament is a bit strange.	两人的性格很不一样。	The two people have very different temperaments.
