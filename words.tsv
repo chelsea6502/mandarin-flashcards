@@ -834,20 +834,20 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 刚才	gāng cái	time word		just now	L3	刚才他打电话给我。	Just now he called me.	你刚才去哪里了？	Where did you go just now?	刚才的事你忘了吗？	Have you forgotten what happened just now?
 刚刚	gāng gang	adverb		just now	L3	妈妈刚刚出门。	Mom just went out.	我刚刚看完这本书。	I just finished reading this book.	他刚刚说了什么？	What did he say just now?
 刚刚	gāng gang	adverb		just recently	L3	他刚刚开始学中文。	He just recently started learning Chinese.	我们刚刚认识不久。	We just recently got to know each other.	这家店刚刚开门。	This store just recently opened.
-高铁	gāo tiě	noun		high speed rail	L3	我们坐高铁去北京。	We'll take the high speed rail to Beijing.	高铁比飞机快吗？	Is high speed rail faster than a plane?	这里有高铁站吗？	Is there a high speed rail station here?
+高铁	gāo tiě	noun		high speed rail	L3	我们坐高铁去旅游。	We'll take the high speed rail to go traveling.	高铁比飞机快吗？	Is high speed rail faster than a plane?	这里有高铁站吗？	Is there a high speed rail station here?
 根据	gēn jù	preposition, noun, verb	个	according to	L3	根据天气，我们不去了。	According to the weather, we won't go.	根据老师说的，要复习。	According to what the teacher said, we need to review.	根据地图，往左走。	According to the map, go left.
-根据	gēn jù	preposition, noun, verb	个	basis	L3	你说话要有根据。	You need to have a basis for what you say.	他的话没有根据。	What he said has no basis.	这件事有什么根据？	What basis is there for this matter?
+根据	gēn jù	preposition, noun, verb	个	basis	L3	你说话要有根据。	You need to have a basis for what you say.	他的话没有根据。	What he said has no basis.	我找到了一个根据。	I found a basis.
 更	gèng	adverb		more	L3	今天更冷了。	It's even colder today.	他比我更高。	He is taller than me.	这个更好吃。	This one tastes even better.
-更	gēng	verb		to change	L3	他更换了手机。	He replaced his phone.	旧的方法已经更改了。	The old method has already been changed.	号码更新了，请注意。	The number has been updated; please take note.
+更	gēng	verb		to change	L3	他更换了手机。	He replaced his phone.	旧的方法已经更换了。	The old method has already been replaced.	号码更新了，请注意。	The number has been updated; please take note.
 工作日	gōng zuò rì	noun		workday	L3	今天是工作日，不能休息。	Today is a workday; I can't rest.	工作日人很多。	There are lots of people on workdays.	工作日我很忙。	I'm very busy on workdays.
 公斤	gōng jīn	classifier		kilogram	L3	这个西瓜有五公斤。	This watermelon weighs five kilograms.	我买了一公斤苹果。	I bought one kilogram of apples.	他有六十公斤。	He weighs sixty kilograms.
-公园	gōng yuán	noun	个, 座	park (for public recreation)	L3	我们去公园玩吧。	Let's go play in the park.	这个公园很大。	This park is very large.	附近有公园。	There is a park nearby.
+公园	gōng yuán	noun	个, 座	park (for public recreation)	L3	我们去公园玩吧。	Let's go play in the park.	这个公园很大。	This park is very large.	附近有两个公园。	There are two parks nearby.
 刮	guā	verb		to blow	L3	外面刮风了。	The wind is blowing outside.	今天刮大风。	There's a strong wind blowing today.	风刮走了我的伞。	The wind blew away my umbrella.
 刮	guā	verb		to scrape	L3	他刮了一下。	He scraped once.	请帮我刮一下这里。	Please help me scrape here.	他把苹果刮了。	He scraped the apple.
 刮	guā	verb		to shave	L3	爸爸每天早上刮脸。	Dad shaves his face every morning.	他刮了脸，看起来更年轻。	He shaved his face and looks younger.	你要不要刮脸？	Do you want to shave?
 关	guān	verb, noun, proper noun (person)		to close	L3	请关门，外面很冷。	Please close the door; it's cold outside.	商店五点关门。	The store closes at five o'clock.	你关门了吗？	Did you close the door?
 关	guān	verb, noun, proper noun (person)		to concern	L3	这件事关你什么？	How does this matter concern you?	这个问题关我们大家。	This issue concerns all of us.	天气关每个人的生活。	The weather concerns everyone's daily life.
-关	guān	verb, noun, proper noun (person)		to involve	L3	这件事关系到钱的问题。	This matter involves a money issue.	那件事关系到好几个人。	That matter involves several people.	这关系到你的工作。	This involves your work.
+关	guān	verb, noun, proper noun (person)		to involve	L3	这件事关很多人。	This matter involves many people.	那件事关好几个人。	That matter involves several people.	这关你的工作。	This involves your work.
 关	guān	verb, noun, proper noun (person)		to turn off	L3	请关灯，我要睡觉了。	Please turn off the light; I'm going to sleep.	出门前关电视。	Turn off the TV before going out.	他忘了关空调。	He forgot to turn off the air conditioner.
 关机	guān jī	verb		to turn off (a machine)	L3	飞机上要关机。	You need to turn off your phone on the plane.	他的手机关机了。	His phone has been turned off.	睡觉前记得关机。	Remember to turn off the machine before sleeping.
 关系	guān xi	noun, verb	个	connection	L3	这两件事有关系。	These two things have a connection.	他们两个没有关系。	There is no connection between the two of them.	这个关系很重要。	This connection is very important.
@@ -861,19 +861,19 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 过节	guò jié	verb, verbal noun		to celebrate a festival	L3	我们和家人一起过节。	We celebrate the holiday together with family.	你怎么过节？	How do you celebrate the festival?	过节要吃好吃的。	When celebrating a festival, you should eat delicious food.
 海	hǎi	noun		sea	L3	海很蓝很漂亮。	The sea is very blue and beautiful.	我想去海边玩。	I want to go play by the sea.	我们坐船在海上走。	We traveled on the sea by boat.
 害怕	hài pà	verb, verbal noun		to be afraid	L3	我害怕一个人在家。	I'm afraid of being home alone.	他害怕去看病。	He is afraid of going to the doctor.	小孩子害怕去医院。	Small children are afraid of going to the hospital.
-行	háng	verb, morpheme, classifier, adjective, noun		line	L3	第三行写的是什么？	What is written on the third line?	请看第一行。	Please look at the first line.	这行字太小了。	The characters on this line are too small.
-行	xíng	verb, morpheme, classifier, adjective, noun		OK	L3	明天去，行吗？	Is it OK to go tomorrow?	行，我去买。	OK, I'll go buy it.	这样做行不行？	Is it OK to do it this way?
-行	háng	verb, morpheme, classifier, adjective, noun		profession	L3	你是做什么行的？	What profession are you in?	他在这行工作了十年。	He has worked in this profession for ten years.	每行都有自己的方法。	Every profession has its own methods.
-行	háng	verb, morpheme, classifier, adjective, noun		row	L3	请坐第一行。	Please sit in the first row.	同学们坐了三行。	The students sat in three rows.	第二行有五个人坐着。	There are five people sitting in the second row.
-行	háng	verb, morpheme, classifier, adjective, noun		trade	L3	他在一家大行工作。	He works at a large trading firm.	这家行很有名。	This trade firm is very well-known.	他开了一家行。	He opened a trade firm.
+行	háng	noun, classifier, morpheme		line	L3	第三行写的是什么？	What is written on the third line?	请看第一行。	Please look at the first line.	这行字太小了。	The characters on this line are too small.
+行	xíng	verb, adjective, morpheme		OK	L3	明天去，行吗？	Is it OK to go tomorrow?	行，我去买。	OK, I'll go buy it.	这样做行不行？	Is it OK to do it this way?
+行	háng	noun, classifier, morpheme		profession	L3	你是做什么行的？	What profession are you in?	他在这行工作了十年。	He has worked in this profession for ten years.	每行都有自己的方法。	Every profession has its own methods.
+行	háng	noun, classifier, morpheme		row	L3	请坐第一行。	Please sit in the first row.	同学们坐了三行。	The students sat in three rows.	第二行有五个人。	There are five people in the second row.
+行	háng	noun, classifier, morpheme		trade	L3	他在一家大行工作。	He works at a large trading firm.	这家行很有名。	This trade firm is very well-known.	他开了一家行。	He opened a trade firm.
 行李	xíng li	noun	件	luggage	L3	我的行李很多。	I have a lot of luggage.	他只有一件行李。	He only has one piece of luggage.	请把行李放这里。	Please put the luggage here.
 好多	hǎo duō	numeral		many	L3	这里有好多人！	There are so many people here!	桌上有好多苹果。	There are many apples on the table.	她有好多朋友。	She has many friends.
 好久	hǎo jiǔ	numeral		quite a while	L3	我们好久没见了！	We haven't seen each other for quite a while!	他等了好久。	He waited for quite a while.	这是好久以前的事了。	This is something that happened quite a while ago.
 好像	hǎo xiàng	verb		to seem like	L3	他好像病了。	He seems to be sick.	外面好像在下雨。	It seems like it's raining outside.	她好像不高兴。	She seems unhappy.
 号码	hào mǎ	noun	个	number	L3	你的电话号码是多少？	What is your phone number?	请告诉我你的房间号码。	Please tell me your room number.	我有好几个号码要记。	I have many numbers to remember.
 合适	hé shì	adjective		suitable	L3	这件衣服很合适。	This piece of clothing is very suitable.	这个工作对你合适。	This job is suitable for you.	这个时间合适吗？	Is this time suitable?
-河	hé	noun	条, 道	river	L3	这条河很长。	This river is very long.	我们在河边走。	We walk by the river.	那条河里有很多鱼。	There are many fish in that river.
-黑板	hēi bǎn	noun	块, 个	blackboard	L3	老师在黑板上写字。	The teacher writes on the blackboard.	请看黑板上的字。	Please look at the characters on the blackboard.	那块黑板很干净。	That blackboard is very clean.
+河	hé	noun	条, 道	river	L3	我们走过了两条河。	We crossed two rivers.	我们在河边走。	We walk by the river.	那条河里有很多鱼。	There are many fish in that river.
+黑板	hēi bǎn	noun	块, 个	blackboard	L3	教室里有一块黑板。	There is one blackboard in the classroom.	请看黑板上的字。	Please look at the characters on the blackboard.	那块黑板很干净。	That blackboard is very clean.
 红绿灯	hóng lǜ dēng	noun	个	traffic light	L3	前面有一个红绿灯。	There is a traffic light ahead.	红绿灯是红色的，不能走。	The traffic light is red; you can't go.	看到红绿灯再走。	Walk when you see the traffic light (go green).
 后来	hòu lái	time word		afterwards	L3	我们吃完饭，后来去公园。	We finished eating, and afterwards went to the park.	他先哭了，后来笑了。	He cried first, and afterwards laughed.	后来他找到了工作。	Afterwards, he found a job.
 后年	hòu nián	time word		the year after next	L3	后年我要去中国。	The year after next, I want to go to China.	她后年要离开学校。	She will leave school the year after next.	后年的事还早。	The year after next is still far away.
