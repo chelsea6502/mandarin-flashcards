@@ -992,7 +992,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 离开	lí kāi	verb		to depart	L3	我明天就要离开了。	I am about to depart tomorrow.	飞机八点离开。	The plane departs at eight o'clock.	他离开了家，去工作了。	He departed from home to go to work.
 礼物	lǐ wù	noun	件, 个, 份	gift	L3	他送我一件礼物。	He gave me a gift.	这个礼物是她买的。	This gift was bought by her.	生日时朋友送了礼物。	A friend gave a gift on my birthday.
 历史	lì shǐ	noun	门, 段	history	L3	我喜欢学历史。	I like studying history.	中国有很长的历史。	China has a very long history.	这是一段重要的历史。	This is an important period of history.
-脸	liǎn	noun, classifier	张, 个	face	L3	她的脸红了。	Her face turned red.	他洗了脸。	He washed his face.	她有一张漂亮的脸。	She has a beautiful face.
+脸	liǎn	noun	张, 个	face	L3	她的脸红了。	Her face turned red.	他洗了脸。	He washed his face.	她有一张漂亮的脸。	She has a beautiful face.
 练	liàn	verb		to practice	L3	我每天练汉字。	I practice Chinese characters every day.	她在练唱歌。	She is practicing singing.	多练才能说好中文。	You have to practice more to speak Chinese well.
 练	liàn	verb		to train	L3	他每天练跑步。	He trains running every day.	运动员每天练很长时间。	Athletes train for a long time every day.	我们要练好说话。	We need to train our speaking well.
 练习	liàn xí	verb, verbal noun	个	to practice	L3	我每天练习说中文。	I practice speaking Chinese every day.	他练习写汉字。	He practices writing Chinese characters.	老师给了我们一个练习。	The teacher gave us an exercise.
@@ -1000,14 +1000,14 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 辆	liàng	classifier		measure word for vehicles	L3	我家有两辆车。	My family has two vehicles.	他买了一辆新自行车。	He bought a new bicycle.	路上有很多辆车。	There are many vehicles on the road.
 聊	liáo	verb		to chat	L3	我们在公园聊。	We are chatting in the park.	她喜欢和朋友聊。	She likes to chat with friends.	我们聊了很长时间。	We chatted for a long time.
 聊天儿	liáo tiān r	verb		to chat	L3	我们一起聊天儿吧。	Let's chat together.	她喜欢和邻居聊天儿。	She likes to chat with her neighbors.	没事的时候，我喜欢聊天儿。	When I have nothing to do, I like to chat.
-邻居	lín jū	noun	个	neighbor	L3	我的邻居很好。	My neighbor is very good.	邻居帮我照顾了猫。	My neighbor helped take care of my cat.	这个邻居每天早起。	This neighbor wakes up early every day.
-留学	liú xué	verb, verbal noun		to study abroad	L3	她去日本留学了。	She went to Japan to study abroad.	我想去英国留学。	I want to study abroad in the UK.	留学可以学很多东西。	You can learn a lot from studying abroad.
-留学生	liú xué shēng	noun	个, 位	international student	L3	我们班有几个留学生。	There are several international students in our class.	那个留学生来自日本。	That international student comes from Japan.	留学生的生活很有意思。	The life of an international student is very interesting.
-楼梯	lóu tī	noun	个	staircase	L3	请走楼梯，不要坐电梯。	Please take the staircase, not the elevator.	楼梯在左边。	The staircase is on the left.	这个楼梯很长。	This staircase is very long.
+邻居	lín jū	noun	个	neighbor	L3	我有一个好邻居。	I have one good neighbor.	邻居帮我照顾了猫。	My neighbor helped take care of my cat.	这个邻居每天早起。	This neighbor wakes up early every day.
+留学	liú xué	verb, verbal noun		to study abroad	L3	她去外国留学了。	She went abroad to study.	我想去外国留学。	I want to study abroad.	留学可以学很多东西。	You can learn a lot from studying abroad.
+留学生	liú xué shēng	noun	个, 位	international student	L3	我们班有几个留学生。	There are several international students in our class.	那个留学生来自外国。	That international student comes from abroad.	留学生的生活很有意思。	The life of an international student is very interesting.
+楼梯	lóu tī	noun	个	staircase	L3	请走楼梯，不要坐电梯。	Please take the staircase, not the elevator.	这里有两个楼梯。	There are two staircases here.	这个楼梯很长。	This staircase is very long.
 路边	lù biān	place word		roadside	L3	路边有很多树。	There are many trees by the roadside.	他站在路边等我。	He stood at the roadside waiting for me.	路边有一家小店。	There is a small shop by the roadside.
 路口	lù kǒu	noun		road intersection	L3	在路口往左走。	Turn left at the intersection.	我们在路口等你。	We will wait for you at the intersection.	路口有红绿灯。	There is a traffic light at the intersection.
 马	mǎ	noun, proper noun (person), non-predicate adjective		horse	L3	这个马跑得很快。	This horse runs very fast.	那里有很多马。	There are many horses there.	孩子们喜欢骑马。	Children love riding horses.
-马路	mǎ lù	noun	条	road	L3	不要在马路上玩。	Don't play on the road.	这条马路很长。	This road is very long.	马路两边有树。	There are trees on both sides of the road.
+马路	mǎ lù	noun	条	road	L3	不要在马路上玩。	Don't play on the road.	前面有两条马路。	There are two roads ahead.	马路两边有树。	There are trees on both sides of the road.
 马上	mǎ shàng	adverb, place word		immediately	L3	我马上就来。	I'll be there immediately.	他马上回家了。	He went home immediately.	作业要马上做。	The homework must be done immediately.
 满意	mǎn yì	verb, verbal noun		to be satisfied	L3	我对这次旅游很满意。	I am very satisfied with this trip.	老师对他的工作很满意。	The teacher is very satisfied with his work.	你对工作满意吗？	Are you satisfied with your work?
 毛	máo	proper noun (person), noun, classifier		0.10 RMB (colloquial version of 角)	L3	这个苹果两毛钱。	This apple costs two jiao (0.20 RMB).	我找了他五毛钱。	I gave him back fifty fen (0.50 RMB) in change.	一块五毛，行吗？	One yuan fifty fen — will that do?
