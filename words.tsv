@@ -4653,7 +4653,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 腰	yāo	noun		lower back	L5	他的腰不舒服，去看了医生。	His lower back was uncomfortable, so he went to see a doctor.	她的腰受伤了。	Her lower back was injured.	长时间坐着容易腰痛。	Sitting for a long time can easily cause lower back pain.
 腰	yāo	noun		waist	L5	她的腰非常细。	Her waist is very slender.	这条裙子把腰显得很好看。	This skirt makes the waist look very nice.	他弯下腰捡起了东西。	He bent down at the waist and picked up the object.
 摇	yáo	verb		to shake	L5	他摇了摇头，表示不同意。	He shook his head to indicate disagreement.	狗高兴地摇着尾巴。	The dog shakes its tail happily.	她轻轻地摇了摇铃。	She gently shook the bell.
-咬	yǎo	verb		to bite	L5	狗咬了他的手。	The dog bit his hand.	她被蚊子咬了。	She was bitten by a mosquito.	小孩子喜欢咬东西。	Small children like to bite things.
+咬	yǎo	verb		to bite	L5	狗咬了他的手。	The dog bit his hand.	他咬了一口面包。	He took a bite of bread.	小孩子喜欢咬东西。	Small children like to bite things.
 咬	yǎo	verb		to nip	L5	猫咬了他的手指一下。	The cat gave his finger a nip.	她的鞋太小，咬脚。	Her shoes are too small and nip her feet.	那只小狗用嘴咬了她的裤子。	That puppy gave her pants a nip with its mouth.
 药品	yào pǐn	noun		medicine; pharmaceutical products	L5	这些药品需要放在阴凉处保存。	These medicines need to be stored in a cool place.	医院的药品种类很多。	Hospitals carry a wide variety of medicines.	服用药品前要仔细阅读说明书。	Read the instructions carefully before taking any medicine.
 药品	yào pǐn	noun		pharmaceuticals	L5	这家公司生产各种药品。	This company produces various pharmaceuticals.	药品不能随便乱放。	Pharmaceuticals must not be left lying around carelessly.	他去药店买了一些药品。	He went to the pharmacy to buy some pharmaceuticals.
@@ -4665,7 +4665,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 业余	yè yú	non-predicate adjective		amateur	L5	他是一位业余音乐家。	He is an amateur musician.	她是一位业余画家。	She is an amateur painter.	这支球队都是业余选手。	This team is made up entirely of amateur players.
 夜间	yè jiān	time word, noun		nighttime	L5	夜间禁止在这里停车。	Parking here is prohibited during nighttime.	夜间温度比白天低很多。	Nighttime temperatures are much lower than during the day.	他经常在夜间工作。	He often works during nighttime.
 夜市	yè shì	noun		night market	L5	我们去夜市吃了很多小吃。	We went to the night market and ate many snacks.	台湾的夜市非常有名。	Taiwan's night markets are very famous.	夜市里东西很便宜。	Things at the night market are very cheap.
-一次性	yī cì xìng	non-predicate adjective, adverb		one time only	L5	这个优惠是一次性的。	This discount is one time only.	他得到了一次性的奖金。	He received a one time only bonus.	这个机会是一次性的，要好好珍惜。	This opportunity is one time only, so cherish it well.
+一次性	yī cì xìng	non-predicate adjective, adverb		one time only	L5	这个优惠是一次性的。	This discount is one time only.	他得到了一次性的机会。	He received a one time only opportunity.	这个机会是一次性的，要好好珍惜。	This opportunity is one time only, so cherish it well.
 一次性	yī cì xìng	non-predicate adjective, adverb		single-use	L5	这种杯子是一次性的，用完就扔。	This type of cup is single-use; throw it away after use.	一次性筷子不环保。	Single-use chopsticks are not environmentally friendly.	医院使用一次性手套。	Hospitals use single-use gloves.
 一代	yī dài	noun		generation	L5	我们这一代人很幸运。	Our generation is very fortunate.	每一代都有自己的挑战。	Every generation has its own challenges.	年轻一代的想法不一样。	The younger generation thinks differently.
 一旦	yī dàn	adverb, conjunction		once	L5	一旦决定了，就不要后悔。	Once you have decided, do not regret it.	一旦开始，就要坚持下去。	Once you start, you must keep going.	一旦失去机会，就很难找回来。	Once an opportunity is lost, it is very hard to get back.
@@ -4673,7 +4673,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 一路	yī lù	numeral-classifier, adverb		all the way	L5	他跑步一路领先。	He led all the way in the race.	一路向前走，不要停下来。	Go all the way forward; do not stop.	他们一路顺利到达了目的地。	They arrived at their destination smoothly all the way.
 一路	yī lù	numeral-classifier, adverb		the whole journey	L5	他一路上都在唱歌。	He sang songs the whole journey.	一路上风景非常美。	The scenery was beautiful the whole journey.	她一路上都在睡觉。	She slept the whole journey.
 一路顺风	yī lù shùn fēng	verb		bon voyage	L5	他要出发了，我们祝他一路顺风。	He is about to set off; we wish him bon voyage.	一路顺风！早点回来！	Bon voyage! Come back soon!	朋友送她上车，说了声一路顺风。	Her friend saw her off at the car and said bon voyage.
-一致	yī zhì	adjective, adjective-noun, adverbial adjective, proper noun (other)		unanimous	L5	大家一致同意这个方案。	Everyone was unanimous in agreeing to this plan.	他们的意见一致。	Their opinions were unanimous.	全体成员一致通过了决议。	All members unanimously passed the resolution.
+一致	yī zhì	adjective, adjective-noun, adverbial adjective, proper noun (other)		unanimous	L5	大家一致同意这个方案。	Everyone was unanimous in agreeing to this plan.	他们的意见一致。	Their opinions were unanimous.	全体成员一致通过了这个方案。	All members unanimously passed this plan.
 医疗	yī liáo	noun		medical treatment	L5	这里的医疗条件很好。	The standard of medical care here is very good.	他接受了三个月的医疗。	He received three months of medical treatment.	农村的医疗水平需要提高。	The level of medical treatment in rural areas needs to improve.
 医学	yī xué	noun		medical science	L5	她学的是医学。	She studies medical science.	医学的发展改变了人们的生活。	The development of medical science has changed people's lives.	这所大学的医学专业很有名。	This university's medical science program is very famous.
 依据	yī jù	noun, preposition, verb		according to	L5	依据法律，他没有权利这样做。	According to the law, he has no right to do this.	依据调查结果，我们做出了决定。	According to the survey results, we made a decision.	请依据规定完成手续。	Please complete the procedures according to the regulations.
@@ -4681,7 +4681,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 依靠	yī kào	verb, verbal noun		to rely on	L5	他完全依靠父母生活。	He relies entirely on his parents to live.	我们不能总是依靠别人。	We cannot always rely on others.	她依靠努力走向了成功。	She relied on hard work to achieve success.
 依然	yī rán	adverb, state word		still	L5	他依然每天坚持锻炼。	He still insists on exercising every day.	多年过去了，她依然年轻。	Many years have passed, and she is still young.	这里的风景依然很美。	The scenery here is still very beautiful.
 移	yí	verb		to move	L5	请把桌子移到窗边。	Please move the table to the window.	他移了一下椅子。	He moved the chair a little.	我们需要把这些东西移开。	We need to move these things away.
-移	yí	verb		to shift	L5	他把视线移向了窗外。	He shifted his gaze toward the window.	请把注意力移到这里来。	Please shift your attention over here.	风使树枝移了一下。	The wind caused the branch to shift slightly.
+移	yí	verb		to shift	L5	他把目光移向了窗外。	He shifted his gaze toward the window.	请把注意力移到这里来。	Please shift your attention over here.	风使树枝移了一下。	The wind caused the branch to shift slightly.
 移动	yí dòng	verbal noun, verb		to move	L5	请移动一下，让我过去。	Please move a bit so I can pass.	他把车移动到了停车场。	He moved the car to the parking lot.	这块石头太重，很难移动。	This rock is too heavy and very hard to move.
 遗憾	yí hàn	adjective, adjective-noun		regretful; to feel regret	L5	他很遗憾没能参加那次会议。	He regrets not being able to attend that meeting.	她遗憾地摇了摇头。	She regretfully shook her head.	我遗憾没能早点认识你。	I regret not having met you sooner.
 疑问	yí wèn	noun		doubt	L5	我对他的话有些疑问。	I have some doubts about what he said.	她对老师的决定从不产生疑问。	She never has any doubts about the teacher's decisions.	他对这件事的真实性产生了疑问。	He began to have doubts about the truth of this matter.
@@ -4689,11 +4689,11 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 乙	yǐ	numeral, numeral morpheme, noun, morpheme		second in order	L5	他的成绩属于乙等。	His grade falls in the second tier.	甲组第一，乙组第二。	Group A is first, group B is second.	这次比赛他拿了乙等奖。	He won the second-place prize in this competition.
 以	yǐ	preposition, conjunction, non-predicate adjective		by means of	L5	他以刀切开了面包。	He cut the bread by means of a knife.	我们以电话联系。	We communicated by means of telephone.	她以笑回答了他的问题。	She answered his question by means of a smile.
 以	yǐ	preposition, conjunction, non-predicate adjective		in order to	L5	他努力学习以通过考试。	He studies hard in order to pass the exam.	她早起以赶上公共汽车。	She got up early in order to catch the bus.	我们节省钱以买新房子。	We save money in order to buy a new house.
-以及	yǐ jí	coordinating conjunction		as well as	L5	他会说英语以及法语。	He can speak English as well as French.	我们需要水以及食物。	We need water as well as food.	她喜欢音乐以及舞蹈。	She likes music as well as dancing.
+以及	yǐ jí	coordinating conjunction		as well as	L5	这个工作需要经验以及能力。	This job requires experience as well as ability.	我们需要水以及食物。	We need water as well as food.	她喜欢音乐以及舞蹈。	She likes music as well as dancing.
 以来	yǐ lái	directional word		since (a previous event)	L5	入学以来他一直很努力。	Since starting school, he has always worked hard.	结婚以来我们很幸福。	Since getting married, we have been very happy.	从那件事以来她变了很多。	Since that incident, she has changed a lot.
 亿	yì	numeral		100 million	L5	中国有十四亿人口。	China has 1.4 billion people.	这家公司的价值超过百亿。	This company is worth over 10 billion.	全球有八十亿人。	There are 8 billion people in the world.
-义务	yì wù	noun, adverb	项	duty	L5	保护环境是每个人的义务。	Protecting the environment is everyone's duty.	他认真完成了这项义务。	He conscientiously fulfilled this duty.	纳税是每个人的一项义务。	Paying taxes is a duty of every person.
-义务	yì wù	noun, adverb	项	obligation	L5	我们有义务遵守法律。	We have an obligation to obey the law.	父母有义务养育孩子。	Parents have an obligation to raise their children.	这项义务是不能逃避的。	This obligation cannot be avoided.
+义务	yì wù	noun, adverb	项	duty	L5	保护环境是每个人的义务。	Protecting the environment is everyone's duty.	他认真完成了这项义务。	He conscientiously fulfilled this duty.	学习是学生的一项重要义务。	Studying is an important duty of students.
+义务	yì wù	noun, adverb	项	obligation	L5	我们有义务遵守法律。	We have an obligation to obey the law.	父母有义务照顾孩子。	Parents have an obligation to take care of their children.	这项义务每个人都要做到。	This obligation must be fulfilled by everyone.
 义务	yì wù	noun, adverb	项	obligation; duty; (as modifier) voluntary; unpaid	L5	他周末去做义务劳动。	He goes to do volunteer work on weekends.	这是一项义务服务活动。	This is a volunteer service event.	她参加了义务教学项目。	She joined a volunteer teaching project.
 意识	yì shí	noun, verb		awareness	L5	他的环保意识很强。	His environmental awareness is very strong.	我们要提高安全意识。	We need to raise our safety awareness.	她缺乏保护个人的意识。	She lacks awareness of protecting herself.
 意外	yì wài	adjective, adjective-noun, adverbial adjective	个	accident	L5	他在路上遇到了一个意外，手受伤了。	He encountered an accident on the road and injured his hand.	那次意外让他受了伤。	That accident left him injured.	我们要防止意外的发生。	We need to prevent accidents from happening.
