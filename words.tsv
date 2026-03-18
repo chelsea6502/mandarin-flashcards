@@ -254,8 +254,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 外	wài	directional word		outside	L1	猫在学校外。	The cat is outside the school.	学校外很冷。	It is cold outside the school.	他在外玩。	He is playing outside.
 外边	wài bian	directional word		outside	L1	外边很冷。	It is cold outside.	孩子在外边玩。	The child is playing outside.	请不要去外边。	Please don't go outside.
 玩	wán	verb		to play; to have fun	L1	孩子们在玩。	The children are playing.	你喜欢玩什么？	What do you like to play?	我们在这里玩吧。	Let's play here.
-晚	wǎn	time morpheme, adjective, adverbial adjective		late	L1	你来晚了。	You came late.	今天他起床很晚。	He got up very late today.	我睡得很晚。	I go to sleep very late.
-晚饭	wǎn fàn	noun	份, 顿, 次, 餐	evening meal	L1	我们吃晚饭吧。	Let's eat dinner.	妈妈做了晚饭。	Mom made dinner.	妈妈做了一顿晚饭。	Mom made a dinner.
+晚	wǎn	time morpheme, adjective, adverbial adjective		late	L1	你来晚了。	You came late.	今天他起床很晚。	He got up very late today.	他很晚睡觉。	He goes to sleep very late.
+晚饭	wǎn fàn	noun	份, 顿, 餐	evening meal	L1	我们吃晚饭吧。	Let's eat dinner.	妈妈做了晚饭。	Mom made dinner.	妈妈做了一顿晚饭。	Mom made a dinner.
 晚上	wǎn shang	time word	个	evening	L1	今天晚上我学习。	I will study this evening.	有一个晚上，他学习。	One evening, he studied.	晚上我们吃饭。	In the evening we eat.
 晚上	wǎn shang	time word	个	night	L1	晚上我不去。	I'm not going at night.	有一个晚上，他不回家。	One night, he didn't go home.	他晚上工作。	He works at night.
 喂	wèi	verb		to feed	L1	我去喂猫。	I go to feed the cat.	妈妈喂孩子吃饭。	Mom feeds the child.	妈妈喂孩子喝水。	Mom feeds the child water.
@@ -267,7 +267,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 我	wǒ	pronoun		me	L1	他叫我去吃饭。	He told me to go eat.	老师问了我一个问题。	The teacher asked me a question.	这是给我的书。	This book is for me.
 我们	wǒ men	pronoun		we	L1	我们是同学。	We are classmates.	我们吃饭吧。	Let's eat.	我们明天去学校。	We are going to school tomorrow.
 五	wǔ	numeral, time word		five	L1	我有五本书。	I have five books.	桌子上有五个苹果。	There are five apples on the table.	他家有五口人。	There are five people in his family.
-午饭	wǔ fàn	noun	份, 顿, 次, 餐	lunch	L1	我们吃午饭吧。	Let's eat lunch.	我吃了一顿午饭。	I had a lunch.	今天的午饭很好吃。	Today's lunch is very delicious.
+午饭	wǔ fàn	noun	份, 顿, 餐	lunch	L1	我们吃午饭吧。	Let's eat lunch.	我吃了一顿午饭。	I had a lunch.	今天的午饭很好吃。	Today's lunch is very delicious.
 喜欢	xǐ huan	verb, verbal noun		to be fond of	L1	他喜欢喝茶。	He is fond of drinking tea.	我很喜欢这只猫。	I am very fond of this cat.	她喜欢这里。	She is fond of this place.
 喜欢	xǐ huan	verb, verbal noun		to like	L1	我喜欢吃米饭。	I like to eat rice.	她喜欢唱歌。	She likes to sing.	他喜欢看书。	He likes to read books.
 下	xià	verb, directional word, time classifier, morpheme		below	L1	书在桌子下。	The book is below the table.	猫在椅子下。	The cat is under the chair.	桌子下有一只猫。	There is a cat under the table.
@@ -277,15 +277,15 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 下课	xià kè	verb, verbal noun		to finish class	L1	我们三点下课。	We finish class at three o'clock.	下课后我去吃饭。	After finishing class I go to eat.	老师说我们下课了。	The teacher said we have finished class.
 下午	xià wǔ	time word	个	afternoon	L1	下午我去学校。	I go to school in the afternoon.	今天下午天气很好。	The weather is very good this afternoon.	他学了一个下午。	He studied for an entire afternoon.
 下雨	xià yǔ	verb		to rain	L1	今天下雨了。	It rained today.	外边在下雨。	It is raining outside.	明天会下雨吗？	Will it rain tomorrow?
-先生	xiān sheng	noun	位	husband	L1	她的先生是老师。	Her husband is a teacher.	我先生今天不在家。	My husband is not home today.	那位先生是老师。	That gentleman is a teacher.
+先生	xiān sheng	noun	位	husband	L1	她的先生是老师。	Her husband is a teacher.	我先生今天不在家。	My husband is not home today.	那位是她的先生。	That is her husband.
 先生	xiān sheng	noun	位	mister	L1	王先生，你好。	Hello, Mister Wang.	这位先生是王先生。	This gentleman is Mr. Wang.	先生，请坐。	Mister, please sit down.
 现在	xiàn zài	time word		now	L1	现在几点了？	What time is it now?	我现在在家。	I am at home now.	现在天气很好。	The weather is very good now.
 想	xiǎng	verb		to miss	L1	我很想你。	I miss you very much.	她想她的妈妈。	She misses her mom.	我想家了。	I miss home.
 想	xiǎng	verb		to think	L1	我想一想。	Let me think about it.	他在想这个问题。	He is thinking about this problem.	我想了想，不去了。	I thought about it and decided not to go.
 想	xiǎng	verb		to want	L1	我想吃米饭。	I want to eat rice.	他想去学校。	He wants to go to school.	你想喝什么？	What do you want to drink?
 小	xiǎo	adjective, adverbial adjective		small	L1	这个苹果很小。	This apple is very small.	这个房间很小。	This room is very small.	那只猫很小。	That cat is very small.
-小朋友	xiǎo péng yǒu	noun	个	little friend	L1	你好，小朋友！	Hello, little friend!	这两个小朋友是我弟弟和妹妹。	These two little friends are my younger brother and sister.	小朋友，你叫什么？	Little friend, what is your name?
-小朋友	xiǎo péng yǒu	noun	个	term of address for a small child	L1	老师叫一个小朋友来。	The teacher called a small child over.	这个小朋友叫什么名字？	What is this child's name?	那个小朋友在唱歌。	That child is singing.
+小朋友	xiǎo péng you	noun	个	little friend	L1	你好，小朋友！	Hello, little friend!	这两个小朋友是我弟弟和妹妹。	These two little friends are my younger brother and sister.	小朋友，你叫什么？	Little friend, what is your name?
+小朋友	xiǎo péng you	noun	个	term of address for a small child	L1	老师叫一个小朋友来。	The teacher called a small child over.	这个小朋友叫什么名字？	What is this child's name?	那个小朋友在唱歌。	That child is singing.
 小时	xiǎo shí	noun, classifier	个	hour	L1	我学了一个小时。	I studied for one hour.	他睡了八个小时。	He slept for eight hours.	两个小时后我在家。	I will be home in two hours.
 小学	xiǎo xué	noun	所, 个	elementary school	L1	我在小学读书。	I study at elementary school.	这个小学很大。	This elementary school is very big.	她在小学工作。	She works at an elementary school.
 小学生	xiǎo xué shēng	noun	个, 名	elementary school student	L1	他是一个小学生。	He is an elementary school student.	那个小学生叫小明。	That elementary school student is called Xiao Ming.	这个小学生很好。	This elementary school student is very good.
@@ -295,7 +295,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 新	xīn	adjective, adverb, non-predicate adjective		new	L1	这是新书。	This is a new book.	他有一件新衣服。	He has a new piece of clothing.	我买了新电脑。	I bought a new computer.
 星期	xīng qī	noun	个	week	L1	一个星期有七天。	A week has seven days.	他来了两个星期。	He has been here for two weeks.	下个星期我去那里。	I'm going there next week.
 星期日	xīng qī rì	time word	个	Sunday	L1	星期日我不上班。	I don't work on Sunday.	这个星期日你在家吗？	Are you home this Sunday?	我们星期日去学校。	We go to school on Sunday.
-星期天	xīng qī tiān	time word	个	Sunday	L1	星期天我在家休息。	On Sunday I rest at home.	这个星期天我在家。	This Sunday I'm at home.	我们星期天去看电影。	We are going to watch a movie on Sunday.
+星期天	xīng qī tiān	time word	个	Sunday	L1	星期天我在家休息。	On Sunday I rest at home.	这个星期天我在家。	This Sunday I'm at home.	星期天我们不上课。	We don't have class on Sunday.
 休息	xiū xi	verb, verbal noun		to rest	L1	我想休息一下。	I want to rest for a bit.	她在家休息。	She is resting at home.	他休息了一个小时。	He rested for one hour.
 学	xué	verb, morpheme		to learn	L1	我学中文。	I learn Chinese.	他在学开车。	He is learning to drive.	我想学唱歌。	I want to learn to sing.
 学生	xué sheng	noun	个, 名	student	L1	她是学生。	She is a student.	这个学生很好。	This student is very good.	学生们在上课。	The students are in class.
