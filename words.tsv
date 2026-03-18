@@ -3407,7 +3407,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 贵姓	guì xìng	noun		honorable surname (polite form of asking someone's surname)	L5	请问您贵姓？	May I ask your surname?	初次见面，请问您贵姓？	Nice to meet you — may I ask what your surname is?	这位先生，不知贵姓？	Sir, may I ask your surname?
 滚	gǔn	verb		to get lost	L5	他叫那只狗滚。	He told that dog to get lost.	她生气地叫他滚。	She angrily told him to get lost.	他一生气就叫人滚。	When he gets angry, he tells people to get lost.
 滚	gǔn	verb		to roll	L5	球从桌子上滚下来了。	The ball rolled off the table.	石头顺着山往下滚。	The stone rolled down the mountain.	他让球在地上滚。	He let the ball roll on the ground.
-锅	guō	noun, classifier	口, 只	pan	L5	他用锅煎了鸡蛋。	He fried eggs in the pan.	锅太热了，小心烫手。	The pan is too hot; be careful not to burn your hands.	把菜放进锅里炒。	Put the vegetables into the pan and stir-fry them.
+锅	guō	noun, classifier	口, 只	pan	L5	他用一口锅炒了菜。	He stir-fried vegetables in a pan.	锅太热了，不要碰。	The pan is too hot; don't touch it.	把菜放进锅里炒。	Put the vegetables into the pan and stir-fry them.
 锅	guō	noun, classifier	口, 只	pot	L5	她买了一口新锅。	She bought a new pot.	锅里在煮汤。	Soup is being cooked in the pot.	这只锅是用来煮饭的。	This pot is used for cooking rice.
 国画	guó huà	noun		traditional Chinese painting	L5	他很喜欢画国画。	He really likes painting traditional Chinese paintings.	墙上挂着一幅国画。	A traditional Chinese painting hangs on the wall.	国画用毛笔来画。	Traditional Chinese paintings are made with a brush.
 国庆	guó qìng	time word, noun		National Day (PRC holiday)	L5	国庆是十月一日。	National Day is October 1st.	国庆期间很多人出去旅游。	During National Day, many people go traveling.	国庆假期有七天。	The National Day holiday is seven days long.
@@ -3415,8 +3415,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 果实	guǒ shí	noun		fruit	L5	树上结满了果实。	The tree is full of fruit.	秋天是收获果实的季节。	Autumn is the season for harvesting fruit.	这棵树的果实很甜。	The fruit of this tree is very sweet.
 过度	guò dù	verb, adverb, verbal noun		excessive	L5	过度运动对身体不好。	Excessive exercise is not good for the body.	他过度担心，睡不着觉。	He was excessively worried and couldn't sleep.	过度喝酒会影响健康。	Excessive drinking affects your health.
 过分	guò fèn	adjective, adverbial adjective, verb		excessive	L5	你的要求太过分了。	Your demand is too excessive.	这样批评他有点过分。	Criticizing him like that is a bit excessive.	他的行为真的很过分。	His behavior is really excessive.
-过敏	guò mǐn	verb, verbal noun		to be allergic	L5	她对一些植物过敏。	She is allergic to certain plants.	他吃了虾，结果过敏了。	He ate shrimp and ended up being allergic.	你对什么食物过敏？	What foods are you allergic to?
-过期	guò qī	verb, verbal noun		to be overdue	L5	这本书已经过期了。	This book is already overdue.	这张优惠券已经过期了。	This coupon is already overdue.	牛奶过期不能喝了。	The milk is expired and can no longer be drunk.
+过敏	guò mǐn	verb, verbal noun		to be allergic	L5	她对一些植物过敏。	She is allergic to certain plants.	他吃了一种食物，结果过敏了。	He ate a kind of food and ended up having an allergic reaction.	你对什么食物过敏？	What foods are you allergic to?
+过期	guò qī	verb, verbal noun		to be overdue	L5	这本书已经过期了。	This book is already overdue.	他的会员卡已经过期了。	His membership card is already overdue.	牛奶过期不能喝了。	The milk is expired and can no longer be drunk.
 过期	guò qī	verb, verbal noun		to exceed the time limit	L5	作业过期就不能交了。	Once the assignment exceeds the time limit, it can't be submitted.	优惠活动已经过期。	The promotional event has exceeded the time limit.	过期的报名不被接受。	Registration that has exceeded the time limit is not accepted.
 过于	guò yú	adverb		excessively	L5	她过于重视别人的看法。	She is excessively concerned with others' opinions.	他过于自信，结果失败了。	He was excessively confident and ended up failing.	做事不要过于谨慎。	Don't be excessively cautious when doing things.
 过于	guò yú	adverb		too much	L5	他说话过于直接。	He speaks too directly.	这件衣服过于贵了。	This piece of clothing is too expensive.	不要过于担心这件事。	Don't worry too much about this matter.
@@ -3425,16 +3425,16 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 海外	hǎi wài	place word		abroad	L5	他去海外留学了。	He went abroad to study.	海外的生活很不同。	Life abroad is very different.	她梦想去海外旅行。	She dreams of traveling abroad.
 海外	hǎi wài	place word		overseas	L5	他在海外工作了三年。	He worked overseas for three years.	这个产品卖到了海外。	This product has been sold overseas.	她有很多海外的朋友。	She has many friends overseas.
 海鲜	hǎi xiān	noun		seafood	L5	我最喜欢吃海鲜。	I like eating seafood the most.	这家餐厅的海鲜很新鲜。	The seafood at this restaurant is very fresh.	她对海鲜过敏。	She is allergic to seafood.
-含	hán	verb		to contain	L5	这个饮料含很多糖。	This drink contains a lot of sugar.	这种鱼含大量优质蛋白质。	This type of fish contains a large amount of quality protein.	空气中含有对人有用的成分。	The air contains components that are useful to people.
+含	hán	verb		to contain	L5	这个饮料含很多糖。	This drink contains a lot of sugar.	这种水果含很多水分。	This type of fruit contains a lot of moisture.	空气中含有对人有用的成分。	The air contains components that are useful to people.
 含	hán	verb		to hold in the mouth	L5	孩子嘴里含着糖。	The child is holding candy in their mouth.	含着一颗糖慢慢走。	Holding a piece of candy in the mouth, slowly walking along.	她含着巧克力，慢慢吃。	She held the chocolate in her mouth, eating it slowly.
-含量	hán liàng	noun		content	L5	这种水果的糖含量很高。	The sugar content of this fruit is very high.	食品上标有营养含量。	The food is labeled with its nutritional content.	医生检查了他血液里的铁含量。	The doctor checked the iron content in his blood.
-含有	hán yǒu	verb		to contain	L5	这种药含有对身体有害的成分。	This medicine contains ingredients that are harmful to the body.	牛奶含有丰富的钙质。	Milk contains abundant calcium.	这道菜含有很多营养。	This dish contains a lot of nutrients.
+含量	hán liàng	noun		content	L5	这种水果的糖含量很高。	The sugar content of this fruit is very high.	他想知道这个饮料的糖含量。	He wants to know the sugar content of this drink.	这种食物的营养含量很高。	The nutritional content of this food is very high.
+含有	hán yǒu	verb		to contain	L5	这种药含有对身体有害的成分。	This medicine contains ingredients that are harmful to the body.	牛奶含有丰富的营养。	Milk contains abundant nutrients.	这道菜含有很多营养。	This dish contains a lot of nutrients.
 汗水	hàn shuǐ	noun		sweat	L5	他运动后流了很多汗水。	He sweated a lot after exercising.	夏天工作，衣服上全是汗水。	Working in summer, clothes are covered in sweat.	成功来自努力和汗水。	Success comes from hard work and sweat.
 行程	xíng chéng	noun, verb		journey	L5	这次行程要花三天。	This journey will take three days.	他的行程要花五天。	His journey will take five days.	旅行的行程很愉快。	The journey was very enjoyable.
 行程	xíng chéng	noun, verb		travel	L5	他喜欢一个人旅行，享受行程。	He likes to travel alone and enjoy the travel.	这次行程包括三个城市。	This travel includes three cities.	行程中遇到了很多有趣的事。	Many interesting things happened during the travel.
-行动	xíng dòng	verbal noun, verb	个	to move about	L5	老人行动不太方便。	The elderly person has difficulty moving about.	这个地方让人行动自由。	This place allows people to move about freely.	他生病了，行动很慢。	He is sick and moves about very slowly.
+行动	xíng dòng	verbal noun, verb		to move about	L5	老人行动不太方便。	The elderly person has difficulty moving about.	这个地方让人行动自由。	This place allows people to move about freely.	他生病了，行动很慢。	He is sick and moves about very slowly.
 行人	xíng rén	noun		pedestrian	L5	行人要走专门的道路。	Pedestrians should walk on dedicated paths.	司机要注意行人安全。	Drivers must pay attention to pedestrian safety.	这条路上行人很多。	There are many pedestrians on this road.
-行驶	xíng shǐ	verb, verbal noun		(of vehicles) to travel	L5	火车在铁路上行驶。	The train travels along the railway.	汽车在高速公路上行驶。	The car travels on the highway.	这辆车行驶得很平稳。	This vehicle travels very smoothly.
+行驶	xíng shǐ	verb, verbal noun		(of vehicles) to travel	L5	火车在铁路上行驶。	The train travels along the railway.	汽车在高速公路上行驶。	The car travels on the highway.	这辆车行驶得很快。	This vehicle travels very fast.
 行为	xíng wéi	noun		behavior	L5	他的行为让大家很失望。	His behavior disappointed everyone.	我们要对自己的行为负责。	We must take responsibility for our own behavior.	这种行为是不对的。	This kind of behavior is wrong.
 行业	háng yè	noun		industry	L5	他在医疗行业工作。	He works in the medical industry.	这个行业竞争很激烈。	This industry is very competitive.	她选择了教育行业。	She chose the education industry.
 行走	xíng zǒu	verb, verbal noun		to walk	L5	他每天沿河行走一小时。	He walks along the river for one hour every day.	孩子慢慢地开始行走了。	The child gradually began to walk.	她在公园里慢慢行走。	She walks slowly in the park.
@@ -3443,7 +3443,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 好运	hǎo yùn	noun		good luck	L5	祝你好运！	Wishing you good luck!	他找到工作，真有好运。	He found a job; what good luck.	她希望明天考试有好运。	She hopes to have good luck on tomorrow's exam.
 好转	hǎo zhuǎn	verb, verbal noun		to take a turn for the better	L5	他的状态终于好转了。	His condition has finally taken a turn for the better.	关系在沟通后好转了。	The relationship took a turn for the better after communication.	经济形势正在好转。	The economic situation is taking a turn for the better.
 合	hé	verb		to close	L5	请合上你的书。	Please close your book.	他合上笔记本，站了起来。	He closed his notebook and stood up.	他合上书，放在桌上。	He closed the book and put it on the table.
-合	hé	verb		to equal	L5	一公里合一千米。	One kilometer equals one thousand meters.	这笔钱合多少美元？	How many US dollars does this amount of money equal?	一磅合大约四百五十克。	One pound equals approximately 450 grams.
+合	hé	verb		to equal	L5	一公里合一千米。	One kilometer equals one thousand meters.	这笔钱合多少美元？	How many US dollars does this amount of money equal?	一公斤合两斤。	One kilogram equals two jin.
 合	hé	non-predicate adjective, morpheme		whole	L5	过节时合家欢聚，是最幸福的事。	Having the whole family gather for the festival is the happiest thing.	合校师生参加了这次运动会。	The whole school's teachers and students participated in the sports meet.	合村的人都来庆祝了。	The whole village came to celebrate.
 合法	hé fǎ	adjective, adverbial adjective		lawful	L5	这种行为是合法的。	This behavior is lawful.	他通过合法的方式赚了钱。	He earned money through lawful means.	合法经营是每个公司的责任。	Lawful operation is the responsibility of every company.
 合法	hé fǎ	adjective, adverbial adjective		legitimate	L5	他有合法的工作证明。	He has legitimate work documentation.	这家公司是合法注册的。	This company is legitimately registered.	他们通过合法的方式解决问题。	They solved the problem through legitimate means.
@@ -3451,7 +3451,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 合理	hé lǐ	adjective, adverbial adjective		reasonable	L5	这个价格很合理。	This price is very reasonable.	他提出了一个合理的建议。	He put forward a reasonable suggestion.	这样安排时间很合理。	Arranging time this way is very reasonable.
 合同	hé tong	noun	个	(business) contract	L5	双方签了一个合同。	Both parties signed a contract.	这个合同要好好看清楚。	This contract needs to be read carefully.	合同规定了工作的内容。	The contract specifies the content of the work.
 合影	hé yǐng	noun, verb		group photo	L5	大家一起拍了一张合影。	Everyone took a group photo together.	毕业那天，同学们拍了合影。	On graduation day, classmates took a group photo.	这张合影挂在墙上。	This group photo is hanging on the wall.
-合作	hé zuò	verbal noun, verb	个	to cooperate	L5	两家公司决定合作一个项目。	Two companies decided to cooperate on a project.	他们合作得很愉快。	They cooperated very happily.	这次合作对双方都有好处。	This cooperation is beneficial to both sides.
+合作	hé zuò	verbal noun, verb	个	to cooperate	L5	两家公司决定合作一个项目。	Two companies decided to cooperate on a project.	他们合作得很愉快。	They cooperated very happily.	这是一个很好的合作。	This is a very good cooperation.
 河流	hé liú	noun	条	river	L5	山里有一条美丽的河流。	There is a beautiful river in the mountains.	这条河流流过城市。	This river flows through the city.	河流旁边有很多树。	There are many trees alongside the river.
 盒饭	hé fàn	noun		boxed meal	L5	他每天中午吃盒饭。	He eats a boxed meal every day at noon.	工人们在外面吃盒饭。	The workers eat boxed meals outside.	这家店的盒饭很好吃。	The boxed meals from this shop are very tasty.
 黑	hēi	adjective, morpheme, non-predicate adjective		black	L5	他穿了一件黑衬衫。	He wore a black shirt.	天空变黑了，要下雨了。	The sky turned black; it's going to rain.	她买了一双黑鞋子。	She bought a pair of black shoes.
