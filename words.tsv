@@ -1291,33 +1291,33 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 只有	zhǐ yǒu	conjunction, adverb, verb		only	L3	只有他知道怎么做。	Only he knows how to do it.	只有一个同学来了。	Only one classmate came.	只有你能帮我。	Only you can help me.
 直到	zhí dào	verb		until	L3	直到晚上他才回来。	He didn't come back until the evening.	直到明天我们再说话。	Let's not talk until tomorrow.	直到现在我还不知道。	Until now I still don't know.
 纸	zhǐ	noun, classifier		paper	L3	请给我一张纸。	Please give me a piece of paper.	这张纸是白色的。	This piece of paper is white.	他把字写在纸上。	He wrote the characters on the paper.
-中	zhōng	directional word, non-predicate adjective, verb		middle	L3	桌子中间放着花。	Flowers are placed in the middle of the table.	他站在中间。	He stood in the middle.	书在两个孩子中间。	The book is in the middle between two children.
-中	zhōng	directional word, non-predicate adjective, verb		to hit (a target)	L3	他打篮球，一下中了。	He played basketball and scored.	球中了！	The ball hit the target!	他每次都能中。	He hits the target every time.
+中	zhōng	directional word, non-predicate adjective, verb		middle	L3	桌子中间有花。	There are flowers in the middle of the table.	他站在中间。	He stood in the middle.	书在两个孩子中间。	The book is in the middle between two children.
+中	zhòng	verb		to hit (a target)	L3	他打篮球，一下中了。	He played basketball and scored.	球中了！	The ball hit the target!	他每次都能中。	He hits the target every time.
 中间	zhōng jiān	directional word		between	L3	学校在公园和医院中间。	The school is between the park and the hospital.	他坐在我们中间。	He sat between us.	银行在两家店中间。	The bank is between two shops.
 中间	zhōng jiān	directional word		middle	L3	椅子在房间中间。	The chair is in the middle of the room.	请站到中间来。	Please come stand in the middle.	他把蛋糕放在桌子中间。	He placed the cake in the middle of the table.
 终于	zhōng yú	adverb		at last	L3	他终于回家了。	He came home at last.	问题终于解决了。	The problem was solved at last.	我终于找到了。	I found it at last.
 终于	zhōng yú	adverb		finally	L3	他们终于到了。	They finally arrived.	我终于做好了。	I finally got it done.	我们终于到家了。	We finally got home.
 种	zhǒng	classifier, verb, morpheme		kind	L3	这种苹果很好吃。	This kind of apple is very tasty.	你喜欢哪种颜色？	Which kind of color do you like?	她不喜欢这种天气。	She doesn't like this kind of weather.
-种	zhòng	classifier, verb, morpheme		to plant	L3	他在花园里种花。	He is planting flowers in the garden.	爷爷种了很多菜。	Grandpa planted a lot of vegetables.	我们在学校里种了树。	We planted trees at school.
+种	zhòng	verb		to plant	L3	他在花园里种花。	He is planting flowers in the garden.	爷爷种了很多菜。	Grandpa planted a lot of vegetables.	我们在学校里种了树。	We planted trees at school.
 重要	zhòng yào	adjective		important	L3	健康很重要。	Health is important.	今天有重要的事。	There is something important today.	这次考试很重要。	This exam is very important.
 周末	zhōu mò	time word		weekend	L3	这个周末你想做什么？	What do you want to do this weekend?	周末我喜欢睡觉。	I like to sleep on weekends.	周末我们去公园吧。	Let's go to the park this weekend.
 主要	zhǔ yào	non-predicate adjective, adverb		main	L3	他的主要工作是教学生。	His main job is teaching students.	主要问题是钱太少。	The main problem is too little money.	这是我们的主要方向。	This is our main direction.
 住院	zhù yuàn	verb, verbal noun		to be hospitalized	L3	他病了，需要住院。	He is ill and needs to be hospitalized.	妈妈住院了三天。	Mom was hospitalized for three days.	医生说他要住院。	The doctor said he needs to be hospitalized.
 注意	zhù yì	verb, verbal noun		to pay attention to	L3	上课要注意听。	You must pay attention in class.	请注意安全。	Please pay attention to safety.	他不注意，做错了。	He didn't pay attention and made a mistake.
-子	zi	morpheme, classifier		suffix added to many nouns (e.g. 刀子)	L3	那个孩子很好。	That child is very good.	这是一把椅子。	This is a chair.	他拿着一个盘子。	He is holding a plate.
+子	zi	morpheme, classifier		suffix added to many nouns (e.g. 刀子)	L3	那个孩子很好。	That child is very good.	这是一把椅子。	This is a chair.	他拿了一个盘子。	He picked up a plate.
 自行车	zì xíng chē	noun	辆	bicycle	L3	我有一辆自行车。	I have a bicycle.	他骑自行车去学校。	He rides his bicycle to school.	这辆自行车是红色的。	This bicycle is red.
 字典	zì diǎn	noun	本	Chinese character dictionary	L3	我买了一本字典。	I bought a Chinese character dictionary.	这本字典很有用。	This dictionary is very useful.	学汉语要有一本字典。	You need a Chinese character dictionary to learn Chinese.
 总	zǒng	adverb, non-predicate adjective, verb		always	L3	他总迟到。	He is always late.	她总笑。	She is always smiling.	这里总下雨。	It always rains here.
 总	zǒng	adverb, non-predicate adjective, verb		general title of address for someone in management (e.g. 王总)	L3	王总，请进。	Manager Wang, please come in.	李总今天很忙。	Manager Li is very busy today.	张总让我来找你。	Manager Zhang sent me to find you.
 总	zǒng	adverb, non-predicate adjective, verb		overall	L3	总的方向是对的。	The overall direction is correct.	这是大家的总方向。	This is the overall direction for everyone.	总的工作已经做好了。	The overall work is already done.
-总	zǒng	adverb, non-predicate adjective, verb		total	L3	总的有两百个人。	There are two hundred people in total.	我们总有十个同学来了。	Ten classmates came in total.	总的有多少人？	How many people are there in total?
+总	zǒng	adverb, non-predicate adjective, verb		total	L3	总的有两百个人。	There are two hundred people in total.	我们班总的有三十个人。	Our class has thirty people in total.	总的有多少人？	How many people are there in total?
 总是	zǒng shì	adverb, verb		always	L3	他总是很开心。	He is always very happy.	她总是早来上课。	She always comes to class early.	我总是忘带东西。	I always forget to bring things.
 嘴	zuǐ	noun	张, 个	mouth	L3	他张开嘴，唱起歌来。	He opened his mouth and started to sing.	请张嘴说话。	Please open your mouth and speak.	孩子有一张小嘴。	The child has a small mouth.
 最好	zuì hǎo	adverb		had better	L3	你最好早点睡觉。	You had better go to sleep early.	最好别去那里。	You had better not go there.	你最好带伞出门。	You had better bring an umbrella when you go out.
 最后	zuì hòu	directional word		final	L3	这是最后一次机会。	This is the final chance.	最后一课很重要。	The final lesson is very important.	今天是最后一天。	Today is the final day.
 最后	zuì hòu	directional word		last	L3	他是最后一个到的。	He was the last one to arrive.	这是最后一个苹果。	This is the last apple.	我是最后一个完成的。	I was the last one to finish.
 最近	zuì jìn	time word		recently	L3	最近天气很冷。	Recently the weather has been very cold.	你最近好吗？	How have you been recently?	他最近很忙。	He has been very busy recently.
-作业	zuò yè	noun, verb, verbal noun	个	homework; assignment	L3	他做完了作业。	He finished his homework.	这个作业写得很好。	This homework assignment is written very well.	老师看了我的作业。	The teacher looked at my homework.
+作业	zuò yè	noun, verb, verbal noun	个	homework; assignment	L3	他做完了作业。	He finished his homework.	他做了三个作业。	He did three homework assignments.	老师看了我的作业。	The teacher looked at my homework.
 作业	zuò yè	noun, verb, verbal noun	个	school assignment	L3	我有一个作业没做。	I have one school assignment not done yet.	老师给了很多作业。	The teacher gave a lot of school assignments.	我在做作业。	I am doing my school assignment.
 作业	zuò yè	noun, verb, verbal noun	个	task	L3	这是一个重要的作业。	This is an important task.	他完成了一个大作业。	He completed a large task.	我们有三个作业要做。	We have three tasks to do.
 做客	zuò kè	verb		to be a guest	L3	我去朋友家做客。	I went to a friend's house to be a guest.	他今天在我们家做客。	He is being a guest at our home today.	做客要对人好。	One should be kind to others when being a guest.
