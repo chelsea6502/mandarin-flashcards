@@ -3061,7 +3061,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 打听	dǎ ting	verb		to inquire	L5	我向邻居打听了路。	I inquired about the road from my neighbor.	他打听了这家公司的情况。	He inquired about the situation of this company.	请问我可以打听一件事吗？	Excuse me, may I inquire about something?
 大胆	dà dǎn	adjective, adverbial adjective		daring	L5	他是个大胆的人，敢做别人不敢做的事。	He is a daring person who dares to do what others dare not.	她大胆地表达了自己的想法。	She dared to express her thoughts boldly.	大胆尝试新事物很重要。	It is important to be daring in trying new things.
 大多	dà duō	adverb, numeral		for the most part	L5	学生大多喜欢音乐。	Students for the most part like music.	这里的人大多很友好。	The people here are for the most part very friendly.	他们大多已经回家了。	They have for the most part already gone home.
-大多	dà duō	adverb, numeral		many	L5	他们大多是学生。	Most of them are students.	这里的人大多喜欢夏天。	Most people here like summer.	孩子们大多喜欢玩游戏。	Most children like playing games.
+大多	dà duō	adverb, numeral		most	L5	他们大多是学生。	Most of them are students.	这里的人大多喜欢夏天。	Most people here like summer.	孩子们大多喜欢玩游戏。	Most children like playing games.
 大会	dà huì	noun	个, 届	assembly	L5	全国代表大会每年举行一次。	The national assembly is held once a year.	他参加了这届大会。	He participated in this assembly.	大会在北京召开。	The assembly was convened in Beijing.
 大会	dà huì	noun	个, 届	meeting	L5	公司今天开了一个大会。	The company held a large meeting today.	这个大会有几百人参加。	Several hundred people attended this meeting.	大会上，大家讨论了新计划。	At the meeting, everyone discussed the new plan.
 大力	dà lì	adverb, noun		energetically	L5	政府大力支持教育。	The government energetically supports education.	我们要大力推广这个项目。	We must energetically promote this project.	公司大力发展新技术。	The company energetically develops new technology.
@@ -3069,7 +3069,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 大妈	dà mā	noun		aunt	L5	我的大妈住在北京。	My aunt lives in Beijing.	大妈每年来看我们。	My aunt comes to see us every year.	大妈送了我一件礼物。	My aunt gave me a gift.
 大妈	dà mā	noun		form of address for an elderly woman	L5	他叫那位老人大妈。	He addressed that elderly woman as 大妈.	那位大妈帮我找到了路。	That elderly woman helped me find the way.	广场上有很多跳舞的大妈。	There are many elderly women dancing in the square.
 大米	dà mǐ	noun		rice	L5	我们每天吃大米。	We eat rice every day.	这袋大米有十斤。	This bag of rice weighs ten jin.	南方人喜欢吃大米。	People in the south like to eat rice.
-大脑	dà nǎo	noun	个	brain	L5	大脑需要休息。	The brain needs rest.	学习可以锻炼大脑。	Studying can exercise the brain.	睡眠对大脑很重要。	Sleep is very important for the brain.
+大脑	dà nǎo	noun	个	brain	L5	每个人都有一个大脑。	Every person has a brain.	学习可以锻炼大脑。	Studying can exercise the brain.	睡眠对大脑很重要。	Sleep is very important for the brain.
 大批	dà pī	numeral		a large quantity of	L5	大批游客来到这个城市。	A large number of tourists came to this city.	工厂生产了大批产品。	The factory produced a large quantity of products.	大批学生报名参加比赛。	A large number of students signed up for the competition.
 大厦	dà shà	noun	座	large building	L5	这座大厦有五十层。	This large building has fifty floors.	公司办公室在那座大厦里。	The company office is in that large building.	新大厦建在市中心。	The new large building was built in the city center.
 大事	dà shì	noun	件, 桩	a matter of great importance	L5	结婚是人生的一件大事。	Marriage is a matter of great importance in life.	他把这件大事告诉了父母。	He told his parents about this matter of great importance.	公司发展是头等大事。	Company development is the top priority.
@@ -3080,19 +3080,19 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 大爷	dà yé	noun		uncle	L5	他叫那个老人大爷。	He called that elderly man uncle.	那位大爷告诉了我路怎么走。	That uncle told me how to get there.	大爷，请问附近有银行吗？	Uncle, is there a bank nearby?
 大于	dà yú	verb		to be bigger than	L5	这栋楼的建筑面积大于那栋。	The floor area of this building is larger than that one.	中国的面积大于很多国家。	China's area is bigger than many countries.	他的力气大于我。	His strength is greater than mine.
 大于	dà yú	verb		to be greater than	L5	五大于三。	Five is greater than three.	需求大于产品数量。	Demand is greater than the number of products.	收入大于花出的钱才能存钱。	Income must be greater than money spent to save money.
-大众	dà zhòng	noun, proper noun (other)		the masses	L5	这部电影深受大众喜爱。	This film is deeply loved by the masses.	领导人要考虑大众的利益。	Leaders should consider the interests of the masses.	他的音乐受到大众欢迎。	His music is welcomed by the masses.
-大众	dà zhòng	noun, proper noun (other)		the people	L5	政府为大众提供服务。	The government provides services to the people.	这个节目让大众了解历史。	This program lets the people understand history.	我们要为大众服务。	We must serve the people.
+大众	dà zhòng	noun		the masses	L5	这部电影深受大众喜爱。	This film is deeply loved by the masses.	领导人要考虑大众的利益。	Leaders should consider the interests of the masses.	他的音乐受到大众欢迎。	His music is welcomed by the masses.
+大众	dà zhòng	noun		the people	L5	政府为大众提供服务。	The government provides services to the people.	这个节目让大众了解历史。	This program lets the people understand history.	我们要为大众服务。	We must serve the people.
 代	dài	verb, classifier, noun		generation	L5	我们这一代人很努力。	Our generation works very hard.	年轻一代有很多新想法。	The younger generation has many new ideas.	一代又一代的人生活在这里。	Generation after generation of people have lived here.
 代	dài	verb, classifier, noun		to substitute	L5	他代我去参加会议。	He attended the meeting in my place.	我代老师上了一节课。	I substituted for the teacher and taught one class.	没有什么能代他去做这件事。	Nothing can substitute for him in doing this.
 代表	dài biǎo	noun, verb	位, 个, 名	to represent	L5	他代表公司参加会议。	He represents the company at the meeting.	红色代表热情。	Red represents passion.	他代表全班发表了讲话。	He represented the whole class and gave a speech.
 代替	dài tì	verb		to replace	L5	电子邮件代替了传统信件。	Email replaced traditional letters.	他用水代替了咖啡。	He replaced coffee with water.	没有什么能代替家人的爱。	Nothing can replace the love of family.
-带动	dài dòng	verb, verbal noun		to drive	L5	经济增长带动了就业。	Economic growth has driven employment.	经济发展带动了就业。	Economic development drives employment.	他的热情带动了团队。	His enthusiasm drives the team.
+带动	dài dòng	verb, verbal noun		to drive	L5	经济增长带动了就业。	Economic growth has driven employment.	旅游业带动了当地的经济。	Tourism has driven the local economy.	他的热情带动了团队。	His enthusiasm drives the team.
 带动	dài dòng	verb, verbal noun		to put in motion	L5	老师的话带动了学生们行动起来。	The teacher's words put the students into action.	他的成功带动了更多人努力。	His success put more people in motion to work hard.	这个项目带动了整个行业。	This project put the entire industry in motion.
 待遇	dài yù	noun		salary	L5	他的待遇比我高很多。	His salary is much higher than mine.	这家公司的待遇在行业里算高的。	This company's salary is considered high in the industry.	我们谈了待遇问题。	We discussed the issue of salary.
 待遇	dài yù	noun		treatment	L5	公司对员工的待遇很好。	The company's treatment of employees is very good.	他对客人的待遇非常好。	His treatment of guests is very good.	公平待遇是每个人的权利。	Fair treatment is everyone's right.
-担任	dān rèn	verb		to hold an office or position	L5	他担任公司经理三年了。	He has held the position of company manager for three years.	她担任学生会主席。	She holds the office of student council president.	他被选担任委员会主任。	He was elected to hold the office of committee director.
+担任	dān rèn	verb		to hold an office or position	L5	他担任公司经理三年了。	He has held the position of company manager for three years.	她担任学生会主席。	She holds the office of student council president.	他被选担任这个部门的主任。	He was elected to hold the position of department director.
 单	dān	adverb, non-predicate adjective, morpheme		odd (number)	L5	今天是单号，停单号的车。	Today is an odd number day; odd-numbered cars may park.	一、三、五是单数。	One, three, and five are odd numbers.	他的号码是单数。	His number is an odd number.
-单	dān	adverb, non-predicate adjective, morpheme		separate	L5	这些文件单放在一个文件夹里。	These documents are kept separately in one folder.	请把这道题单列出来。	Please list this question separately.	这件事要单列一份报告。	This matter should have a separate report.
+单	dān	adverb, non-predicate adjective, morpheme		separate	L5	这些文件要单放在一起。	These documents should be set aside together.	请把这道题单列出来。	Please list this question separately.	这件事要单列一份报告。	This matter should have a separate report.
 单	dān	adverb, non-predicate adjective, morpheme		single	L5	他一个人住在单间里。	He lives alone in a single room.	这张床是单人床。	This bed is a single bed.	她买了一张单人票。	She bought a single ticket.
 单独	dān dú	adverb, non-predicate adjective		alone	L5	他单独去了那个地方。	He went to that place alone.	她喜欢单独行动。	She likes to act alone.	孩子单独在家，父母不放心。	The child is home alone, and the parents are worried.
 单独	dān dú	adverb, non-predicate adjective		by oneself	L5	他单独完成了这个项目。	He completed this project by himself.	她单独解决了这个问题。	She solved this problem by herself.	我想单独和你谈谈。	I want to talk with you alone.
