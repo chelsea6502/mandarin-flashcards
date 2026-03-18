@@ -3155,7 +3155,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 电器	diàn qì	noun		device	L5	这个电器很省电。	This device is very energy-efficient.	你用的是什么电器？	What device are you using?	这个电器的质量很好。	The quality of this device is very good.
 电商	diàn shāng	noun		e-commerce; online commerce	L5	他在一家电商公司工作。	He works at an e-commerce company.	现在很多人通过电商平台买东西。	Nowadays many people buy things through e-commerce platforms.	电商让购物变得更方便了。	E-commerce has made shopping more convenient.
 电视台	diàn shì tái	noun	个	television station	L5	他在一个电视台工作。	He works at a television station.	这个电视台有很多好节目。	This television station has many good programs.	她被一个大电视台选中了。	She was chosen by a large television station.
-电子版	diàn zǐ bǎn	noun		electronic version (of a publication)	L5	这本书有电子版吗？	Does this book have an electronic version?	我下载了这份文件的电子版。	I downloaded the electronic version of this document.	电子版比纸质的方便。	The electronic version is more convenient than paper.
+电子版	diàn zǐ bǎn	noun		electronic version (of a publication)	L5	这本书有电子版吗？	Does this book have an electronic version?	我下载了这份文件的电子版。	I downloaded the electronic version of this document.	现在很多人看电子版。	Nowadays many people read the electronic version.
 定期	dìng qī	adverb, non-predicate adjective		regularly	L5	他定期去看医生。	He regularly goes to see the doctor.	我们定期开会讨论问题。	We regularly hold meetings to discuss issues.	这台机器需要定期检查。	This machine needs to be checked regularly.
 丢失	diū shī	verb, verbal noun		to lose	L5	他把钥匙丢失了。	He lost his keys.	重要的文件不能丢失。	Important documents must not be lost.	她的钱包在外出时丢失了。	Her wallet was lost when she went out.
 动画	dòng huà	noun		animation	L5	他喜欢看动画。	He likes watching animation.	这部动画是中国制作的。	This animation was made in China.	动画用了很多特别的技术。	Animation uses many special techniques.
@@ -3163,10 +3163,10 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 动人	dòng rén	adjective		touching	L5	这个故事非常动人。	This story is very touching.	她唱了一首动人的歌。	She sang a touching song.	他们的故事非常动人，听了都落泪。	Their story was so touching that listeners were moved to tears.
 动手	dòng shǒu	verb, verbal noun		to hit	L5	别动手！	Don't hit!	他先动手打人。	He struck first.	你再动手我就报警。	Hit me again and I'll call the police.
 动手	dòng shǒu	verb, verbal noun		to set about (a task)	L5	我们马上动手做饭。	We set about cooking right away.	大家一起动手做这件事。	Everyone set about doing this together.	说完就要动手去做。	After talking, you need to set about doing it.
-动手	dòng shǒu	verb, verbal noun		to touch	L5	展品不能动手。	Do not touch the exhibits.	别动手摸那个。	Don't touch that.	小孩总想动手摸东西。	Children always want to touch things.
+动手	dòng shǒu	verb, verbal noun		to touch	L5	这些东西不能动手。	These things must not be touched.	别动手摸那个。	Don't touch that.	小孩总想动手摸东西。	Children always want to touch things.
 冻	dòng	verb		to freeze	L5	水冻住了。	The water froze solid.	冬天湖面冻住了。	In winter the lake surface froze.	食物放在冰箱里不会冻坏。	Food kept in the refrigerator will not freeze and spoil.
 洞	dòng	noun, morpheme	个	cave	L5	山上有一个洞，里面很黑。	There is a cave on the mountain; it is very dark inside.	小动物住在洞里。	Small animals live in caves.	那个洞很深，不能进去。	That cave is very deep; you cannot enter.
-洞	dòng	noun, morpheme	个	cavity	L5	牙医说我有一个洞。	The dentist said I have a cavity.	这颗牙上有个洞，很疼。	There is a cavity in this tooth; it is very painful.	他去补了牙上的洞。	He went to fill the cavity in his tooth.
+洞	dòng	noun, morpheme	个	cavity	L5	医生说我牙上有一个洞。	The doctor said I have a cavity in my tooth.	这颗牙上有个洞，很疼。	There is a cavity in this tooth; it is very painful.	牙上有洞要去看医生。	If you have a cavity you need to see a doctor.
 洞	dòng	noun, morpheme	个	hole	L5	裤子上有一个洞。	There is a hole in the pants.	墙上有个洞，风吹进来了。	There is a hole in the wall and wind is blowing in.	他在地上挖了一个洞。	He dug a hole in the ground.
 豆腐	dòu fu	noun		tofu	L5	我喜欢吃豆腐。	I like eating tofu.	妈妈做了很好吃的豆腐。	Mom made very delicious tofu.	这道菜用了很多豆腐。	This dish used a lot of tofu.
 豆浆	dòu jiāng	noun		soy milk	L5	早上我喝了一杯豆浆。	In the morning I drank a cup of soy milk.	豆浆对身体很好。	Soy milk is very good for the body.	我喜欢喝热豆浆。	I like drinking hot soy milk.
@@ -3180,25 +3180,25 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 堵	dǔ	verb, classifier		to stop up	L5	水管被堵住了。	The water pipe is stopped up.	水管堵了，水出不去。	The water pipe is stopped up and the water cannot flow out.	他堵住了洞口。	He stopped up the opening of the hole.
 度	dù	verbal classifier, verb, morpheme		degree (both as a unit of angle, temperature, etc. and also as general meaning of extent)	L5	今天的气温是三十度。	Today's temperature is thirty degrees.	这个角是九十度。	This angle is ninety degrees.	他工作的热情度很高。	His degree of enthusiasm for work is very high.
 度	dù	verbal classifier, verb, morpheme		to spend (time)	L5	我们在海边度假。	We are spending our holiday by the sea.	他在国外度过了童年。	He spent his childhood abroad.	他们在山里度过了一个周末。	They spent a weekend in the mountains.
-短处	duǎn chù	noun		shortcoming	L5	我们要正视自己的短处。	We need to face our shortcomings honestly.	他不想让别人知道他的短处。	He does not want others to know his shortcomings.	了解自己的短处就能进步。	Understanding your own shortcomings is how you improve.
+短处	duǎn chù	noun		shortcoming	L5	我们要知道自己的短处。	We need to know our own shortcomings.	他不想让别人知道他的短处。	He does not want others to know his shortcomings.	了解自己的短处就能进步。	Understanding your own shortcomings is how you improve.
 短期	duǎn qī	non-predicate adjective, adverb		short term	L5	这是一个短期计划。	This is a short term plan.	短期内很难看到结果。	It is hard to see results in the short term.	他参加了一个短期课程。	He enrolled in a short term course.
-断	duàn	verb, verbal noun		to break off	L5	电话线断了。	The phone line broke off.	那根木头被风吹断了。	That piece of wood was broken off by the wind.	电话断了，我们说不了话。	The call broke off and we could not talk.
+断	duàn	verb, verbal noun		to break off	L5	他们的关系断了。	Their relationship broke off.	那根木头被风吹断了。	That piece of wood was broken off by the wind.	电话断了，我们说不了话。	The call broke off and we could not talk.
 堆	duī	classifier, verb, suffix, noun		to pile up	L5	他把书堆在桌子上。	He piled the books up on the desk.	箱子堆得很高。	The boxes are piled up very high.	别把东西都堆在一起。	Don't pile everything together.
 队伍	duì wǔ	noun	个, 支, 条	troops	L5	一支队伍向前进发。	A troop moved forward.	这条队伍训练得很好。	This troop is very well trained.	他们的队伍很强大。	Their troops are very powerful.
-对比	duì bǐ	verbal noun, verb	个	to compare	L5	我们对比了两种方法。	We compared the two methods.	这两个方案做个对比。	Let's make a comparison of these two plans.	对比之后，这个更好。	After comparing, this one is better.
+对比	duì bǐ	verbal noun, verb	个	to compare	L5	我们对比了两种方法。	We compared the two methods.	这两个方案做一个对比。	Let's make a comparison of these two plans.	对比之后，这个更好。	After comparing, this one is better.
 对待	duì dài	verb, verbal noun		to treat	L5	我们要认真对待每一件事。	We need to treat every matter seriously.	她对待每个学生都很公平。	She treats every student fairly.	你应该好好对待朋友。	You should treat your friends well.
-对手	duì shǒu	noun		opponent	L5	他遇到了一个强大的对手。	He encountered a powerful opponent.	比赛中我们的对手很厉害。	Our opponent in the competition was very formidable.	他没想到对手这么强。	He did not expect the opponent to be so strong.
-对手	duì shǒu	noun		rival	L5	他是我最大的竞争对手。	He is my biggest rival.	这两家公司是对手。	These two companies are rivals.	她把同学看成学习上的对手。	She sees her classmates as academic rivals.
+对手	duì shǒu	noun	个	opponent	L5	他遇到了一个强大的对手。	He encountered a powerful opponent.	比赛中我们的对手很厉害。	Our opponent in the competition was very formidable.	他没想到对手这么强。	He did not expect the opponent to be so strong.
+对手	duì shǒu	noun	个	rival	L5	他是我最大的竞争对手。	He is my biggest rival.	这两家公司是对手。	These two companies are rivals.	她在学校有一个很强的对手。	She has a very strong rival at school.
 对象	duì xiàng	noun	个	object	L5	这次研究的对象是老年人。	The object of this study is elderly people.	他们选择了一个新的研究对象。	They chose a new object of research.	这个对象很难研究。	This object is very difficult to study.
-对象	duì xiàng	noun	个	romantic partner	L5	她还没有找到对象。	She has not yet found a romantic partner.	他们两个是对象。	The two of them are romantic partners.	你的对象是哪里人？	Where is your romantic partner from?
-对象	duì xiàng	noun	个	target	L5	广告的对象是年轻人。	The target of the advertisement is young people.	这次活动的对象是学生。	The target of this activity is students.	这个项目面向的对象是工人。	The target of this project is workers.
+对象	duì xiàng	noun	个	romantic partner	L5	她想找一个好对象。	She wants to find a good romantic partner.	他们两个是对象。	The two of them are romantic partners.	你的对象是哪里人？	Where is your romantic partner from?
+对象	duì xiàng	noun	个	target	L5	广告的对象是年轻人。	The target of the advertisement is young people.	我们需要选一个合适的对象。	We need to select a suitable target.	这个项目面向的对象是工人。	The target of this project is workers.
 吨	dūn	classifier		metric ton	L5	这批货重两吨。	This batch of goods weighs two metric tons.	一吨等于一千公斤。	One metric ton equals one thousand kilograms.	这辆车能运五吨货物。	This vehicle can transport five metric tons of cargo.
 朵	duǒ	classifier, morpheme		measure word for flowers and clouds	L5	桌上有三朵花。	There are three flowers on the table.	天上有几朵白云。	There are a few white clouds in the sky.	他送给她一朵玫瑰。	He gave her a rose.
 躲	duǒ	verb		to hide oneself	L5	他躲在门后面。	He hid himself behind the door.	他躲在柜子里，不让人找到。	He hid inside the cabinet so no one could find him.	孩子们在玩游戏，躲得很好。	The children were playing a game and hid themselves very well.
 儿女	ér nǚ	noun		children	L5	他们有两个儿女。	They have two children.	父母为儿女付出了很多。	Parents give a lot for their children.	她的儿女都长大了。	Her children have all grown up.
 二手	èr shǒu	non-predicate adjective		secondhand	L5	她买了一辆二手车。	She bought a secondhand car.	二手书比新书便宜。	Secondhand books are cheaper than new ones.	我喜欢去二手市场买东西。	I like going to the secondhand market to buy things.
 二维码	èr wéi mǎ	noun		QR code	L5	请扫一下这个二维码。	Please scan this QR code.	用手机扫二维码可以付钱。	You can pay by scanning a QR code with your phone.	他在网上发布了自己的二维码。	He posted his own QR code online.
-发表	fā biǎo	verb		to issue	L5	政府发表了一个声明。	The government issued a statement.	该机构发表了一份调查报告。	The institution issued an investigation report.	法院发表了判决结果。	The court issued the verdict.
+发表	fā biǎo	verb		to issue	L5	政府发表了重要讲话。	The government issued an important address.	该机构发表了一份调查报告。	The institution issued an investigation report.	他在会上发表了自己的意见。	He expressed his opinion at the meeting.
 发布	fā bù	verb, verbal noun		to announce	L5	他们向大家发布了消息。	They announced the news to everyone.	学校发布了新的通知。	The school issued a new notice.	公司发布了重要的计划。	The company announced an important plan.
 发布	fā bù	verb, verbal noun		to release	L5	公司发布了新产品。	The company released a new product.	政府发布了新的规定。	The government released new regulations.	他们发布了最新的软件。	They released the latest software.
 发达	fā dá	adjective		developed	L5	这个国家经济很发达。	This country's economy is very developed.	发达国家的生活水平很高。	The standard of living in developed countries is very high.	这个城市的交通非常发达。	The transportation in this city is very developed.
