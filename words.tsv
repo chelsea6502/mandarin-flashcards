@@ -2374,18 +2374,18 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 听众	tīng zhòng	noun		listeners	L4	广播的听众越来越少了。	The listeners to radio broadcasts are getting fewer and fewer.	她的节目吸引了很多听众。	Her program attracted many listeners.	听众可以打电话问问题。	Listeners can call in to ask questions.
 停	tíng	verb		to stop	L4	雨停了，太阳出来了。	The rain stopped and the sun came out.	请停！不要说话了。	Please stop! Don't talk anymore.	音乐停了，大家都安静下来。	The music stopped and everyone quieted down.
 停车	tíng chē	verb, verbal noun		to park	L4	这里不能停车。	You cannot park here.	他把车停在门口。	He parked the car at the entrance.	附近有地方可以停车吗？	Is there a place to park nearby?
-停车场	tíng chē chǎng	noun		parking lot	L4	前面有一个停车场。	There is a parking lot ahead.	这个停车场可以停很多车。	This parking lot can hold many cars.	停车场里没有空位了。	There are no empty spots in the parking lot.
+停车场	tíng chē chǎng	noun	个	parking lot	L4	前面有一个停车场。	There is a parking lot ahead.	这个停车场可以停很多车。	This parking lot can hold many cars.	停车场里没有空位了。	There are no empty spots in the parking lot.
 停止	tíng zhǐ	verb		to stop	L4	大风停止了。	The strong wind stopped.	请停止讨论，注意听讲。	Please stop discussing and pay attention.	他们停止了工作，去吃饭了。	They stopped working and went to eat.
 通	tōng	verb, adjective, verbal classifier		(of sentences) coherent	L4	这篇文章写得很通。	This article is written very coherently.	你的作文不通，要改一下。	Your essay is not coherent; you need to revise it.	他写的句子很通，容易看懂。	The sentences he wrote are coherent and easy to understand.
-通	tōng	verb, adjective, verbal classifier		grammatically correct	L4	这个句子不通，语法有问题。	This sentence is not grammatically correct; there's a grammar issue.	你的中文说得很通。	Your Chinese is grammatically correct.	他写的汉字句子很通。	The Chinese sentences he wrote are grammatically correct.
+通	tōng	verb, adjective, verbal classifier		grammatically correct	L4	这个句子不通，语法有问题。	This sentence is not grammatically correct; there's a grammar issue.	你的中文说得很通。	Your Chinese is grammatically correct.	他写的中文句子很通。	The Chinese sentences he wrote are grammatically correct.
 通	tōng	verb, adjective, verbal classifier		measure word for stints, bouts, and other complete occurrences of an action	L4	他大哭了一通。	He cried for a complete bout.	妈妈说了他一通。	Mom lectured him in a whole stint.	他们打了一通电话。	They made a complete phone call.
-通	tōng	verb, adjective, verbal classifier		to connect with	L4	两个城市通了高铁。	The two cities are now connected with a high-speed rail.	这条线通了电话。	This line is connected with telephone service.	房间和外面通着。	The room and the outside are connected with each other.
+通	tōng	verb, adjective, verbal classifier		to connect with	L4	这两个房间通着。	These two rooms are connected with each other.	这条线通了电话。	This line is connected with telephone service.	房间和外面通着。	The room and the outside are connected with each other.
 通	tōng	verb, adjective, verbal classifier		to know well	L4	他通几门外语。	He knows several foreign languages well.	她通中国历史。	She knows Chinese history well.	他通电脑技术。	He knows computer technology well.
 通	tōng	verb, adjective, verbal classifier		to lead to	L4	这条路通到山上。	This road leads to the mountain.	这条路通到城外。	This road leads out of the city.	后门通到花园。	The back door leads to the garden.
 通	tōng	verb, adjective, verbal classifier		to notify	L4	请你通我一声。	Please notify me.	有事要先通一下大家。	If something comes up, notify everyone first.	他通了我们开会的时间。	He notified us of the meeting time.
-通	tōng	verb, adjective, verbal classifier		unobstructed	L4	路通了，可以走了。	The waterway is unobstructed; water can flow away.	这条路通了，可以走了。	This road is unobstructed; you can travel it now.	这条路通，可以走。	This road is unobstructed; you can take it.
+通	tōng	verb, adjective, verbal classifier		unobstructed	L4	水管通了，水可以流了。	The pipe is unobstructed; water can flow now.	这条路通了，可以走了。	This road is unobstructed; you can travel it now.	路不通，我们走不了。	The road is not passable; we can't go.
 通过	tōng guò	preposition, verb, verbal noun		by means of	L4	通过练习，他提高很快。	By means of practice, he improved quickly.	通过努力，她考上了大学。	By means of hard work, she got into university.	通过这次经历，我学到了很多。	By means of this experience, I learned a lot.
-通过	tōng guò	preposition, verb, verbal noun		to pass through	L4	火车通过了一条隧道。	The train passed through a tunnel.	他通过了安全检查。	He passed through the security check.	水通过这条路流进来。	Water flows in by passing through this path.
+通过	tōng guò	preposition, verb, verbal noun		to pass through	L4	他通过了大门。	He passed through the main gate.	他通过了安全检查。	He passed through the security check.	水通过这条路流进来。	Water flows in by passing through this path.
 通过	tōng guò	preposition, verb, verbal noun		via	L4	通过电话，我们可以联系。	Via phone, we can stay in touch.	通过朋友，她找到了工作。	Via a friend, she found a job.	通过电话，他说明了情况。	Via phone, he explained the situation.
 通知	tōng zhī	noun, verb	个	to inform	L4	请通知大家明天早点来。	Please inform everyone to come early tomorrow.	他通知了所有人开会的时间。	He informed everyone of the meeting time.	老师通知学生考试推迟了。	The teacher informed the students that the exam was postponed.
 通知	tōng zhī	noun, verb	个	to notify	L4	老师发了一个通知给学生。	The teacher sent a notification to the students.	公司通知我明天开会。	The company notified me of a meeting tomorrow.	他收到了一个重要通知。	He received an important notification.
@@ -2395,7 +2395,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 桶	tǒng	noun, classifier	个, 只	barrel	L4	工厂里有很多个大桶。	There are many large barrels in the factory.	这只桶里装的是油。	This barrel contains oil.	他买了一桶啤酒。	He bought a barrel of beer.
 桶	tǒng	noun, classifier	个, 只	bucket	L4	他拿了一个桶去打水。	He took a bucket to fetch water.	这个桶里装满了水。	This bucket is full of water.	她用一只桶装了很多东西。	She used a bucket to hold many things.
 痛	tòng	adjective, morpheme, adjective-noun		ache	L4	他的牙有一点痛。	His tooth has a bit of an ache.	跑步后腿有点痛。	After running, his legs have a slight ache.	头痛让她睡不着。	The headache kept her from sleeping.
-痛	tòng	adjective, morpheme, adjective-noun		deeply	L4	他痛恨不公平的事。	He deeply hates unfair things.	她痛恨不诚实的人。	She deeply hates dishonest people.	他痛惜失去的机会。	He deeply regrets the lost opportunity.
+痛	tòng	adjective, morpheme, adjective-noun		deeply	L4	她痛哭了很久。	She cried deeply for a long time.	他痛心地说不出话来。	He was so deeply pained that he couldn't speak.	她听到这个消息后痛哭起来。	She burst into deep crying after hearing the news.
 痛	tòng	adjective, morpheme, adjective-noun		pain	L4	他感到很痛。	He felt a lot of pain.	受伤后的痛让他难受。	The pain after the injury made him uncomfortable.	她忍着痛继续跑步。	She endured the pain and kept running.
 痛	tòng	adjective, morpheme, adjective-noun		thoroughly	L4	他痛打了那个人一顿。	He thoroughly beat that person.	他们痛快地玩了一天。	They had a thoroughly good time playing for a day.	他痛改了自己的坏习惯。	He thoroughly reformed his bad habits.
 头痛	tóu tòng	adjective		having a headache; (of a problem) troublesome	L4	我今天头痛，不想上课。	I have a headache today and don't want to go to class.	你头痛吗？需要药吗？	Do you have a headache? Do you need medicine?	这个问题真让人头痛。	This problem is really troublesome.
@@ -2409,7 +2409,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 土	tǔ	noun, non-predicate adjective, adjective		soil	L4	花园里的土很软。	The soil in the garden is very soft.	他在土里种菜。	He plants vegetables in the soil.	这里的土不太好。	The soil here is not very good.
 土	tǔ	noun, non-predicate adjective, adjective		unsophisticated	L4	他穿得很土，不像城里人。	He dresses very unsophisticatedly, not like a city person.	这个想法有点土。	This idea is a bit unsophisticated.	她不想看起来土。	She doesn't want to look unsophisticated.
 推	tuī	verb		to push	L4	他推开了门走进去。	He pushed open the door and walked in.	请把桌子推到那边。	Please push the table over there.	我推了他一下。	I gave him a push.
-推	tuī	verb		to put off	L4	他总是把工作往以后推。	He always puts off his work.	别把责任推给别人。	Don't put off responsibility onto others.	他把这件事推了。	He put this matter off.
+推	tuī	verb		to put off	L4	他总是把工作往以后推。	He always puts off his work.	别把事情推到明天。	Don't put off things until tomorrow.	他把这件事推了。	He put this matter off.
 推迟	tuī chí	verb		to postpone	L4	会议推迟到下周了。	The meeting has been postponed to next week.	比赛因为下雨推迟了。	The match was postponed because of rain.	我们不能再推迟了。	We cannot postpone it any further.
 推出	tuī chū	verb		to present	L4	这次活动推出了很多新歌手。	This event presented many new singers.	老师把新同学推出来介绍。	The teacher presented the new classmate to everyone.	节目组推出了一位年轻演员。	The production team presented a young actor.
 推出	tuī chū	verb		to put out	L4	工厂推出了新东西。	The factory put out something new.	他们推出了一本新书。	They put out a new book.	公司今年推出很多新东西。	The company put out many new things this year.
