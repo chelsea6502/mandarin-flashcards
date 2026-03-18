@@ -4454,8 +4454,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 围	wéi	verb		to encircle	L5	他们把对方团团围住了。	They completely encircled the other side.	他们围住了对方的人。	They encircled the other side's people.	一群人把他围了起来。	A group of people encircled him.
 围	wéi	verb		to surround	L5	警察围住了那座房子。	The police surrounded that house.	孩子们围着老师坐下。	The children sat surrounding the teacher.	人们围住了那辆车。	People surrounded that car.
 围巾	wéi jīn	noun	条	scarf	L5	她围了一条红色围巾。	She wore a red scarf.	冬天我喜欢戴围巾。	In winter I like wearing a scarf.	妈妈给我买了一条围巾。	Mom bought me a scarf.
-围巾	wéi jīn	noun	条	large wrap-style scarf	L5	她用一条围巾裹住上半身。	She wrapped her upper body with a shawl.	这条围巾可以当披肩用。	This scarf can be used as a shawl.	她的围巾又长又软。	Her shawl is long and soft.
-围绕	wéi rào	verb		to orbit	L5	地球围绕太阳飞行。	The earth orbits the sun.	卫星围绕地球飞行。	The satellite orbits the earth.	这颗星围绕另一颗星转。	This star orbits another star.
+围巾	wéi jīn	noun	条	large wrap-style scarf	L5	她用一条大围巾围在身上。	She wore a large scarf wrapped around her body.	这条围巾可以围在身上。	This scarf can be wrapped around the body.	她的围巾又长又软。	Her scarf is long and soft.
+围绕	wéi rào	verb		to orbit	L5	地球围绕太阳飞行。	The earth orbits the sun.	月亮围绕地球飞行。	The moon orbits the earth.	很多东西围绕太阳飞行。	Many things orbit the sun.
 围绕	wéi rào	verb		to revolve around	L5	月亮围绕地球转。	The moon revolves around the earth.	孩子们围绕着妈妈跑。	The children run revolving around their mother.	讨论围绕这个问题展开。	The discussion revolves around this issue.
 唯一	wéi yī	non-predicate adjective, adverb		only	L5	他是班里唯一的外国学生。	He is the only foreign student in the class.	这是唯一的办法。	This is the only solution.	她是我唯一的朋友。	She is my only friend.
 唯一	wéi yī	non-predicate adjective, adverb		sole	L5	他是家里唯一的孩子。	He is the sole child in the family.	这是唯一正确的答案。	This is the sole correct answer.	她是公司唯一的女经理。	She is the sole female manager in the company.
@@ -4466,23 +4466,23 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 尾巴	wěi ba	noun		tail	L5	小狗摇着尾巴跑过来。	The puppy ran over wagging its tail.	猫的尾巴很长。	The cat's tail is very long.	那条鱼的尾巴是红色的。	That fish's tail is red.
 未来	wèi lái	time word	个	future	L5	未来充满了可能性。	The future is full of possibilities.	我对未来充满信心。	I am full of confidence about the future.	他期待一个更好的未来。	He looks forward to a better future.
 位于	wèi yú	verb		to be located at	L5	学校位于市中心。	The school is located at the city center.	他家位于山脚下。	His home is located at the foot of the mountain.	图书馆位于公园旁边。	The library is located next to the park.
-位置	wèi zhì	noun	个	position	L5	请标出你的位置。	Please mark your position.	他坐在一个好位置。	He sits in a good position.	这个位置离门很近。	This position is very close to the door.
+位置	wèi zhì	noun	个	position	L5	请告诉我你的位置。	Please tell me your position.	他坐在一个好位置。	He sits in a good position.	这个位置离门很近。	This position is very close to the door.
 胃	wèi	noun	个	stomach	L5	吃冷的东西对胃不好。	Eating cold things is not good for the stomach.	他的胃不舒服。	His stomach is bothering him.	他的胃很弱，不能吃辣的东西。	His stomach is weak and he cannot eat spicy food.
 温暖	wēn nuǎn	adjective-noun, adjective, verb		warm	L5	春天的阳光很温暖。	The spring sunshine is very warm.	她的笑让人感到温暖。	Her smile makes people feel warm.	他送来的礼物让她感到温暖。	The gift he brought made her feel warm inside.
 文学	wén xué	noun	种	literature	L5	他对中国文学很感兴趣。	He is very interested in Chinese literature.	这是一种重要的文学形式。	This is an important form of literature.	她在大学学习文学。	She studies literature at university.
 稳定	wěn dìng	adjective, adjective-noun, verb, adverbial adjective		stable	L5	他的工作很稳定。	His job is very stable.	这里的天气比较稳定。	The weather here is relatively stable.	经济形势越来越稳定了。	The economic situation has become more and more stable.
 问卷	wèn juàn	noun	份	questionnaire	L5	请填好这份问卷。	Please fill out this questionnaire.	我收到了一份问卷调查。	I received a survey.	这份问卷有十个问题。	This questionnaire has ten questions.
-卧室	wò shì	noun	间	bedroom	L5	这间卧室很宽敞。	This bedroom is very spacious.	他的卧室里有一张大床。	There is a large bed in his bedroom.	孩子们各有一间卧室。	Each child has their own bedroom.
-握	wò	verb		to grasp	L5	他紧紧握住了机会。	He grasped the opportunity tightly.	她握住了自己的命运。	She grasped her own fate.	他用力握住了铁棒。	He gripped the iron bar tightly.
+卧室	wò shì	noun	间	bedroom	L5	这间卧室很大。	This bedroom is very big.	他的卧室里有一张大床。	There is a large bed in his bedroom.	孩子们各有一间卧室。	Each child has their own bedroom.
+握	wò	verb		to grasp	L5	他紧紧握住了机会。	He grasped the opportunity tightly.	她握住了自己的命运。	She grasped her own fate.	他用力握住了她的手。	He gripped her hand tightly.
 握	wò	verb		to hold	L5	她握着孩子的手走路。	She holds the child's hand while walking.	他握着笔开始写字。	He holds the pen and starts writing.	请握好扶手，小心走。	Please hold the railing and walk carefully.
-握手	wò shǒu	verb, verbal noun		to shake hands	L5	见面时他们握了握手。	When they met they shook hands.	两位领导人友好地握手。	The two leaders shook hands in a friendly manner.	比赛结束后双方握手致意。	After the match, both sides shook hands.
+握手	wò shǒu	verb, verbal noun		to shake hands	L5	见面时他们握了握手。	When they met they shook hands.	两位领导人友好地握手。	The two leaders shook hands in a friendly manner.	比赛结束后他们握手了。	After the match, they shook hands.
 无关	wú guān	verb, non-predicate adjective		irrelevant	L5	这件事和我无关。	This matter is irrelevant to me.	他的问题与这次考试无关。	His question is irrelevant to this exam.	这个话题与主题无关。	This topic is irrelevant to the main subject.
 无奈	wú nài	adverb, adjective-noun, adjective, noun		helpless; having no alternative	L5	他无奈只好接受了。	He had no choice but to accept.	她无奈地同意了这个安排。	She had no choice but to agree to this arrangement.	我无奈，只能等待。	I had no choice but to wait.
 无数	wú shù	numeral		countless	L5	天空中有无数颗星星。	There are countless stars in the sky.	他无数次想到过这个问题。	He thought about this problem countless times.	无数的人来参加了这次活动。	Countless people came to participate in this event.
 无数	wú shù	numeral		innumerable	L5	沙漠中有无数粒沙子。	There are innumerable grains of sand in the desert.	他有无数个问题要问。	He has innumerable questions to ask.	树上有无数片叶子。	There are innumerable leaves on the tree.
-无限	wú xiàn	verb, non-predicate adjective, adverb, verbal noun		unlimited	L5	宇宙是无限大的。	The universe is unlimited in size.	他对学习有无限的热情。	He has unlimited passion for learning.	人的想象力是无限的。	Human imagination is unlimited.
+无限	wú xiàn	verb, non-predicate adjective, adverb, verbal noun		unlimited	L5	世界是无限大的。	The world is unlimited in size.	他对学习有无限的热情。	He has unlimited passion for learning.	人的想象力是无限的。	Human imagination is unlimited.
 无效	wú xiào	verb, verbal noun		ineffective	L5	这种方法已被证明无效。	This method has been proven ineffective.	吃这种药对他无效。	Taking this medicine is ineffective for him.	所有的努力都无效了。	All the efforts were ineffective.
-无效	wú xiào	verb, verbal noun		invalid	L5	这张票已经无效了。	This ticket is already invalid.	过期的合同是无效的。	An expired contract is invalid.	他的申请被判为无效。	His application was ruled invalid.
+无效	wú xiào	verb, verbal noun		invalid	L5	这张票已经无效了。	This ticket is already invalid.	过期的合同是无效的。	An expired contract is invalid.	他的申请被认为无效。	His application was deemed invalid.
 五颜六色	wǔ yán liù sè	set phrase		multicolored	L5	街上有五颜六色的花。	The street has multicolored flowers.	孩子们穿着五颜六色的衣服。	The children are wearing multicolored clothes.	节日里街上五颜六色的灯很好看。	The multicolored lights on the street during the festival are beautiful.
 武术	wǔ shù	noun	种	martial arts	L5	他练了一种武术。	He has practiced a form of martial arts.	武术是中国传统文化。	Martial arts is traditional Chinese culture.	她从小学武术。	She has been learning martial arts since she was young.
 舞蹈	wǔ dǎo	noun		dance	L5	她从小喜欢学舞蹈。	She has loved learning dance since she was young.	这个舞蹈很好看。	This dance is very beautiful.	他表演了一段舞蹈。	He performed a dance.
@@ -4495,13 +4495,13 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 物业	wù yè	noun		property	L5	他买了一处物业，用来出租。	He bought a property to rent out.	这处物业价格不便宜。	This property is not cheap.	他名下有多处物业。	He has multiple properties under his name.
 物业	wù yè	noun		real estate	L5	他在上海买了物业。	He bought real estate in Shanghai.	物业市场最近很热。	The real estate market has been very hot recently.	买物业需要很多钱。	Buying real estate requires a lot of money.
 物质	wù zhì	noun	个	material	L5	水是一种常见的物质。	Water is a common material.	建筑需要很多种物质。	Construction requires many kinds of materials.	这种物质很轻，也很硬。	This material is very light and also very hard.
-物质	wù zhì	noun	个	matter	L5	铁是一种重要的物质。	Iron is an important form of matter.	这个物质在水里很难溶。	This matter is hard to dissolve in water.	科学家研究各种物质。	Scientists study various types of matter.
+物质	wù zhì	noun	个	matter	L5	石头和水都是物质。	Stone and water are both matter.	世界上有很多种不同的物质。	There are many different types of matter in the world.	科学家研究各种物质。	Scientists study various types of matter.
 雾	wù	noun	场, 阵	fog	L5	今天早上有一场大雾。	There was a heavy fog this morning.	雾很大，开车要小心。	The fog is heavy; drive carefully.	山里的雾让人看不到路。	The fog in the mountains makes it impossible to see the road.
 雾	wù	noun	场, 阵	mist	L5	山上有一层薄雾。	There is a layer of thin mist on the mountain.	早晨河面上有雾。	There is mist over the river in the morning.	那片雾让风景更美了。	That mist made the scenery even more beautiful.
 西餐	xī cān	noun	份, 顿	Western-style food	L5	她不太喜欢吃西餐。	She does not really like eating Western-style food.	我们去吃一顿西餐吧。	Let's go have a meal of Western-style food.	这家饭店只卖西餐。	This restaurant only sells Western-style food.
 西装	xī zhuāng	noun	套	western style business suit	L5	他穿了一套西装来面试。	He wore a western-style business suit to the interview.	这套西装很合身。	This business suit fits very well.	他买了一套新西装。	He bought a new business suit.
 吸管	xī guǎn	noun	支	drinking straw	L5	他用吸管喝果汁。	He drinks fruit juice with a drinking straw.	我要一支吸管。	I want a drinking straw.	塑料吸管对环境不好。	Plastic drinking straws are bad for the environment.
-吸收	xī shōu	verb, verbal noun		to absorb	L5	植物通过叶子吸收阳光。	Plants absorb sunlight through their leaves.	海绵能吸收很多水。	A sponge can absorb a lot of water.	他快速吸收了新知识。	He quickly absorbed new knowledge.
+吸收	xī shōu	verb, verbal noun		to absorb	L5	植物通过叶子吸收阳光。	Plants absorb sunlight through their leaves.	毛巾能吸收很多水。	A towel can absorb a lot of water.	他快速吸收了新知识。	He quickly absorbed new knowledge.
 吸收	xī shōu	verb, verbal noun		to assimilate	L5	他很快就吸收了当地文化。	He quickly assimilated the local culture.	孩子们吸收新事物很快。	Children assimilate new things very quickly.	她努力吸收不同的想法。	She works hard to assimilate different ideas.
 戏	xì	noun, morpheme		play	L5	今晚我们去看戏吧。	Let's go watch a play tonight.	这出戏演了三个小时。	This play ran for three hours.	妈妈很喜欢看中国传统的戏。	Mom really enjoys watching traditional Chinese plays.
 戏	xì	noun, morpheme		show	L5	这个戏很精彩。	This show is very spectacular.	他参加了学校的戏。	He participated in the school show.	晚上有一场精彩的戏。	There is a wonderful show in the evening.
