@@ -2425,8 +2425,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 网购	wǎng gòu	verb		to shop online	L4	我喜欢网购，因为很方便。	I like shopping online because it is very convenient.	她昨天网购了一件衣服。	She bought a piece of clothing online yesterday.	你网购的东西到了吗？	Has the thing you bought online arrived?
 网页	wǎng yè	noun		web page	L4	这个网页打不开。	This web page won't open.	请在这个网页上填写信息。	Please fill in your information on this web page.	他在找一个有用的网页。	He is looking for a useful web page.
 网友	wǎng yǒu	noun		netizen	L4	她认识了很多网友。	She has gotten to know many netizens.	网友们对这件事有不同看法。	Netizens have different views on this matter.	他和网友见面了。	He met up with a netizen.
-网址	wǎng zhǐ	noun		URL	L4	这个网址太长了。	This URL is too long.	请写下正确的网址。	Please write down the correct URL.	我把网址记在手机里了。	I saved the URL on my phone.
-网址	wǎng zhǐ	noun	个	web address	L4	请把网址发给我。	Please send me the web address.	我记不住这个网址。	I can't remember this web address.	这个网址是错的。	This web address is wrong.
+网址	wǎng zhǐ	noun	个	URL	L4	这个网址太长了。	This URL is too long.	请写下正确的网址。	Please write down the correct URL.	我在手机里记了一个网址。	I saved a URL on my phone.
+网址	wǎng zhǐ	noun	个	web address	L4	他给了我一个新网址。	He gave me a new web address.	我记不住这个网址。	I can't remember this web address.	这个网址是错的。	This web address is wrong.
 往往	wǎng wǎng	adverb		frequently	L4	他开会时往往迟到。	He frequently arrives late to meetings.	冬天北方往往很冷。	The north is frequently very cold in winter.	他往往忘带手机。	He frequently forgets to bring his phone.
 往往	wǎng wǎng	adverb		often	L4	他往往很早就起床。	He often gets up very early.	周末我往往在家休息。	On weekends I often rest at home.	她往往自己一人吃午饭。	She often eats lunch alone.
 危险	wēi xiǎn	adjective, adjective-noun, noun		danger	L4	这里有危险，请小心。	There is danger here, please be careful.	一个人爬山有危险。	There is danger in hiking alone.	他看到了危险。	He saw the danger.
@@ -2435,36 +2435,36 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 味	wèi	noun	种	taste; flavor; smell	L4	这道菜的味很好。	This dish tastes very good.	这里有一种奇怪的味。	There is a strange smell here.	我喜欢甜味的东西。	I like sweet-flavored things.
 味道	wèi dao	noun		flavor	L4	这道菜味道很好。	This dish has a great flavor.	你觉得这个汤味道怎么样？	What do you think of the flavor of this soup?	这个蛋糕味道有点甜。	This cake has a slightly sweet flavor.
 味道	wèi dao	noun	种, 股	smell	L4	这里有一股奇怪的味道。	There is a strange smell here.	花的味道很好闻。	The smell of flowers is very pleasant.	厨房里有烟的味道。	There is a smoky smell in the kitchen.
-温度	wēn dù	noun	个	temperature	L4	今天的温度很高。	The temperature today is very high.	请问这个房间的温度是多少？	What is the temperature in this room?	冰箱里的温度很低。	The temperature inside the refrigerator is very low.
+温度	wēn dù	noun		temperature	L4	今天的温度很高。	The temperature today is very high.	请问这个房间的温度是多少？	What is the temperature in this room?	冰箱里的温度很低。	The temperature inside the refrigerator is very low.
 文件	wén jiàn	noun	份	document	L4	他把文件打印了一份。	He printed one copy of the document.	请把这份文件给经理。	Please give this document to the manager.	这份文件很重要。	This document is very important.
-文件	wén jiàn	noun	份	file	L4	电脑里有很多文件。	There are many files on the computer.	他找不到那份文件了。	He can't find that file anymore.	请把这个文件发给我。	Please send me this file.
+文件	wén jiàn	noun	份	file	L4	我在电脑里找到了一份文件。	I found a file on the computer.	他找不到那份文件了。	He can't find that file anymore.	请把这个文件发给我。	Please send me this file.
 文章	wén zhāng	noun	篇, 段, 页	article	L4	我在网上看到一篇文章。	I saw an article online.	他写了一篇很好的文章。	He wrote a very good article.	这篇文章的内容很有意思。	The content of this article is very interesting.
 文章	wén zhāng	noun	篇, 段, 页	essay	L4	老师让我们写一篇文章。	The teacher asked us to write an essay.	他的文章写得很清楚。	His essay is written very clearly.	这篇文章有八百个字。	This essay has eight hundred characters.
-文字	wén zì	noun	个	written language	L4	汉字是中国的文字。	Chinese characters are China's written language.	这种文字很难学。	This written language is very hard to learn.	很早以前的文字记下了很多历史。	Written language from very long ago recorded a lot of history.
-闻	wén	verb		to smell (to perceive an odor)	L4	他闻到了花的香味。	He smelled the fragrance of the flowers.	你闻一下，这是什么味道？	Smell this — what does it smell like?	她闻到厨房里有焦味。	She smelled something burning in the kitchen.
+文字	wén zì	noun	种	written language	L4	汉字是中国的文字。	Chinese characters are China's written language.	这种文字很难学。	This written language is very hard to learn.	他学了一种新的文字。	He learned a new written language.
+闻	wén	verb		to smell (to perceive an odor)	L4	他闻到了花的香味。	He smelled the fragrance of the flowers.	你闻一下，这是什么味道？	Smell this — what does it smell like?	他闻到了烟的味道。	He smelled the odor of smoke.
 污染	wū rǎn	verbal noun, verb		to pollute	L4	工厂污染了附近的河水。	The factory polluted the nearby river.	不要污染环境。	Don't pollute the environment.	工厂的烟污染了空气。	Factory smoke polluted the air.
-无	wú	verb		to lack	L4	他无法去。	He has no way to go.	这里无水可喝。	There is no water to drink here (they lack water).	他无钱买饭。	He lacks money to buy food.
+无	wú	verb		to lack	L4	他现在无事可做。	He has nothing to do right now.	这里无水可喝。	There is no water to drink here (they lack water).	他无钱买饭。	He lacks money to buy food.
 无法	wú fǎ	verb, adverb		incapable	L4	他对这件事无法做决定。	He is incapable of making a decision on this matter.	一个人无法完成这个工作。	One person is incapable of finishing this work alone.	他无法自己搬这张桌子。	He is incapable of moving this table by himself.
 无法	wú fǎ	verb, adverb		unable	L4	我无法理解他的做法。	I am unable to understand his actions.	这个问题他无法回答。	He is unable to answer this question.	她无法管好自己的心情。	She is unable to manage her own mood.
 无聊	wú liáo	adjective, adjective-noun		boring	L4	今天没事做，真无聊。	There is nothing to do today, it's so boring.	这部电影太无聊了。	This movie is too boring.	他觉得站着等很无聊。	He finds standing and waiting very boring.
 无论	wú lùn	conjunction		no matter	L4	无论多难，他都不放弃。	No matter how hard, he never gives up.	无论你去哪里，我都支持你。	No matter where you go, I will support you.	无论下不下雨，我都要去。	No matter whether it rains or not, I will still go.
 午餐	wǔ cān	noun, verb	份, 顿, 次	lunch	L4	我每天十二点吃午餐。	I eat lunch every day at twelve o'clock.	今天的午餐是面条。	Today's lunch is noodles.	他订了一份午餐外卖。	He ordered a lunch takeout.
 误会	wù huì	verb, verbal noun	个	to misunderstand	L4	你误会我了，我不是那个意思。	You misunderstood me, that's not what I meant.	他误会了她的意思。	He misunderstood her meaning.	这是一个误会，请别生气。	This is a misunderstanding, please don't be angry.
-西部	xī bù	directional word		western	L4	中国西部有很多山。	There are many mountains in the western part of China.	他来自西部的一个小城市。	He is from a small city in the west.	西部的天气比东部少雨。	The climate in the west gets less rain than the east.
-西红柿	xī hóng shì	noun	只	tomato	L4	我买了两只西红柿。	I bought two tomatoes.	西红柿和鸡蛋很好吃。	Tomatoes with eggs are very delicious.	她每天早上吃一个西红柿。	She eats one tomato every morning.
+西部	xī bù	directional word		western	L4	中国西部有很多山。	There are many mountains in the western part of China.	他来自西部的一个小城市。	He is from a small city in the west.	西部的天气比东部少雨。	The weather in the west has less rain than in the east.
+西红柿	xī hóng shì	noun	个	tomato	L4	我买了两个西红柿。	I bought two tomatoes.	西红柿和鸡蛋很好吃。	Tomatoes with eggs are very delicious.	她每天早上吃一个西红柿。	She eats one tomato every morning.
 吸	xī	verb		to suck in	L4	他用嘴吸果汁。	He sucked juice with his mouth.	纸巾能吸很多水。	A tissue can suck in a lot of water.	鱼用嘴吸水。	Fish suck in water with their mouths.
 吸引	xī yǐn	verb		to attract (interest, investment, etc.)	L4	这部电影吸引了很多观众。	This movie attracted many viewers.	她的眼睛吸引了大家的注意。	Her eyes attracted everyone's attention.	这个活动吸引了很多年轻人。	This event attracted many young people.
-细	xì	adjective, adverbial adjective		(of sand and other particles) fine	L4	这里的土很细。	The soil here is very fine.	沙子很细，踩上去很软。	The sand is very fine; it feels soft to walk on.	这种土比那种细。	This kind of soil is finer than that kind.
+细	xì	adjective, adverbial adjective		(of sand and other particles) fine	L4	这里的土很细。	The soil here is very fine.	雨下得很细。	The rain falls very fine.	这种土比那种细。	This kind of soil is finer than that kind.
 细	xì	adjective, adverbial adjective		careful	L4	做这件事要细，不能出错。	You have to be careful doing this, you can't make mistakes.	他做事很细，很少出错。	He is careful in his work and rarely makes mistakes.	请细看一下这份文件。	Please look at this document carefully.
 细	xì	adjective, adverbial adjective		meticulous	L4	她的工作非常细。	Her work is extremely meticulous.	他很细地做完了每一步。	He meticulously completed every step.	这位画家画画很细。	This painter is very meticulous in his painting.
-细	xì	adjective, adverbial adjective		slender	L4	她的手指很细。	Her waist is very slender.	这棵树很细。	This tree is very slender.	他的腿细而好看。	His legs are slender and good-looking.
-细	xì	adjective, adverbial adjective		thin	L4	这根线很细。	This thread is very thin.	她的手又小又细。	Her hands are small and thin.	这条路很细，只能走一人。	This path is very thin, only one person can walk through.
+细	xì	adjective, adverbial adjective		slender	L4	她的手指很细。	Her fingers are very slender.	这棵树很细。	This tree is very slender.	他的腿细而好看。	His legs are slender and good-looking.
+细	xì	adjective, adverbial adjective		thin	L4	这根线很细。	This thread is very thin.	她的手又小又细。	Her hands are small and thin.	她的头发又长又细。	Her hair is long and thin.
 细心	xì xīn	adjective, adverbial adjective, adjective-noun		attentive	L4	她对老人很细心。	She is very attentive toward elderly people.	护士对病人细心照顾。	The nurse attentively cares for patients.	他细心地听着每一句话。	He attentively listened to every word.
 细心	xì xīn	adjective, adverbial adjective, adjective-noun		careful	L4	她很细心，做事很好。	She is very careful and does things very well.	做这件事要细心。	You need to be careful when doing this.	细心的人能发现很多问题。	Careful people can spot many problems.
-下降	xià jiàng	verb, verbal noun		to descend	L4	飞机开始下降了。	The plane has started to descend.	气温慢慢下降。	The temperature is slowly descending.	气温一直在下降。	The plane started to descend slowly.
-鲜	xiān	adjective, morpheme, adverbial adjective		bright (in color)	L4	她穿着颜色很鲜的衣服。	She is wearing clothes with very bright colors.	这朵花的颜色真鲜。	The color of this flower is really bright.	他喜欢鲜颜色，不喜欢暗色。	He likes bright colors and dislikes dark ones.
+下降	xià jiàng	verb, verbal noun		to descend	L4	飞机开始下降了。	The plane has started to descend.	气温慢慢下降。	The temperature is slowly descending.	气温一直在下降。	The temperature has been dropping continuously.
+鲜	xiān	adjective, morpheme, adverbial adjective		bright (in color)	L4	她穿着颜色很鲜的衣服。	She is wearing clothes with very bright colors.	这朵花的颜色真鲜。	The color of this flower is really bright.	这张图的颜色很鲜。	The colors in this picture are very bright.
 鲜	xiān	adjective, morpheme, adverbial adjective		fresh	L4	超市里有很多鲜水果。	There are many fresh fruits in the supermarket.	这条鱼很鲜，刚买回来的。	This fish is very fresh, just bought.	她喜欢买鲜水果。	She likes to buy fresh fruit.
-鲜花	xiān huā	noun	朵	fresh flowers	L4	他送给她一把鲜花。	He gave her a bouquet of fresh flowers.	房间里放着一瓶鲜花。	There is a vase of fresh flowers in the room.	她很喜欢鲜花的香味。	She really likes the fragrance of fresh flowers.
+鲜花	xiān huā	noun	朵	fresh flowers	L4	他送给她一把鲜花。	He gave her a bouquet of fresh flowers.	房间里放着一瓶鲜花。	There is a vase of fresh flowers in the room.	桌上放着一朵鲜花。	A fresh flower sits on the table.
 咸	xián	adjective		salty	L4	这个汤太咸了。	This soup is too salty.	他不喜欢吃太咸的东西。	He doesn't like eating things that are too salty.	海水是咸的。	Seawater is salty.
 现金	xiàn jīn	noun		cash	L4	你有现金吗？我没有零钱。	Do you have cash? I don't have change.	这家店只收现金。	This shop only accepts cash.	他钱包里没有现金了。	He has no cash left in his wallet.
 现有	xiàn yǒu	verb, verbal noun		available	L4	请用现有的材料完成这个任务。	Please complete this task using the available materials.	现有的房间都住满了。	All available rooms are full.	这是现有的最好办法。	This is the best available method.
