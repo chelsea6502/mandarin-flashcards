@@ -1477,7 +1477,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 答案	dá àn	noun	个	answer	L4	这道题的答案是什么？	What is the answer to this question?	他找到了一个答案。	He found an answer.	这个答案是对的。	This answer is correct.
 答应	dā ying	verb		to promise	L4	他答应明天来帮我。	He promised to come help me tomorrow.	你答应了就要做到。	Once you've promised, you must follow through.	妈妈答应给我买书。	Mom promised to buy me a book.
 答应	dā ying	verb		to respond (when called)	L4	我叫了他好几声，他都没有答应。	I called out to him several times, but he didn't respond.	她在门外叫我，我马上答应了。	She called me from outside the door, and I responded right away.	老师叫他的名字，他大声答应了一声。	The teacher called his name, and he responded loudly.
-打败	dǎ bài	verb		to defeat	L4	我们队打败了对方。	Our team defeated the opposing team.	他打败了所有对手。	He defeated all his opponents.	小队打败了大队。	The small team defeated the large team.
+打败	dǎ bài	verb		to defeat	L4	我们队打败了对方。	Our team defeated the opposing team.	他打败了所有的人。	He defeated everyone.	小队打败了大队。	The small team defeated the large team.
 打工	dǎ gōng	verb, verbal noun		to work a part time job	L4	他周末去打工赚钱。	He works a part-time job on weekends to earn money.	我暑假想去打工。	I want to work a part-time job during summer vacation.	她在餐厅打工。	She works a part-time job at a restaurant.
 打扰	dǎ rǎo	verb		to bother	L4	对不起，打扰你一下。	Sorry to bother you for a moment.	他一直来打扰我。	He keeps coming to bother me.	我不想打扰你休息。	I don't want to bother you while you rest.
 打扰	dǎ rǎo	verb		to disturb	L4	请不要打扰他工作。	Please don't disturb him while he's working.	那个声音打扰了我。	That sound disturbed me.	开会时不要打扰别人。	Don't disturb others during a meeting.
@@ -1486,12 +1486,12 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 打招呼	dǎ zhāo hu	verb, verbal noun		to greet	L4	他看见老师就打招呼。	He greeted the teacher when he saw her.	见到朋友要打招呼。	You should greet your friends when you see them.	她笑着和大家打招呼。	She smiled and greeted everyone.
 打折	dǎ zhé	verb, verbal noun		to give a discount	L4	这家店今天打折。	This store is giving a discount today.	打折的东西比较便宜。	Discounted items are cheaper.	买两件可以打折吗？	Can I get a discount if I buy two?
 打针	dǎ zhēn	verb		to give or have an injection	L4	医生给他打针了。	The doctor gave him an injection.	生病了有时要打针。	When you're sick, you sometimes need an injection.	孩子不喜欢打针。	Children don't like getting injections.
-大巴	dà bā	noun	辆	large bus	L4	我们坐大巴去旅游。	We took a large bus to travel.	大巴比小车能坐更多人。	A large bus can carry more people than a small car.	学校来了一辆大巴。	A large bus came to the school.
+大巴	dà bā	noun	辆	large bus	L4	我们坐大巴去旅游。	We took a large bus to travel.	大巴比出租车能坐更多人。	A large bus can carry more people than a taxi.	学校来了一辆大巴。	A large bus came to the school.
 大大	dà dà	adverb, adjective		enormously	L4	这次改变大大影响了结果。	This change enormously affected the result.	工作量大大增加了。	The workload increased enormously.	他的能力大大超过了我。	His ability enormously surpassed mine.
-大夫	dài fu	noun		physician	L4	这位大夫很有经验。	This physician is very experienced.	大夫检查了我的身体。	The physician examined my body.	他是一位好大夫。	He is a good physician.
+大夫	dài fu	noun	个, 位, 名	physician	L4	这位大夫很有经验。	This physician is very experienced.	大夫检查了我的身体。	The physician examined my body.	他是一位好大夫。	He is a good physician.
 大量	dà liàng	numeral		great amount	L4	他喝了大量的水。	He drank a great amount of water.	这项工作需要大量时间。	This work requires a great amount of time.	大量的学生报名参加。	A great amount of students signed up to participate.
-大赛	dà sài	verbal noun		large competition	L4	他参加了全国大赛。	He participated in the national large competition.	这次大赛有很多学校参加。	Many schools participated in this large competition.	她在唱歌大赛上唱得很好。	She sang very well at the singing competition.
-大厅	dà tīng	noun		hall (large indoor room)	L4	大家在大厅里等着。	Everyone is waiting in the hall.	酒店的大厅很漂亮。	The hotel hall is very beautiful.	请到大厅等我。	Please wait for me in the hall.
+大赛	dà sài	verbal noun	场, 个	large competition	L4	他参加了一场大赛。	He participated in a large competition.	这次大赛有很多学校参加。	Many schools participated in this large competition.	她在唱歌大赛上唱得很好。	She sang very well at the singing competition.
+大厅	dà tīng	noun	个	hall (large indoor room)	L4	大家在大厅里等着。	Everyone is waiting in the hall.	这家酒店有两个大厅。	This hotel has two halls.	请到大厅等我。	Please wait for me in the hall.
 大约	dà yuē	adverb		approximately	L4	他大约三点到家。	He will arrive home at approximately three o'clock.	这里大约有五十个学生。	There are approximately fifty students here.	我大约需要一个小时。	I need approximately one hour.
 大自然	dà zì rán	noun		the natural world	L4	大自然中有很多动物。	There are many animals in the natural world.	大自然给我们提供食物。	The natural world provides us with food.	我们是大自然的一部分。	We are part of the natural world.
 待	dāi	verb, preposition		stay	L4	他在北京待了三年。	He stayed in Beijing for three years.	你能待多久？	How long can you stay?	我只待了一天就走了。	I only stayed one day before leaving.
@@ -1502,24 +1502,24 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 单位	dān wèi	noun	个	company	L4	他在一个大单位上班。	He works at a large company.	我的单位离家很近。	My company is very close to home.	这个单位对大家都很好。	This company treats everyone well.
 单位	dān wèi	noun	个	unit (of measure)	L4	这道题用什么单位？	What unit of measure does this question use?	这道题用米做单位。	This question uses meters as the unit of measure.	这个单位是公斤。	This unit of measure is kilograms.
 单位	dān wèi	noun	个	work unit	L4	他在国家单位工作。	He works in a state work unit.	她的单位在学校附近。	Her work unit is near the school.	这个单位有很多人工作。	This work unit has many people working in it.
-弹	dàn	verb, morpheme, verbal noun		projectile	L4	那个弹没有打中目标。	That projectile didn't hit the target.	他发现地上有一个弹。	He found a projectile on the ground.	这个弹很危险。	This projectile is very dangerous.
+弹	dàn	noun, morpheme		projectile	L4	那个弹没有打中目标。	That projectile didn't hit the target.	他发现地上有一个弹。	He found a projectile on the ground.	这个弹很危险。	This projectile is very dangerous.
 弹	tán	verb, morpheme, verbal noun		to flick	L4	他弹了一下桌子。	He flicked the table once.	她把头发弹开了。	She flicked her hair away.	他用手弹走了一粒米。	He flicked a grain of rice away with his hand.
 弹	tán	verb, morpheme, verbal noun		to play (a string instrument)	L4	她会弹钢琴。	She can play the piano.	他每天练习弹琴。	He practices playing a stringed instrument every day.	你会弹哪种琴？	What kind of instrument can you play?
-当	dāng	preposition, verb		at (a time)	L4	当那一年，他才二十岁。	At that very year, he was only twenty years old.	当春节，大家都很开心。	At Spring Festival, everyone is very happy.	当春天，花开了。	At springtime, the flowers bloomed.
+当	dāng	preposition, verb		at (a time)	L4	当我到的时候，他已经走了。	When I arrived, he had already left.	当天气好的时候，我们去公园。	When the weather is nice, we go to the park.	当他说话的时候，大家都在听。	When he spoke, everyone was listening.
 当	dāng	preposition, verb		in the presence of	L4	他当着大家的面说了这话。	He said this in the presence of everyone.	当着老师的面，他说了对不起。	In the presence of the teacher, he said sorry.	不要当着孩子的面说这话。	Don't say this in the presence of the children.
 当	dāng	preposition, verb		that very same (night, year, village, etc.)	L4	当天的事情就解决了。	The matter was resolved that very same day.	当年他才二十岁。	That very same year, he was only twenty years old.	他回到了当年的村子。	He returned to the village from that same year.
 当	dāng	preposition, verb		to regard as	L4	他把我当朋友。	He regards me as a friend.	别把这件事当小事。	Don't regard this matter as a small thing.	我把他当哥哥。	I regard him as an older brother.
 当	dāng	preposition, verb		to serve as	L4	他当了班长。	He served as class monitor.	她当老师已经五年了。	She has served as a teacher for five years.	他想当医生。	He wants to serve as a doctor.
 当	dāng	preposition, verb		to take for	L4	他当我是外国人了。	He took me for a foreigner.	我没认出他，当他是别人了。	I didn't recognize him and took him for someone else.	她当那个包是自己的。	She took that bag for her own.
-当	dāng	preposition, verb		to work as	L4	他在学校当老师。	He works as a teacher at school.	她当收银员打工。	She works as a shop assistant in a store.	我想当医生。	I want to work as a doctor.
+当	dāng	preposition, verb		to work as	L4	他在学校当老师。	He works as a teacher at school.	他当了五年司机。	He worked as a driver for five years.	我想当医生。	I want to work as a doctor.
 当时	dāng shí	time word		at that time	L4	当时我们住在北京。	At that time, we lived in Beijing.	当时的情况很复杂。	The situation at that time was very complicated.	我当时不在家。	I was not at home at that time.
 当时	dāng shí	time word		then	L4	当时我不知道怎么办。	Then I didn't know what to do.	当时大家都很高兴。	Then everyone was very happy.	当时他说了什么？	What did he say then?
-刀	dāo	noun, classifier	把	knife	L4	妈妈用刀做饭。	Mom uses a knife to cook.	这把刀很好用。	This knife is very easy to use.	请把刀放好。	Please put the knife away properly.
+刀	dāo	noun, classifier	把	knife	L4	我买了一把新刀。	I bought a new knife.	这把刀很好用。	This knife is very easy to use.	请把刀放好。	Please put the knife away properly.
 导游	dǎo yóu	noun	个, 位, 名	tour guide	L4	导游带我们参观了长城。	The tour guide took us to visit the Great Wall.	她是一名导游。	She is a tour guide.	导游给我们介绍了历史。	The tour guide introduced us to the history.
 倒	dào	verb, adverb		to back up	L4	请把车倒过来。	Please back the car up.	他把车倒进停车的地方。	He backed the car into the parking spot.	你可以把这个倒过去吗？	Can you back this up?
-倒	dǎo	verb, adverb		to exchange	L4	他们把座位倒了一下。	They exchanged seats.	我们可以把时间倒一下吗？	Can we exchange our time slots?	他把两件东西倒了一下。	He exchanged the two things.
+倒	dǎo	verb, adverb		to exchange	L4	他们把座位倒了一下。	They exchanged seats.	我和同事倒了一下班。	My colleague and I switched shifts.	他把两件东西倒了一下。	He exchanged the two things.
 倒	dào	verb, adverb		to pour	L4	他给我倒了一杯水。	He poured me a glass of water.	请帮我倒茶。	Please pour tea for me.	她把牛奶倒进杯子里。	She poured the milk into the cup.
-倒	dǎo	verb, adverb		to resell for a profit	L4	他买低价票，倒给别人赚钱。	He bought cheap tickets and resold them for a profit.	有人专门倒商品赚钱。	Some people specialize in reselling goods to make money.	他靠倒东西赚了很多钱。	He earned a lot of money by reselling things for a profit.
+倒	dǎo	verb, adverb		to resell for a profit	L4	他买低价票，倒给别人赚钱。	He bought cheap tickets and resold them for a profit.	有人专门倒商品赚钱。	Some people specialize in reselling goods to make money.	他倒东西赚了很多钱。	He earned a lot of money reselling things.
 倒	dào	verb, adverb		to the contrary	L4	大家都说他错，他倒觉得自己对。	Everyone said he was wrong, but to the contrary, he felt he was right.	外面很冷，他倒不穿外套。	It's cold outside, but to the contrary, he doesn't wear a coat.	我以为他不来，他倒来了。	I thought he wouldn't come, but to the contrary, he came.
 倒	dǎo	verb, adverb		to topple	L4	树被风吹倒了。	The tree was toppled by the wind.	他把杯子碰倒了。	He toppled the cup.	那堵墙倒了。	That wall toppled over.
 倒	dào	verb, adverb		upside down	L4	画挂倒了。	The painting is hanging upside down.	这个字写倒了。	This character was written upside down.	瓶子放倒了。	The bottle was placed upside down.
