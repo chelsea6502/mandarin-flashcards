@@ -1621,7 +1621,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 丰富	fēng fù	adjective, verb		plentiful	L4	这里的水果非常丰富。	The fruit here is very plentiful.	这里的书非常丰富。	The books here are very plentiful.	这个地方的食物很丰富。	This place has plentiful food.
 丰富	fēng fù	adjective, verb		rich	L4	他有丰富的经验。	He has rich experience.	这个城市文化很丰富。	This city has a rich culture.	她的想法非常丰富。	Her ideas are very rich.
 风景	fēng jǐng	noun	个	landscape	L4	他画了一个美丽的风景。	He painted a beautiful landscape.	照片里的风景很漂亮。	The landscape in the photo is very pretty.	秋天的风景最好看。	The autumn landscape is the most beautiful.
-风景	fēng jǐng	noun	个	scenery	L4	这里的风景真美。	The scenery here is really beautiful.	我喜欢看山上的风景。	I like looking at the scenery on the mountain.	这个地方的风景很有名。	The scenery of this place is very famous.
+风景	fēng jǐng	noun	个	scenery	L4	我们看到了一个很美的风景。	We saw a very beautiful piece of scenery.	我喜欢看山上的风景。	I like looking at the scenery on the mountain.	这个地方的风景很有名。	The scenery of this place is very famous.
 否则	fǒu zé	conjunction		or else	L4	现在出发，否则赶不上车。	Leave now, or else you won't catch the bus.	多穿衣服，否则会感冒。	Wear more clothes, or else you'll catch a cold.	认真听课，否则听不懂。	Listen carefully in class, or else you won't understand.
 否则	fǒu zé	conjunction		otherwise	L4	快点儿，否则要迟到了。	Hurry up, otherwise we'll be late.	你要努力学习，否则考试会不好。	You need to study hard, otherwise your exam will go poorly.	认真学习，否则会不好。	Study seriously, otherwise things will go badly.
 符合	fú hé	verb		to be in line with	L4	他的想法符合我的意见。	His idea is in line with my opinion.	这个方法符合学习的方式。	This method is in line with ways of learning.	请检查内容是否符合要求。	Please check whether the content is in line with requirements.
@@ -1644,7 +1644,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 赶	gǎn	verb		to drive off	L4	他把狗赶出了院子。	He drove the dog out of the yard.	孩子把鸟赶走了。	The child drove off the birds.	她把孩子赶出了房间。	She drove the child out of the room.
 赶紧	gǎn jǐn	adverb		hastily	L4	他赶紧跑过去帮忙。	He hastily ran over to help.	下雨了，我赶紧收衣服。	It started raining, so I hastily brought in the clothes.	她赶紧道歉。	She hastily apologized.
 赶快	gǎn kuài	adverb		at once	L4	你赶快来，我们等你。	Come at once, we're waiting for you.	病人很严重，赶快送医院。	The patient is serious; send them to the hospital at once.	赶快做完作业！	Finish your homework at once!
-赶快	gǎn kuài	adverb		immediately	L4	有人晕倒了，赶快叫医生！	Someone fainted — call a doctor immediately!	赶快离开，这里很危险。	Leave immediately, it's very dangerous here.	他赶快回到家里。	He returned home immediately.
+赶快	gǎn kuài	adverb		immediately	L4	快下雨了，赶快回家！	It's about to rain — go home immediately!	赶快离开，这里很危险。	Leave immediately, it's very dangerous here.	他赶快回到家里。	He returned home immediately.
 赶上	gǎn shàng	verb		to catch up with	L4	我跑了很久才赶上公交车。	I ran for a long time before catching up with the bus.	他很努力，终于赶上了大家。	He worked hard and finally caught up with everyone.	我们快一点，可以赶上他们。	If we go faster, we can catch up with them.
 敢	gǎn	verb, morpheme		to dare	L4	他敢自己去那里。	He dares to go there alone.	你敢不敢试一试？	Do you dare to give it a try?	她不敢说出来。	She doesn't dare to speak up.
 感	gǎn	morpheme		to feel	L4	我感到有点儿累。	I feel a little tired.	他感到非常开心。	He feels very happy.	她感到身体不舒服。	She feels physically unwell.
@@ -1652,7 +1652,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 感动	gǎn dòng	verb, adjective, verbal noun, adjective-noun		to move somebody emotionally	L4	这个故事让我很感动。	This story moved me emotionally.	他的话感动了大家。	His words moved everyone emotionally.	她看电影看哭了，因为太感动了。	She cried watching the movie because it moved her so deeply.
 感觉	gǎn jué	noun, verb		to feel	L4	我感觉今天很冷。	I feel it is very cold today.	你感觉怎么样？	How do you feel?	他感觉有点儿不舒服。	He feels a little unwell.
 感情	gǎn qíng	noun	个, 种	emotion	L4	他有一种复杂的感情。	He has a complicated emotion.	音乐能让人产生各种感情。	Music can make people feel all kinds of emotions.	这个感情很难用话说清楚。	This emotion is hard to make clear in words.
-感情	gǎn qíng	noun	个, 种	feelings	L4	他们两个人的感情很深。	The feelings between the two of them are very deep.	朋友之间的感情很重要。	Feelings between friends are very important.	她对家人的感情很深。	Her feelings for her family are very deep.
+感情	gǎn qíng	noun	个, 种	feelings	L4	他们两个人的感情很深。	The feelings between the two of them are very deep.	朋友之间的感情很重要。	Feelings between friends are very important.	他有一种说不出来的感情。	He has a kind of feeling that he can't express.
 感人	gǎn rén	adjective		moving	L4	他帮助老人，这件事很感人。	His act of helping the elderly was very moving.	这首歌的内容很感人。	The content of this song is very moving.	他们的故事真的很感人。	Their story is really moving.
 感人	gǎn rén	adjective		touching	L4	这个故事非常感人。	This story is very touching.	他在台上说的话十分感人。	What he said on stage was very touching.	这部电影真的很感人。	This movie is really touching.
 感受	gǎn shòu	verb, verbal noun		to experience	L4	来中国让我感受到不同的文化。	Coming to China let me experience a different culture.	他想感受一下农村生活。	He wanted to experience rural life.	在大自然中感受新鲜空气。	Experience the fresh air in nature.
@@ -1663,8 +1663,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 高价	gāo jià	noun, adverb		high price	L4	这件衣服是高价买的。	This piece of clothing was bought at a high price.	他不想用高价买这个。	He doesn't want to buy this at a high price.	高价的东西不一定是最好的。	Things at a high price are not necessarily the best.
 高考	gāo kǎo	verb, verbal noun		college entrance examination in China	L4	很多学生努力准备高考。	Many students work hard to prepare for the college entrance examination.	高考结果决定了很多事情。	The college entrance examination results determine many things.	她通过了高考，进了大学。	She passed the college entrance examination and entered university.
 高速	gāo sù	non-predicate adjective, adverb		high speed	L4	这辆车跑得很快，是高速的。	This vehicle goes very fast — it is high speed.	电脑的高速发展改变了生活。	The high-speed development of computers has changed life.	飞机高速地飞。	The airplane flies at high speed.
-高温	gāo wēn	noun		high temperature	L4	夏天高温让人不舒服。	High temperatures in summer make people uncomfortable.	今天的高温很高。	Today's high temperature is very high.	高温天气要多喝水。	In high temperature weather, drink more water.
-高于	gāo yú	verb		higher than	L4	他的成绩高于其他同学。	His results are greater than the other students'.	今天的气温高于昨天。	Today's temperature is greater than yesterday's.	她的分数高于全班同学。	Her score is greater than all her classmates'.
+高温	gāo wēn	noun		high temperature	L4	夏天高温让人不舒服。	High temperatures in summer make people uncomfortable.	这个城市夏天经常有高温。	This city often has high temperatures in summer.	高温天气要多喝水。	In high temperature weather, drink more water.
+高于	gāo yú	verb		to be higher than	L4	他的成绩高于其他同学。	His results are greater than the other students'.	今天的气温高于昨天。	Today's temperature is greater than yesterday's.	她的分数高于全班同学。	Her score is greater than all her classmates'.
 胳膊	gē bo	noun	只, 条, 双	arm	L4	他的左胳膊受伤了。	His left arm was injured.	孩子抱住妈妈的胳膊。	The child hugged mom's arm.	她的两条胳膊都很长。	Both of her arms are very long.
 歌声	gē shēng	noun		sound of singing	L4	我听到了歌声。	I heard the sound of singing.	她的歌声很好听。	Her sound of singing is very pleasant.	孩子们的歌声让人开心。	The children's sounds of singing make people happy.
 歌手	gē shǒu	noun		singer	L4	她是一位有名的歌手。	She is a famous singer.	这位歌手的歌我都喜欢。	I like all the songs of this singer.	他想成为一名歌手。	He wants to become a singer.
