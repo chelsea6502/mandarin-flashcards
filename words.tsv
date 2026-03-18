@@ -326,7 +326,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 雨	yǔ	noun, morpheme	阵, 场	rain	L1	今天下雨了。	It is raining today.	昨天下了一场雨。	There was a rainfall yesterday.	雨很大。	The rain is very heavy.
 元	yuán	classifier, time morpheme		unit of money (in PRC: Chinese yuan, in USA: dollar, etc.)	L1	这本书五元。	This book costs five yuan.	他给了我十元。	He gave me ten yuan.	一个苹果两元。	One apple costs two yuan.
 月	yuè	noun, time word	个, 轮	month	L1	一年有十二个月。	A year has twelve months.	他学了三个月汉语。	He studied Chinese for three months.	下个月我去中国。	Next month I am going to China.
-月	yuè	noun, time word	个, 轮	moon	L1	晚上的月亮很好看。	The moon at night is very beautiful.	天上有一轮月亮。	There is a moon in the sky.	你看见月亮了吗？	Did you see the moon?
+月	yuè	noun, time word	个, 轮	moon	L1	晚上的月很好看。	The moon at night is very beautiful.	天上有一轮月。	There is a moon in the sky.	你看见月了吗？	Did you see the moon?
 再	zài	adverb, morpheme		again	L1	请再说。	Please say it again.	你再来吧。	Come again.	我再看看。	I'll look again.
 再	zài	adverb, morpheme		more (e.g. 再大点儿 a bit bigger)	L1	再大点儿。	A bit bigger.	再多一点儿。	A little more.	再大点儿好吗？	Can it be a bit bigger?
 再	zài	adverb, morpheme		then (e.g. 吃完饭再看电视 eat dinner then watch TV)	L1	吃了饭再看电视。	Eat first, then watch TV.	写了字再玩。	Write the characters, then play.	休息再吃饭。	Rest first, then eat.
