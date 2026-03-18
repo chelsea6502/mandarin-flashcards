@@ -383,18 +383,18 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 比	bǐ	preposition, verb, noun, non-predicate adjective		to compare	L2	我们来比一比。	Let's compare.	你能比比这两个吗？	Can you compare these two?	比一比，你来说。	Compare first, then you speak.
 笔	bǐ	classifier, noun	支, 枝	measure word for sums of money and strokes of a pen	L2	这是一笔钱。	This is a sum of money.	这笔钱很多。	This sum of money is a lot.	我画了一笔。	I made one stroke with the pen.
 笔	bǐ	classifier, noun	支, 枝	writing implement	L2	我要买笔。	I want to buy a pen.	我买了两支笔。	I bought two pens.	你的笔在哪里？	Where is your pen?
-别	bié	adverb, verb, pronoun, verbal noun		don't	L2	别说话！	Don't talk!	别走，等我。	Don't leave, wait for me.	别吃太多。	Don't eat too much.
+别	bié	adverb, verb, pronoun, verbal noun		don't	L2	别说话！	Don't talk!	别走，等着我。	Don't leave, wait for me.	别吃太多。	Don't eat too much.
 不错	bù cuò	adjective		not bad	L2	这个饭不错。	This food is not bad.	他的中文不错。	His Chinese is not bad.	今天天气不错。	The weather today is not bad.
 不好意思	bù hǎo yì si	verb, adjective		to feel embarrassed; used as an apology or polite excuse me	L2	不好意思，我来晚了。	Sorry, I came late.	不好意思，请问……	Excuse me, may I ask…	不好意思，这些是我的东西。	Excuse me, these are my belongings.
 车站	chē zhàn	noun	处, 个	bus stop	L2	下一个车站是哪里？	Where is the next bus stop?	我在车站下车。	I get off at the bus stop.	这个车站很近。	This bus stop is very close.
-车站	chē zhàn	noun	处, 个	rail station	L2	那个车站在哪里？	Where is that station?	我在车站等你。	I'll wait for you at the rail station.	我们去那个车站。	Let's go to that rail station.
+车站	chē zhàn	noun	处, 个	rail station	L2	那个车站在哪里？	Where is that station?	我在车站等着你。	I'm waiting for you at the rail station.	我们去那个车站。	Let's go to that rail station.
 出	chū	verb, classifier		to emerge	L2	鱼从水里出来了。	The fish emerged from the water.	他从门里出来。	He emerged from the doorway.	水从里面出来。	Water emerged from inside.
 出	chū	verb, classifier		to produce	L2	这里出很多苹果。	This place produces a lot of apples.	这里出很多东西。	This place produces many things.	他出了一本书。	He produced a book.
 出国	chū guó	verb, verbal noun		to go abroad	L2	他想出国工作。	He wants to go abroad to work.	我明年出国学习。	I will go abroad to study next year.	她第一次出国。	She is going abroad for the first time.
 出来	chū lái	verb		to come out	L2	他出来了。	He came out.	猫从房间出来了。	The cat came out of the room.	请出来一下。	Please come out for a moment.
 出门	chū mén	verb, verbal noun		to go out	L2	他早上出门了。	He went out in the morning.	我要出门买东西。	I'm going out to buy things.	出门要穿好衣服。	You should dress properly before going out.
 出去	chū qù	verb		to go out	L2	我想出去走走。	I want to go out for a walk.	外面冷，别出去了。	It's cold outside, don't go out.	她出去买东西了。	She went out to buy things.
-床	chuáng	noun, classifier	张	bed	L2	我的床很大。	My bed is very big.	他在床上看书。	He is reading on the bed.	房间里有两张床。	There are two beds in the room.
+床	chuáng	noun, classifier	张	bed	L2	我的床很大。	My bed is very big.	他在床上看着书。	He is reading on the bed.	房间里有两张床。	There are two beds in the room.
 词	cí	noun	个	word	L2	这个词是什么意思？	What does this word mean?	我不认识这个词。	I don't know this word.	她学了很多新词。	She learned many new words.
 次	cì	verbal classifier, adjective, morpheme		time (indicating occurrences of an event)	L2	我去过那里两次。	I have been there twice.	他打了我一次。	He hit me once.	这是第一次。	This is the first time.
 从	cóng	preposition, morpheme		from	L2	我从那里来。	I came from there.	从家到学校很近。	From home to school is very close.	他从早到晚都在工作。	He works from morning to night.
@@ -412,7 +412,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 得	dé	verb		to receive	L2	他得了一百分。	He received one hundred points.	我得了很多书。	I received many books.	她得了第一名。	She received first place.
 得	de	particle		used to indicate manner or degree of a verb or adjective (e.g. 唱得好 to sing well, 大得拿不动 too big to be moved)	L2	他唱得很好。	He sings very well.	她跑得很快。	She runs very fast.	你说得对。	You said it correctly.
 等	děng	particle		etcetera	L2	她会唱歌、跳舞等。	She can sing, dance, etcetera.	我喜欢猫、狗等。	I like cats, dogs, etcetera.	桌上有书、笔等。	On the table there are books, pens, etcetera.
-等	děng	verb		to wait	L2	请等一下。	Please wait a moment.	我在这里等你。	I am waiting for you here.	他等了很长时间。	He waited for a long time.
+等	děng	verb		to wait	L2	请等一下。	Please wait a moment.	我在这里等着你。	I am waiting for you here.	他等了很长时间。	He waited for a long time.
 地	dì	noun	块	ground	L2	地上有水。	There is water on the ground.	书在地上。	The book is on the ground.	学校前面有一块地。	There is a piece of land in front of the school.
 地	dì	noun		place (as in 地方)	L2	这个地方很好。	This place is very good.	你住在什么地方？	What place do you live in?	我想去一个新地方。	I want to go to a new place.
 地	de	particle		suffix used to turn an adjective, noun, or phrase into an adverb (e.g. 高兴地说 to speak happily)	L2	她高兴地笑了。	She smiled happily.	他慢慢地走过来。	He walked over slowly.	他很快地跑过去了。	He quickly ran over.
@@ -427,7 +427,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 高中	gāo zhōng	noun	所, 个	high school	L2	我弟弟在上高中。	My younger brother is attending high school.	我们这里有两所高中。	There are two high schools here.	高中三年很快就过了。	The three years of high school passed quickly.
 告诉	gào su	verb		to tell	L2	请告诉我你的名字。	Please tell me your name.	他告诉我今天没有课。	He told me there is no class today.	妈妈告诉我早点回家。	Mom told me to come home early.
 个子	gè zi	noun		height, stature, build	L2	他个子很高。	He is very tall.	我个子不高。	I am not tall.	你个子多高？	What is your height?
-跟	gēn	verb		to follow	L2	你跟我来。	Follow me.	小狗跟她走。	The puppy follows her.	猫跟我回家了。	The cat followed me home.
+跟	gēn	verb		to follow	L2	你跟着我来。	Follow me.	小狗跟着她走。	The puppy follows her.	猫跟着我回家了。	The cat followed me home.
 公交车	gōng jiāo chē	noun	辆	bus	L2	前面有一辆公交车。	There is a bus up ahead.	我每天坐公交车上班。	I take the public transport bus to work every day.	这路公交车到学校吗？	Does this bus go to school?
 过	guò	particle, verb, adverb, morpheme		to cross	L2	我们一起过路吧。	Let's cross the road together.	他过了那条路。	He crossed the road.	他过了那边。	He crossed to that side.
 过	guò	particle, verb, adverb, morpheme		to spend (time)	L2	我在家过了两天。	I spent two days at home.	你在哪里过的生日？	Where did you spend your birthday?	我们一起过了一个快乐的下午。	We spent a happy afternoon together.
@@ -442,8 +442,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 还是	hái shi	conjunction, adverb, verb		or	L2	你喝茶还是喝水？	Will you drink tea or water?	你去还是不去？	Are you going or not?	他是你哥哥还是弟弟？	Is he your older brother or younger brother?
 黑色	hēi sè	noun		black	L2	我喜欢黑色的衣服。	I like black clothes.	那只猫是黑色的。	That cat is black.	这个包是黑色的。	This bag is black.
 红茶	hóng chá	noun	杯	black tea	L2	我想喝一杯红茶。	I want to drink a cup of black tea.	她每天早上喝红茶。	She drinks black tea every morning.	这杯红茶很好喝。	This cup of black tea is very good.
-红色	hóng sè	noun		red	L2	她穿了一件红色的衣服。	She wore a red piece of clothing.	我喜欢红色。	I like red.	那个包是红色的。	That bag is red.
-后面	hòu mian	directional word		at the back	L2	书在桌子后面。	The book is at the back of the table.	他坐在我后面。	He is sitting behind me.	狗在门后面。	The dog is at the back of the door.
+红色	hóng sè	noun		red	L2	她穿着一件红色的衣服。	She is wearing a red piece of clothing.	我喜欢红色。	I like red.	那个包是红色的。	That bag is red.
+后面	hòu mian	directional word		at the back	L2	书在桌子后面。	The book is at the back of the table.	他在我后面坐着。	He is sitting behind me.	狗在门后面。	The dog is at the back of the door.
 花	huā	verb, noun, adjective	朵	flower	L2	这个花很好看。	This flower is very pretty.	她喜欢花。	She likes flowers.	他给了我一朵花。	He gave me a flower.
 花	huā	verb, noun, adjective		to spend	L2	我花了五十块。	I spent fifty yuan.	买书花了多少钱？	How much money did you spend on books?	她花了很多时间。	She spent a lot of time.
 画	huà	noun, verb, classifier	幅, 张	painting	L2	这个画很好看。	This painting is very good-looking.	他买了一幅画。	He bought a painting.	那个画是他的。	That painting is his.
@@ -453,7 +453,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 坏	huài	adjective, verb		broken	L2	我的手机坏了。	My phone is broken.	电视坏了，不能看。	The TV is broken and can't be watched.	这个椅子坏了。	This chair is broken.
 回来	huí lai	verb		to return	L2	他回来了。	He has returned (here).	妈妈从商店回来了。	Mom returned from the store.	你什么时候回来？	When will you return (here)?
 回去	huí qu	verb		to go back	L2	我要回去了。	I need to go back now.	他回去工作了。	He went back to work.	我们坐车回去吧。	Let's take a car to go back.
-机场	jī chǎng	noun	个	airport	L2	我们到机场了。	We've arrived at the airport.	这里有两个机场。	There are two airports here.	他在机场等我们。	He is waiting for us at the airport.
+机场	jī chǎng	noun	个	airport	L2	我们到机场了。	We've arrived at the airport.	这里有两个机场。	There are two airports here.	他在机场等着我们。	He is waiting for us at the airport.
 机票	jī piào	noun	张	air ticket	L2	我买了一张机票。	I bought a plane ticket.	机票多少钱？	How much is the air ticket?	他找不到机票了。	He can't find his ticket.
 记得	jì de	verb		to remember	L2	你记得他吗？	Do you remember him?	我记得这个字。	I remember this character.	我不记得这件事。	I don't remember this matter.
 间	jiān	classifier		measure word for rooms	L2	我有一间房间。	I have one room.	这间教室很大。	This classroom is very big.	他住在两间房间里。	He lives in two rooms.
@@ -470,7 +470,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 就	jiù	adverb, preposition, conjunction, verb		as early as (e.g. 我早上六点钟就起床了。I get up as early as six in the morning.)	L2	她六点就起来了。	She got up as early as six o'clock.	他八岁就会写字了。	He could write characters as early as age eight.	我早上七点就到了。	I arrived as early as seven in the morning.
 就	jiù	adverb, preposition, conjunction, verb		definitely (e.g. 她就住在这儿。This is definitely where she lives.)	L2	她就住在这里。	She definitely lives here (right here).	这本书就在这里。	This book is definitely right here.	我就知道是你。	I definitely knew it was you.
 就	jiù	adverb, preposition, conjunction, verb		immediately (e.g. 吃完了我就上班了。I ate then went to work.)	L2	我吃完饭就去学校。	I ate and immediately went to school.	他说完就走了。	He finished speaking and immediately left.	她回家就睡觉了。	She got home and immediately went to sleep.
-就	jiù	adverb, preposition, conjunction, verb		only (e.g. 他就等你的决定。He is just waiting for your decision)	L2	他就等你。	He is only waiting for you.	我就要一杯水。	I only want one cup of water.	就我一个在家。	Only I am at home.
+就	jiù	adverb, preposition, conjunction, verb		only (e.g. 他就等你的决定。He is just waiting for your decision)	L2	他就等着你。	He is only waiting for you.	我就要一杯水。	I only want one cup of water.	就我一个在家。	Only I am at home.
 就	jiù	adverb, preposition, conjunction, verb		regarding (e.g. 就目前情况看来 in light of the present situation)	L2	就这件事，我想说一下。	Regarding this matter, I want to say something.	就今天的事，你怎么看？	Regarding today's matter, what do you think?	就这个问题，老师说了很多。	Regarding this question, the teacher said a lot.
 咖啡	kā fēi	noun	杯	coffee	L2	我每天喝一杯咖啡。	I drink one cup of coffee every day.	这个咖啡很好。	This coffee is very good.	你要喝咖啡吗？	Do you want to drink coffee?
 开始	kāi shǐ	verb, verbal noun	个	to start	L2	我们开始上课吧。	Let's start class.	他开始学中文了。	He started learning Chinese.	他们已经开始了。	They have already started.
@@ -480,7 +480,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 考试	kǎo shì	verbal noun, verb	次	test	L2	这次考试我考了一百分。	I scored one hundred on this test.	考试完了。	The test is over.	你考试考得怎么样？	How did you do on the test?
 可能	kě néng	noun	个	possibility	L2	这有两个可能。	There are two possibilities here.	这个可能很小。	This possibility is very small.	这件事还有一个可能。	There is one more possibility for this matter.
 可能	kě néng	adverb	个	possibly	L2	他可能不来了。	He possibly won't come.	明天可能下雨。	It will possibly rain tomorrow.	她可能在家里。	She is possibly at home.
-裤子	kù zi	noun	条	pants	L2	我买了一条裤子。	I bought a pair of pants.	这条裤子太长了。	These pants are too long.	他穿了一条黑色裤子。	He wore a pair of black pants.
+裤子	kù zi	noun	条	pants	L2	我买了一条裤子。	I bought a pair of pants.	这条裤子太长了。	These pants are too long.	他穿着一条黑色裤子。	He is wearing a pair of black pants.
 快	kuài	adjective, adverb, morpheme		about to	L2	他快走了。	He is about to leave.	饭快好了。	The food is about to be ready.	考试快开始了。	The exam is about to start.
 快	kuài	adjective, adverb, morpheme		fast	L2	他跑得很快。	He runs very fast.	这个车很快。	This car is very fast.	请说快一点。	Please speak a bit faster.
 快	kuài	adjective, adverb, morpheme		sharp	L2	这把刀很快。	This knife is very sharp.	你觉得快不快？	Do you think it's sharp?	这把刀不快了。	This knife is no longer sharp.
@@ -504,14 +504,14 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 慢	màn	adjective, adverbial adjective		slow	L2	他走路很慢。	He walks very slowly.	请说慢一点。	Please speak a bit more slowly.	这个车太慢了。	This car is too slow.
 没意思	méi yì si	adjective		boring	L2	这本书没意思。	This book is boring.	那本书太没意思了。	That book is so boring.	他觉得这课没意思。	He finds this class boring.
 每	měi	pronoun		every	L2	我每天喝水。	I drink water every day.	她每年回家。	She goes home every year.	他每天早上跑步。	He runs every morning.
-门	mén	noun, classifier	扇, 个	door	L2	请打开门。	Please open the door.	门开了。	The door is open.	那个门很大。	That door is very big.
-门	mén	noun, classifier	扇, 个	gate	L2	学校的门很大。	The school gate is very large.	我在门外等你。	I'll wait for you outside the gate.	那个门太小了。	That gate is too small.
+门	mén	noun, classifier	扇, 个	door	L2	请打开门。	Please open the door.	门开着。	The door is open.	那个门很大。	That door is very big.
+门	mén	noun, classifier	扇, 个	gate	L2	学校的门很大。	The school gate is very large.	我在门外等着你。	I'm waiting for you outside the gate.	那个门太小了。	That gate is too small.
 门	mén	noun, classifier		measure word for classes and subjects of study	L2	我学了两门课。	I am studying two courses.	他教一门中文课。	He teaches one Chinese class.	这门课有意思。	This course is interesting.
-门口	mén kǒu	place word	个	doorway	L2	他站在门口。	He is standing at the doorway.	我在门口等你。	I'm waiting for you at the doorway.	这个门口很小。	This doorway is very small.
+门口	mén kǒu	place word	个	doorway	L2	他在门口站着。	He is standing at the doorway.	我在门口等着你。	I'm waiting for you at the doorway.	这个门口很小。	This doorway is very small.
 门票	mén piào	noun	张	admission ticket	L2	门票多少钱？	How much is the ticket?	我买了两张门票。	I bought two admission tickets.	那里不要门票。	That place doesn't require a ticket.
 面	miàn	noun, classifier, verb, morpheme	张	face	L2	我没见过他的面。	I have never seen his face.	他们面对面说话。	They talked face to face.	我不想见他的面。	I don't want to see his face.
 名	míng	classifier, morpheme		measure word for people (formal)	L2	有一名老师来了。	A teacher came.	我们班有二十名学生。	Our class has twenty students.	他是一名医生。	He is a doctor.
-拿	ná	verb		to take	L2	请拿一杯水。	Please take a glass of water.	他拿了书走了。	He took the book and left.	你拿什么？	What are you taking?
+拿	ná	verb		to take	L2	请拿一杯水。	Please take a glass of water.	他拿着书走了。	He left carrying the book.	你拿什么？	What are you taking?
 那么	nà me	pronoun, conjunction		in that case	L2	你不去，那么我去。	You're not going; in that case, I'll go.	天气不好，那么我们在家。	The weather is bad; in that case, let's stay home.	他不来，那么我们走吧。	He's not coming; in that case, let's go.
 那么	nà me	pronoun, conjunction		in that way	L2	你不要那么做。	Don't do it in that way.	她那么说了。	She said it in that way.	请不要那么走路。	Please don't walk in that way.
 那么	nà me	pronoun, conjunction		so, that (to such a degree)	L2	我不喜欢那么冷的天。	I don't like such cold weather.	别说那么多话。	Don't talk that much.	他为什么那么不高兴？	Why is he so unhappy?
@@ -521,7 +521,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 男孩儿	nán hái r	noun	个	boy	L2	那个男孩儿很高。	That boy is very tall.	男孩儿在外面玩。	The boy is playing outside.	她有一个男孩儿。	She has a boy.
 鸟	niǎo	noun	只	bird	L2	天上有一只鸟。	There is a bird in the sky.	那只鸟很漂亮。	That bird is very beautiful.	鸟在天上飞。	Birds fly in the sky.
 女孩儿	nǚ hái r	noun	个	girl	L2	那个女孩儿很好看。	That girl is very pretty.	女孩儿在唱歌。	The girl is singing.	她是个好女孩儿。	She is a good girl.
-旁边	páng biān	directional word		side	L2	他坐在我旁边。	He is sitting at my side.	学校旁边有一个店。	There is a shop on the side of the school.	猫在桌子旁边。	The cat is beside the table.
+旁边	páng biān	directional word		side	L2	他在我旁边坐着。	He is sitting at my side.	学校旁边有一个店。	There is a shop on the side of the school.	猫在桌子旁边。	The cat is beside the table.
 跑	pǎo	verb		to run	L2	他跑得很快。	He runs very fast.	我们一起跑吧。	Let's run together.	孩子们在外面跑。	The children are running outside.
 跑步	pǎo bù	verb		to go running; to jog	L2	我每天早上跑步。	I go running every morning.	她喜欢在外面跑步。	She likes to run outside.	跑步对身体很好。	Running is very good for your health.
 票	piào	noun, classifier	张	ticket	L2	我买了两张票。	I bought two tickets.	这张票多少钱？	How much is this ticket?	他的票在哪里？	Where is his ticket?
@@ -539,7 +539,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 让	ràng	verb		to make somebody do something or be a certain way	L2	这件事让我很高兴。	This matter makes me very happy.	雨让我很不高兴。	The rain makes me unhappy.	这件事让我很累。	This matter makes me very tired.
 肉	ròu	noun	块	meat	L2	我喜欢吃肉。	I like to eat meat.	这里的肉很好吃。	The meat here is very delicious.	妈妈买了两块肉。	Mom bought two pieces of meat.
 商场	shāng chǎng	noun	家	mall	L2	那家商场离这里很近。	That mall is very close to here.	我在商场买了一件衣服。	I bought a piece of clothing at the mall.	商场里的人很多。	There are a lot of people in the mall.
-上来	shàng lai	verb		to come up	L2	请上来坐。	Please come up and sit.	他从楼下上来了。	He came up from downstairs.	快上来，我们等你。	Come up quickly, we are waiting for you.
+上来	shàng lai	verb		to come up	L2	请上来坐。	Please come up and sit.	他从楼下上来了。	He came up from downstairs.	快上来，我们等着你。	Come up quickly, we are waiting for you.
 上面	shàng miàn	directional word		on top of	L2	书在桌子上面。	The book is on top of the table.	猫在椅子上面睡觉。	The cat is sleeping on top of the chair.	上面有水果。	There is fruit on top.
 上去	shàng qù	verb		to go up	L2	他上去了。	He went up.	我们一起上去吧。	Let's go up together.	他跑上去找妈妈。	He ran up to find mom.
 上网	shàng wǎng	verb, verbal noun		to go on the internet	L2	我每天上网看书。	I go on the internet to read every day.	她在上网。	She is online.	孩子喜欢上网玩。	Children like to go on the internet to play.
@@ -568,14 +568,14 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 头	tóu	noun, classifier, numeral, suffix	个	head	L2	我的头很大。	My head is very big.	我头很疼。	My head hurts.	她有一个大头。	She has a big head.
 头	tóu	noun, classifier, numeral, suffix	个	measure word for certain domestic animals (e.g. cows and sheep)	L2	他家有一头大的。	His family has one big one.	这里有两头。	There are two (head of livestock) here.	我们家有三头。	Our family has three (head of livestock).
 外国	wài guó	noun	个	foreign country	L2	她是从一个外国来的。	She comes from a foreign country.	他去外国工作了。	He went to work in a foreign country.	你去过外国吗？	Have you been to a foreign country?
-外面	wài miàn	directional word		outside	L2	外面很冷。	It's very cold outside.	孩子们在外面玩。	The children are playing outside.	外面在下雨。	It's raining outside.
+外面	wài miàn	directional word		outside	L2	外面很冷。	It's very cold outside.	孩子们在外面玩。	The children are playing outside.	外面下着雨。	It's raining outside.
 完	wán	verb		to finish	L2	我的书看完了。	I have finished reading my book.	你吃完了吗？	Have you finished eating?	他做完了。	He has finished.
 万	wàn	numeral, time word		ten thousand	L2	这本书要一万元。	This book costs ten thousand yuan.	我们学校有两万学生。	Our school has twenty thousand students.	两万人来了。	Twenty thousand people came.
 网上	wǎng shàng	place word		online	L2	我在网上买书。	I buy books online.	他在网上有很多朋友。	He has many friends online.	我们在网上学习。	We study online.
 往	wǎng	preposition, verb		towards	L2	往左走。	Walk towards the left.	往前看。	Look towards the front.	车往前开。	The car drives forward.
 忘	wàng	verb		to forget	L2	我忘了他的名字。	I forgot his name.	你忘了书吗？	Did you forget the book?	她忘了那件事。	She forgot about that matter.
 为什么	wèi shén me	pronoun		why	L2	你为什么笑？	Why are you laughing?	他为什么不来？	Why isn't he coming?	你为什么这么高兴？	Why are you so happy?
-位	wèi	classifier, morpheme		polite measure word for people	L2	有两位老师来了。	Two teachers came.	请问，这位是谁？	Excuse me, who is this person?	有一位朋友在等你。	There is a friend waiting for you.
+位	wèi	classifier, morpheme		polite measure word for people	L2	有两位老师来了。	Two teachers came.	请问，这位是谁？	Excuse me, who is this person?	有一位朋友在等着你。	There is a friend waiting for you.
 希望	xī wàng	verb, noun, verbal noun	个	to hope	L2	我希望你快乐。	I hope you are happy.	他希望天气好。	He hopes the weather will be good.	我有一个希望。	I have one hope.
 洗	xǐ	verb		to wash	L2	我去洗手。	I'm going to wash my hands.	她洗了衣服。	She washed the clothes.	她洗了那个杯子。	She washed that cup.
 洗手间	xǐ shǒu jiān	noun	个	restroom	L2	洗手间在哪里？	Where is the restroom?	我要去洗手间。	I need to go to the restroom.	这里有两个洗手间。	There are two restrooms here.
@@ -587,7 +587,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 小孩儿	xiǎo hái r	noun	个	child	L2	那个小孩儿很高兴。	That child is very happy.	小孩儿不会做这个。	A child can't do this.	她有两个小孩儿。	She has two children.
 小时候	xiǎo shí hou	time word, noun		in one's childhood	L2	我小时候住在那里。	I lived there when I was young.	她小时候很喜欢跑步。	She loved running in her childhood.	你小时候学过什么？	What did you study in your childhood?
 笑	xiào	verb, verbal noun		to laugh	L2	大家都笑了。	Everyone laughed.	他看了那个电影，笑了。	He watched that movie and laughed.	他一说话，大家都笑了。	As soon as he spoke, everyone laughed.
-笑	xiào	verb, verbal noun		to smile	L2	她对我笑了一下。	She smiled at me.	老师对学生笑。	The teacher smiles at the students.	他对我笑了。	He smiled at me.
+笑	xiào	verb, verbal noun		to smile	L2	她对着我笑了一下。	She smiled at me.	老师对着学生笑。	The teacher smiles at the students.	他对着我笑了。	He smiled at me.
 姓	xìng	verb, noun	个	surname	L2	你姓什么？	What is your surname?	一个姓李，一个姓王。	One is surnamed Li, the other is surnamed Wang.	他姓什么？	What is his surname?
 姓名	xìng míng	noun	个	full name	L2	请告诉我你的姓名。	Please tell me your full name.	她的姓名很好听。	Her full name sounds very nice.	请写一个姓名。	Please write a name.
 颜色	yán sè	noun	种	color	L2	你喜欢什么颜色？	What color do you like?	这件衣服的颜色很好看。	The color of this piece of clothing is very nice.	这里有三种颜色。	There are three colors here.
@@ -608,13 +608,13 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 有意思	yǒu yì si	set phrase		interesting	L2	这本书很有意思。	This book is very interesting.	那个电影有意思吗？	Is that movie interesting?	他说的很有意思。	What he said is very interesting.
 右	yòu	directional word, adjective		right (-hand)	L2	他的右手很好。	His right hand is very good.	往右走就到了。	Go right and you'll be there.	请往右走。	Please walk to the right.
 右边	yòu bian	directional word		right side	L2	学校在右边。	The school is on the right side.	右边是饭店。	The right side is the restaurant.	请走右边。	Please go to the right side.
-鱼	yú	noun	条	fish	L2	我很喜欢吃鱼。	I really like eating fish.	那条鱼很大。	That fish is very big.	他在水里看鱼。	He is watching fish in the water.
+鱼	yú	noun	条	fish	L2	我很喜欢吃鱼。	I really like eating fish.	那条鱼很大。	That fish is very big.	他在水里看着鱼。	He is watching fish in the water.
 远	yuǎn	adjective, adverbial adjective		distant	L2	那里很远。	That place is very distant.	他住得很远。	The place where he lives is very distant.	那里离我们很远。	That place is very distant from us.
 远	yuǎn	adjective, adverbial adjective		far	L2	他家离学校很远。	His home is very far from school.	那里太远了。	That place is too far.	超市不远，走路就到。	The supermarket is not far; you can walk there.
 运动	yùn dòng	verbal noun, noun, verb	场	exercise	L2	我每天都运动。	I exercise every day.	他们有一场运动。	They have a sports event.	运动对身体好。	Exercise is good for your body.
-站	zhàn	verb, noun, classifier	个	station	L2	火车站在哪里？	Where is the train station?	我在站里等你。	I am waiting for you at the station.	这个站很大。	This station is very big.
+站	zhàn	verb, noun, classifier	个	station	L2	火车站在哪里？	Where is the train station?	我在站里等着你。	I am waiting for you at the station.	这个站很大。	This station is very big.
 站	zhàn	verb, noun, classifier	个	stop	L2	下一站是学校。	The next stop is the school.	我们在这站下车。	We get off at this stop.	还有两个站就到了。	Two more stops and we'll be there.
-站	zhàn	verb, noun, classifier		to stand	L2	请站起来。	Please stand up.	他站在门口。	He is standing at the doorway.	请站在这里。	Please stand here.
+站	zhàn	verb, noun, classifier		to stand	L2	请站起来。	Please stand up.	他在门口站着。	He is standing at the doorway.	请在这里站着。	Please stand here.
 长	cháng	adjective, verb, adverbial adjective, morpheme		long	L2	这条路很长。	This road is very long.	他的手很长。	His hands are very long.	这本书有点长。	This book is a bit long.
 长	zhǎng	adjective, verb, adverbial adjective, morpheme		to grow	L2	花长得很好看。	The flowers grew beautifully.	孩子长大了。	The child has grown up.	这花长得很快。	This flower grows very fast.
 丈夫	zhàng fu	noun	个	husband	L2	她丈夫很高。	Her husband is very tall.	我丈夫在家。	My husband is at home.	她有一个好丈夫。	She has a good husband.
@@ -631,7 +631,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 走路	zǒu lù	verb, verbal noun		to walk	L2	我喜欢走路上班。	I like to walk to work.	我们走路去吧。	Let's go on foot.	他每天走路一个小时。	He walks for one hour every day.
 足球	zú qiú	noun	个	soccer	L2	他喜欢踢足球。	He likes to play soccer.	他买了一个足球。	He bought a soccer ball.	你喜欢足球吗？	Do you like soccer?
 最	zuì	adverb, morpheme		most	L2	她最喜欢猫。	She likes cats the most.	这个最大。	This one is the largest.	他跑得最快。	He runs the fastest.
-左	zuǒ	directional word, adjective		left	L2	往左走。	Walk to the left.	他坐在我左边。	He is sitting to my left.	我家在学校的左边。	My home is to the left of the school.
+左	zuǒ	directional word, adjective		left	L2	往左走。	Walk to the left.	他在我左边坐着。	He is sitting to my left.	我家在学校的左边。	My home is to the left of the school.
 左边	zuǒ bian	directional word		left side	L2	书在桌子左边。	The book is on the left side of the table.	我家在学校左边。	My home is on the left side of the school.	左边有一家商店。	There is a shop on the left side.
 阿姨	ā yí	noun	个	domestic worker	L3	家里的阿姨每天打扫房间。	The domestic worker at home cleans the rooms every day.	我们家请了一个阿姨帮忙。	Our family hired a domestic worker to help out.	那个阿姨做饭很好吃。	That domestic worker cooks very deliciously.
 阿姨	ā yí	noun	个	maternal aunt	L3	我的阿姨住在北方。	My maternal aunt lives in the north.	妈妈的妹妹是我的阿姨。	My mother's younger sister is my maternal aunt.	我有三个阿姨，她们都很好。	I have three aunts, and they are all very nice.
