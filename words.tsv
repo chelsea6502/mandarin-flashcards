@@ -2121,8 +2121,8 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 平常	píng cháng	adjective, adverb, time word, noun		ordinarily	L4	平常他六点起床。	Ordinarily he gets up at six o'clock.	平常我不吃早饭。	Ordinarily I don't eat breakfast.	她平常很安静。	She is ordinarily very quiet.
 破	pò	verb, adjective		inferior	L4	这东西质量太破了。	The quality of this thing is too inferior.	这破方法没有效果。	This inferior method has no effect.	他买了一件破衣服。	He bought a piece of inferior clothing.
 破	pò	verb, adjective		lousy	L4	这破手机又坏了。	This lousy phone broke again.	这破车真让人烦。	This lousy car is really annoying.	我不想用这破电脑了。	I don't want to use this lousy computer anymore.
-破	pò	verb, adjective		to damage	L4	他不小心把杯子破了。	He accidentally damaged the cup.	这本书的封面破了。	The cover of this book is damaged.	别把衣服破了。	Don't damage the clothes.
-葡萄	pú tao	noun		grape	L4	我喜欢吃葡萄。	I like eating grapes.	这些葡萄很甜。	These grapes are very sweet.	他买了葡萄。	He bought grapes.
+破	pò	verb, adjective		to damage	L4	他不小心把杯子弄破了。	He accidentally damaged the cup.	这本书的封面破了。	The cover of this book is damaged.	别把衣服弄破了。	Don't damage the clothes.
+葡萄	pú tao	noun	颗	grape	L4	我喜欢吃葡萄。	I like eating grapes.	这些葡萄很甜。	These grapes are very sweet.	我吃了几颗葡萄。	I ate a few grapes.
 葡萄酒	pú tao jiǔ	noun		grape wine	L4	他每天晚上喝一杯葡萄酒。	He drinks a glass of grape wine every evening.	这瓶葡萄酒很贵。	This bottle of grape wine is very expensive.	法国葡萄酒很有名。	French grape wine is very famous.
 普遍	pǔ biàn	adjective, adverbial adjective		widespread	L4	用手机付钱在中国很普遍。	Paying with a mobile phone is widespread in China.	这种情况很普遍。	This kind of situation is widespread.	手机在中国很普遍。	Mobile phones are widespread in China.
 普通	pǔ tōng	adjective		ordinary	L4	他只是一个普通的学生。	He is just an ordinary student.	她的生活很普通。	Her life is very ordinary.	这个地方看起来很普通。	This place looks very ordinary.
@@ -2138,11 +2138,11 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 气	qì	noun, verb		gas	L4	这个瓶子里有气。	There is gas inside this bottle.	做饭用的气是从管子里来的。	The gas used for cooking comes through the pipe.	气从瓶子里出来了。	Gas came out of the bottle.
 气	qì	noun, verb		to anger	L4	他的话气到了我。	His words angered me.	别气她了，她很难过。	Stop angering her; she is very upset.	这件事真的气到我了。	This matter really angered me.
 气候	qì hòu	noun	种	climate	L4	中国有多种气候。	China has many kinds of climate.	这里的气候很好。	The climate here is very good.	南方的气候比较热。	The climate in the south is relatively hot.
-气温	qì wēn	noun	个	air temperature	L4	今天气温很低。	The air temperature is very low today.	夏天气温很高。	In summer the air temperature is very high.	今天气温比昨天高。	Today's air temperature is higher than yesterday's.
+气温	qì wēn	noun		air temperature	L4	今天气温很低。	The air temperature is very low today.	夏天气温很高。	In summer the air temperature is very high.	今天气温比昨天高。	Today's air temperature is higher than yesterday's.
 汽水	qì shuǐ	noun		carbonated soft drink	L4	他买了一瓶汽水。	He bought a bottle of carbonated soft drink.	天热的时候我喜欢喝汽水。	When it's hot I like to drink carbonated soft drinks.	这种汽水太甜了。	This carbonated soft drink is too sweet.
 汽水	qì shuǐ	noun		soda	L4	我想喝一杯汽水。	I want to drink a glass of soda.	这里的汽水很便宜。	The soda here is very cheap.	孩子们都爱喝汽水。	Kids all love drinking soda.
-千克	qiān kè	classifier		kilogram	L4	这袋米有五千克。	This bag of rice is five kilograms.	他每天吃两千克水果。	He eats two kilograms of fruit every day.	一千克就是一公斤。	One kilogram is one gongjin.
-千万	qiān wàn	numeral, time word		to be sure to	L4	你千万别忘了带钥匙。	Be sure to not forget to bring your keys.	出门千万要小心。	When going out, be sure to be careful.	你千万别告诉他。	Be sure not to tell him.
+千克	qiān kè	classifier		kilogram	L4	这袋米有五千克。	This bag of rice is five kilograms.	他每天吃两千克水果。	He eats two kilograms of fruit every day.	这个箱子重二十千克。	This box weighs twenty kilograms.
+千万	qiān wàn	adverb		to be sure to	L4	你千万别忘了带钥匙。	Be sure to not forget to bring your keys.	出门千万要小心。	When going out, be sure to be careful.	你千万别告诉他。	Be sure not to tell him.
 签证	qiān zhèng	noun		visa	L4	我的签证快不能用了。	My visa is about to expire.	去美国需要签证吗？	Do you need a visa to go to the United States?	他的签证申请通过了。	His visa application was approved.
 前方	qián fāng	place word, directional word, noun		front	L4	前方有一座山。	There is a mountain at the front.	请向前方走。	Please walk toward the front.	前方的路很难走。	The road at the front is very difficult to walk.
 前后	qián hòu	directional word		from beginning to end	L4	这件事前后花了三年。	This matter took three years from beginning to end.	前后我们见了五次面。	From beginning to end we met five times.	这个计划前后改了很多次。	This plan was revised many times from beginning to end.
@@ -2164,12 +2164,12 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 轻	qīng	adjective, adverbial adjective, verb, morpheme		light (in weight, degree, etc.)	L4	这个箱子很轻。	This suitcase is very light (in weight).	他的病很轻，不用担心。	His illness is very light (in degree); no need to worry.	请说轻一点。	Please speak a little more lightly.
 轻松	qīng sōng	adjective, adverbial adjective		easy	L4	这道题很轻松就做出来了。	This question was solved very easily.	他轻松地赢了比赛。	He won the competition easily.	这个工作做起来很轻松。	This work is very easy to do.
 轻松	qīng sōng	adjective, adverbial adjective		relaxed; easy	L4	假期里我很轻松。	During the holiday I feel very relaxed.	她听完音乐觉得很轻松。	After listening to music she felt very relaxed.	运动之后心情很轻松。	After exercising the mood is very relaxed.
-情况	qíng kuàng	noun	个, 种	situation	L4	现在的情况很复杂。	The current situation is very complicated.	你能说明一下情况吗？	Can you explain the situation?	情况比我想的要好。	The situation is better than I thought.
+情况	qíng kuàng	noun	个, 种	situation	L4	现在的情况很复杂。	The current situation is very complicated.	你能说明一下情况吗？	Can you explain the situation?	老师说了三种情况。	The teacher described three kinds of situations.
 庆祝	qìng zhù	verb, verbal noun		to celebrate	L4	我们庆祝了他的生日。	We celebrated his birthday.	全家一起庆祝新年。	The whole family celebrates the New Year together.	他们庆祝了公司的十年成功。	They celebrated ten years of success at the company.
 球队	qiú duì	noun		ball sport team	L4	我支持这个球队。	I support this ball sport team.	这个球队赢了比赛。	This team won the match.	他加入了学校的球队。	He joined the school's ball sport team.
 球迷	qiú mí	noun	个	ball game fan	L4	他是一个球迷。	He is a ball game fan.	这个球迷每场比赛都去看。	This ball game fan goes to watch every match.	球迷们在外面等着。	The ball game fans are waiting outside.
-区	qū	noun		region	L4	这个区在城市的北边。	This region is in the north of the city.	南方区的气候比较热。	The southern region's climate is relatively hot.	我们来自不同的区。	We come from different regions.
-区别	qū bié	noun, verb	个	to differentiate	L4	你能区别这两个词吗？	Can you differentiate these two words?	这两个孩子很难区别。	It's hard to differentiate these two children.	他能区别真假。	He can differentiate between the real and the fake.
+区	qū	noun		region	L4	这个区在城市的北边。	This region is in the north of the city.	那个区的气候比较热。	The climate of that region is relatively hot.	我们来自不同的区。	We come from different regions.
+区别	qū bié	noun, verb		to differentiate	L4	你能区别这两个词吗？	Can you differentiate these two words?	这两个孩子很难区别。	It's hard to differentiate these two children.	他能区别真假。	He can differentiate between the real and the fake.
 取	qǔ	verb		to collect	L4	去前台取快递。	Go to the front desk to collect the express delivery.	他每天去取报纸。	He goes to collect the newspaper every day.	请帮我取一下行李。	Please help me collect the luggage.
 取	qǔ	verb		to fetch	L4	我去取我的东西。	I'm going to fetch my things.	他去银行取了一些钱。	He went to the bank to fetch some money.	你什么时候去取你的照片？	When are you going to fetch your photos?
 取得	qǔ dé	verb		to acquire	L4	他取得了很好的成绩。	He acquired very good results.	她取得了签证。	She acquired the visa.	我们取得了成功。	We acquired success.
