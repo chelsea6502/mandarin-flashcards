@@ -422,16 +422,16 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 动	dòng	verb		to move	L2	别动，我在看书。	Don't move; I'm reading.	那只猫不动了。	That cat stopped moving.	车在动。	The car is moving.
 饭馆	fàn guǎn	noun	家	restaurant	L2	前面有一家饭馆。	There is a restaurant up ahead.	我们去那家饭馆吃饭吧。	Let's go eat at that restaurant.	这家饭馆的菜很好吃。	The food at this restaurant is delicious.
 飞	fēi	verb		to fly	L2	小鸟飞得很高。	The small bird flies very high.	我想坐飞机飞到那里。	I want to fly there by airplane.	那只鸟飞走了。	That bird flew away.
-高	gāo	adjective		high	L2	山很高，不好上去。	The mountain is very high and hard to go up.	飞机飞得很高。	The airplane flies very high.	这个楼很高。	This building is very tall.
-高	gāo	adjective		tall	L2	他比我高很多。	He is much taller than me.	这个楼很高。	This building is very tall.	你哥哥高还是你高？	Is your older brother taller or are you taller?
+高	gāo	adjective		high	L2	那里很高，不好上去。	It's very high up there; hard to go up.	飞机飞得很高。	The airplane flies very high.	这里太高了！	It's too high up here!
+高	gāo	adjective		tall	L2	他比我高很多。	He is much taller than me.	她个子很高。	She is very tall.	你哥哥高还是你高？	Is your older brother taller or are you taller?
 高中	gāo zhōng	noun	所, 个	high school	L2	我弟弟在上高中。	My younger brother is attending high school.	我们这里有两所高中。	There are two high schools here.	高中三年很快就过了。	The three years of high school passed quickly.
 告诉	gào su	verb		to tell	L2	请告诉我你的名字。	Please tell me your name.	他告诉我今天没有课。	He told me there is no class today.	妈妈告诉我早点回家。	Mom told me to come home early.
 个子	gè zi	noun		height, stature, build	L2	他个子很高。	He is very tall.	我个子不高。	I am not tall.	你个子多高？	What is your height?
-跟	gēn	verb		to follow	L2	你跟我来。	Follow me.	小狗跟着她走。	The puppy followed her as she walked.	他跟着老师学。	He followed the teacher to learn.
+跟	gēn	verb		to follow	L2	你跟我来。	Follow me.	小狗跟她走。	The puppy follows her.	猫跟我回家了。	The cat followed me home.
 公交车	gōng jiāo chē	noun	辆	bus	L2	前面有一辆公交车。	There is a bus up ahead.	我每天坐公交车上班。	I take the public transport bus to work every day.	这路公交车到学校吗？	Does this bus go to school?
 过	guò	particle, verb, adverb, morpheme		to cross	L2	我们一起过路吧。	Let's cross the road together.	他过了那条路。	He crossed the road.	他过了那边。	He crossed to that side.
 过	guò	particle, verb, adverb, morpheme		to spend (time)	L2	我在家过了两天。	I spent two days at home.	你在哪里过的生日？	Where did you spend your birthday?	我们一起过了一个快乐的下午。	We spent a happy afternoon together.
-过	guò	particle, verb, adverb, morpheme		used after a verb to indicate completion (e.g. 我去过中国。 I have been to China)	L2	我去过北京两次。	I have been to Beijing twice.	你吃过这个菜吗？	Have you eaten this dish before?	她学过中文。	She has studied Chinese before.
+过	guò	particle, verb, adverb, morpheme		used after a verb to indicate completion (e.g. 我去过中国。 I have been to China)	L2	我去过那里两次。	I have been there twice.	你吃过这个菜吗？	Have you eaten this dish before?	她学过中文。	She has studied Chinese before.
 过来	guò lái	verb		to come over	L2	你过来一下。	Come over here for a moment.	她从那边过来了。	She came over from that side.	快过来，我们走了。	Come over quickly; we're leaving.
 过来	guò lái	verb		used after verb to indicate sufficiency of time, ability, or quantity	L2	饭不多，我吃得过来。	The food isn't much; I can finish it all.	东西不多，我拿得过来。	There aren't too many things; I can carry them all.	这些书不多，我看得过来。	There aren't too many books; I can get through them all.
 过年	guò nián	verb		to celebrate Chinese New Year	L2	你在哪里过年？	Where do you celebrate Chinese New Year?	我们家一起过年。	Our family celebrates the New Year together.	过年的时候我们吃饺子。	When we celebrate Chinese New Year, we eat dumplings.
@@ -453,7 +453,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 坏	huài	adjective, verb		broken	L2	我的手机坏了。	My phone is broken.	电视坏了，不能看。	The TV is broken and can't be watched.	这个椅子坏了。	This chair is broken.
 回来	huí lai	verb		to return	L2	他回来了。	He has returned (here).	妈妈从商店回来了。	Mom returned from the store.	你什么时候回来？	When will you return (here)?
 回去	huí qu	verb		to go back	L2	我要回去了。	I need to go back now.	他回去工作了。	He went back to work.	我们坐车回去吧。	Let's take a car to go back.
-机场	jī chǎng	noun	个	airport	L2	我们到机场了。	We've arrived at the airport.	这个城市有两个机场。	This city has two airports.	他在机场等我们。	He is waiting for us at the airport.
+机场	jī chǎng	noun	个	airport	L2	我们到机场了。	We've arrived at the airport.	这里有两个机场。	There are two airports here.	他在机场等我们。	He is waiting for us at the airport.
 机票	jī piào	noun	张	air ticket	L2	我买了一张机票。	I bought a plane ticket.	机票多少钱？	How much is the air ticket?	他找不到机票了。	He can't find his ticket.
 记得	jì de	verb		to remember	L2	你记得他吗？	Do you remember him?	我记得这个字。	I remember this character.	我不记得这件事。	I don't remember this matter.
 间	jiān	classifier		measure word for rooms	L2	我有一间房间。	I have one room.	这间教室很大。	This classroom is very big.	他住在两间房间里。	He lives in two rooms.
