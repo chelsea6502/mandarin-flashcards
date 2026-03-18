@@ -1521,12 +1521,12 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 倒	dào	verb, adverb		to pour	L4	他给我倒了一杯水。	He poured me a glass of water.	请帮我倒茶。	Please pour tea for me.	她把牛奶倒进杯子里。	She poured the milk into the cup.
 倒	dǎo	verb, adverb		to resell for a profit	L4	他买低价票，倒给别人赚钱。	He bought cheap tickets and resold them for a profit.	有人专门倒商品赚钱。	Some people specialize in reselling goods to make money.	他倒东西赚了很多钱。	He earned a lot of money reselling things.
 倒	dào	verb, adverb		to the contrary	L4	大家都说他错，他倒觉得自己对。	Everyone said he was wrong, but to the contrary, he felt he was right.	外面很冷，他倒不穿外套。	It's cold outside, but to the contrary, he doesn't wear a coat.	我以为他不来，他倒来了。	I thought he wouldn't come, but to the contrary, he came.
-倒	dǎo	verb, adverb		to topple	L4	树被风吹倒了。	The tree was toppled by the wind.	他把杯子碰倒了。	He toppled the cup.	那堵墙倒了。	That wall toppled over.
+倒	dǎo	verb, adverb		to topple	L4	树被风吹倒了。	The tree was toppled by the wind.	他不小心把杯子弄倒了。	He accidentally knocked the cup over.	那堵墙倒了。	That wall toppled over.
 倒	dào	verb, adverb		upside down	L4	画挂倒了。	The painting is hanging upside down.	这个字写倒了。	This character was written upside down.	瓶子放倒了。	The bottle was placed upside down.
-到底	dào dǐ	adverb, verb		finally	L4	他到底找到了答案。	He finally found the answer.	努力学习，到底有了好成绩。	After studying hard, there were finally good results.	到底，他们赢了比赛。	Finally, they won the competition.
+到底	dào dǐ	adverb, verb		finally	L4	他到底找到了答案。	He finally found the answer.	努力学习，到底有了好成绩。	After studying hard, there were finally good results.	他们到底赢了比赛。	They finally won the competition.
 到底	dào dǐ	adverb, verb		in the end	L4	到底谁是对的？	In the end, who is right?	这件事到底怎么解决？	In the end, how will this matter be resolved?	他到底去不去？	Is he going in the end or not?
 到来	dào lái	verb, verbal noun		to arrive	L4	春天到来了。	Spring has arrived.	客人到来，我们去接。	The guests have arrived; let's go meet them.	新年到来时，大家很开心。	When the new year arrived, everyone was very happy.
-道	dào	verbal classifier, noun, verb	条, 股	measure word for line shaped things and test questions	L4	考试上有十道问题。	There are ten questions on the exam.	他在纸上画了一条长道。	He drew a long line on the paper.	这道题很难。	This question is very difficult.
+道	dào	verbal classifier, noun, verb	条, 股	measure word for line shaped things and test questions	L4	考试上有十道问题。	There are ten questions on the exam.	一道光从窗户进来了。	A ray of light came in through the window.	这道题很难。	This question is very difficult.
 道	dào	verbal classifier, noun, verb	条, 股	path	L4	山里有一条小道。	There is a small path in the mountains.	我找到了一条近道。	I found a shortcut path.	这条道通向学校。	This path leads to the school.
 道	dào	verbal classifier, noun, verb	条, 股	road	L4	这条道很宽。	This road is very wide.	前面有一条道，我们走吧。	There is a road ahead; let's go.	这道不好走。	This road is not easy to travel.
 道路	dào lù	noun	条	road	L4	这条道路很长。	This road is very long.	道路两边种了很多树。	Many trees were planted on both sides of the road.	新道路修好了。	The new road has been built.
@@ -1536,20 +1536,20 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 等到	děng dào	verb		by the time	L4	等到你来，饭已经凉了。	By the time you arrived, the food had already gone cold.	等到他到家，天冷了。	By the time he got home, it had gotten cold.	等到周末，我们再去。	By the time the weekend comes, we'll go then.
 低	dī	adjective, adverbial adjective, verb		low	L4	这把椅子太低了。	This chair is too low.	今天气温很低。	The temperature is very low today.	山下的地方比较低。	The area at the foot of the mountain is relatively low.
 低价	dī jià	noun, adverbial adjective		low price	L4	这件衣服是低价卖的。	This clothing is being sold at a low price.	他买到了一台低价电脑。	He bought a low-priced computer.	这家店经常低价打折。	This store often has low-price discounts.
-低温	dī wēn	noun		low temperature	L4	北方冬天低温很正常。	Low temperatures in the north in winter are normal.	低温会影响植物生长。	Low temperatures are bad for plants.	今晚的低温很低。	Tonight's low temperature is very low.
-低于	dī yú	verb		to be lower than	L4	他的成绩低于班里其他人。	His score is lower than the others in the class.	今天的温度低于十。	Today's temperature is below ten degrees.	这里的价格低于市场价。	The prices here are lower than the market price.
+低温	dī wēn	noun		low temperature	L4	北方冬天低温很正常。	Low temperatures in the north in winter are normal.	低温的天气让很多人生病了。	The cold weather made many people sick.	今晚的低温很低。	Tonight's low temperature is very low.
+低于	dī yú	verb		to be lower than	L4	他的成绩低于班里其他人。	His score is lower than the others in the class.	今天的温度低于零。	Today's temperature is below zero.	这里的价格低于市场价。	The prices here are lower than the market price.
 底	dǐ	directional word, noun		bottom	L4	海底有很多鱼。	There are many fish at the bottom of the sea.	箱子底有一本书。	There is a book at the bottom of the box.	河底很深，要小心。	The bottom of the river is very deep — be careful.
 底	dǐ	directional word, noun		end (of the month, year, etc.)	L4	我们年底开一次会。	We hold a meeting at the end of the year.	月底要交房租。	Rent is due at the end of the month.	年底了，大家都很忙。	It's the end of the year and everyone is busy.
-底	dǐ	directional word, noun		remnants	L4	冰箱里只剩了一点底。	There are only a few remnants left in the fridge.	锅里的汤只剩了底。	Only the remnants of the soup are left in the pot.	瓶子里还有一点底。	There are still some remnants in the bottle.
+底	dǐ	directional word, noun		remnants	L4	冰箱里只剩了一点底。	There are only a few remnants left in the fridge.	杯子里的茶只剩了底。	Only the remnants of the tea are left in the cup.	瓶子里还有一点底。	There are still some remnants in the bottle.
 底下	dǐ xia	directional word		the location below something	L4	猫在床底下。	The cat is under the bed.	书包放在桌子底下。	The schoolbag is placed under the table.	鞋子在椅子底下。	The shoes are underneath the chair.
 地球	dì qiú	noun	个	the earth	L4	地球只有一个。	There is only one Earth.	我们要保护这个地球。	We must protect the Earth.	地球很大。	The Earth is very large.
 地址	dì zhǐ	noun	个	address	L4	请告诉我你的地址。	Please tell me your address.	我忘了他家的地址。	I forgot his home address.	你能给我一个地址吗？	Can you give me an address?
 点名	diǎn míng	verb		to mention somebody by name	L4	老师点名批评了他。	The teacher mentioned him by name and criticized him.	他被经理点名表扬。	He was mentioned by name and praised by the manager.	会上有人点名说了这件事。	Someone mentioned this matter by name at the meeting.
 点头	diǎn tóu	verb		to nod	L4	他点头表示同意。	He nodded to show agreement.	老师问，学生点头。	The teacher asked and the student nodded.	她对我点了点头。	She gave me a nod.
-电动车	diàn dòng chē	noun		electric vehicle (e.g. electric scooter, electric car)	L4	他每天骑电动车上班。	He rides his electric vehicle to work every day.	这辆电动车能跑五十公里。	This electric vehicle can travel fifty kilometers.	很多人买了电动车出行。	Many people have bought electric vehicles to get around.
+电动车	diàn dòng chē	noun	辆	electric vehicle (e.g. electric scooter, electric car)	L4	他买了一辆电动车。	He bought an electric vehicle.	这辆电动车能跑五十公里。	This electric vehicle can travel fifty kilometers.	很多人买了电动车出行。	Many people have bought electric vehicles to get around.
 电视剧	diàn shì jù	noun	部	TV drama	L4	这部电视剧我看了很多了。	I have watched a lot of this TV drama.	妈妈每晚看一部电视剧。	Mom watches a TV drama every evening.	这部电视剧很好看。	This TV drama is very good.
 掉	diào	verb		to drop	L4	他把手机掉在地上了。	He dropped his phone on the ground.	小心，别把杯子掉了。	Be careful, don't drop the cup.	她不小心把钥匙掉了。	She accidentally dropped her keys.
-掉	diào	verb		to fall	L4	树叶从树上掉下来了。	The leaves fell from the tree.	苹果从树上掉了下来。	He fell off the chair.	他从自行车上掉下来了。	He fell off his bicycle.
+掉	diào	verb		to fall	L4	树叶从树上掉下来了。	The leaves fell from the tree.	苹果从树上掉了下来。	The apple fell from the tree.	他从自行车上掉下来了。	He fell off his bicycle.
 掉	diào	verb		verb complement indicating completion or removal (e.g. 吃掉, 扔掉)	L4	他把饭吃掉了。	He finished eating the food (ate it all up).	请把这些旧纸扔掉。	Please throw away these old papers.	他把作业做掉了。	He got the homework done.
 订	dìng	verb		to book	L4	我想订一个房间。	I would like to book a room.	他提前订了机票。	He booked his plane ticket in advance.	请帮我订一张桌子。	Please help me book a table.
 订	dìng	verb		to staple	L4	请帮我把这几页纸订在一起。	Please help me staple these pages together.	他把那些文件订好了。	He stapled those documents together.	这些文件要订在一起。	These documents need to be stapled together.
@@ -1557,15 +1557,15 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 定	dìng	verb, adverb		to fix	L4	会议时间已经定好了。	The meeting time has been fixed.	价格已经定了，不能改。	The price has been fixed and cannot be changed.	地点还没有定。	The location has not been fixed yet.
 定	dìng	verb, adverb		to set	L4	我们定了一个新目标。	We set a new goal.	老师给学生定了要做的事。	The teacher set things for the students to do.	他自己定了一个计划。	He set a plan for himself.
 东部	dōng bù	directional word		eastern part	L4	这个国家的东部有很多城市。	The eastern part of this country has many cities.	城市东部有一个大公园。	There is a large park in the eastern part of the city.	他们住在省的东部。	They live in the eastern part of the province.
-动车	dòng chē	noun	列	D-train; high-speed rail (China's inter-city fast train)	L4	我们坐动车去上海，两个小时就到了。	We took the D-train to Shanghai; it took only two hours.	这列动车从北京出发。	This D-train departs from Beijing.	买动车票要早一点儿。	You should buy D-train tickets a bit earlier.
-动作	dòng zuò	noun, verb	个	action	L4	他做了一个很快的动作。	He made a very quick action.	这个动作很危险，不要做。	This action is very dangerous, don't do it.	他的一个动作让大家很惊讶。	This action is very hard to do.
+动车	dòng chē	noun	列	D-train; high-speed rail (China's inter-city fast train)	L4	我们坐动车去上海，两个小时就到了。	We took the D-train to Shanghai; it took only two hours.	这列动车从北京出发。	This D-train departs from Beijing.	今天有三列动车去上海。	There are three D-trains to Shanghai today.
+动作	dòng zuò	noun, verb	个	action	L4	他做了一个很快的动作。	He made a very quick action.	这个动作很危险，不要做。	This action is very dangerous, don't do it.	老师做了三个动作，我们跟着做。	The teacher did three actions and we followed along.
 动作	dòng zuò	noun, verb	个	movement	L4	这个动作很漂亮。	This movement is very beautiful.	他的每个动作都要练好。	Every one of his movements must be practiced well.	她学会了一个新动作。	She learned a new movement.
-读者	dú zhě	noun	个, 位, 名	reader	L4	这本书的读者很多。	This book has many readers.	读者觉得这篇文章写得很好。	Readers think this article is very well written.	作者感谢所有读者的支持。	The author thanks all readers for their support.
+读者	dú zhě	noun	个, 位, 名	reader	L4	这本书有一千个读者。	This book has one thousand readers.	读者觉得这篇文章写得很好。	Readers think this article is very well written.	作者感谢所有读者的支持。	The author thanks all readers for their support.
 堵车	dǔ chē	verb, verbal noun		traffic jam; traffic congestion	L4	下午堵车了，我迟到了。	There was a traffic jam in the afternoon and I was late.	早上堵车很严重。	The traffic jam in the morning was very bad.	这条路经常堵车。	This road often has traffic jams.
 肚子	dù zi	noun, classifier	个	abdomen	L4	他的肚子受伤了。	His abdomen was injured.	他受伤后肚子很疼。	After he was injured, his abdomen hurt a lot.	医生检查了他的肚子。	The doctor examined his abdomen.
 肚子	dù zi	noun, classifier	个	belly	L4	他的肚子很大。	His belly is very large.	吃了太多，肚子很大。	Having eaten too much, the belly is very large.	他的肚子很饿。	His stomach is very hungry.
-度假	dù jià	verb, verbal noun		to vacation	L4	今年夏天我们去海边度假。	We are going to the seaside to vacation this summer.	他每年都去国外度假。	He goes abroad to vacation every year.	我想去山里度假放松一下。	I want to go to the mountains to vacation and relax.
-短信	duǎn xìn		条	text message	L4	他给我发了一条短信。	He sent me a text message.	我收到了一条短信。	I received a text message.	她每天给妈妈发短信。	She sends her mom text messages every day.
+度假	dù jià	verb, verbal noun		to vacation	L4	今年夏天我们去外国度假。	This summer we are going abroad for vacation.	他每年都去国外度假。	He goes abroad to vacation every year.	我想去山里度假放松一下。	I want to go to the mountains to vacation and relax.
+短信	duǎn xìn	noun	条	text message	L4	他给我发了一条短信。	He sent me a text message.	我收到了一条短信。	I received a text message.	她每天给妈妈发短信。	She sends her mom text messages every day.
 队	duì	noun, classifier	个	team	L4	我们学校有一个足球队。	Our school has a football team.	这个队赢了比赛。	This team won the match.	他加入了一个篮球队。	He joined a basketball team.
 队员	duì yuán	noun	个, 位, 名	team member	L4	他是我们队的队员。	He is a team member of our team.	所有队员都要好好练习。	All team members must practice hard.	这个队有十名队员。	This team has ten team members.
 队长	duì zhǎng	noun	个	captain	L4	他当上了足球队的队长。	He became the captain of the football team.	队长让大家一起努力，赢了比赛。	The captain had everyone work hard together and won the match.	我们选了一个新队长。	We chose a new captain.
