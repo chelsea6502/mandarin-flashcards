@@ -4257,10 +4257,10 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 手工	shǒu gōng	noun, adverb		done by hand	L5	这件毛衣是手工做的。	This sweater is done by hand.	手工制作的东西更有价值。	Things done by hand have more value.	她喜欢手工制作礼物。	She likes to make handmade gifts.
 手术	shǒu shù	noun, verb, verbal noun	个	(surgical) operation	L5	医生说他需要做一个手术。	The doctor said he needs to have a surgical operation.	手术进行了三个小时。	The operation lasted three hours.	手术后他的身体恢复得很好。	He recovered well after the operation.
 手套	shǒu tào	noun	双, 只	glove	L5	冬天要戴手套，不然手会很冷。	In winter you should wear gloves, otherwise your hands will get very cold.	她买了一双手套。	She bought a pair of gloves.	他找不到那只手套了。	He can't find that one glove.
-手续	shǒu xù	noun	道, 个	formalities	L5	入学需要完成相关手续。	Enrollment requires completing relevant formalities.	这些手续要花不少时间。	These formalities take quite a bit of time.	他已经办完了所有手续。	He has already completed all the formalities.
-手续	shǒu xù	noun	道, 个	procedure	L5	办理签证需要很多手续。	Applying for a visa requires many procedures.	这道手续比较复杂。	This procedure is relatively complicated.	请按照规定的手续办理。	Please follow the required procedures.
+手续	shǒu xù	noun	道, 个	formalities	L5	入学需要完成几道手续。	Enrollment requires completing several formalities.	这些手续要花不少时间。	These formalities take quite a bit of time.	他已经办完了所有手续。	He has already completed all the formalities.
+手续	shǒu xù	noun	道, 个	procedure	L5	办理签证需要很多手续。	Applying for a visa requires many procedures.	有一道手续比较复杂。	One procedure is relatively complicated.	请按照规定的手续办理。	Please follow the required procedures.
 手指	shǒu zhǐ	noun	个, 只	finger	L5	她的手指很长很细。	Her fingers are long and slender.	他伸出一只手指指着那里。	He extended one finger and pointed there.	他切菜时切到了手指。	He cut his finger while chopping vegetables.
-守	shǒu	verb		to abide by	L5	我们要守规矩。	We must abide by the law.	他不守时间上的规定。	He does not abide by the time rules.	请守游泳池的规则。	Please abide by the pool rules.
+守	shǒu	verb		to abide by	L5	我们要守规则。	We must abide by the rules.	他不守时间上的规定。	He does not abide by the time rules.	请守游泳池的规则。	Please abide by the pool rules.
 守	shǒu	verb		to guard	L5	警察守着那个地方的入口。	Police officers guard the entrance to that place.	他一直守在病人身边。	He stayed by the patient's side the whole time.	请守好这扇门。	Please guard this door well.
 首次	shǒu cì	numeral		first time	L5	这是她首次来中国。	This is her first time coming to China.	他首次参加了这个比赛。	He participated in this competition for the first time.	首次见面让他很紧张。	Meeting for the first time made him very nervous.
 售价	shòu jià	noun		selling price	L5	这件衣服的售价是两百元。	The selling price of this piece of clothing is two hundred yuan.	请问这个商品的售价是多少？	Excuse me, what is the selling price of this item?	售价已经包含了税。	The selling price already includes tax.
@@ -4269,7 +4269,7 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 书架	shū jià	noun	个	bookshelf	L5	书架上放着很多书。	Many books are placed on the bookshelf.	他买了一个新书架放在房间里。	He bought a new bookshelf to put in his room.	请把书放回书架上。	Please put the book back on the bookshelf.
 舒适	shū shì	adjective, adjective-noun		cozy	L5	这个沙发坐起来很舒适。	This sofa is very cozy to sit on.	这间屋子感觉非常舒适。	This room feels very cozy.	他们住在一个舒适的小家里。	They live in a cozy little home.
 舒适	shū shì	adjective, adjective-noun		comfortable	L5	这个小地方非常舒适。	This little spot is very comfortable.	她喜欢在舒适的地方读书。	She likes to read in a comfortable place.	冬天里待在家里最舒适。	In winter, staying home is the most comfortable.
-输入	shū rù	verb, verbal noun		to import	L5	中国从很多国家输入商品。	China imports goods from many countries.	我们需要输入更多的资源。	We need to import more resources.	这个国家输入了大量石油。	This country imports a large amount of oil.
+输入	shū rù	verb, verbal noun		to import	L5	中国从很多国家输入商品。	China imports goods from many countries.	我们需要输入更多的资源。	We need to import more resources.	这个国家输入了大量食物。	This country imports a large amount of food.
 输入	shū rù	verb, verbal noun		to input	L5	请在这里输入你的密码。	Please input your password here.	他正在把数据输入电脑。	He is inputting data into the computer.	输入错误的信息会出现问题。	Inputting incorrect information will cause problems.
 蔬菜	shū cài	noun	种	vegetables	L5	妈妈每天买新鲜蔬菜。	Mom buys fresh vegetables every day.	多吃蔬菜对身体有好处。	Eating more vegetables is good for the body.	这里有很多种蔬菜可以买。	There are many kinds of vegetables to buy here.
 熟练	shú liàn	adjective, adverbial adjective		skilled	L5	她的汉语说得很熟练。	She speaks Chinese very skillfully.	他开车非常熟练。	He drives very skillfully.	要想熟练，需要多练习。	To become skilled, you need to practice more.
@@ -4278,30 +4278,30 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 属于	shǔ yú	verb		to belong to	L5	这本书属于图书馆。	This book belongs to the library.	这只猫属于我的邻居。	This cat belongs to my neighbor.	这片土地属于国家。	This land belongs to the state.
 鼠标	shǔ biāo	noun		computer mouse	L5	他用鼠标选中了那个文件。	He selected that file with the computer mouse.	我的鼠标坏了。	My computer mouse is broken.	请移动鼠标到左边。	Please move the computer mouse to the left.
 束	shù	classifier, verb		measure word for bunches and bundles	L5	他送给她一束鲜花。	He gave her a bunch of fresh flowers.	桌上有一束玫瑰。	There is a bunch of roses on the table.	妈妈买了两束花。	Mom bought two bunches of flowers.
-束	shù	classifier, verb		to bind	L5	他用绳子把那些木头束在一起。	He bound those pieces of wood together with rope.	请把这些文件束在一起。	Please bind these documents together.	她用带子把头发束起来了。	She bound her hair up with a ribbon.
-束	shù	classifier, verb		to bundle	L5	他把稻草束成一捆。	He bundled the straw into a sheaf.	请把这些电线束起来。	Please bundle these wires together.	她把花束起来送给妈妈。	She bundled the flowers to give to her mother.
+束	shù	classifier, verb		to bind	L5	他用带子把那些木头束在一起。	He bound those pieces of wood together with a strap.	请把这些文件束在一起。	Please bind these documents together.	她用带子把头发束起来了。	She bound her hair up with a ribbon.
+束	shù	classifier, verb		to bundle	L5	他把那些书束成一捆。	He bundled those books together.	请把这些花束起来。	Please bundle these flowers together.	她把花束起来送给妈妈。	She bundled the flowers to give to her mother.
 树木	shù mù	noun		trees	L5	公园里的树木非常多。	There are very many trees in the park.	多种一些树木对环境有好处。	Planting more trees is good for the environment.	这片树木长得很高。	These trees have grown very tall.
 数据	shù jù	noun		data	L5	这些数据非常重要。	This data is very important.	请把数据发给我。	Please send the data to me.	他在分析这些数据。	He is analyzing this data.
 摔	shuāi	verb		to drop and break	L5	他不小心把杯子摔了。	He accidentally dropped and broke the cup.	手机从桌上掉下来摔坏了。	The phone fell from the table and broke.	她把花瓶摔碎了。	She dropped and broke the vase.
 摔	shuāi	verb		to fall down	L5	他在跑步时摔倒了。	He fell down while running.	小孩在地上摔了一跤。	The child fell down on the ground.	她从椅子上摔下来了。	She fell down from the chair.
-双方	shuāng fāng	noun		both parties	L5	双方经过谈判，达成了合作协议。	After negotiations, both parties reached a cooperation agreement.	双方都同意了这个计划。	Both sides agreed to this plan.	双方利益都要考虑到。	The interests of both sides need to be considered.
+双方	shuāng fāng	noun		both parties	L5	双方经过讨论，达成了合作协议。	After discussion, both parties reached a cooperation agreement.	双方都同意了这个计划。	Both sides agreed to this plan.	双方利益都要考虑到。	The interests of both sides need to be considered.
 双方	shuāng fāng	noun		both sides	L5	双方要互相尊重。	Both sides should respect each other.	双方经过讨论，达成了协议。	Both sides reached an agreement after discussion.	这件事对双方都有好处。	This matter is beneficial to both sides.
 水分	shuǐ fèn	noun		exaggeration	L5	他说的话有很多水分。	What he said is greatly exaggerated.	这个数字里有水分。	There is exaggeration in this number.	报告中的数据有些水分。	The data in the report has some exaggeration.
 水分	shuǐ fèn	noun		moisture content	L5	这里的空气很湿，水分很多。	The air here is very damp and has a lot of moisture content.	水果中含有很多水分。	Fruits contain a lot of moisture.	天气很热，皮肤缺少水分。	The weather is very hot and the skin lacks moisture.
-税	shuì	noun		taxes	L5	每个人都要按时交税。	Every person must pay taxes on time.	他的收入要缴很多税。	His income requires paying a lot of taxes.	税是政府的重要收入来源。	Taxes are an important source of government income.
+税	shuì	noun		taxes	L5	每个人都要按时交税。	Every person must pay taxes on time.	他的收入要交很多税。	His income requires paying a lot of taxes.	税是政府的重要收入来源。	Taxes are an important source of government income.
 睡眠	shuì mián	verb, verbal noun		sleep	L5	充足的睡眠对身体很重要。	Adequate sleep is very important for the body.	他最近睡眠质量很差。	His sleep quality has been very poor recently.	缺少睡眠会影响白天的工作效率。	Lack of sleep affects work efficiency during the day.
-顺	shùn	verb, adjective		smooth	L5	这条路走起来很顺。	This road is smooth to walk on.	今天的工作进行得很顺。	Today's work went very smoothly.	河水顺着山坡流下去。	The river flows smoothly down the hillside.
+顺	shùn	verb, adjective		smooth	L5	这条路走起来很顺。	This road is smooth to walk on.	今天的工作进行得很顺。	Today's work went very smoothly.	河水顺着山流下去。	The river flows smoothly down the mountain.
 顺	shùn	verb, adjective		to go along with	L5	他顺风向往前走。	He walked forward with the wind.	我们要顺自然规律行事。	We should act by going along with the laws of nature.	顺他的意思做就好了。	Just do it by going along with his wishes.
-顺	shùn	verb, adjective		smoothly	L5	这个项目完成得很顺。	This project went smoothly.	他说话说得很顺，一点都不结巴。	He speaks very smoothly without any stuttering.	这次活动进行得很顺，没有出什么问题。	The event went smoothly — nothing went wrong.
+顺	shùn	verb, adjective		smoothly	L5	这个项目完成得很顺。	This project went smoothly.	他说话说得很顺，一个字都没说错。	He speaks very smoothly without getting a single word wrong.	这次活动进行得很顺，没有出什么问题。	The event went smoothly — nothing went wrong.
 说不定	shuō bu dìng	verb		perhaps	L5	说不定他今天会来。	Perhaps he will come today.	说不定明天会下雨。	Perhaps it will rain tomorrow.	说不定她已经知道了。	Perhaps she already knows.
 说服	shuō fú	verb, verbal noun		to convince	L5	他说服了大家接受新方案。	He convinced everyone to accept the new plan.	她被他的话说服了。	She was convinced by his words.	他的理由很有力，大家都被说服了。	His reasons were very strong and everyone was convinced.
 说服	shuō fú	verb, verbal noun		to persuade	L5	她说服了父母让她去留学。	She persuaded her parents to let her study abroad.	他努力说服了老板。	He worked hard to persuade his boss.	你能说服他改变主意吗？	Can you persuade him to change his mind?
-私人	sī rén	noun		private	L5	这是私人土地，请勿进入。	This is private land, please do not enter.	他有一辆私人汽车。	He has a private car.	这是私人会所，不对外开放。	This is a private club, not open to the public.
+私人	sī rén	noun		private	L5	这是私人土地，请不要进入。	This is private land, please do not enter.	他有一辆私人汽车。	He has a private car.	这是私人会所，不对外开放。	This is a private club, not open to the public.
 思考	sī kǎo	verb, verbal noun		to ponder over	L5	他正在思考这道难题。	He is pondering over this difficult problem.	这件事值得我们好好思考。	This matter is worth pondering over carefully.	她独自思考了很久。	She pondered over it alone for a long time.
 思考	sī kǎo	verb, verbal noun		to reflect on	L5	他花了很长时间思考这个问题。	He spent a long time reflecting on this problem.	我需要认真思考一下。	I need to carefully reflect on it.	她在思考如何解决这件事。	She is reflecting on how to resolve this matter.
-思维	sī wéi	noun		line of thought	L5	他的思维非常清晰，分析问题很快。	His line of thought is very clear; he analyzes problems quickly.	这个问题需要逻辑思维。	This problem requires logical thinking.	她的思维很有新意。	Her line of thought is very original.
+思维	sī wéi	noun		line of thought	L5	他的思维非常清楚，分析问题很快。	His line of thought is very clear; he analyzes problems quickly.	这个问题需要逻辑思维。	This problem requires logical thinking.	她的思维和别人不一样。	Her line of thought is different from others.
 思维	sī wéi	noun		thinking	L5	孩子的思维比大人更自由。	Children's thinking is freer than adults'.	他的思维方式很特别。	His way of thinking is very special.	学习能帮助我们提高思维能力。	Learning can help us improve our thinking ability.
-思想	sī xiǎng	noun	个	thought	L5	这位哲学家的思想影响深远。	This philosopher's thinking has had far-reaching influence.	这个思想影响了很多人。	This thought influenced many people.	我们要保持开放的思想。	We should keep an open mind.
+思想	sī xiǎng	noun	个	thought	L5	这位作家的思想影响深远。	This writer's thinking has had far-reaching influence.	一个好的思想能影响很多人。	A good thought can influence many people.	我们要保持开放的思想。	We should keep an open mind.
 四处	sì chù	adverb		all over	L5	他四处寻找自己的手机。	He looked all over for his cell phone.	她四处问人但没有答案。	She asked people all over but found no answer.	孩子四处跑来跑去。	The child ran around all over.
 四处	sì chù	adverb		everywhere	L5	他在城市里四处走走。	He walked around everywhere in the city.	她四处寻找工作机会。	She looked everywhere for job opportunities.	节日期间人们四处游玩。	During the holiday, people played everywhere.
 四周	sì zhōu	directional word, place word		all around	L5	房子四周种满了花。	The area all around the house is planted with flowers.	四周非常安静。	It is very quiet all around.	山的四周都是树木。	There are trees all around the mountain.
