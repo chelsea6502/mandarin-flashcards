@@ -2174,12 +2174,12 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 取	qǔ	verb		to fetch	L4	我去取我的东西。	I'm going to fetch my things.	他去银行取了一些钱。	He went to the bank to fetch some money.	你什么时候去取你的照片？	When are you going to fetch your photos?
 取得	qǔ dé	verb		to acquire	L4	他取得了很好的成绩。	He acquired very good results.	她取得了签证。	She acquired the visa.	我们取得了成功。	We acquired success.
 取消	qǔ xiāo	verb		to cancel	L4	航班被取消了。	The flight was cancelled.	因为下雨，活动取消了。	Because of the rain, the activity was cancelled.	他取消了今天的会议。	He cancelled today's meeting.
-全	quán	adverb, adjective		whole	L4	全班同学都来了。	The whole class came.	他吃完了全部的饭。	He ate the whole meal.	我全身都疼。	My whole body hurts.
+全	quán	adverb, adjective		whole	L4	全班同学都来了。	The whole class came.	全家人一起吃饭。	The whole family eats together.	全天都在下雨。	It rained the whole day.
 全部	quán bù	numeral		whole	L4	全部工作都做完了。	The whole of the work is finished.	他把全部钱都花了。	He spent the whole of his money.	请把全部文件交给我。	Please give me the whole of the documents.
 全都	quán dōu	adverb		all	L4	他们全都来了。	They all came.	这些苹果全都是红色的。	All of these apples are red.	我们全都喜欢这首歌。	We all like this song.
 全球	quán qiú	noun		worldwide	L4	这个问题是全球关注的。	This issue is a worldwide concern.	这种手机在全球都有卖。	This type of phone is sold worldwide.	全球气温在变高。	Worldwide temperatures are rising.
 全身	quán shēn	noun		whole body	L4	他全身都疼。	His whole body aches.	她全身很痛。	Her whole body hurts.	跑完步后，我全身出汗了。	After finishing the run, my whole body was sweating.
-缺	quē	verb		lack	L4	家里缺水了。	The house lacks water.	他缺钱买票。	He lacks money to buy a ticket.	这个地方缺人。	This place lacks people.
+缺	quē	verb		to lack	L4	家里缺水了。	The house lacks water.	他缺钱买票。	He lacks money to buy a ticket.	这个地方缺人。	This place lacks people.
 缺点	quē diǎn	noun	个	shortcoming; drawback	L4	骄傲是他的一个缺点。	Arrogance is one of his shortcomings.	这个计划有不少缺点。	This plan has quite a few shortcomings.	我们要改掉自己的缺点。	We should correct our own shortcomings.
 缺点	quē diǎn	noun	个	weak point	L4	他有一个大缺点。	He has one big weak point.	大家都有缺点。	Everyone has weak points.	你能说出他的缺点吗？	Can you name his weak points?
 缺少	quē shǎo	verb		to lack	L4	他缺少经验。	He lacks experience.	这道菜缺少盐。	This dish is lacking salt.	我们缺少时间完成工作。	We lack the time to finish the work.
@@ -2188,12 +2188,12 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 确实	què shí	adverbial adjective, adjective, adverb		true	L4	这件事确实很难。	This matter is truly difficult.	他确实去过北京。	He has truly been to Beijing.	确实，你说得很对。	True, what you said is correct.
 然而	rán ér	conjunction		but	L4	他学了很久，然而还是不会。	He studied for a long time, but still doesn't know how.	我们等了一个小时，然而他没来。	We waited for an hour, but he didn't come.	菜很好看，然而不好吃。	The dish looks great, but doesn't taste good.
 然而	rán ér	conjunction		however	L4	他很努力，然而没有通过。	He worked very hard; however, he didn't pass.	天气好，然而我们不能出去。	The weather is nice; however, we can't go out.	价格低，然而质量也差。	The price is low; however, the quality is also poor.
-热闹	rè nao	adjective		bustling with noise and excitement	L4	春节的街上非常热闹。	The streets during Spring Festival are bustling with noise and excitement.	市场里很热闹，人来人往。	The market is bustling with noise and excitement, with people coming and going.	过年的时候很热闹。	During holidays the streets are very bustling with noise and excitement.
+热闹	rè nao	adjective		bustling with noise and excitement	L4	春节的街上非常热闹。	The streets during Spring Festival are bustling with noise and excitement.	市场里很热闹，人来人往。	The market is bustling with noise and excitement, with people coming and going.	过年的时候很热闹。	During the New Year it is very bustling.
 人生	rén shēng	noun		life (one's time on earth)	L4	人生很短，要好好生活。	Life is short; we must live it well.	他的人生很精彩。	His life (on earth) has been wonderful.	人生中会遇到很多困难。	You will encounter many difficulties in your life.
 人数	rén shù	noun		number of people	L4	参加活动的人数很多。	The number of people participating in the activity is large.	今天来的人数比昨天少。	The number of people who came today is fewer than yesterday.	请数一下人数。	Please count the number of people.
-人员	rén yuán	noun	个	personnel	L4	这个部门的人员变了。	The personnel in this department have changed.	有关人员需要填写表格。	Relevant personnel need to fill in the form.	相关人员请到会议室来。	Relevant personnel, please come to the meeting room.
-人员	rén yuán	noun	个	staff	L4	公司的人员都很努力。	The company's staff are all very hardworking.	我们需要增加人员。	We need to add staff members.	请所有人员到会议室来。	Please all staff come to the meeting room.
-任何	rèn hé	pronoun		any	L4	任何人都可以参加。	Any person can participate.	我不同意任何借口。	I don't accept any excuses.	这里任何时候都欢迎你。	You are welcome here at any time.
+人员	rén yuán	noun		personnel	L4	这个部门的人员变了。	The personnel in this department have changed.	有关人员需要填写表格。	Relevant personnel need to fill in the form.	工作人员在门口等你。	The staff are waiting for you at the entrance.
+人员	rén yuán	noun		staff	L4	公司的人员都很努力。	The company's staff are all very hardworking.	我们需要增加人员。	We need to add staff members.	请所有人员到会议室来。	Please all staff come to the meeting room.
+任何	rèn hé	pronoun		any	L4	任何人都可以参加。	Any person can participate.	我没有任何办法。	I don't have any solution.	这里任何时候都欢迎你。	You are welcome here at any time.
 任何	rèn hé	pronoun		whatever	L4	你有任何问题都可以问我。	You can ask me whatever questions you have.	他愿意做任何工作。	He is willing to do whatever work there is.	任何情况下都要冷静。	Stay calm in whatever situation.
 任务	rèn wu	noun	项, 个	assignment	L4	老师给我们出了一项任务。	The teacher gave us an assignment.	这个任务不太难。	This assignment isn't too difficult.	我完成了老师交给的任务。	I completed the assignment the teacher gave me.
 扔	rēng	verb		to throw away	L4	他把垃圾扔掉了。	He threw the trash away.	请不要扔旧东西。	Please don't throw away old things.	她把不用的衣服都扔了。	She threw away all the clothes she no longer uses.
@@ -2202,25 +2202,25 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 仍然	réng rán	adverb		still	L4	他离开了十年，仍然不忘家乡。	He has been away for ten years, but still hasn't forgotten his hometown.	天气变了，她仍然穿着夏天的衣服。	The weather changed, but she is still wearing summer clothes.	很老了，他仍然每天跑步。	He is quite old, but still runs every day.
 日常	rì cháng	non-predicate adjective		daily	L4	日常生活中要多喝水。	In daily life, drink more water.	这是我的日常工作。	This is my daily work.	她写下了自己的日常生活。	She wrote down her daily life.
 日记	rì jì	noun	则, 本, 篇	diary	L4	她每天都写日记。	She writes in her diary every day.	我把今天的事情写在日记里。	I wrote today's events in my diary.	他有一本日记，不给别人看。	He has a diary that he never shows to others.
-日期	rì qī	noun	个	date	L4	请告诉我会议的日期。	Please tell me the date of the meeting.	我忘了考试的日期。	I forgot the date of the exam.	这个日期对我来说很重要。	This date is very important to me.
+日期	rì qī	noun	个	date	L4	我们需要定一个日期。	We need to set a date.	我忘了考试的日期。	I forgot the date of the exam.	这个日期对我来说很重要。	This date is very important to me.
 日子	rì zi	noun		day	L4	今天是个好日子。	Today is a good day.	他们选了一个好日子结婚。	They chose a good day to get married.	这一天是我最难忘的日子。	This is the most unforgettable day for me.
 入	rù	verb		to enter	L4	请从这边入。	Please enter from this side.	我们从正门入了大楼。	We entered the building through the main entrance.	不能从后门入。	You cannot enter through the back door.
-入口	rù kǒu	noun, verb		entrance	L4	学校的入口在哪里？	Where is the school's entrance?	请在入口等我。	Please wait for me at the entrance.	入口旁边有一个告示牌。	There is a notice board next to the entrance.
+入口	rù kǒu	noun, verb		entrance	L4	学校的入口在哪里？	Where is the school's entrance?	请在入口等我。	Please wait for me at the entrance.	入口旁边有一个牌子。	There is a sign next to the entrance.
 入学	rù xué	verb, verbal noun		to start school	L4	他明年就要入学了。	He will start school next year.	孩子入学需要准备什么？	What do children need to prepare to start school?	她六岁的时候入学。	She started school when she was six years old.
 入住	rù zhù	verb		to check in (to a hotel); to move into	L4	我们下午三点可以入住酒店。	We can check in to the hotel at 3 p.m.	入住时需要身份证。	You need an ID card when checking in.	请问您是要入住吗？	Are you here to check in?
 散步	sàn bù	verb, verbal noun		to go for a walk	L4	我们每天晚上去散步。	We go for a walk every evening.	吃完饭去散步对身体好。	Going for a walk after eating is good for your health.	他喜欢在公园里散步。	He likes to go for a walk in the park.
 扫码	sǎo mǎ	verb		to scan a QR code	L4	请扫码来支付。	Please scan the QR code to pay.	你可以扫码看菜单。	You can scan the QR code to view the menu.	进入活动需要先扫码。	You need to scan a QR code before entering the event.
-森林	sēn lín	noun	片	forest	L4	这片森林很大。	This forest is very large.	我们在森林里走了一个小时。	We walked in the forest for one hour.	森林里有很多动物。	There are many animals in the forest.
-伤心	shāng xīn	adjective		heartbreaking	L4	这个消息让我很伤心。	This news makes me very sad.	他的离开让大家都伤心。	His departure was heartbreaking for everyone.	这是一个伤心的故事。	This is a heartbreaking story.
+森林	sēn lín	noun	片	forest	L4	这片森林很大。	This forest is very large.	山里有一片大森林。	There is a large forest in the mountains.	森林里有很多动物。	There are many animals in the forest.
+伤心	shāng xīn	adjective		sad	L4	这个消息让我很伤心。	This news makes me very sad.	他的离开让大家都伤心。	His departure made everyone sad.	这是一个伤心的故事。	This is a sad story.
 商量	shāng liang	verb		to discuss	L4	他们在商量明天的安排。	They are discussing tomorrow's arrangements.	我们需要商量一个好办法。	We need to discuss a good solution.	他们商量了很久，才做决定。	They discussed for a long time before making a decision.
 商量	shāng liang	verb		to talk over	L4	我们来商量一下这个计划。	Let's talk over this plan.	这件事要和大家商量。	This matter needs to be talked over with everyone.	有问题可以和我商量。	If there's a problem, you can talk it over with me.
-商品	shāng pǐn	noun	个	merchandise	L4	这个商品的价格很高。	The price of this merchandise is very high.	超市里的商品很多。	There are many types of merchandise in the supermarket.	这个商品做得很好。	This merchandise is of very good quality.
+商品	shāng pǐn	noun	个	merchandise	L4	这个商品的价格很高。	The price of this merchandise is very high.	超市里的商品很多。	There are many types of merchandise in the supermarket.	我买了一个新商品。	I bought a new product.
 上门	shàng mén	verb, verbal noun		to drop by	L4	他上门来借书。	He dropped by to borrow a book.	朋友上门，我很高兴。	A friend dropped by and I was very happy.	医生可以上门看病。	The doctor can drop by to see patients.
-上门	shàng mén	verb, verbal noun		to visit	L4	他经常上门去看老人。	He often visits the elderly.	下午我去上门找你。	I will visit you this afternoon.	客人上门了，请开门。	A guest is visiting; please open the door.
+上门	shàng mén	verb, verbal noun		to visit	L4	他经常上门去看老人。	He often visits the elderly.	下午我上门找你。	I will visit you this afternoon.	客人上门了，请开门。	A guest is visiting; please open the door.
 稍	shāo	adverb		somewhat	L4	这里稍冷一些。	It is somewhat colder here.	他说话稍快，我没听清楚。	He spoke somewhat fast, so I didn't hear clearly.	这道菜稍咸了。	This dish is somewhat salty.
 稍微	shāo wēi	adverb		a little bit	L4	我稍微累了一点。	I am a little bit tired.	请把声音稍微小一点。	Please make the volume a little bit quieter.	这件衣服稍微大了一点。	This piece of clothing is a little bit too big.
 少见	shǎo jiàn	adjective		rarely seen	L4	这种鸟在中国很少见。	This kind of bird is rarely seen in China.	这样的好天气很少见。	Such good weather is rarely seen.	这样的事情很少见。	This kind of thing is rarely seen.
-少量	shǎo liàng	numeral		a small amount	L4	加少量的盐就够了。	Adding a small amount of salt is enough.	他每天喝少量的咖啡。	He drinks a small amount of coffee every day.	这个药只需要少量吃。	This medicine only needs to be taken in a small amount.
+少量	shǎo liàng	numeral		a small amount	L4	加少量的盐就够了。	Adding a small amount of salt is enough.	他每天喝少量的咖啡。	He drinks a small amount of coffee every day.	他只吃了少量的面包。	He only ate a small amount of bread.
 少年	shào nián	noun		male adolescent	L4	那个少年跑得很快。	That male adolescent runs very fast.	他是一个聪明的少年。	He is a clever male adolescent.	少年的日子是很美好的。	The adolescent years are the most beautiful time.
 少数	shǎo shù	numeral		a small number	L4	只有少数人同意这个决定。	Only a small number of people agreed with this decision.	这个问题只有少数人能回答。	Only a small number of people can answer this question.	能来参加的只有少数人。	Only a small number of people were able to come and participate.
 少数	shǎo shù	numeral		minority	L4	少数民族有很多不同的文化。	Ethnic minorities have many different cultures.	这个班里，少数人来自外地。	In this class, a minority of students come from other places.	少数人的意见也要被听到。	The opinion of the minority should also be heard.
