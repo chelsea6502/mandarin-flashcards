@@ -2,7 +2,7 @@
 """
 Export flashcard rows by HSK level for audit agents.
 
-Produces chunked TSV files (same format as words.tsv) plus a vocabulary file
+Produces chunked TSV files (same format as cards.tsv) plus a vocabulary file
 per level.
 
 Usage:
@@ -18,15 +18,16 @@ import math
 import os
 import sys
 
-TSV_PATH = os.path.join(os.path.dirname(__file__), 'words.tsv')
+TSV_PATH = os.path.join(os.path.dirname(__file__), 'cards.tsv')
 OUT_DIR = os.path.join(os.path.dirname(__file__), 'data', 'level_data')
 
 CHUNK_SIZE = 50
 
 COLUMNS = [
-    'simplified', 'pinyin', 'pos', 'classifier', 'definition', 'new_hsk',
-    'sentence_1', 'translation_1', 'sentence_2', 'translation_2',
-    'sentence_3', 'translation_3',
+    'name', 'pinyin', 'pos', 'classifier', 'definition', 'level', 'type',
+    'grammar_category', 'sentence_1', 'pinyin_1', 'translation_1',
+    'sentence_2', 'pinyin_2', 'translation_2',
+    'sentence_3', 'pinyin_3', 'translation_3',
 ]
 
 
@@ -36,17 +37,16 @@ def load_rows(tsv_path):
     with open(tsv_path, encoding='utf-8') as f:
         reader = csv.DictReader(f, dialect='excel-tab')
         for r_idx, row in enumerate(reader, start=2):
-            lvl = row.get('new_hsk', '')
+            lvl = row.get('level', '')
             if not lvl:
                 continue
             lvl_num = int(str(lvl).lstrip('L'))
             data = dict(row)
             data['row'] = r_idx
-            data['new_hsk'] = lvl
             rows_by_level.setdefault(lvl_num, []).append(data)
-            word = data.get('simplified', '')
-            if word:
-                vocab_by_level.setdefault(lvl_num, set()).add(word)
+            name = data.get('name', '')
+            if name and data.get('type') == 'word':
+                vocab_by_level.setdefault(lvl_num, set()).add(name)
             classifier = data.get('classifier', '')
             if classifier and classifier != 'null':
                 for cl in classifier.split(','):
@@ -56,8 +56,8 @@ def load_rows(tsv_path):
     return rows_by_level, vocab_by_level
 
 
-# Functional characters taught via grammar.tsv that lack their own words.tsv
-# entry.  Keyed by the earliest HSK level where they appear.
+# Functional characters taught via grammar rows that lack their own word row.
+# Keyed by the earliest HSK level where they appear.
 _GRAMMAR_EXTRAS = {
     1: {'儿', '号', '没'},
     2: {'着'},
