@@ -7224,7 +7224,6 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 杂	zá	adjective, adverbial adjective, verb		mixed	L6	这道菜的味道很杂。	The flavors in this dish are very mixed.	他的心情很杂，难以形容。	His feelings were very mixed and hard to describe.	人群很杂，来自各地。	The crowd was mixed, coming from all over.
 灾	zāi	noun		disaster	L6	洪水是一种严重的灾。	Flooding is a serious disaster.	这场大火造成了很大的灾。	This great fire caused terrible disaster.	农民害怕遭受灾。	Farmers fear suffering a disaster.
 灾害	zāi hài	noun	个	disaster	L6	这个灾害造成了很多伤亡。	This disaster caused many casualties.	每个灾害都需要及时应对。	Every disaster needs to be responded to promptly.	政府帮助人们应对灾害。	The government helps people cope with disasters.
-灾难	zāi nàn	noun		catastrophe	L6	这件事对他来说是一场灾难。	This matter was a catastrophe for him.	环境污染可能带来生态灾难。	Environmental pollution could bring ecological catastrophe.	这次失败对公司是一场灾难。	This failure was a catastrophe for the company.
 灾难	zāi nàn	noun		disaster	L6	这场地震是一场巨大的灾难。	This earthquake was a great disaster.	战争给人民带来灾难。	War brings disaster to the people.	洪水造成了严重的灾难。	The flood caused a serious disaster.
 灾区	zāi qū	noun		disaster zone	L6	志愿者前往灾区帮助。	Volunteers went to the disaster zone to help.	物资运送到了灾区。	Supplies were sent to the disaster zone.	灾区的人们需要帮助。	The people in the disaster zone need help.
 再三	zài sān	adverb		over and over again	L6	他再三强调安全问题。	He emphasized the safety issue over and over again.	老师再三提醒我们复习。	The teacher reminded us over and over again to review.	她再三道歉，终于被原谅了。	She apologized over and over again and was finally forgiven.
@@ -7232,46 +7231,36 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 在意	zài yì	verb		to care about	L6	她不在意别人的看法。	She doesn't care about other people's opinions.	他很在意朋友的感受。	He cares a lot about his friend's feelings.	你不用那么在意结果。	You don't need to care so much about the result.
 赞赏	zàn shǎng	verb, verbal noun		to appreciate	L6	我很赞赏他的努力。	I really appreciate his effort.	老师赞赏了她的回答。	The teacher appreciated her answer.	大家都赞赏他的才华。	Everyone appreciates his talent.
 赞同	zàn tóng	verb, verbal noun		to approve	L6	我赞同他的意见。	I approve of his opinion.	大家都赞同这个计划。	Everyone approves of this plan.	她赞同老师的做法。	She approves of the teacher's approach.
-赞同	zàn tóng	verb, verbal noun		to endorse	L6	他公开赞同这项政策。	He publicly endorsed this policy.	我赞同你的想法。	I endorse your idea.	委员会赞同了新方案。	The committee endorsed the new proposal.
 遭到	zāo dào	verb		to meet with (something unfortunate)	L6	他出门遭到了大雨。	He went outside and met with a heavy rain.	她遭到了不公平的对待。	She met with unfair treatment.	他们遭到了意外的困难。	They met with unexpected difficulties.
-遭到	zāo dào	verb		to suffer	L6	他的提案遭到了批评。	His proposal suffered criticism.	工厂遭到了严重处罚。	The factory suffered severe punishment.	这部电影遭到了观众的反对。	This film suffered opposition from the audience.
 遭受	zāo shòu	verb		to suffer	L6	他遭受了很大的损失。	He suffered a great loss.	这个地区遭受了严重的洪灾。	This region suffered a serious flood disaster.	她遭受了病痛的折磨。	She suffered the torment of illness.
-遭受	zāo shòu	verb		to sustain	L6	桥梁遭受了严重损坏。	The bridge sustained serious damage.	他遭受了不必要的指责。	He sustained unnecessary blame.	建筑遭受了地震的破坏。	The building sustained damage from the earthquake.
 遭遇	zāo yù	noun, verb		to meet with (something unfortunate)	L6	她遭遇了意外事故。	She met with an unexpected accident.	他在旅途中遭遇了麻烦。	He met with trouble during the journey.	他们遭遇了严重的风暴。	They met with a severe storm.
-造型	zào xíng	noun		to model	L6	艺术家用泥土造型。	The artist modeled with clay.	他擅长用金属造型。	He is skilled at modeling with metal.	学生们学习如何造型。	The students learn how to model.
-造型	zào xíng	noun		to mold	L6	工人用模具造型零件。	Workers mold parts with molds.	他用蜡为孩子造型了一只小船。	He molded a small boat out of wax for a child.	他用蜡造型了一只鸟。	He molded a bird out of wax.
-噪声	zào shēng	noun		noise	L6	工厂附近的噪声很大。	The noise near the factory is very loud.	噪声会影响睡眠质量。	Noise can affect sleep quality.	城市里的噪声让人烦躁。	The noise in the city makes people irritable.
-噪声	zào shēng	noun		racket	L6	楼上的噪声吵醒了我。	The racket upstairs woke me up.	孩子们的噪声让人头疼。	The racket from the children gives people headaches.	请停止这种噪声！	Please stop this racket!
+造型	zào xíng	verb, verbal noun		to model	L6	艺术家用泥土造型。	The artist modeled with clay.	他擅长用金属造型。	He is skilled at modeling with metal.	学生们学习如何造型。	The students learn how to model.
+噪声	zào shēng	noun		noise	L6	工厂附近的噪声很大。	The noise near the factory is very loud.	噪声会影响睡眠质量。	Noise can affect sleep quality.	城市里的噪声让人很不舒服。	The noise in the city makes people very uncomfortable.
 则	zé	adverb, conjunction, classifier, morpheme		in that case	L6	下雨了，则不能出门。	It is raining — in that case we cannot go out.	没有钱，则无法旅行。	Without money, in that case travel is impossible.	时间太晚，则明天再说。	It is too late — in that case we'll talk tomorrow.
 则	zé	adverb, conjunction, classifier, morpheme		measure word for written items	L6	他写了三则日记。	He wrote three diary entries.	报纸上有一则新闻。	There is one news item in the newspaper.	老师布置了两则故事。	The teacher assigned two story passages.
 扎	zhā	verb		to bind	L6	工人把木头扎成一捆。	The workers bound the wood into a bundle.	他把报纸扎好放在门口。	He bound the newspapers and placed them by the door.	请把这些电线扎起来。	Please bind these wires together.
 扎	zhā	verb		to plunge into	L6	他扎进水里游泳。	He plunged into the water to swim.	她扎进书堆里学习。	She plunged into her pile of books to study.	战士们扎进了战场。	The soldiers plunged into the battlefield.
-粘	nián	verb		to adhere	L6	贴纸能粘在玻璃上。	Stickers can adhere to glass.	胶水让两块木头粘在一起。	Glue makes two pieces of wood adhere together.	这种材料容易粘。	This material adheres easily.
-粘	nián	verb		to stick to	L6	糖粘在了他手上。	The candy stuck to his hand.	胶带粘在纸上不好撕开。	Tape that has stuck to paper is hard to peel off.	油漆粘在衣服上洗不掉。	Paint that has stuck to clothes cannot be washed off.
-粘贴	zhāntiē	verb		to paste; to stick; to glue	L6	他把照片粘贴在本子上。	He pasted the photos onto the notebook.	请把这段文字复制粘贴到文件里。	Please copy and paste this text into the document.	孩子们在粘贴剪纸作品。	The children are pasting paper-cutting works.
+粘	nián	verb		to stick to	L6	糖粘在了他手上。	The candy stuck to his hand.	胶带粘在纸上不好撕开。	Tape that has stuck to paper is hard to peel off.	鞋子上粘了一些泥。	Some mud has stuck to the shoes.
+粘贴	zhān tiē	verb		to paste; to stick; to glue	L6	他把照片粘贴在本子上。	He pasted the photos onto the notebook.	请把这段文字复制粘贴到文件里。	Please copy and paste this text into the document.	孩子们在粘贴剪纸作品。	The children are pasting paper-cutting works.
 崭新	zhǎn xīn	non-predicate adjective		brand new	L6	他买了一台崭新的电脑。	He bought a brand new computer.	工厂生产出崭新的产品。	The factory produced brand new products.	她穿了一件崭新的衬衫。	She wore a brand new shirt.
-占比	zhànbǐ	noun		proportion; percentage share	L6	女性员工的占比超过了一半。	The proportion of female employees exceeds half.	这个产品在市场中的占比很高。	This product has a high percentage share of the market.	年轻用户的占比逐年增加。	The proportion of young users increases year by year.
+占比	zhàn bǐ	noun		proportion; percentage share	L6	女性员工的占比超过了一半。	The proportion of female employees exceeds half.	这个产品在市场中的占比很高。	This product has a high percentage share of the market.	年轻用户的占比逐年增加。	The proportion of young users increases year by year.
 占据	zhàn jù	verb		to occupy	L6	他们占据了山顶。	They occupied the mountaintop.	这栋楼占据了很大的空间。	This building occupies a large space.	敌人占据了城市。	The enemy occupied the city.
 占有	zhàn yǒu	verb, verbal noun		to occupy	L6	他们占有大量资源。	They occupy a large amount of resources.	这家公司占有重要的市场份额。	This company occupies an important market share.	他占有这块土地多年了。	He has occupied this land for many years.
-战斗	zhàn dòu	verb, verbal noun	场, 次	to battle	L6	他们展开了一次激烈的战斗。	They launched a fierce battle.	双方战斗了一整天。	Both sides battled for an entire day.	士兵们战斗到天亮。	The soldiers battled until dawn.
 战斗	zhàn dòu	verb, verbal noun	场, 次	to fight	L6	双方进行了一场战斗。	Both sides engaged in a fight.	战士们勇敢地战斗。	The soldiers fought bravely.	他们为自由而战斗。	They fought for freedom.
 战胜	zhàn shèng	verb		to defeat	L6	我们队战胜了对手。	Our team defeated the opponent.	他努力战胜了困难。	He worked hard to defeat the difficulties.	她战胜了自己的恐惧。	She defeated her own fear.
 战争	zhàn zhēng	noun	场, 次	war	L6	战争给人们带来了痛苦。	War brought suffering to the people.	这场战争持续了多年。	This war lasted many years.	人类要努力避免战争。	Humanity must work hard to avoid war.
 章	zhāng	classifier, noun		chapter	L6	这本书共有十章。	This book has ten chapters in total.	请阅读第三章。	Please read Chapter Three.	第一章介绍了背景。	The first chapter introduces the background.
-章	zhāng	classifier, noun		section	L6	报告分为三章。	The report is divided into three sections.	第二章讨论了主要问题。	The second section discusses the main issues.	这一章内容很重要。	The content of this section is very important.
 长辈	zhǎng bèi	noun		elders	L6	我们要尊重长辈。	We must respect our elders.	她经常帮助家里的长辈。	She often helps the elders in the family.	长辈的经验值得学习。	The experience of elders is worth learning from.
 长短	cháng duǎn	noun		good and bad	L6	他喜欢议论别人的长短。	He likes to talk about people's good and bad points.	每个方案都有长短。	Every plan has its good and bad points.	不要随便说别人的长短。	Don't casually talk about others' good and bad points.
-长短	cháng duǎn	noun		length	L6	请测量一下这条裤子的长短。	Please measure the length of these trousers.	这根木棍长短合适。	The length of this stick is just right.	两根绳子的长短不一样。	The two ropes are different in length.
+长短	cháng duǎn	noun		length	L6	请测量一下这条裤子的长短。	Please measure the length of these trousers.	这根木棍长短合适。	The length of this stick is just right.	两条路的长短不一样。	The two roads are different in length.
 长寿	cháng shòu	adjective, adjective-noun, proper noun (place)		longevity	L6	健康的生活方式有助于长寿。	A healthy lifestyle contributes to longevity.	科学家研究长寿的秘密。	Scientists study the secrets of longevity.	祝您健康长寿！	Wishing you health and longevity!
 账单	zhàng dān	noun		bill	L6	服务员拿来了账单。	The waiter brought the bill.	请结账，给我账单。	Please check out — give me the bill.	他仔细查看了账单。	He carefully checked the bill.
-账单	zhàng dān	noun		invoice	L6	公司寄来了一张账单。	The company sent an invoice.	请在账单上签名。	Please sign the invoice.	他核对了账单上的金额。	He verified the amount on the invoice.
 障碍	zhàng ài	noun		obstacle	L6	噪音对他的思考造成了障碍。	The noise created an obstacle to his thinking.	语言不通对交流造成了障碍。	The language difference created an obstacle to communication.	信号不好对通话造成了障碍。	Poor signal created an obstacle to the call.
 招	zhāo	verb, classifier, noun		to attract	L6	鲜花招来了很多蜜蜂。	The flowers attracted many bees.	好音乐招来了很多观众。	Good music attracted many audience members.	她的笑容招来了大家的注意。	Her smile attracted everyone's attention.
 招	zhāo	verb, classifier, noun		to beckon	L6	他向我招了招手。	He beckoned to me with his hand.	老师招学生过来。	The teacher beckoned the student to come over.	她在门口招我进去。	She beckoned me inside from the doorway.
 招	zhāo	verb, classifier, noun		to confess	L6	犯人终于招了。	The criminal finally confessed.	他拒绝招，一直沉默。	He refused to confess and stayed silent.	警察问了很久，他才招。	The police questioned him for a long time before he confessed.
 招	zhāo	verb, classifier, noun		to provoke	L6	他说话总是招麻烦。	The way he talks always provokes trouble.	这种行为会招人不满。	This kind of behavior will provoke people's dissatisfaction.	别乱说话，招事！	Don't talk carelessly — you'll provoke trouble!
 招待	zhāo dài	verb, verbal noun		to entertain	L6	他们热情地招待了客人。	They warmly entertained the guests.	公司招待了来访的代表团。	The company entertained the visiting delegation.	我们用美食招待朋友。	We entertained friends with good food.
-招待	zhāo dài	verb, verbal noun		to serve	L6	服务员招待顾客非常热情。	The waiter served the customers very warmly.	她在餐厅招待客人。	She serves guests at the restaurant.	请好好招待每位客人。	Please serve every guest well.
 招生	zhāo shēng	verbal noun, verb		to enroll new students	L6	这所大学今年开始招生了。	This university has started enrolling new students this year.	学校正在招生，欢迎报名。	The school is enrolling new students; applications are welcome.	他们面向全国招生。	They enroll new students from across the country.
 招收	zhāo shōu	verb		to recruit	L6	公司正在招收新员工。	The company is recruiting new employees.	军队招收了一批年轻人。	The military recruited a group of young people.	工厂招收有经验的工人。	The factory is recruiting experienced workers.
 招手	zhāo shǒu	verb		to wave (with the hand)	L6	她向我招手，让我过去。	She waved at me, beckoning me to come over.	他在车站招手打车。	He waved his hand to hail a taxi at the station.	孩子向妈妈招手再见。	The child waved goodbye to mom.
@@ -7282,9 +7271,9 @@ simplified	pinyin	pos	classifier	definition	new_hsk	sentence_1	translation_1	sen
 折	zhé	verb, classifier		to fold	L6	她把纸折成了一只小鸟。	She folded the paper into a little bird.	请把这封信折好放进信封。	Please fold this letter and put it in the envelope.	他把衣服折好放进箱子里。	He folded the clothes and put them in the suitcase.
 折	zhé	verb, classifier		to snap	L6	他用手把铁丝折断了。	He snapped the wire with his hands.	筷子太脆，一折就断。	The chopsticks were too brittle; they snapped right away.	细树枝很容易被折断。	Thin branches are easily snapped.
 折	zhé	verb, classifier		to turn over	L6	他把纸折了过来。	He turned the paper over.	把衣领折过来就好看了。	Turn the collar over and it will look nice.	请把这页纸折过去。	Please turn this page over.
-针	zhēn	noun, classifier	根, 支	needle	L6	裁缝用针线缝好了衣服。	The tailor sewed the clothes together with a needle and thread.	她手里拿着一根针。	She held a needle in her hand.	这根针很细，要小心。	This needle is very thin; be careful.
+针	zhēn	noun, classifier	根, 支	needle	L6	做衣服需要用针和线。	Making clothes requires needles and thread.	她手里拿着一根针。	She held a needle in her hand.	这根针很细，要小心。	This needle is very thin; be careful.
 针	zhēn	noun, classifier	根, 支	pin	L6	他用一根针把地图固定在墙上。	He fixed the map to the wall with a pin.	别踩到地上的针。	Don't step on the pin on the floor.	这支针太短，用不了。	This pin is too short to use.
-针	zhēn	noun, classifier	根, 支	stitch	L6	医生缝了三针才止血。	The doctor put in three stitches to stop the bleeding.	伤口需要缝几针。	The wound needs a few stitches.	她织毛衣每行织二十针。	She knits twenty stitches per row when making a sweater.
+针	zhēn	noun, classifier	根, 支	stitch	L6	这个伤口需要三针。	This wound needs three stitches.	他的伤口不大，只用了两针。	His wound wasn't big; only two stitches were needed.	她织毛衣每行织二十针。	She knits twenty stitches per row when making a sweater.
 珍珠	zhēn zhū	noun	颗	pearl	L6	这条项链上有一颗珍珠。	There is one pearl on this necklace.	珍珠是蚌产生的宝石。	Pearls are gems produced by oysters.	她戴着一颗大珍珠的耳环。	She wore earrings with large pearls.
 真相	zhēn xiàng	noun		the actual facts	L6	警察查清了事件的真相。	The police investigated and uncovered the actual facts of the incident.	人们都想知道真相是什么。	Everyone wants to know what the actual facts are.	他终于说出了真相。	He finally revealed the actual facts.
 真相	zhēn xiàng	noun		the truth about something	L6	记者调查后公布了真相。	The journalist published the truth after investigating.	我们必须面对真相。	We must face the truth about this.	她一直在寻找真相。	She has been searching for the truth all along.
