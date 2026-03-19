@@ -9,14 +9,14 @@ Blueprints and tooling for designing Mandarin Chinese flashcards. Word lists are
 ## Stack
 
 - **Python** for all scripts (stdlib only — no third-party deps except `pytest`)
-- **CSV** as the working data format
+- **TSV** as the working data format (`cards.tsv`, `data/sentences.tsv`) — directly readable/writable by Claude Code
 - **Anki** as the eventual export target (via `genanki` or similar)
 
 ## Commands
 
 ```bash
 # Generate data/words.csv from HSK JSON sources
-python3 scripts/build_csv.py
+python3 build_csv.py
 
 # Run tests
 python3 -m pytest tests/ -v
@@ -28,7 +28,7 @@ python3 -m pytest tests/test_build_csv.py::test_name -v
 ## Data
 
 - `data/words.csv` — generated file, committed to repo.
-  Columns: `simplified, pinyin, traditional, pos, classifier, definition, source`
+  Columns: `simplified, pinyin, pos, classifier, definition, source`
   One row per definition. Re-run `build_csv.py` to regenerate.
 - Sources: old HSK5 + new HSK3 from `drkameleon/complete-hsk-vocabulary` on GitHub.
   Words in both lists use new HSK3 definitions; `source` column tracks provenance.
@@ -36,6 +36,40 @@ python3 -m pytest tests/test_build_csv.py::test_name -v
 ## Generation
 
 Always generate content in-session (using your own knowledge and capabilities). Never call the Claude API or any external AI API to generate content. Prefer parallel batches when generating (e.g. use dispatching-parallel-agents or parallel tool calls to process multiple items simultaneously).
+
+## Row Quality: cards.tsv
+
+Each row represents either one definition of one word (`type=word`) or one grammar point (`type=grammar`). Quality means every field is accurate **and** internally consistent.
+
+### Word rows
+
+**Core fields**
+- `name` — correct simplified characters
+- `pinyin` — correct tones as diacritics (ā á ǎ à), not numbers; syllables space-separated; neutral tone written without mark (e.g. `ba`, not `bà`)
+- `pos` — accurate, using the existing taxonomy in the file; comma-separated when multiple
+- `classifier` — correct measure word(s) for this specific noun sense; null if inapplicable; comma-separated if multiple
+- `definition` — accurate English gloss for this row's specific sense; verbs start with "to …"; natural English; not duplicating another row for the same word
+
+**Sentences**
+- Grammatically correct, natural Mandarin
+- Vocabulary at or below the row's HSK level
+- Three distinct sentences — different contexts or structures, not minor variations of each other
+- If a classifier is present, at least one sentence uses it naturally with a numeral
+- Each sentence ends with 。 ！ or ？; no pinyin mixed in
+- Prefer short, clear sentences
+
+### Grammar rows
+
+**Core fields**
+- `name` — the specific grammar item(s); uses — to mark where the morpheme attaches (e.g. `—们`, `小—`)
+- `grammar_category` — accurate category label matching the file's existing conventions
+
+**Sentences**
+- Each sentence unambiguously demonstrates the grammar point — not a sentence where it just happens to appear
+- If name lists multiple forms, the three sentences collectively cover all of them
+- Vocabulary appropriate for the row's HSK level
+- Accurate, natural English translations
+- Sentences are distinct — different forms, contexts, or functions
 
 ## Sentence Generation
 
@@ -49,19 +83,23 @@ When generating example sentences for flashcard rows:
 
 Dispatched agents (subagents) cannot read or write files in `/tmp` — permissions are denied. When auditing flashcard rows with agents:
 
-1. **Before dispatching agents**, run the export script to write level data into the project directory:
+1. **Export level data** before dispatching agents:
    ```bash
-   python3 scripts/export_level_data.py          # all levels
-   python3 scripts/export_level_data.py 2 3      # specific levels
+   python3 export_chunk_data.py          # all levels
+   python3 export_chunk_data.py 2 3      # specific levels
    ```
-   This writes `data/level_data/L{n}.json` and `data/level_data/vocab_upto_L{n}.json`.
+   This writes chunked TSV files to `data/level_data/` plus a vocabulary file:
+   - **`L{n}_chunk_{nn}.tsv`** — same columns as `cards.tsv` with a `ROW` column prepended (the row number in `cards.tsv`). Each chunk contains ~50 rows.
+   - **`L{n}_vocab.txt`** — cumulative vocabulary up to level N (one word per line). Include in sentence audit prompts when checking level-appropriate vocabulary.
 
-2. **Embed data in agent prompts** — agents can use the Read tool on project files, but for large datasets it is more reliable to read the JSON files in the main session and paste the content directly into agent prompts as plain text.
+2. **Audit sequentially** — work through chunks one at a time. Read the chunk TSV, audit each row, and fix issues directly in `cards.tsv` using the Edit tool. Loop on each chunk until a pass finds zero issues.
 
-3. **Agents return fixes as JSON inline** in their response text (not by writing files). Extract the JSON from the response and apply fixes in the main session.
+3. **Progress tracking** — `data/level_data/L{n}_audit_progress.txt` tracks the current chunk number. Resume from where you left off across sessions.
 
 ## Architecture
 
-- `scripts/build_csv.py` — four pure functions (`fetch_json`, `merge_entries`, `to_rows`, `write_csv`) plus `main()`
-- `scripts/export_level_data.py` — exports rows by HSK level to `data/level_data/` for agent audit workflows
+- `build_csv.py` — four pure functions (`fetch_json`, `merge_entries`, `to_rows`, `write_csv`) plus `main()`
+- `export_chunk_data.py` — reads `cards.tsv`, exports chunked TSVs to `data/level_data/` for agent audit workflows
+- `build_sentences_xlsx.py` — reads `cards.tsv`, writes `data/sentences.tsv`
+- `build_anki_sentences.py` — reads `data/sentences.tsv`, writes `data/sentences.apkg`
 - `tests/test_build_csv.py` — unit tests using in-memory fixtures (no network calls except `test_fetch_json_returns_list`)
