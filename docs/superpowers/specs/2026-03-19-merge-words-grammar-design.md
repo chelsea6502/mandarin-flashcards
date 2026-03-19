@@ -67,7 +67,7 @@ Replace `words.tsv` and `grammar.tsv` with a single `cards.tsv` that holds both 
 
 ### grammar_category derivation
 
-The old grammar.tsv has three taxonomy columns: `grammar_type`, `category_type`, `grammar_detail`. These collapse into a single `grammar_category` using the most specific non-empty value: `grammar_detail` if present, else `category_type` if present, else `grammar_type`.
+The old grammar.tsv has three taxonomy columns: `grammar_type`, `category_type`, `grammar_detail`. Only `grammar_detail` is preserved as `grammar_category` (no fallback to `category_type` or `grammar_type`). This keeps `grammar_category` identical to the old `grammar_detail` value, which is required for Anki GUID stability in sentence key generation. ~97 grammar rows have empty `grammar_category` as a result.
 
 ## Row ordering
 
