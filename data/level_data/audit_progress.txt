@@ -1,2 +1,2 @@
-level=2
-chunk=7
+level=3
+chunk=6
