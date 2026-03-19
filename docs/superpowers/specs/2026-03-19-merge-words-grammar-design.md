@@ -73,23 +73,37 @@ The old grammar.tsv has three taxonomy columns: `grammar_type`, `category_type`,
 
 Within the file, rows are grouped by level (L1 first, then L2, etc.). Within each level, all word rows appear first (preserving their original order), followed by all grammar rows (preserving their original order).
 
-## Downstream script changes
+## Downstream changes
 
 ### build_sentences_xlsx.py
 
 - Read `cards.tsv` instead of `words.tsv` + `grammar.tsv`
-- Use `type` column to distinguish word vs grammar rows for key derivation
+- Merge `extract_words` and `extract_grammar` into one function that branches on `type`
 - Column name changes: `simplified` → `name`, `new_hsk`/`hsk_level` → `level`
+- Key format preserved for Anki GUID stability:
+  - Word keys: `w|{name}|{definition}|s{n}` (same shape as before)
+  - Grammar keys: `g|{grammar_category}|{name}|s{n}` (same shape — `grammar_category` replaces `grammar_detail`, `name` replaces `content`)
 
 ### export_chunk_data.py
 
 - Read `cards.tsv` instead of `words.tsv`
 - Update column references: `simplified` → `name`, `new_hsk` → `level`
-- Filter to `type=word` rows for word-audit chunks, or handle both types
+- Export both word and grammar chunks (grammar rows get their own chunk files)
+
+### audio/generate_audio.py
+
+- Update TSV path: `words.tsv` → `cards.tsv`
+- Update column reference: `new_hsk` → `level`
+- `count_words_per_level` reads `level` column instead of `new_hsk`
 
 ### build_anki_sentences.py
 
 - No change (reads `data/sentences.tsv`, not the source files)
+
+### docs/agent-instructions/generate-sentences.md
+
+- Update all references from `words.tsv` to `cards.tsv`
+- Update column names: `simplified` → `name`, `new_hsk` → `level`
 
 ### CLAUDE.md
 
