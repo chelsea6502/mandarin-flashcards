@@ -1,8 +1,0 @@
-# Sentences with Chinese text changes (need audio regeneration)
-# Only tracks changes to Chinese sentence text, not pinyin-only or translation-only fixes
-# Format: ROW:SENTENCE_NUM - description
-
-# L4 audit chunks 19-21
-2480:3 - changed 爱惜 to 保护
-2596:1 - changed 令人 to 让人
-2597:3 - changed 说谎 to 不诚实
