@@ -1,6 +1,0 @@
-[
-  {"row": 4218, "field": "sentence_2", "old": "她的猫昨天去世了。", "new": "她的爷爷昨天去世了。", "reason": "去世 is reserved for people; using it for a cat is incorrect. Replace with a human subject."},
-  {"row": 4218, "field": "translation_2", "old": "Her cat died yesterday.", "new": "Her grandfather passed away yesterday.", "reason": "Matches correction to sentence_2."},
-  {"row": 4238, "field": "translation_3", "old": "Young groups like online shopping.", "new": "Young people like online shopping.", "reason": "\"Young groups\" is unnatural English; \"young people\" is the idiomatic phrasing."},
-  {"row": 4322, "field": "translation_3", "old": "Do you not grudge paying so much money?", "new": "Are you really willing to pay that much?", "reason": "\"Do you not grudge paying so much money?\" is grammatically awkward English."}
-]

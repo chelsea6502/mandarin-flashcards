@@ -1,7 +1,0 @@
-[
-  {"row": 4644, "field": "sentence_3", "old": "我的胃不舒服，什么都不想吃。", "new": "我吃了太多冷食，胃开始疼了。", "reason": "Sentence_2 and sentence_3 both describe an uncomfortable stomach (胃不舒服). Sentence_3 should contrast or extend the concept rather than repeat the same situation."},
-  {"row": 4644, "field": "translation_3", "old": "My stomach feels uncomfortable and I don't want to eat anything.", "new": "I ate too much cold food and my stomach started to hurt.", "reason": "Translation updated to match corrected sentence_3."},
-  {"row": 4671, "field": "sentence_1", "old": "这件衣服是什么物质做的？", "new": "水是一种常见的物质。", "reason": "物质 means 'substance/matter' (scientific term); asking about clothing fabric uses 材料 or 面料, not 物质. Sentence rephrased to correct usage."},
-  {"row": 4671, "field": "translation_1", "old": "What material is this garment made of?", "new": "Water is a common substance.", "reason": "Translation updated to match corrected sentence_1."},
-  {"row": 4719, "field": "translation_2", "old": "His Mandarin is relatively good, comparatively speaking.", "new": "His Mandarin is relatively good.", "reason": "Redundancy: 'relatively' and 'comparatively speaking' express the same idea in the same clause."}
-]

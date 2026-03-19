@@ -9,7 +9,7 @@ Blueprints and tooling for designing Mandarin Chinese flashcards. Word lists are
 ## Stack
 
 - **Python** for all scripts (stdlib only — no third-party deps except `pytest`)
-- **TSV** as the working data format (`cards.tsv`, `data/sentences.tsv`) — directly readable/writable by Claude Code
+- **TSV** as the working data format (`cards.tsv`) — directly readable/writable by Claude Code
 - **Anki** as the eventual export target (via `genanki` or similar)
 
 ## Commands
@@ -79,27 +79,9 @@ When generating example sentences for flashcard rows:
 - Write sentences that clearly illustrate the specific definition of that row, not the word's other meanings
 - Prefer short sentences
 
-## Agent Audit Workflow
-
-Dispatched agents (subagents) cannot read or write files in `/tmp` — permissions are denied. When auditing flashcard rows with agents:
-
-1. **Export level data** before dispatching agents:
-   ```bash
-   python3 export_chunk_data.py          # all levels
-   python3 export_chunk_data.py 2 3      # specific levels
-   ```
-   This writes chunked TSV files to `data/level_data/` plus a vocabulary file:
-   - **`L{n}_chunk_{nn}.tsv`** — same columns as `cards.tsv` with a `ROW` column prepended (the row number in `cards.tsv`). Each chunk contains ~50 rows.
-   - **`L{n}_vocab.txt`** — cumulative vocabulary up to level N (one word per line). Include in sentence audit prompts when checking level-appropriate vocabulary.
-
-2. **Audit sequentially** — work through chunks one at a time. Read the chunk TSV, audit each row, and fix issues directly in `cards.tsv` using the Edit tool. Loop on each chunk until a pass finds zero issues.
-
-3. **Progress tracking** — `data/level_data/L{n}_audit_progress.txt` tracks the current chunk number. Resume from where you left off across sessions.
-
 ## Architecture
 
 - `build_csv.py` — four pure functions (`fetch_json`, `merge_entries`, `to_rows`, `write_csv`) plus `main()`
-- `export_chunk_data.py` — reads `cards.tsv`, exports chunked TSVs to `data/level_data/` for agent audit workflows
-- `build_sentences_xlsx.py` — reads `cards.tsv`, writes `data/sentences.tsv`
-- `build_anki_sentences.py` — reads `data/sentences.tsv`, writes `data/sentences.apkg`
+- `build_anki.py` — reads `cards.tsv`, writes `sentences.apkg`
+- `audio/generate_audio.py` — TTS audio generation for flashcard sentences
 - `tests/test_build_csv.py` — unit tests using in-memory fixtures (no network calls except `test_fetch_json_returns_list`)

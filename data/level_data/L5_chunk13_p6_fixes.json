@@ -1,9 +1,0 @@
-[
-  {"row": 4638, "field": "pinyin", "old": "wèi zhi", "new": "wèi zhì", "reason": "置 in 位置 is pronounced zhì (4th tone) in standard Mandarin; the neutral-tone spelling 'zhi' is non-standard for this word."},
-  {"row": 4649, "field": "definition", "old": "to have no choice but to", "new": "helpless; having no alternative", "reason": "无奈 is an adjective/adverb meaning 'helpless' or 'having no alternative'. The current gloss is a sentential paraphrase rather than an appropriate part-of-speech gloss."},
-  {"row": 4666, "field": "translation_1", "old": "Water is a common material.", "new": "Water is a common substance.", "reason": "物质 in the scientific sense means 'substance', not 'material' (材料). Water is a substance, not a material."},
-  {"row": 4686, "field": "pos", "old": "adverb", "new": "adverb, noun", "reason": "In the sense of 'order of precedence', 先后 functions as a noun (分好先后, 考虑先后), not only as an adverb."},
-  {"row": 4712, "field": "definition", "old": "to be appropriate for", "new": "to be commensurate with", "reason": "相当 in this sense means 'commensurate with / equivalent to', not 'appropriate for'. All three example sentences illustrate equivalence/matching (与能力相当, 与工作量相当, 与贡献相当)."},
-  {"row": 4738, "field": "definition", "old": "to market", "new": "to sell; to market", "reason": "销售 primarily means 'to sell'. 'To market' alone is an incomplete and potentially misleading gloss; 销售 does not specifically mean marketing (营销)."},
-  {"row": 4755, "field": "translation_2", "old": "We enjoyed a concert.", "new": "We appreciated a concert.", "reason": "The definition being illustrated is 'to appreciate' but the translation uses 'enjoyed', which belongs to the other 欣赏 row. Should use 'appreciate' to match the definition."}
-]

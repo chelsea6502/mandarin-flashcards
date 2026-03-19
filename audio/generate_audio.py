@@ -1,5 +1,5 @@
 """
-Generate Qwen3-TTS audio for every sentence in sentences.tsv (local, Apple Silicon).
+Generate Qwen3-TTS audio for every sentence in cards.tsv (local, Apple Silicon).
 
 No API key needed — runs fully offline via MLX.
 
@@ -16,9 +16,9 @@ Run:
   python generate_audio.py --level L1       # one level only
   python generate_audio.py --start 500      # resume from row 500
   python generate_audio.py --all             # all rows (default: audited only)
-  python generate_audio.py --changed         # only rows changed in sentences.tsv vs git HEAD
+  python generate_audio.py --changed         # only rows changed in cards.tsv vs git HEAD
 
-Produces one wav file per sentence row (random voice each time):
+Produces one wav file per sentence (random voice each time):
   output/{sanitized_key}.wav   e.g. w_爱_to_love_s1.wav
 
 Copy wavs into Anki media folder:
@@ -29,6 +29,8 @@ import argparse
 import csv
 import gc
 import glob
+import hashlib
+import io
 import os
 import random
 import re
@@ -52,13 +54,25 @@ MODEL_PATH = os.path.join(_DIR, "models", "Qwen3-TTS-12Hz-1.7B-Base-8bit")
 VOICES = ["vivian", "ryan", "eric"]
 
 OUTPUT_DIR = os.path.join(_DIR, "output")
-SENTENCES_TSV = os.path.join(_DIR, "..", "data", "sentences.tsv")
-WORDS_TSV = os.path.join(_DIR, "..", "cards.tsv")
+CARDS_TSV = os.path.join(_DIR, "..", "cards.tsv")
 AUDIT_PROGRESS = os.path.join(_DIR, "..", "data", "level_data", "audit_progress.txt")
 CHUNK_SIZE = 50
 
 
-# ── Load sentences from xlsx ──────────────────────────────────────────────────
+# ── Helpers ──────────────────────────────────────────────────────────────────
+
+
+def make_key(row, n):
+    """Generate sentence key from a cards.tsv row and sentence number."""
+    row_type = row.get("type", "")
+    name = row.get("name", "")
+    if row_type == "grammar":
+        grammar_category = row.get("grammar_category", "")
+        parts = [p for p in [grammar_category, name] if p]
+        return f"g|{'|'.join(parts)}|s{n}"
+    else:
+        definition = row.get("definition", "")
+        return f"w|{name}|{definition}|s{n}"
 
 
 def read_audit_progress():
@@ -77,8 +91,8 @@ def read_audit_progress():
     return None
 
 
-def count_words_per_level(path):
-    """Return dict of level -> word count from cards.tsv."""
+def count_rows_per_level(path):
+    """Return dict of level -> row count from cards.tsv."""
     counts = {}
     with open(path, encoding='utf-8') as f:
         for row in csv.DictReader(f, dialect='excel-tab'):
@@ -88,7 +102,7 @@ def count_words_per_level(path):
     return counts
 
 
-def build_audited_sentence_limit(audit_level, audit_chunk, words_per_level):
+def build_audited_sentence_limit(audit_level, audit_chunk, rows_per_level):
     """Return dict of level -> max sentence count for audited rows.
 
     Fully audited levels get None (no limit). The partially audited level
@@ -115,7 +129,6 @@ def sanitize_key(key: str) -> str:
     Keeps the full key if short enough, otherwise truncates and appends a short
     hash for uniqueness. macOS limit is 255 bytes for filenames.
     """
-    import hashlib
     s = key.replace("|", "_")
     s = s.replace(" ", "_")
     s = re.sub(r'[<>:"/\\?*]', '', s)
@@ -133,9 +146,9 @@ def sanitize_key(key: str) -> str:
 
 def load_sentences(path: str, level_filter: list[str] | None = None,
                    sentence_limits: dict | None = None) -> list[tuple[str, str, str]]:
-    """Return list of (level, sentence, key) from sentences.tsv.
+    """Return list of (level, sentence, key) from cards.tsv.
 
-    Expects columns: key, level, sentence, pinyin, translation (header row 1).
+    Iterates over sentence_1/2/3 per card row, generating keys inline.
     level_filter: if provided, only include rows whose level is in the list.
     sentence_limits: if provided, dict of level -> max sentences to include
         for that level (None means no limit, 0 means skip entirely).
@@ -145,25 +158,42 @@ def load_sentences(path: str, level_filter: list[str] | None = None,
     with open(path, encoding='utf-8') as f:
         for row in csv.DictReader(f, dialect='excel-tab'):
             level = row.get("level", "")
-            sentence = row.get("sentence", "")
-            key = row.get("key", "")
-            if not sentence or not key:
+            if not level:
                 continue
             if level_filter and str(level) not in level_filter:
                 continue
-            if sentence_limits is not None:
-                limit = sentence_limits.get(str(level))
-                if limit is not None:
-                    count = level_counts.get(str(level), 0)
-                    if count >= limit:
-                        continue
-                    level_counts[str(level)] = count + 1
-            rows.append((str(level), sentence.strip(), key))
+            for n in (1, 2, 3):
+                sentence = row.get(f"sentence_{n}", "").strip()
+                if not sentence:
+                    continue
+                key = make_key(row, n)
+                if sentence_limits is not None:
+                    limit = sentence_limits.get(str(level))
+                    if limit is not None:
+                        count = level_counts.get(str(level), 0)
+                        if count >= limit:
+                            continue
+                        level_counts[str(level)] = count + 1
+                rows.append((str(level), sentence, key))
     return rows
 
 
+def _read_cards_sentences(source: str) -> dict[str, tuple[str, str]]:
+    """Read cards.tsv content and return {key: (sentence, translation)} for all sentences."""
+    result = {}
+    reader = csv.DictReader(io.StringIO(source), dialect='excel-tab')
+    for row in reader:
+        for n in (1, 2, 3):
+            sentence = row.get(f"sentence_{n}", "").strip()
+            translation = row.get(f"translation_{n}", "").strip()
+            if sentence:
+                key = make_key(row, n)
+                result[key] = (sentence, translation)
+    return result
+
+
 def git_changed_keys(tsv_path: str) -> set[str]:
-    """Return set of keys for rows in sentences.tsv that changed vs HEAD.
+    """Return set of keys for sentences in cards.tsv that changed vs HEAD.
 
     Reads the current file and the HEAD version, then returns keys whose
     sentence or translation differs (or keys that are new).
@@ -179,25 +209,18 @@ def git_changed_keys(tsv_path: str) -> set[str]:
         ["git", "show", f"HEAD:{rel_path}"],
         capture_output=True, text=True, cwd=repo_root,
     )
-    old_rows = {}
+    old_sentences = {}
     if result.returncode == 0 and result.stdout.strip():
-        import io
-        reader = csv.DictReader(io.StringIO(result.stdout), dialect='excel-tab')
-        for row in reader:
-            key = row.get("key", "")
-            if key:
-                old_rows[key] = (row.get("sentence", ""), row.get("translation", ""))
+        old_sentences = _read_cards_sentences(result.stdout)
 
     # Read current version
-    changed = set()
     with open(tsv_path, encoding='utf-8') as f:
-        for row in csv.DictReader(f, dialect='excel-tab'):
-            key = row.get("key", "")
-            if not key:
-                continue
-            cur = (row.get("sentence", ""), row.get("translation", ""))
-            if key not in old_rows or old_rows[key] != cur:
-                changed.add(key)
+        cur_sentences = _read_cards_sentences(f.read())
+
+    changed = set()
+    for key, cur in cur_sentences.items():
+        if key not in old_sentences or old_sentences[key] != cur:
+            changed.add(key)
     return changed
 
 
@@ -206,7 +229,7 @@ def wav_filename(key: str) -> str:
     return f"{sanitize_key(key)}.wav"
 
 
-# ── Helpers ───────────────────────────────────────────────────────────────────
+# ── TTS ──────────────────────────────────────────────────────────────────────
 
 
 def tts(text: str, out_path: str, model, voice: str) -> bool:
@@ -218,6 +241,7 @@ def tts(text: str, out_path: str, model, voice: str) -> bool:
             voice=voice,
             lang_code="chinese",
             temperature=0.2,
+            max_tokens=600,
             output_path=tmp,
         )
         wav_files = sorted(glob.glob(os.path.join(tmp, "**", "*.wav"), recursive=True))
@@ -244,7 +268,7 @@ def tts(text: str, out_path: str, model, voice: str) -> bool:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate TTS audio for sentences.tsv")
+    parser = argparse.ArgumentParser(description="Generate TTS audio for cards.tsv sentences")
     parser.add_argument("--level", type=str, default=None, action="append",
                         help="Only generate for these levels (repeatable, e.g. --level L1 --level L2)")
     parser.add_argument("--start", type=str, default=None,
@@ -252,7 +276,7 @@ def main():
     parser.add_argument("--all", action="store_true",
                         help="Generate audio for all rows, ignoring audit progress")
     parser.add_argument("--changed", action="store_true",
-                        help="Only regenerate audio for sentences.tsv rows changed vs git HEAD")
+                        help="Only regenerate audio for cards.tsv rows changed vs git HEAD")
     args = parser.parse_args()
 
     sentence_limits = None
@@ -262,13 +286,13 @@ def main():
             print("No audit_progress.txt found — all levels fully audited, no limit applied.")
         else:
             audit_level, audit_chunk = progress
-            words_per_level = count_words_per_level(WORDS_TSV)
-            sentence_limits = build_audited_sentence_limit(audit_level, audit_chunk, words_per_level)
+            rows_per_level = count_rows_per_level(CARDS_TSV)
+            sentence_limits = build_audited_sentence_limit(audit_level, audit_chunk, rows_per_level)
             print(f"Audit progress: L{audit_level} chunk {audit_chunk}")
             for lvl_num in range(1, 7):
                 key = f"L{lvl_num}"
                 lim = sentence_limits[key]
-                total = words_per_level.get(key, 0) * 3
+                total = rows_per_level.get(key, 0) * 3
                 if lim is None:
                     print(f"  {key}: all {total} sentences")
                 elif lim == 0:
@@ -276,14 +300,14 @@ def main():
                 else:
                     print(f"  {key}: {lim}/{total} sentences")
 
-    sentences = load_sentences(SENTENCES_TSV, level_filter=args.level,
+    sentences = load_sentences(CARDS_TSV, level_filter=args.level,
                                sentence_limits=sentence_limits)
 
     # --changed: filter to only git-changed rows and delete their existing wavs
     if args.changed:
-        changed_keys = git_changed_keys(SENTENCES_TSV)
+        changed_keys = git_changed_keys(CARDS_TSV)
         if not changed_keys:
-            print("No changed rows in sentences.tsv vs git HEAD.")
+            print("No changed rows in cards.tsv vs git HEAD.")
             return
         sentences = [(lv, s, k) for lv, s, k in sentences if k in changed_keys]
         # Delete stale wav files so they get regenerated
