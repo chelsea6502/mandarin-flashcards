@@ -127,11 +127,11 @@ name	pinyin	pos	classifier	definition	level	type	grammar_category	sentence_1	pin
 看病	kàn bìng	verb, verbal noun		to see a doctor	L1	word		妈妈去看病了。	mā ma qù kàn bìng le。	Mom went to see a doctor.	他今天要去看病。	tā jīn tiān yào qù kàn bìng。	He needs to see a doctor today.	你去看病了吗？	nǐ qù kàn bìng le ma？	Did you go see a doctor?
 看见	kàn jiàn	verb		to see	L1	word		我看见他了。	wǒ kàn jiàn tā le。	I saw him.	你看见猫了吗？	nǐ kàn jiàn māo le ma？	Did you see the cat?	她看见一只猫。	tā kàn jiàn yị̀ zhī māo。	She saw a cat.
 可以	kě yǐ	verb		can	L1	word		我可以来吗？	wǒ kě yǐ lái ma？	Can I come?	你可以吃这个。	nǐ kě yǐ chī zhè ge。	You can eat this.	他可以说中文。	tā kě yǐ shuō zhōng wén。	He can speak Chinese.
-课	kè	noun	节	class	L1	word		我有课。	wǒ yǒu kè。	I have class.	今天有一节课。	jīn tiān yǒu yì jié kè。	There is one class today.	我的课在下午。	wǒ de kè zài xià wǔ。	My class is in the afternoon.
+课	kè	noun	节	class	L1	word		我有课。	wǒ yǒu kè。	I have class.	今天有一节课。	jīn tiān yǒu yị̀ jié kè。	There is one class today.	我的课在下午。	wǒ de kè zài xià wǔ。	My class is in the afternoon.
 课	kè	noun	节, 门	lesson	L1	word		第一课很好。	dì yī kè hěn hǎo。	The first lesson is very good.	今天学哪一课？	jīn tiān xué nǎ yī kè？	Which lesson are we studying today?	我们今天学了两节课。	wǒ men jīn tiān xué le liǎng jié kè。	We studied two lessons today.
 口	kǒu	classifier, noun		measure word for bites or mouthfuls	L1	word		我吃了一口饭。	wǒ chī le yị̀ kǒu fàn。	I took one bite of rice.	他喝了一口水。	tā hē le yị̀ kǒu shuǐ。	He took one mouthful of water.	你吃两口吧。	nǐ chī liǎng kǒu ba。	Have two bites.
 口	kǒu	classifier, noun		measure word for people and domestic animals	L1	word		家里有三口人。	jiā lǐ yǒu sān kǒu rén。	There are three people in the family.	他家有两口人。	tā jiā yǒu liǎng kǒu rén。	His family has two people.	我家五口人。	wǒ jiā wǔ kǒu rén。	My family has five people.
-口	kǒu	classifier, noun	张	mouth	L1	word		他的口很大。	tā de kǒu hěn dà。	His mouth is very big.	他开口说话。	tā kāi kǒu shuō huà。	He opened his mouth to speak.	他有一张大口。	tā yǒu yì zhāng dà kǒu。	He has a big mouth.
+口	kǒu	classifier, noun	张	mouth	L1	word		他的口很大。	tā de kǒu hěn dà。	His mouth is very big.	他开口说话。	tā kāi kǒu shuō huà。	He opened his mouth to speak.	他有一张大口。	tā yǒu yị̀ zhāng dà kǒu。	He has a big mouth.
 块	kuài	classifier, morpheme		measure word for yuan and pieces	L1	word		这个苹果一块钱。	zhè ge píng guǒ yị́ kuài qián。	This apple is one yuan.	他给了我三块钱。	tā gěi le wǒ sān kuài qián。	He gave me three yuan.	这块面包多少钱？	zhè kuài miàn bāo duō shǎo qián？	How much is this piece of bread?
 来	lái	verb, directional word, numeral, particle, modal particle		to come	L1	word		妈妈来了。	mā ma lái le。	Mom came.	他来我家。	tā lái wǒ jiā。	He came to my home.	老师来了吗？	lǎo shī lái le ma？	Has the teacher come?
 老师	lǎo shī	noun	个, 位	teacher	L1	word		老师很好。	lǎo shī hěn hǎo。	The teacher is very kind.	我有一个好老师。	wǒ yǒu yị́ gè hǎo lǎo shī。	I have a good teacher.	老师在学校里。	lǎo shī zài xué xiào lǐ。	The teacher is in the school.
@@ -148,7 +148,7 @@ name	pinyin	pos	classifier	definition	level	type	grammar_category	sentence_1	pin
 买	mǎi	verb		to buy	L1	word		我买了一本书。	wǒ mǎi le yị̀ běn shū。	I bought a book.	妈妈去买苹果。	mā ma qù mǎi píng guǒ。	Mom went to buy apples.	你买了什么？	nǐ mǎi le shén me？	What did you buy?
 卖	mài	verb		to sell	L1	word		他卖书。	tā mài shū。	He sells books.	她卖苹果。	tā mài píng guǒ。	She sells apples.	这个店卖猫吗？	zhè ge diàn mài māo ma？	Does this shop sell cats?
 忙	máng	adjective		busy	L1	word		妈妈很忙。	mā ma hěn máng。	Mom is very busy.	他今天很忙。	tā jīn tiān hěn máng。	He is very busy today.	你忙吗？	nǐ máng ma？	Are you busy?
-猫	māo	noun	只	cat	L1	word		我有一只猫。	wǒ yǒu yì zhī māo。	I have one cat.	那只猫很小。	nà zhī māo hěn xiǎo。	That cat is very small.	猫在桌子上。	māo zài zhuō zi shàng。	The cat is on the table.
+猫	māo	noun	只	cat	L1	word		我有一只猫。	wǒ yǒu yị̀ zhī māo。	I have one cat.	那只猫很小。	nà zhī māo hěn xiǎo。	That cat is very small.	猫在桌子上。	māo zài zhuō zi shàng。	The cat is on the table.
 没关系	méi guān xi	expression		it doesn't matter	L1	word		没关系，请坐。	méi guān xi， qǐng zuò。	It doesn't matter, please sit.	来晚了？没关系。	lái wǎn le？ méi guān xi。	Late? It doesn't matter.	来晚了没关系。	lái wǎn le méi guān xi。	It doesn't matter that you're late.
 没事	méi shì	expression		it's nothing; never mind; no problem	L1	word		没事，我很好。	méi shì， wǒ hěn hǎo。	It's nothing, I'm fine.	他说没事。	tā shuō méi shì。	He said 'It's nothing.'	你没事吧？	nǐ méi shì ba？	Are you okay?
 没有	méi yǒu	verb, adverb		to not have; there is no; (negates past actions) did not	L1	word		我没有钱。	wǒ méi yǒu qián。	I don't have money.	他没有来。	tā méi yǒu lái。	He didn't come.	家里没有人。	jiā lǐ méi yǒu rén。	There's no one at home.
