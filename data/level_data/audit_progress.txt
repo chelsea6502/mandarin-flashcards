@@ -1,2 +1,2 @@
 level=4
-chunk=2
+chunk=4
