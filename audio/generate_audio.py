@@ -18,10 +18,10 @@ Run:
   python generate_audio.py --all             # all rows (default: audited only)
   python generate_audio.py --changed         # only rows changed in cards.tsv vs git HEAD
 
-Produces one wav file per sentence (random voice each time):
-  output/{sanitized_key}.wav   e.g. w_爱_to_love_s1.wav
+Produces one m4a file per sentence (64kbps AAC, random voice each time):
+  output/{sanitized_key}.m4a   e.g. w_爱_to_love_s1.m4a
 
-Copy wavs into Anki media folder:
+Copy m4a files into Anki media folder:
   ~/Library/Application Support/Anki2/<profile>/collection.media/
 """
 
@@ -110,7 +110,7 @@ def build_audited_sentence_limit(audit_level, audit_chunk, rows_per_level):
     audit level are excluded (limit 0).
     """
     limits = {}
-    for lvl_num in range(1, 7):
+    for lvl_num in range(1, 5):
         key = f"L{lvl_num}"
         if lvl_num < audit_level:
             limits[key] = None  # fully audited, no cap
@@ -132,8 +132,7 @@ def sanitize_key(key: str) -> str:
     s = key.replace("|", "_")
     s = s.replace(" ", "_")
     s = re.sub(r'[<>:"/\\?*]', '', s)
-    # Leave room for .wav extension (4 bytes) and hash suffix (_abcdef = 7 bytes)
-    max_bytes = 244
+    max_bytes = 114
     encoded = s.encode('utf-8')
     if len(encoded) <= max_bytes:
         return s
@@ -224,9 +223,9 @@ def git_changed_keys(tsv_path: str) -> set[str]:
     return changed
 
 
-def wav_filename(key: str) -> str:
-    """e.g. w_爱_to_love_s1.wav"""
-    return f"{sanitize_key(key)}.wav"
+def audio_filename(key: str) -> str:
+    """e.g. w_爱_to_love_s1.m4a"""
+    return f"{sanitize_key(key)}.m4a"
 
 
 # ── TTS ──────────────────────────────────────────────────────────────────────
@@ -249,18 +248,23 @@ def tts(text: str, out_path: str, model, voice: str) -> bool:
             print("    ERROR: generate_audio produced no .wav file")
             return False
         raw = wav_files[-1]
-        # Trim leading/trailing silence with ffmpeg
-        trimmed = os.path.join(tmp, "trimmed.wav")
+        # Trim silence, normalize loudness, and encode to 64kbps AAC
+        final = os.path.join(tmp, "final.m4a")
         subprocess.run(
             ["ffmpeg", "-y", "-i", raw,
              "-af", "silenceremove=start_periods=1:start_silence=0.05:start_threshold=-40dB,"
                      "areverse,silenceremove=start_periods=1:start_silence=0.05:start_threshold=-40dB,areverse,"
                      "loudnorm=I=-16:TP=-1.5:LRA=11,"
                      "adelay=200|200,apad=pad_dur=0.5",
-             trimmed],
+             "-c:a", "aac", "-b:a", "64k",
+             final],
             stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
         )
-        shutil.copy2(trimmed if os.path.exists(trimmed) else raw, out_path)
+        if os.path.exists(final):
+            shutil.copy2(final, out_path)
+        else:
+            # Fallback: copy raw wav if ffmpeg failed
+            shutil.copy2(raw, out_path)
     return True
 
 
@@ -277,6 +281,8 @@ def main():
                         help="Generate audio for all rows, ignoring audit progress")
     parser.add_argument("--changed", action="store_true",
                         help="Only regenerate audio for cards.tsv rows changed vs git HEAD")
+    parser.add_argument("--files-from", type=str, default=None,
+                        help="Read filenames from a TSV (must have 'filename' column) and regenerate only those")
     args = parser.parse_args()
 
     sentence_limits = None
@@ -289,7 +295,7 @@ def main():
             rows_per_level = count_rows_per_level(CARDS_TSV)
             sentence_limits = build_audited_sentence_limit(audit_level, audit_chunk, rows_per_level)
             print(f"Audit progress: L{audit_level} chunk {audit_chunk}")
-            for lvl_num in range(1, 7):
+            for lvl_num in range(1, 5):
                 key = f"L{lvl_num}"
                 lim = sentence_limits[key]
                 total = rows_per_level.get(key, 0) * 3
@@ -303,6 +309,20 @@ def main():
     sentences = load_sentences(CARDS_TSV, level_filter=args.level,
                                sentence_limits=sentence_limits)
 
+    # --files-from: filter to filenames listed in a TSV and delete existing files
+    if args.files_from:
+        regen_filenames = set()
+        with open(args.files_from, encoding='utf-8') as f:
+            for row in csv.DictReader(f, dialect='excel-tab'):
+                regen_filenames.add(row['filename'])
+        sentences = [(lv, s, k) for lv, s, k in sentences
+                     if audio_filename(k) in regen_filenames]
+        for _, _, k in sentences:
+            old_file = os.path.join(OUTPUT_DIR, audio_filename(k))
+            if os.path.exists(old_file):
+                os.remove(old_file)
+        print(f"{len(sentences)} sentences to regenerate from {args.files_from}")
+
     # --changed: filter to only git-changed rows and delete their existing wavs
     if args.changed:
         changed_keys = git_changed_keys(CARDS_TSV)
@@ -310,12 +330,12 @@ def main():
             print("No changed rows in cards.tsv vs git HEAD.")
             return
         sentences = [(lv, s, k) for lv, s, k in sentences if k in changed_keys]
-        # Delete stale wav files so they get regenerated
+        # Delete stale audio files so they get regenerated
         for _, _, k in sentences:
-            old_wav = os.path.join(OUTPUT_DIR, wav_filename(k))
-            if os.path.exists(old_wav):
-                os.remove(old_wav)
-                print(f"  Deleted stale: {wav_filename(k)}")
+            old_file = os.path.join(OUTPUT_DIR, audio_filename(k))
+            if os.path.exists(old_file):
+                os.remove(old_file)
+                print(f"  Deleted stale: {audio_filename(k)}")
         print(f"{len(sentences)} changed sentences to regenerate")
 
     print(f"{len(sentences)} sentences to process")
@@ -332,7 +352,7 @@ def main():
     fail = 0
 
     for i, (level, sentence, key) in enumerate(sentences, 1):
-        filename = wav_filename(key)
+        filename = audio_filename(key)
         out_path = os.path.join(OUTPUT_DIR, filename)
 
         # Skip if already generated
