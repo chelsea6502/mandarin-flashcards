@@ -61,6 +61,7 @@ def main():
     note_count = 0
     legacy_reused = 0
     skipped_no_audio = 0
+    legacy_claimed: set[str] = set()
 
     with open(src, encoding="utf-8") as f:
         for row in csv.DictReader(f, dialect="excel-tab"):
@@ -77,8 +78,9 @@ def main():
                     skipped_no_audio += 1
                     continue
 
-                if sentence in legacy:
+                if sentence in legacy and sentence not in legacy_claimed:
                     guid_key = legacy[sentence]
+                    legacy_claimed.add(sentence)
                     legacy_reused += 1
                 else:
                     guid_key = f"l|{cards_key}"
